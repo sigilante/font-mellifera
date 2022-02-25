@@ -183,7 +183,7 @@ The obvious thing for these is to base them on modifications of phi and psi.  I 
 
 #### Series V:
 
-- 𐐎 Wu (from U+a6b6 Latin Capital Letter Omega/from U+03c9 Greek Small Letter Omega)
+- 𐐎 Wu (from U+a6b6 Latin Capital Letter Omega plus ASCII L/from U+03c9 Greek Small Letter Omega)
 - 𐐗 Kay (from U+a6b6 Latin Capital Letter Omega plus U+03d6 Greek Pi Symbol/from U+0277 Latin Small Letter Closed Omega)
 - 𐐘 Gay (ditto plus °)
 
