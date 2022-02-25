@@ -32,11 +32,11 @@ As with another type-first alphabet, Cherokee, Deseret possesses several feature
 - [Joshua Erickson, “Serif Bee Font Page”](http://www.chem.ucla.edu/~jericks/Serif.html)
 - [_The Book of Mormon_ typeset in slab-serif Deseret alphabet](https://archive.org/details/bookofmormdeseretalpha00)
 
-Here is a comparison of "Twinkle, Twinkle, Little Star" in short samples from five other fonts and my current work in Gentium:
+Here is a comparison of "Twinkle, Twinkle, Little Star" in short samples from five other fonts and my current work in Mellifera:
 
 ![Screenshot_20220102_093737](https://user-images.githubusercontent.com/57601680/147880867-7ec8c8f0-c73f-46ab-982a-72608d514758.png)
 
-Running text is much easier on the eyes in Gentium; the same text as running copy.  (Note that I have not done any serious work on kerning yet, so please forgive the uneven spacing.)
+Running text is much easier on the eyes in Mellifera; the same text as running copy.  (Note that I have not done any serious work on kerning yet, so please forgive the uneven spacing.)
 
 ![Screenshot_20220102_095043](https://user-images.githubusercontent.com/57601680/147881266-9d8e2171-2f7a-4631-8c6d-b97fe3f012fd.png)
 
@@ -122,7 +122,7 @@ Another common modifier is the rightwards vertical, treated as a capital I in ma
 
 ##  Font Design
 
-### Using Gentium
+### Composing Mellifera from Gentium
 
 As Gentium began life with calligraphic letterforms, I have adapted the Deseret letters in a way as compatible as I think possible.  For instance, consider the letters 𐐁 Long E and 𐐚 Vee; since Gentium has a properly-formed analogue in both U+0510 Cyrillic Capital Letter Reversed Ze and U+0190 Latin Capital Letter Open E, adjusted for the proper shape (rather than horizontally flipped), I can adopt either directly as 𐐁 Long E.  In this case, because Deseret tends to be heavy in letterforms already, I adopt the lighter of the two, U+0190, which does not include the lower serif.  For 𐐚 Vee, I adapt the U+a7ab Latin Capital Letter Reversed Open E which has the corresponding form.
 
