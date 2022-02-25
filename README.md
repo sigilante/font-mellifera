@@ -209,7 +209,7 @@ These are perhaps the most whimsical letterforms and present the most challenge 
 
 #### Series IX:
 
-- 𐐤 En (from ASCII N/from U+???? Latin Small N SC) (TODO add descender)
+- 𐐤 En (from ASCII N/from U+a747 Latin Small Broken L)
 - 𐐥 Eng (from ASCII N/from U+???? Latin Small N SC)
 
 While miniscule 𐐤 En and 𐐥 Eng are distinguishable by a difference in ascender and rightward serif, the majuscules are likely too similar in the current proposal, and I welcome suggestions.
