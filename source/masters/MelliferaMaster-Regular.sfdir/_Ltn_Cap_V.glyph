@@ -11,22 +11,22 @@ AnchorPoint: "U" 665 1370 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1290 1217 m 257
- 1290 1260 l 257
- 874 1260 l 257
- 874 1217 l 257
- 983 1204 1030 1190 1016 1151 c 258
- 680 203 l 257
- 327 1153 l 258
- 313 1191 349 1209 455 1217 c 257
- 455 1260 l 257
- 20 1260 l 257
- 20 1217 l 257
- 104 1206 149 1186 162 1151 c 258
- 602 -30 l 257
- 637 -22 731 0 752 59 c 258
- 1135 1151 l 257
- 1148 1188 1200 1200 1290 1217 c 257
+1290 1217 m 261
+ 1290 1260 l 261
+ 874 1260 l 261
+ 874 1217 l 261
+ 983 1204 1030 1190 1016 1151 c 262
+ 680 203 l 261
+ 327 1153 l 262
+ 313 1191 349 1209 455 1217 c 261
+ 455 1260 l 261
+ 20 1260 l 261
+ 20 1217 l 261
+ 104 1206 149 1186 162 1151 c 262
+ 602 -30 l 261
+ 637 -22 731 0 752 59 c 262
+ 1135 1151 l 261
+ 1148 1188 1200 1200 1290 1217 c 261
   PathStart: -1
 EndSplineSet
 Kerns2: 1290 -201 "'kern' Horizontal Kerning lookup 0 subtable" 1445 -80 "'kern' Horizontal Kerning lookup 0 subtable" 1579 -80 "'kern' Horizontal Kerning lookup 0 subtable" 1864 -121 "'kern' Horizontal Kerning lookup 0 subtable" 2367 -121 "'kern' Horizontal Kerning lookup 0 subtable" 2905 -121 "'kern' Horizontal Kerning lookup 0 subtable"

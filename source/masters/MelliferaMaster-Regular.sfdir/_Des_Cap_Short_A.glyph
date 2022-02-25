@@ -1,28 +1,30 @@
 StartChar: DesCapShortA
 Encoding: 4330 66568 4285
-Width: 610
+Width: 1268
 VWidth: 0
 Flags: HW
-AnchorPoint: "U" 295 1370 basechar 0
-AnchorPoint: "R" 580 1100 basechar 0
-AnchorPoint: "O" 345 0 basechar 0
-AnchorPoint: "L" 295 -100 basechar 0
-AnchorPoint: "H" 295 0 basechar 0
+AnchorPoint: "U" 584 1370 basechar 0
+AnchorPoint: "O" 535 0 basechar 0
+AnchorPoint: "L" 574 -100 basechar 0
+AnchorPoint: "H" 567 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-70 0 m 261
- 520 0 l 261
- 520 43 l 261
- 424 61 375 88 375 104 c 262
- 375 1155 l 262
- 375 1174 430 1198 520 1217 c 261
- 520 1260 l 261
- 70 1260 l 261
- 70 1217 l 261
- 166 1198 215 1171 215 1155 c 262
- 215 104 l 262
- 215 86 160 61 70 43 c 261
- 70 0 l 261
+500 -30 m 257
+ 170 819 l 258
+ 156.344726562 854.1328125 125 872 59 887 c 257
+ 59 930 l 257
+ 445 930 l 257
+ 445 887 l 257
+ 342 874 315.150390625 862.052734375 332 819 c 258
+ 586 170 l 257
+ 935 1151 l 258
+ 948.887695312 1190.03808594 902 1204 793 1217 c 257
+ 793 1260 l 257
+ 1209 1260 l 257
+ 1209 1217 l 257
+ 1119 1200 1067 1188 1054 1151 c 257
+ 671 59 l 258
+ 650.2734375 -0.095703125 535 -22 500 -30 c 257
 EndSplineSet
 EndChar

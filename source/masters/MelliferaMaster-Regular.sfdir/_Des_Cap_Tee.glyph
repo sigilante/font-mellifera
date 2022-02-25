@@ -1,0 +1,29 @@
+StartChar: DesCapTee
+Encoding: 4341 66579 4291
+Width: 1277
+VWidth: 0
+Flags: HW
+AnchorPoint: "U" 533 1370 basechar 0
+AnchorPoint: "H" 931 0 basechar 0
+AnchorPoint: "L" 931 -100 basechar 0
+AnchorPoint: "O" 981 0 basechar 0
+AnchorPoint: "R" 1216 1100 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1012 642 m 258
+ 1017 1051 821 1290 511 1290 c 256
+ 376 1290 209 1252 89 1186 c 256
+ 80 1181 100 939 114 933 c 257
+ 157 941 l 257
+ 197 1152 382 1191 441 1191 c 256
+ 692 1191 851 1016 852 642 c 258
+ 851 104 l 258
+ 850.966796875 86.001953125 796 61 706 43 c 257
+ 706 0 l 257
+ 1156 0 l 257
+ 1156 43 l 257
+ 1060 61 1010.97070312 88.001953125 1011 104 c 258
+ 1012 642 l 258
+EndSplineSet
+EndChar

@@ -3,7 +3,7 @@ Encoding: 2783 108 2767
 GlifName: L_tnS_mL_
 Width: 555
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "H" 285 0 basechar 0
 AnchorPoint: "L" 285 -100 basechar 0
 AnchorPoint: "R" 535 900 basechar 0
@@ -11,17 +11,17 @@ AnchorPoint: "U" 285 1690 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-60 0 m 257
- 510 0 l 257
- 510 43 l 257
- 401 61 360 84 360 104 c 258
- 360 1516 l 257
- 324 1550 l 257
- 242 1507 166 1489 70 1470 c 257
- 70 1430 l 257
- 182 1417 210 1413 210 1296 c 258
- 210 104 l 258
- 210 82 175 63 60 43 c 257
- 60 0 l 257
+60 -1 m 261
+ 510 -1 l 261
+ 510 43 l 261
+ 401 61 360 84 360 104 c 262
+ 360 1516 l 261
+ 324 1550 l 261
+ 242 1507 166 1489 70 1470 c 261
+ 70 1430 l 261
+ 182 1417 210 1413 210 1296 c 262
+ 210 104 l 262
+ 210 82 175 63 60 43 c 261
+ 60 -1 l 261
 EndSplineSet
 EndChar
