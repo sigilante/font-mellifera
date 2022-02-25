@@ -1,0 +1,26 @@
+StartChar: DesSmTee
+Encoding: 4381 66619 4310
+Width: 680
+VWidth: 0
+Flags: HW
+AnchorPoint: "U" 364 1050 basechar 0
+AnchorPoint: "L" 500 -600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+65 803 m 261
+ 40 788 75 678 108 606 c 261
+ 151 606 l 261
+ 164 701 206 840 306 840 c 260
+ 375 840 440 802 440 666 c 262
+ 440 -376 l 262
+ 440 -396 396 -419 271 -437 c 261
+ 271 -480 l 261
+ 730 -480 l 261
+ 730 -437 l 261
+ 642 -417 590 -398 590 -376 c 262
+ 590 726 l 262
+ 590 945 450 960 378 960 c 260
+ 285 960 149 904 65 803 c 261
+EndSplineSet
+EndChar

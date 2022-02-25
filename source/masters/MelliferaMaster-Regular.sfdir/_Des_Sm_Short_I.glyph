@@ -1,0 +1,35 @@
+StartChar: DesSmShortI
+Encoding: 4368 66606 4305
+Width: 573
+VWidth: 0
+Flags: HW
+AnchorPoint: "U" 277 1070 basechar 0
+AnchorPoint: "R" 545 920 basechar 0
+AnchorPoint: "O" 324 7 basechar 0
+AnchorPoint: "L" 277 -76 basechar 0
+AnchorPoint: "H" 277 7 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+27 381 m 257
+ 527 604 l 257
+ 552 629 564 652 577 686 c 257
+ 549 710 l 257
+ 45 486 l 257
+ 29 472 4 428 -6 405 c 257
+ 27 381 l 257
+61 0 m 257
+ 489 0 l 257
+ 489 49 l 257
+ 400 64 355 82 355 92 c 257
+ 355 873 l 257
+ 355 884 406 901 489 917 c 257
+ 489 966 l 257
+ 61 966 l 257
+ 61 917 l 257
+ 149 901 195 883 195 873 c 257
+ 195 92 l 257
+ 195 81 144 64 61 49 c 257
+ 61 0 l 257
+EndSplineSet
+EndChar

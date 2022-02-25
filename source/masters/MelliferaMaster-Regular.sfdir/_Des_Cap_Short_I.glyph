@@ -1,0 +1,32 @@
+StartChar: DesCapShortI
+Encoding: 4328 66566 4283
+Width: 650
+VWidth: 0
+Flags: HW
+AnchorPoint: "U" 315 1370 basechar 0
+AnchorPoint: "G" 20 1260 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+67 381 m 257
+ 567 604 l 257
+ 592 629 604 652 617 686 c 257
+ 589 710 l 257
+ 85 486 l 257
+ 69 472 44 428 34 405 c 257
+ 67 381 l 257
+90 0 m 257
+ 540 0 l 257
+ 540 43 l 257
+ 444 61 395 88 395 104 c 258
+ 395 1155 l 258
+ 395 1174 450 1198 540 1217 c 257
+ 540 1260 l 257
+ 90 1260 l 257
+ 90 1217 l 257
+ 186 1198 235 1171 235 1155 c 258
+ 235 104 l 258
+ 235 86 180 61 90 43 c 257
+ 90 0 l 257
+EndSplineSet
+EndChar

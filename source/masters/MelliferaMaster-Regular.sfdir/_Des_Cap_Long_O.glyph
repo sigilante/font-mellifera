@@ -1,0 +1,25 @@
+StartChar: DesCapLongO
+Encoding: 4326 66564 4281
+Width: 1229
+VWidth: 0
+Flags: HW
+AnchorPoint: "U" 617 1370 basechar 0
+AnchorPoint: "R" 1258 1100 basechar 0
+AnchorPoint: "O" 678 0 basechar 0
+AnchorPoint: "L" 617 -100 basechar 0
+AnchorPoint: "H" 587 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+577 -30 m 260
+ 881 -30 1140 285 1140 647 c 260
+ 1140 973 965 1290 635 1290 c 260
+ 321 1290 72 975 72 612 c 260
+ 72 276 256 -30 577 -30 c 260
+606 90 m 260
+ 401 90 227 342 227 641 c 260
+ 227 967 369 1175 606 1175 c 260
+ 833 1175 985 905 985 629 c 260
+ 985 276 827 90 606 90 c 260
+EndSplineSet
+EndChar
