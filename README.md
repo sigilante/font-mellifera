@@ -193,7 +193,7 @@ These are perhaps the most whimsical letterforms and present the most challenge 
 
 - 𐐏 Yee (from ASCII V plus U+a76c Latin Capital Letter Is/from ASCII v plus U+a76c Latin Capital Letter Is)
 - 𐐜 Thee (from U+0194 Latin Capital Letter Gamma/from U+0263 Latin Small Letter Gamma) (alt. from U+f26e Latin Capital Ram's Horns)
-- 𐐖 Jee (from ASCII c plus U+ Cyrillic Small Letter Zhe/from ASCII c plus U+1d79 Latin Small Letter Insular G)
+- 𐐖 Jee (from ASCII c plus Xi/from ASCII c plus ASCII y)
 
 #### Series VII:
 
