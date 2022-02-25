@@ -142,7 +142,7 @@ Deseret clearly conceives of a vertical line as sufficient to distinguish one le
 - 𐐚 Vee (from U+a7ab Latin Capital Letter Reversed Open E/from U+025c Latin Small Letter Reversed Open E)
 - 𐐂 Long A (from U+0190 Latin Capital Letter Open E/from U+029a Latin Small Letter Closed Open E)
 - 𐐍 Ow (ditto plus °)
-- 𐐒 Bee (from U+0190 plus U+04cf Cyrillic Small Letter Palochka/from U+029a Latin Small Letter Closed Open E plus ASCII l)
+- 𐐒 Bee (from U+0190 Latin Capital Letter Open E plus U+042f Cyrillic Capital Letter Ya/from U+029a Latin Small Letter Closed Open E plus ASCII l)
 - 𐐔 Dee (from U+2c6d Latin Capital Letter Alpha/from U+???? Latin Small A Single Story)
 - 𐐟 Esh (from ASCII D/from ASCII l plus U+???? Latin Small D SC)
 
