@@ -171,7 +171,7 @@ Miniscules with a vertical component (such as 𐐆 Short I) use a small-capital 
 #### Series IV:
 
 - 𐐋 Short Oo (from ASCII 9 plus ASCII I/from ASCII q plus U+03c1 Greek Small Letter Rho)
-- 𐐓 Tee (from U+042d Cyrillic Capital Letter E plus ASCII I/from U+044d Cyrillic Small Letter E plus ASCII I)
+- 𐐓 Tee (from U+042d Cyrillic Capital Letter E plus ASCII I/from U+027f Latin Small Letter Reverse R with Fishhook)
 - 𐐙 Ef (from ASCII P plus U+03c1 Greek Small Letter Rho/from U+03c1 Greek Small Letter Rho)
 - 𐐢 El (from ASCII I plus ASCII C/from ASCII l plus ASCII c)
 
