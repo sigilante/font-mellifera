@@ -136,23 +136,23 @@ _The following entries are given as DESERET Sound (majuscule source/miniscule so
 
 Deseret clearly conceives of a vertical line as sufficient to distinguish one letter from another, e.g. 𐐂 Long A/𐐒 Bee.  This leaves us with some visually heavy majuscules (in particular 𐐒 Bee) but leaves pleasant room to work with ascenders and descenders in the miniscules.
 
-- 𐐀 Long I (from U+03d1 Greek Theta Symbol/from U+1d10 Latin Letter Small Capital Open O plus U+0255 Latin Small Letter C with Curl)
+- 𐐀 Long I (from U+03d1 Greek Theta Symbol/from ASCII o plus U+0255 Latin Small Letter C with Curl)
 - 𐐞 Zee (from U+03d1 Greek Theta Symbol/from U+0255 Latin Small Letter C with Curl)
 - 𐐁 Long E (from U+0190 Latin Capital Letter Open E/from U+025b Latin Small Letter Open E)
 - 𐐚 Vee (from U+a7ab Latin Capital Letter Reversed Open E/from U+025c Latin Small Letter Reversed Open E)
 - 𐐂 Long A (from U+0190 Latin Capital Letter Open E/from U+029a Latin Small Letter Closed Open E)
-- 𐐍 Ow (ditto plus °)
-- 𐐒 Bee (from U+0190 plus U+04cf Cyrillic Small Letter Palochka/from U+029a Latin Small Letter Closed Open E plus ASCII l) (keep ascender on majuscule?)
-- 𐐔 Dee (from U+2c6d Latin Capital Letter Alpha/from U+???? Latin Small A Single Story)
+- 𐐍 Ow (ditto plus U+1db9 Modifier Letter Small V with Hook)
+- 𐐒 Bee (from U+0190 Latin Capital Letter Open E plus U+042f Cyrillic Capital Letter Ya/from U+029a Latin Small Letter Closed Open E plus ASCII l)
+- 𐐔 Dee (from ASCII C plus U+042f Cyrillic Capital Letter Ya plus U+1db9 Modifier Letter Small V with Hook/from U+???? Latin Small A Single Story)
 - 𐐟 Esh (from ASCII D/from ASCII l plus U+???? Latin Small D SC)
 
 #### Series II:
 
 These are primarily architected around the letter O structurally.
 
-- 𐐄 Long O (from ASCII O/from U+???? Latin Capital O SC)
-- 𐐃 Long Ah (ditto)
-- 𐐅 Long Oo (ditto plus ASCII I)
+- 𐐄 Long O (from ASCII O/from ASCII o)
+- 𐐃 Long Ah (ditto plus U+1db9 Modifier Letter Small V with Hook)
+- 𐐅 Long Oo (ditto plus Latin Small Capital I)
 
 #### Series III:
 
@@ -185,7 +185,7 @@ The obvious thing for these is to base them on modifications of phi and psi.  I 
 
 - 𐐎 Wu (from U+a6b6 Latin Capital Letter Omega plus ASCII L/from U+03c9 Greek Small Letter Omega)
 - 𐐗 Kay (from U+a6b6 Latin Capital Letter Omega plus U+03d6 Greek Pi Symbol/from U+0277 Latin Small Letter Closed Omega)
-- 𐐘 Gay (ditto plus °)
+- 𐐘 Gay (ditto plus U+1db9 Modifier Letter Small V with Hook)
 
 #### Series VI:
 
