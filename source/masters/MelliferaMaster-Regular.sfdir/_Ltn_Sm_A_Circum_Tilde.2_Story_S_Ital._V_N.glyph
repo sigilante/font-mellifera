@@ -1,0 +1,22 @@
+StartChar: LtnSmACircumTilde.2StorySItal.VN
+Encoding: 2041 -1 2025
+GlifName: L_tnS_mA_C_ircumT_ilde.2S_toryS_I_tal.V_N_
+Width: 940
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 426 0 basechar 0
+AnchorPoint: "L" 460 -100 basechar 0
+AnchorPoint: "O" 715 0 basechar 0
+AnchorPoint: "R" 940 900 basechar 0
+AnchorPoint: "U" 480 1750 basechar 0
+LayerCount: 2
+Fore
+Refer: 1865 -1 N 1 0 0 1 0 0 2
+Refer: 79 -1 N 1 0 0 1 994 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

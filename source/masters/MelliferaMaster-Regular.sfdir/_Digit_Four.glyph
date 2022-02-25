@@ -1,0 +1,36 @@
+StartChar: DigitFour
+Encoding: 702 52 698
+GlifName: D_igitF_our
+Width: 961
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 480 -100 basechar 0
+AnchorPoint: "U" 480 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+874 430 m 257
+ 848 460 l 257
+ 725 460 l 257
+ 725 1210 l 257
+ 688 1245 l 257
+ 649 1225 606 1198 551 1174 c 257
+ 55 383 l 257
+ 88 350 l 257
+ 585 350 l 257
+ 585 115 l 258
+ 585 92 549 72 375 43 c 257
+ 375 0 l 257
+ 864 0 l 257
+ 864 43 l 257
+ 754 68 725 84 725 104 c 258
+ 725 350 l 257
+ 795 350 l 257
+ 825 373 846 387 874 430 c 257
+  PathStart: -1
+585 1040 m 257
+ 585 460 l 257
+ 213 460 l 257
+ 585 1040 l 257
+EndSplineSet
+EndChar

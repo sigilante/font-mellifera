@@ -1,0 +1,11 @@
+StartChar: RomNumOneThousand
+Encoding: 3998 8559 3977
+GlifName: R_omN_umO_neT_housand
+Width: 1651
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 815 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1552 77 N 1 0 0 1 0 0 2
+EndChar

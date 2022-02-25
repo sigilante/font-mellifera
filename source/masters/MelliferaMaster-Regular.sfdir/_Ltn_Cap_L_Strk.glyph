@@ -1,0 +1,38 @@
+StartChar: LtnCapLStrk
+Encoding: 1563 321 1547
+GlifName: L_tnC_apL_S_trk
+Width: 975
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 492 -100 basechar 0
+AnchorPoint: "U" 492 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+659 828 m 257
+ 633 853 l 257
+ 92 580 l 257
+ 75 564 50 516 41 491 c 257
+ 68 469 l 257
+ 606 741 l 257
+ 625 764 648 804 659 828 c 257
+  PathStart: -1
+944 244 m 257
+ 901 262 l 257
+ 844 106 807 90 684 90 c 258
+ 541 90 l 258
+ 395 90 355 117 355 164 c 258
+ 355 1155 l 258
+ 355 1174 410 1198 500 1217 c 257
+ 500 1260 l 257
+ 50 1260 l 257
+ 50 1217 l 257
+ 146 1198 195 1171 195 1155 c 258
+ 195 104 l 258
+ 195 86 140 61 50 43 c 257
+ 50 0 l 257
+ 903 0 l 257
+ 913 39 934 129 944 244 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

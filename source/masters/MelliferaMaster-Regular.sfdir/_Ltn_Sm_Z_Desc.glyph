@@ -1,0 +1,30 @@
+StartChar: LtnSmZDesc
+Encoding: 3548 11372 3532
+GlifName: L_tnS_mZ_D_esc
+Width: 883
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 452 -601 basechar 0
+AnchorPoint: "U" 480 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+814 90 m 257
+ 270 90 l 257
+ 827 887 l 257
+ 805 930 l 257
+ 313 930 l 258
+ 227 930 195 930 137 946 c 257
+ 119 702 l 257
+ 168 690 l 257
+ 195 813 242 840 285 840 c 258
+ 631 840 l 257
+ 76 45 l 257
+ 102 0 l 257
+ 628 0 l 258
+ 683 0 719 -198 710 -380 c 257
+ 757 -380 l 257
+ 784 -301 831 -71 840 70 c 257
+ 814 90 l 257
+EndSplineSet
+EndChar

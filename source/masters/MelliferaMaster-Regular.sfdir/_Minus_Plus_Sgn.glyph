@@ -1,0 +1,35 @@
+StartChar: MinusPlusSgn
+Encoding: 3715 8723 3699
+GlifName: M_inusP_lusS_gn
+Width: 840
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+778 493 m 257
+ 754 517 l 257
+ 92 517 l 257
+ 80 491 68 458 61 431 c 257
+ 86 407 l 257
+ 748 407 l 257
+ 758 429 772 466 778 493 c 257
+  PathStart: -1
+477 141 m 257
+ 477 792 l 257
+ 453 815 l 257
+ 424 808 387 794 362 786 c 257
+ 362 132 l 257
+ 387 110 l 257
+ 416 116 451 128 477 141 c 257
+  PathStart: -1
+778 966 m 257
+ 754 990 l 257
+ 92 990 l 257
+ 80 964 68 931 61 904 c 257
+ 86 880 l 257
+ 748 880 l 257
+ 758 902 772 939 778 966 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

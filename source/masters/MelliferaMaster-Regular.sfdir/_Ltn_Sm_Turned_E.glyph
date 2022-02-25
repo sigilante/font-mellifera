@@ -1,0 +1,12 @@
+StartChar: LtnSmTurnedE
+Encoding: 3303 477 3287
+GlifName: L_tnS_mT_urnedE_
+Width: 930
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 460 -100 basechar 0
+AnchorPoint: "U" 460 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 3198 601 N 1 0 0 1 0 0 2
+EndChar

@@ -1,0 +1,22 @@
+StartChar: LtnSmAeMacron.2StorySItal
+Encoding: 2186 -1 2170
+GlifName: L_tnS_mA_eM_acron.2S_toryS_I_tal
+Width: 1417
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 738 0 basechar 0
+AnchorPoint: "L" 738 -100 basechar 0
+AnchorPoint: "O" 1020 0 basechar 0
+AnchorPoint: "R" 1485 900 basechar 0
+AnchorPoint: "U" 738 1440 basechar 0
+LayerCount: 2
+Fore
+Refer: 2162 -1 N 1 0 0 1 0 0 2
+Refer: 179 772 N 1 0 0 1 1263 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

@@ -1,0 +1,45 @@
+StartChar: LtnSmCapTurnedK
+Encoding: 2304 122640 2288
+GlifName: L_tnS_mC_apT_urnedK_
+Width: 1022
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 476 -100 basechar 0
+AnchorPoint: "U" 476 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+18 43 m 257
+ 18 0 l 257
+ 388 0 l 257
+ 388 43 l 257
+ 326 49 296 66 327 98 c 258
+ 681 465 l 257
+ 557 465 l 257
+ 175 92 l 258
+ 149 67 79 46 18 43 c 257
+  PathStart: -1
+5 903 m 257
+ 16 860 l 257
+ 73 866 113 865 152 826 c 258
+ 582 398 l 257
+ 681 465 l 257
+ 272 909 l 258
+ 248 935 226 940 193 940 c 256
+ 140 940 70 921 5 903 c 257
+  PathStart: -1
+967 930 m 257
+ 538 930 l 257
+ 538 887 l 257
+ 618 874 677 838 677 826 c 258
+ 677 105 l 258
+ 677 91 612 57 538 43 c 257
+ 538 0 l 257
+ 967 0 l 257
+ 967 43 l 257
+ 887 57 827 93 827 105 c 258
+ 827 826 l 258
+ 827 840 892 874 967 887 c 257
+ 967 930 l 257
+EndSplineSet
+EndChar

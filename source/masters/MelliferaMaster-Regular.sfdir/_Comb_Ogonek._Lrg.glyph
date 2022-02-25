@@ -1,0 +1,23 @@
+StartChar: CombOgonek.Lrg
+Encoding: 197 -1 193
+GlifName: C_ombO_gonek.L_rg
+Width: 465
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 240 -600 basechar 0
+AnchorPoint: "O" 268 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+379 26 m 257
+ 320 50 l 257
+ 122 -62 0 -195 0 -331 c 256
+ 0 -474 104 -505 197 -505 c 256
+ 281 -505 376 -439 465 -331 c 257
+ 431 -282 l 257
+ 364 -344 308 -362 268 -362 c 256
+ 219 -362 175 -336 175 -289 c 256
+ 175 -213 197 -116 379 26 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

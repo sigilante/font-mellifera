@@ -1,0 +1,36 @@
+StartChar: LtnSmVRtHookDep
+Encoding: 3445 62047 3429
+GlifName: L_tnS_mV_R_tH_ookD_ep
+Width: 1254
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 525 0 basechar 0
+AnchorPoint: "L" 511 -100 basechar 0
+AnchorPoint: "O" 620 0 basechar 0
+AnchorPoint: "U" 511 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-10 1050 m 257
+ -10 -60 l 257
+ 1314 -60 l 257
+ 1314 1050 l 257
+ -10 1050 l 257
+802 612 m 257
+ 596 59 l 257
+ 573 0 496 -22 461 -30 c 257
+ 131 819 l 257
+ 119 856 86 872 20 887 c 257
+ 20 930 l 257
+ 406 930 l 257
+ 406 887 l 257
+ 303 874 276 862 293 819 c 258
+ 539 178 l 257
+ 696 614 l 258
+ 811 933 992 1020 1122 1020 c 256
+ 1203 1020 1284 992 1284 968 c 256
+ 1284 949 1219 866 1167 833 c 257
+ 1115 866 1072 863 1043 863 c 256
+ 961 863 861 771 802 612 c 257
+EndSplineSet
+EndChar

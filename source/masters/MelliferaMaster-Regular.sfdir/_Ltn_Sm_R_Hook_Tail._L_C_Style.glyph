@@ -1,0 +1,18 @@
+StartChar: LtnSmRHookTail.LCStyle
+Encoding: 3136 -1 3120
+GlifName: L_tnS_mR_H_ookT_ail.L_C_S_tyle
+Width: 811
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 448 -600 basechar 0
+AnchorPoint: "U" 448 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 3119 637 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

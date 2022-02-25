@@ -1,0 +1,22 @@
+StartChar: CombCedilla
+Encoding: 72 807 69
+GlifName: C_ombC_edilla
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -513 -600 basechar 0
+AnchorPoint: "H" -513 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-348 -229 m 257
+ -348 -154 -418 -119 -488 -104 c 257
+ -437 50 l 257
+ -515 52 l 257
+ -586 -171 -600 -209 -600 -209 c 257
+ -518 -217 -486 -231 -486 -276 c 256
+ -486 -319 -539 -371 -678 -395 c 257
+ -656 -444 l 257
+ -437 -412 -348 -328 -348 -229 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,21 @@
+StartChar: LtnSmOCircumHookAbv.VN.sc
+Encoding: 2953 -1 2937
+GlifName: L_tnS_mO_C_ircumH_ookA_bv.V_N_.sc
+Width: 1155
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 550 7 basechar 0
+AnchorPoint: "L" 556 -76 basechar 0
+AnchorPoint: "O" 635 7 basechar 0
+AnchorPoint: "R" 1172 920 basechar 0
+LayerCount: 2
+Fore
+Refer: 2906 -1 N 1 0 0 1 0 0 2
+Refer: 77 -1 N 1 0 0 1 1092 95 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

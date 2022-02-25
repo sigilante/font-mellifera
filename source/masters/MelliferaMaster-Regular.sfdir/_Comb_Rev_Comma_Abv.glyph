@@ -1,0 +1,21 @@
+StartChar: CombRevCommaAbv
+Encoding: 202 788 198
+GlifName: C_ombR_evC_ommaA_bv
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -516 1450 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-654 1297 m 257
+ -645 1187 -586 1113 -456 1060 c 257
+ -417 1093 l 257
+ -481 1142 -511 1185 -515 1246 c 256
+ -519 1302 -502 1385 -378 1409 c 257
+ -366 1450 l 257
+ -427 1475 -522 1499 -568 1496 c 257
+ -637 1448 -660 1370 -654 1297 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: RtTopCurlyBrac
+Encoding: 4029 9131 4005
+GlifName: R_tT_opC_urlyB_rac
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+525 750 m 258
+ 525 -950 l 257
+ 675 -950 l 257
+ 675 750 l 258
+ 675 1500 630 1900 140 1900 c 258
+ 50 1900 l 257
+ 50 1800 l 257
+ 130 1800 l 258
+ 460 1800 525 1500 525 750 c 258
+EndSplineSet
+EndChar

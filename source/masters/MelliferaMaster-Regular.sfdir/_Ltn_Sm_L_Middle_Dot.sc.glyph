@@ -1,0 +1,35 @@
+StartChar: LtnSmLMiddleDot.sc
+Encoding: 2822 -1 2806
+GlifName: L_tnS_mL_M_iddleD_ot.sc
+Width: 916
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 467 7 basechar 0
+AnchorPoint: "L" 467 -76 basechar 0
+AnchorPoint: "U" 452 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+44 0 m 257
+ 841 0 l 257
+ 852 33 872 110 882 205 c 257
+ 832 230 l 257
+ 778 101 744 88 635 88 c 257
+ 503 88 l 257
+ 373 88 338 107 338 141 c 257
+ 338 948 l 257
+ 338 959 389 976 472 992 c 257
+ 472 1041 l 257
+ 44 1041 l 257
+ 44 992 l 257
+ 133 976 178 958 178 948 c 257
+ 178 92 l 257
+ 178 81 127 64 44 49 c 257
+ 44 0 l 257
+681 476 m 256
+ 745 476 794 530 794 594 c 256
+ 794 650 767 679 710 679 c 256
+ 648 679 598 627 598 561 c 256
+ 598 506 622 476 681 476 c 256
+EndSplineSet
+EndChar

@@ -1,0 +1,32 @@
+StartChar: CySmKomiSje
+Encoding: 570 1293 566
+GlifName: C_yS_mK_omiS_je
+Width: 1073
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 546 -100 basechar 0
+AnchorPoint: "U" 549 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+574 78 m 256
+ 411 78 230 198 230 474 c 256
+ 230 783 420 850 519 850 c 256
+ 648 850 740 794 772 717 c 257
+ 812 697 l 257
+ 866 746 934 830 921 844 c 256
+ 860 913 733 960 610 960 c 256
+ 316 960 80 763 80 433 c 256
+ 80 126 312 -30 533 -30 c 256
+ 736 -30 918 140 918 314 c 258
+ 918 415 l 258
+ 918 434 973 458 1063 477 c 257
+ 1063 520 l 257
+ 623 520 l 257
+ 623 477 l 257
+ 719 458 768 431 768 415 c 258
+ 768 264 l 258
+ 768 143 704 78 574 78 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

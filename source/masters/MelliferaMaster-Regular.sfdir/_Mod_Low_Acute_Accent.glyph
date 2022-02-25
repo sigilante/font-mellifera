@@ -1,0 +1,17 @@
+StartChar: ModLowAcuteAccent
+Encoding: 3780 719 3764
+GlifName: M_odL_owA_cuteA_ccent
+Width: 653
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+115 -413 m 257
+ 584 -170 l 257
+ 575 -125 l 257
+ 555 -104 485 -67 457 -51 c 257
+ 70 -368 l 257
+ 88 -393 92 -403 115 -413 c 257
+EndSplineSet
+EndChar

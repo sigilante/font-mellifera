@@ -1,0 +1,22 @@
+StartChar: Cedilla
+Encoding: 34 184 31
+GlifName: C_edilla
+Width: 469
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 243 -600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+408 -229 m 257
+ 408 -154 338 -119 268 -104 c 257
+ 320 50 l 257
+ 242 52 l 257
+ 171 -171 156 -209 156 -209 c 257
+ 238 -217 270 -231 270 -276 c 256
+ 270 -319 217 -371 78 -395 c 257
+ 100 -444 l 257
+ 319 -412 408 -328 408 -229 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

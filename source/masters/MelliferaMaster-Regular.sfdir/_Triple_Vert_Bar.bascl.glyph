@@ -1,0 +1,12 @@
+StartChar: TripleVertBar.bascl
+Encoding: 4264 -1 4240
+GlifName: T_ripleV_ertB_ar.bascl
+Width: 790
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 395 -600 basechar 0
+AnchorPoint: "U" 395 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1834 449 N 1 0 0 1 0 0 2
+EndChar

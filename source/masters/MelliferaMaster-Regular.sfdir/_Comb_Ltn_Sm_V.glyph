@@ -1,0 +1,28 @@
+StartChar: CombLtnSmV
+Encoding: 181 878 177
+GlifName: C_ombL_tnS_mV_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -495 1500 basechar 0
+AnchorPoint: "U" -495 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-260 1455 m 257
+ -260 1487 l 257
+ -445 1487 l 257
+ -445 1455 l 257
+ -402 1451 -387 1440 -391 1431 c 258
+ -488 1185 l 257
+ -592 1432 l 258
+ -596 1441 -580 1450 -535 1455 c 257
+ -535 1487 l 257
+ -751 1487 l 257
+ -751 1455 l 257
+ -717 1452 -702 1440 -696 1427 c 258
+ -537 1052 l 257
+ -514 1058 -461 1074 -451 1099 c 258
+ -317 1428 l 258
+ -312 1441 -299 1450 -260 1455 c 257
+EndSplineSet
+EndChar

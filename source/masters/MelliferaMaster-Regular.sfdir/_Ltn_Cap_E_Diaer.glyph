@@ -1,0 +1,22 @@
+StartChar: LtnCapEDiaer
+Encoding: 1427 203 1411
+GlifName: L_tnC_apE_D_iaer
+Width: 1016
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 502 0 basechar 0
+AnchorPoint: "L" 502 -100 basechar 0
+AnchorPoint: "O" 750 0 basechar 0
+AnchorPoint: "R" 1016 1100 basechar 0
+AnchorPoint: "U" 502 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1392 69 N 1 0 0 1 0 0 2
+Refer: 111 -1 N 1 0 0 1 1017 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

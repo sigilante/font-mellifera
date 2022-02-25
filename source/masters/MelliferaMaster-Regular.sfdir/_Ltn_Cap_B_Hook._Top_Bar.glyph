@@ -1,0 +1,18 @@
+StartChar: LtnCapBHook.TopBar
+Encoding: 1365 -1 1349
+GlifName: L_tnC_apB_H_ook.T_opB_ar
+Width: 1126
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 532 -100 basechar 0
+AnchorPoint: "U" 532 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1352 386 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

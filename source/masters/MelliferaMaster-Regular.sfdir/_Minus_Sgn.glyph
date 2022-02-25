@@ -1,0 +1,19 @@
+StartChar: MinusSgn
+Encoding: 3716 8722 3700
+GlifName: M_inusS_gn
+Width: 840
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+778 594 m 257
+ 754 618 l 257
+ 92 618 l 257
+ 80 592 68 559 61 532 c 257
+ 86 508 l 257
+ 748 508 l 257
+ 758 530 772 567 778 594 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,21 @@
+StartChar: LtnCapEth
+Encoding: 1450 208 1434
+GlifName: L_tnC_apE_th
+Width: 1214
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 575 -100 basechar 0
+AnchorPoint: "U" 575 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+614 615 m 257
+ 639 682 l 257
+ 614 705 l 257
+ 49 705 l 257
+ 41 684 33 660 27 640 c 257
+ 49 615 l 257
+ 614 615 l 257
+EndSplineSet
+Refer: 1369 68 N 1 0 0 1 0 0 2
+EndChar

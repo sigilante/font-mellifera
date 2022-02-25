@@ -1,0 +1,19 @@
+StartChar: SupplBottomLftHalfBrac
+Encoding: 4111 11812 4087
+GlifName: S_upplB_ottomL_ftH_alfB_rac
+Width: 788
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+280 800 m 257
+ 140 800 l 257
+ 140 -335 l 257
+ 555 -335 l 257
+ 588 -309 l 257
+ 582 -276 569 -236 561 -220 c 257
+ 280 -220 l 257
+ 280 800 l 257
+EndSplineSet
+EndChar

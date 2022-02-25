@@ -1,0 +1,22 @@
+StartChar: LtnCapSaltilloDep
+Encoding: 1706 62058 1690
+GlifName: L_tnC_apS_altilloD_ep
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+105 1610 m 257
+ 105 653 l 257
+ 387 653 l 257
+ 387 1610 l 257
+ 105 1610 l 257
+357 1554 m 257
+ 299 704 l 257
+ 279 693 234 683 203 683 c 257
+ 135 1521 l 257
+ 165 1538 276 1574 304 1580 c 257
+ 357 1554 l 257
+EndSplineSet
+EndChar

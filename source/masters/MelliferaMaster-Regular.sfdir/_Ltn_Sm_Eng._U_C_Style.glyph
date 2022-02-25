@@ -1,0 +1,18 @@
+StartChar: LtnSmEng.UCStyle
+Encoding: 2479 -1 2463
+GlifName: L_tnS_mE_ng.U_C_S_tyle
+Width: 1120
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 576 -600 basechar 0
+AnchorPoint: "U" 576 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 2458 331 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

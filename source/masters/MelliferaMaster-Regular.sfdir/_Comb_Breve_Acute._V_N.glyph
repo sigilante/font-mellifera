@@ -1,0 +1,26 @@
+StartChar: CombBreveAcute.VN
+Encoding: 56 -1 53
+GlifName: C_ombB_reveA_cute.V_N_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1750 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-190 1360 m 257
+ -206 1384 -220 1395 -243 1405 c 257
+ -307 1253 -423 1202 -517 1202 c 256
+ -606 1202 -721 1253 -787 1405 c 257
+ -809 1395 -824 1384 -840 1360 c 257
+ -760 1145 -644 1070 -513 1070 c 256
+ -393 1070 -270 1145 -190 1360 c 257
+  PathStart: -1
+-561 1287 m 257
+ -276 1607 l 257
+ -299 1646 l 257
+ -329 1655 -403 1667 -434 1669 c 257
+ -618 1315 l 257
+ -603 1303 -585 1291 -561 1287 c 257
+EndSplineSet
+EndChar

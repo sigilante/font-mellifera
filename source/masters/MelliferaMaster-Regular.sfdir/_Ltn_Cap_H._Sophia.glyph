@@ -1,0 +1,25 @@
+StartChar: LtnCapH.Sophia
+Encoding: 1476 -1 1460
+GlifName: L_tnC_apH_.S_ophia
+Width: 522
+VWidth: 0
+Flags: W
+AnchorPoint: "C" 262 266 mark 0
+LayerCount: 2
+Fore
+SplineSet
+389 0 m 257
+ 464 0 l 257
+ 464 533 l 257
+ 389 533 l 257
+ 389 305 l 257
+ 134 305 l 257
+ 134 533 l 257
+ 59 533 l 257
+ 59 0 l 257
+ 134 0 l 257
+ 134 241 l 257
+ 389 241 l 257
+ 389 0 l 257
+EndSplineSet
+EndChar

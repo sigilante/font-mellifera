@@ -1,0 +1,12 @@
+StartChar: LtnSmRevEng
+Encoding: 3157 122631 3141
+GlifName: L_tnS_mR_evE_ng
+Width: 1120
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 681 -600 basechar 0
+AnchorPoint: "U" 681 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 2458 331 N -1 0 0 1 1120 0 2
+EndChar

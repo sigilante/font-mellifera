@@ -1,0 +1,23 @@
+StartChar: ModGraveAccentDep
+Encoding: 3776 61845 3760
+GlifName: M_odG_raveA_ccentD_ep
+Width: 408
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 294 1410 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-30 1519 m 257
+ -30 1017 l 257
+ 438 1017 l 257
+ 438 1519 l 257
+ -30 1519 l 257
+168 1489 m 257
+ 408 1078 l 257
+ 391 1062 375 1054 352 1047 c 257
+ 0 1424 l 257
+ 22 1465 l 257
+ 48 1472 135 1487 168 1489 c 257
+EndSplineSet
+EndChar

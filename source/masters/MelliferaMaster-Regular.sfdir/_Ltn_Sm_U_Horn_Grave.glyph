@@ -1,0 +1,19 @@
+StartChar: LtnSmUHornGrave
+Encoding: 3384 7915 3368
+GlifName: L_tnS_mU_H_ornG_rave
+Width: 1255
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 545 -100 basechar 0
+AnchorPoint: "U" 545 1410 basechar 0
+LayerCount: 2
+Fore
+Refer: 3361 432 N 1 0 0 1 0 0 2
+Refer: 130 768 N 1 0 0 1 978 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

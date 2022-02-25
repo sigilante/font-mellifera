@@ -1,0 +1,31 @@
+StartChar: LtnSmRevCMiddleDot
+Encoding: 3153 42815 3137
+GlifName: L_tnS_mR_evC_M_iddleD_ot
+Width: 889
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 408 -100 basechar 0
+AnchorPoint: "U" 416 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+89 229 m 257
+ 50 188 l 257
+ 224 -16 299 -30 424 -30 c 256
+ 609 -30 809 167 809 454 c 256
+ 809 741 606 960 329 960 c 256
+ 241 960 122 913 77 866 c 257
+ 71 833 106 749 131 712 c 257
+ 168 722 l 257
+ 190 769 262 850 399 850 c 256
+ 544 850 659 732 659 485 c 256
+ 659 258 512 100 352 100 c 256
+ 264 100 215 121 89 229 c 257
+468 501 m 257
+ 468 563 440 596 383 596 c 256
+ 320 596 268 536 268 460 c 256
+ 268 399 293 364 352 364 c 256
+ 418 364 468 426 468 501 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,33 @@
+StartChar: UpDwnArrwWBase
+Encoding: 4274 8616 4250
+GlifName: U_pD_wnA_rrwW_B_ase
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+26 -437 m 257
+ 973 -437 l 257
+ 973 -315 l 257
+ 26 -315 l 257
+ 26 -437 l 257
+568 -205 m 257
+ 816 371 l 257
+ 725 406 l 257
+ 561 0 l 257
+ 561 1205 l 257
+ 725 799 l 257
+ 816 835 l 257
+ 568 1410 l 257
+ 433 1410 l 257
+ 185 835 l 257
+ 277 799 l 257
+ 440 1205 l 257
+ 440 0 l 257
+ 277 406 l 257
+ 185 371 l 257
+ 433 -205 l 257
+ 568 -205 l 257
+EndSplineSet
+EndChar

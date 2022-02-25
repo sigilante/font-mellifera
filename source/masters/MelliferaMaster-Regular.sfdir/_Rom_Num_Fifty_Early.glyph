@@ -1,0 +1,23 @@
+StartChar: RomNumFiftyEarly
+Encoding: 3988 8582 3967
+GlifName: R_omN_umF_iftyE_arly
+Width: 1241
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 612 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+690 295 m 257
+ 690 1260 l 257
+ 530 1260 l 257
+ 530 295 l 257
+ 200 824 l 257
+ 20 824 l 257
+ 590 -30 l 257
+ 630 -30 l 257
+ 1200 824 l 257
+ 1020 824 l 257
+ 690 295 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: LtnSmJ.sc
+Encoding: 2739 -1 2723
+GlifName: L_tnS_mJ_.sc
+Width: 587
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 310 -491 basechar 0
+AnchorPoint: "U" 310 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-22 -310 m 256
+ 26 -310 133 -279 200 -233 c 257
+ 296 -164 386 -80 386 174 c 257
+ 386 948 l 257
+ 386 960 435 970 520 992 c 257
+ 520 1041 l 257
+ 46 1041 l 257
+ 46 992 l 257
+ 194 973 226 958 226 948 c 257
+ 226 115 l 257
+ 226 -134 141 -194 79 -194 c 256
+ 33 -194 4 -188 -65 -149 c 257
+ -102 -160 -180 -217 -180 -237 c 256
+ -180 -258 -99 -310 -22 -310 c 256
+EndSplineSet
+EndChar

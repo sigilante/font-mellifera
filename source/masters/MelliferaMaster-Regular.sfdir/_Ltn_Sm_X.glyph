@@ -1,0 +1,47 @@
+StartChar: LtnSmX
+Encoding: 3480 120 3464
+GlifName: L_tnS_mX_
+Width: 1030
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 800 0 basechar 0
+AnchorPoint: "L" 518 -100 basechar 0
+AnchorPoint: "U" 518 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+995 887 m 257
+ 995 930 l 257
+ 614 930 l 257
+ 614 887 l 257
+ 696 879 733 864 688 799 c 258
+ 500 528 l 257
+ 553 451 l 257
+ 799 797 l 258
+ 834 846 887 879 995 887 c 257
+  PathStart: -1
+614 0 m 257
+ 1016 0 l 257
+ 1016 43 l 257
+ 928 55 885 97 856 137 c 257
+ 373 799 l 258
+ 327 862 369 879 451 887 c 257
+ 451 930 l 257
+ 31 930 l 257
+ 31 887 l 257
+ 139 879 166 845 201 797 c 258
+ 688 131 l 258
+ 741 59 680 49 614 43 c 257
+ 614 0 l 257
+301 131 m 258
+ 500 414 l 257
+ 449 494 l 257
+ 193 137 l 258
+ 164 96 127 59 20 43 c 257
+ 20 0 l 257
+ 399 0 l 257
+ 399 43 l 257
+ 336 49 250 59 301 131 c 258
+EndSplineSet
+Kerns2: 2367 -31 "'kern' Horizontal Kerning lookup 0 subtable" 2905 -41 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

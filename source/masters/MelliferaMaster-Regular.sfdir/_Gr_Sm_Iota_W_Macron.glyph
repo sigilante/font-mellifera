@@ -1,0 +1,11 @@
+StartChar: GrSmIotaWMacron
+Encoding: 1107 8145 1102
+GlifName: G_rS_mI_otaW_M_acron
+Width: 604
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1090 953 N 1 0 0 1 0 0 2
+Refer: 180 -1 N 1 0 0 1 821 25 2
+EndChar

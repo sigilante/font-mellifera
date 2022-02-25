@@ -1,0 +1,26 @@
+StartChar: LtnCapSHook
+Encoding: 1702 42949 1686
+GlifName: L_tnC_apS_H_ook
+Width: 975
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 480 0 basechar 0
+AnchorPoint: "L" 500 -600 basechar 0
+AnchorPoint: "U" 500 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+545 -235 m 257
+ 526 -196 l 257
+ 485 -190 351 -253 360 -264 c 256
+ 400 -312 382 -405 304 -405 c 256
+ 238 -405 207 -359 207 -196 c 258
+ 207 153 l 257
+ 171 165 148 173 117 187 c 257
+ 117 -247 l 258
+ 117 -422 188 -500 300 -500 c 256
+ 455 -500 553 -336 545 -235 c 257
+  PathStart: -1
+EndSplineSet
+Refer: 1673 83 N 1 0 0 1 0 0 2
+EndChar

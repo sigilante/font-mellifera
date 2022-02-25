@@ -1,0 +1,39 @@
+StartChar: LtnSmENotch
+Encoding: 2455 11384 2439
+GlifName: L_tnS_mE_N_otch
+Width: 1340
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 500 0 basechar 0
+AnchorPoint: "L" 500 -100 basechar 0
+AnchorPoint: "O" 544 0 basechar 0
+AnchorPoint: "R" 1020 900 basechar 0
+AnchorPoint: "U" 510 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1253 296 m 257
+ 1147 137 1069 100 1006 100 c 256
+ 926 100 868 170 860 255 c 257
+ 854 265 835 287 823 296 c 257
+ 694 136 610 100 526 100 c 256
+ 344 100 232 283 230 490 c 257
+ 756 490 l 257
+ 799 507 842 530 866 557 c 257
+ 866 727 786 960 524 960 c 256
+ 453 960 360 922 301 881 c 256
+ 162 786 80 614 80 434 c 256
+ 80 152 260 -30 465 -30 c 256
+ 577 -30 677 25 786 157 c 257
+ 803 67 859 -30 965 -30 c 256
+ 1065 -30 1165 33 1290 255 c 257
+ 1284 265 1270 287 1253 296 c 257
+  PathStart: -1
+496 855 m 256
+ 670 855 702 688 702 616 c 256
+ 702 588 694 580 664 580 c 258
+ 236 580 l 257
+ 260 742 358 855 496 855 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

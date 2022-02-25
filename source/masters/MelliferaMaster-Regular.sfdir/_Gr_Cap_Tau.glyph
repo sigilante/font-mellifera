@@ -1,0 +1,41 @@
+StartChar: GrCapTau
+Encoding: 950 932 945
+GlifName: G_rC_apT_au
+Width: 1128
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1083 1235 m 257
+ 1053 1260 l 257
+ 547 1260 l 257
+ 518 1169 l 257
+ 915 1169 l 258
+ 975 1169 983 1112 1008 999 c 257
+ 1053 999 l 257
+ 1069 1083 1081 1167 1083 1235 c 257
+  PathStart: -1
+172 1169 m 258
+ 698 1169 l 257
+ 670 1260 l 257
+ 43 1260 l 257
+ 29 1190 16 1092 10 1014 c 257
+ 53 995 l 257
+ 113 1151 131 1169 172 1169 c 258
+305 0 m 257
+ 795 0 l 257
+ 795 43 l 257
+ 672 68 631 98 631 115 c 258
+ 631 1176 l 258
+ 631 1194 684 1198 774 1217 c 257
+ 774 1260 l 257
+ 326 1260 l 257
+ 326 1217 l 257
+ 422 1198 471 1192 471 1176 c 258
+ 471 115 l 258
+ 471 96 428 68 305 43 c 257
+ 305 0 l 257
+EndSplineSet
+Kerns2: 884 -121 "'kern' Horizontal Kerning lookup 0 subtable" 935 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1164 -139 "'kern' Horizontal Kerning lookup 0 subtable" 1171 -150 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

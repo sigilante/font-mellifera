@@ -1,0 +1,19 @@
+StartChar: CySmQa
+Encoding: 600 1307 596
+GlifName: C_yS_mQ_a
+Width: 1055
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 407 -100 basechar 0
+AnchorPoint: "R" 1080 900 basechar 0
+AnchorPoint: "U" 557 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 3078 113 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

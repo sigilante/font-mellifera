@@ -1,0 +1,28 @@
+StartChar: CombRtTackBlw
+Encoding: 214 793 210
+GlifName: C_ombR_tT_ackB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -514 -600 basechar 0
+AnchorPoint: "L" -514 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-344 -282 m 257
+ -369 -255 l 257
+ -620 -255 l 257
+ -634 -282 -641 -294 -649 -321 c 257
+ -626 -345 l 257
+ -371 -345 l 257
+ -359 -323 -351 -308 -344 -282 c 257
+  PathStart: -1
+-595 -469 m 257
+ -595 -124 l 257
+ -622 -100 l 257
+ -648 -108 -662 -117 -685 -130 c 257
+ -685 -478 l 257
+ -660 -500 l 257
+ -634 -492 -622 -485 -595 -469 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

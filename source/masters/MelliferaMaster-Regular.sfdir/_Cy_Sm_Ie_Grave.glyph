@@ -1,0 +1,19 @@
+StartChar: CySmIeGrave
+Encoding: 536 1104 532
+GlifName: C_yS_mI_eG_rave
+Width: 946
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 473 -100 basechar 0
+AnchorPoint: "U" 473 1410 basechar 0
+LayerCount: 2
+Fore
+Refer: 528 1077 N 1 0 0 1 0 0 2
+Refer: 130 768 N 1 0 0 1 906 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

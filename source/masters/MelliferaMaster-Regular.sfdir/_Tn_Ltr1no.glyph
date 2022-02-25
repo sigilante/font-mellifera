@@ -1,0 +1,13 @@
+StartChar: TnLtr1no
+Encoding: 4193 -1 4169
+GlifName: T_nL_tr1no
+Width: 743
+VWidth: 0
+Flags: W
+AnchorPoint: "TL_" 127 32 basechar 0
+LayerCount: 2
+Fore
+Refer: 4214 -1 N 1 0 0 1 0 0 2
+Refer: 4184 -1 N 1 0 0 1 126 0 2
+Refer: 4213 -1 N 1 0 0 1 551 0 2
+EndChar

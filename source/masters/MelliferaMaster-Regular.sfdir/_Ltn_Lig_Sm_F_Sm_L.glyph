@@ -1,0 +1,19 @@
+StartChar: LtnLigSmFSmL
+Encoding: 1869 -1 1853
+GlifName: L_tnL_igS_mF_S_mL_
+Width: 1192
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 922 -100 basechar 0
+AnchorPoint: "R" 1192 900 basechar 0
+AnchorPoint: "U" 922 1620 basechar 0
+LayerCount: 2
+Fore
+Refer: 2829 64258 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

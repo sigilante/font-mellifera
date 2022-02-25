@@ -1,0 +1,27 @@
+StartChar: BrokenBar
+Encoding: 26 166 23
+GlifName: B_rokenB_ar
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+320 737 m 257
+ 320 1648 l 257
+ 283 1670 l 257
+ 242 1660 219 1643 180 1621 c 257
+ 180 708 l 257
+ 217 686 l 257
+ 250 696 293 716 320 737 c 257
+  PathStart: -1
+320 -448 m 257
+ 320 452 l 257
+ 283 477 l 257
+ 242 464 219 448 180 425 c 257
+ 180 -477 l 257
+ 217 -500 l 257
+ 250 -489 293 -469 320 -448 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

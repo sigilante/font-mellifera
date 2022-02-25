@@ -1,0 +1,26 @@
+StartChar: ModSmJ.Dotless
+Encoding: 3855 -1 3839
+GlifName: M_odS_mJ_.D_otless
+Width: 371
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 130 258 basechar 0
+AnchorPoint: "U" 180 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-52 320 m 256
+ -6 320 61 346 111 380 c 256
+ 185 432 245 495 245 679 c 258
+ 245 1196 l 257
+ 219 1196 l 257
+ 160 1175 108 1160 31 1148 c 257
+ 31 1114 l 257
+ 128 1105 119 1094 119 1012 c 258
+ 119 646 l 258
+ 119 462 71 411 17 411 c 256
+ -18 411 -49 416 -79 438 c 257
+ -106 427 -168 375 -168 361 c 256
+ -168 348 -109 320 -52 320 c 256
+EndSplineSet
+EndChar

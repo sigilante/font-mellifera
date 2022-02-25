@@ -1,0 +1,22 @@
+StartChar: GrDasia
+Encoding: 968 8190 963
+GlifName: G_rD_asia
+Width: 383
+VWidth: 0
+Flags: W
+AnchorPoint: "G" 383 1360 mark 0
+AnchorPoint: "U" 191 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+52 1329 m 257
+ 61 1219 120 1145 250 1092 c 257
+ 289 1125 l 257
+ 225 1174 195 1217 191 1278 c 256
+ 187 1334 204 1417 328 1441 c 257
+ 340 1482 l 257
+ 279 1507 184 1531 138 1528 c 257
+ 69 1480 46 1402 52 1329 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

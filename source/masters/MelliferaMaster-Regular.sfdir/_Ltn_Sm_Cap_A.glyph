@@ -1,0 +1,34 @@
+StartChar: LtnSmCapA
+Encoding: 2257 7424 2241
+GlifName: L_tnS_mC_apA_
+Width: 1008
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 500 -100 basechar 0
+AnchorPoint: "U" 499 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+628 0 m 257
+ 1008 0 l 257
+ 1008 43 l 257
+ 936 50 905 84 894 111 c 258
+ 544 972 l 257
+ 515 958 463 937 437 913 c 257
+ 128 111 l 257
+ 115 82 75 55 0 43 c 257
+ 0 0 l 257
+ 347 0 l 257
+ 347 43 l 257
+ 256 52 226 81 237 111 c 258
+ 298 276 l 257
+ 670 276 l 257
+ 732 111 l 258
+ 744 79 714 47 628 43 c 257
+ 628 0 l 257
+332 367 m 257
+ 485 774 l 257
+ 636 367 l 257
+ 332 367 l 257
+EndSplineSet
+EndChar

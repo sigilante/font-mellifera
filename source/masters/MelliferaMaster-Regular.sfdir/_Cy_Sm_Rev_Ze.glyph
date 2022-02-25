@@ -1,0 +1,38 @@
+StartChar: CySmRevZe
+Encoding: 602 1297 598
+GlifName: C_yS_mR_evZ_e
+Width: 861
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 425 0 basechar 0
+AnchorPoint: "L" 445 -100 basechar 0
+AnchorPoint: "O" 500 0 basechar 0
+AnchorPoint: "R" 908 900 basechar 0
+AnchorPoint: "U" 448 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+435 -30 m 256
+ 560 -30 685 17 752 63 c 257
+ 767 79 767 194 745 283 c 257
+ 702 272 l 257
+ 690 135 598 70 482 70 c 256
+ 327 70 240 164 240 275 c 256
+ 240 413 357 440 449 440 c 256
+ 515 440 551 423 575 411 c 257
+ 624 540 l 257
+ 606 560 l 257
+ 558 537 510 524 457 524 c 256
+ 344 524 254 618 254 720 c 256
+ 254 820 350 870 446 870 c 256
+ 570 870 657 813 681 680 c 257
+ 723 674 l 257
+ 742 716 753 898 744 902 c 256
+ 668 938 577 960 499 960 c 256
+ 283 960 114 845 114 682 c 256
+ 114 594 158 509 267 473 c 257
+ 161 442 80 354 80 241 c 256
+ 80 114 181 -30 435 -30 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

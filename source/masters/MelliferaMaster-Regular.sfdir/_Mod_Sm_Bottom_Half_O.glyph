@@ -1,0 +1,20 @@
+StartChar: ModSmBottomHalfO
+Encoding: 3826 7509 3810
+GlifName: M_odS_mB_ottomH_alfO_
+Width: 721
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 358 540 basechar 0
+AnchorPoint: "U" 358 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+348 602 m 256
+ 518 602 657 747 665 898 c 257
+ 623 898 582 898 540 898 c 257
+ 541 760 480 678 367 678 c 256
+ 296 678 189 779 184 898 c 257
+ 56 898 l 257
+ 51 724 171 602 348 602 c 256
+EndSplineSet
+EndChar

@@ -1,0 +1,23 @@
+StartChar: ModLowRing
+Encoding: 3792 755 3776
+GlifName: M_odL_owR_ing
+Width: 372
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+372 -266 m 256
+ 372 -182 303 -110 217 -110 c 256
+ 114 -110 0 -209 0 -346 c 256
+ 0 -430 65 -500 155 -500 c 256
+ 256 -500 372 -401 372 -266 c 256
+  PathStart: -1
+282 -307 m 256
+ 282 -383 229 -424 176 -424 c 256
+ 123 -424 90 -366 90 -305 c 256
+ 90 -233 141 -186 196 -186 c 256
+ 249 -186 282 -243 282 -307 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

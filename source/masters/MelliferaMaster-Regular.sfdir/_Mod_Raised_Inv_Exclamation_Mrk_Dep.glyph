@@ -1,0 +1,29 @@
+StartChar: ModRaisedInvExclamationMrkDep
+Encoding: 3812 61855 3796
+GlifName: M_odR_aisedI_nvE_xclamationM_rkD_ep
+Width: 389
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+78 1227 m 257
+ 78 251 l 257
+ 304 251 l 257
+ 304 1227 l 257
+ 78 1227 l 257
+274 1129 m 256
+ 274 1075 230 1030 178 1030 c 256
+ 130 1030 108 1055 108 1099 c 256
+ 108 1153 149 1197 205 1197 c 256
+ 253 1197 274 1172 274 1129 c 256
+  PathStart: -1
+233 951 m 257
+ 269 333 l 257
+ 222 310 187 293 141 281 c 257
+ 110 294 l 257
+ 145 936 l 257
+ 165 949 186 958 213 961 c 257
+ 233 951 l 257
+EndSplineSet
+EndChar

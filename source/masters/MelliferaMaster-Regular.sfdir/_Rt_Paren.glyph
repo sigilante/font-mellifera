@@ -1,0 +1,19 @@
+StartChar: RtParen
+Encoding: 4020 41 3999
+GlifName: R_tP_aren
+Width: 649
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+530 664 m 257
+ 530 1087 373 1463 72 1600 c 257
+ 41 1555 l 257
+ 246 1390 360 1022 360 635 c 256
+ 360 207 213 -125 41 -270 c 257
+ 72 -315 l 257
+ 346 -172 530 225 530 664 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

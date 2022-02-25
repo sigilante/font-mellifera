@@ -1,0 +1,25 @@
+StartChar: ModLowRtArrwhd
+Encoding: 3793 754 3777
+GlifName: M_odL_owR_tA_rrwhd
+Width: 518
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+468 -342 m 257
+ 458 -331 l 257
+ 107 -200 l 257
+ 96 -209 83 -218 70 -228 c 257
+ 77 -246 l 257
+ 455 -386 l 257
+ 460 -374 466 -355 468 -342 c 257
+ 458 -331 l 257
+ 83 -471 l 257
+ 79 -481 74 -503 70 -514 c 257
+ 81 -525 l 257
+ 455 -386 l 257
+ 460 -374 466 -355 468 -342 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

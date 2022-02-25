@@ -1,0 +1,18 @@
+StartChar: FracSlash
+Encoding: 769 8260 765
+GlifName: F_racS_lash
+Width: 961
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+128 -125 m 257
+ 961 1332 l 257
+ 929 1362 l 257
+ 900 1353 866 1336 836 1319 c 257
+ 0 -136 l 257
+ 32 -168 l 257
+ 68 -155 94 -144 128 -125 c 257
+EndSplineSet
+EndChar

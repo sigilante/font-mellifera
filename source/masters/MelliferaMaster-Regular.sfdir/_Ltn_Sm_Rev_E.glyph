@@ -1,0 +1,31 @@
+StartChar: LtnSmRevE
+Encoding: 3155 600 3139
+GlifName: L_tnS_mR_evE_
+Width: 946
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 473 -100 basechar 0
+AnchorPoint: "R" 976 900 basechar 0
+AnchorPoint: "U" 473 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+80 557 m 257
+ 104 530 147 507 190 490 c 257
+ 764 490 l 257
+ 762 580 l 257
+ 282 580 l 258
+ 252 580 244 588 244 616 c 256
+ 244 688 276 855 450 855 c 256
+ 610 855 716 632 716 437 c 256
+ 716 270 644 102 430 102 c 256
+ 366 102 235 120 123 236 c 257
+ 106 227 92 205 86 195 c 257
+ 190 11 334 -30 461 -30 c 256
+ 581 -30 704 53 773 154 c 256
+ 845 260 866 354 866 494 c 256
+ 866 712 749 960 502 960 c 256
+ 240 960 80 727 80 557 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

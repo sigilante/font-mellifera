@@ -1,0 +1,20 @@
+StartChar: LtnSmRInvBreve
+Encoding: 3138 531 3122
+GlifName: L_tnS_mR_I_nvB_reve
+Width: 811
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 270 0 basechar 0
+AnchorPoint: "L" 270 -100 basechar 0
+AnchorPoint: "U" 450 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 3090 114 N 1 0 0 1 0 0 2
+Refer: 141 785 N 1 0 0 1 965 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

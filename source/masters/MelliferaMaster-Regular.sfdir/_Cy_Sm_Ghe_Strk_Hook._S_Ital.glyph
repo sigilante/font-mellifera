@@ -1,0 +1,12 @@
+StartChar: CySmGheStrkHook.SItal
+Encoding: 505 -1 501
+GlifName: C_yS_mG_heS_trkH_ook.S_I_tal
+Width: 848
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 441 -600 basechar 0
+AnchorPoint: "U" 441 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 500 1275 N 1 0 0 1 0 0 2
+EndChar

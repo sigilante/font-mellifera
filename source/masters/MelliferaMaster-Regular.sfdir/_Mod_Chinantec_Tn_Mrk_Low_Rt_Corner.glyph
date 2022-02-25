@@ -1,0 +1,21 @@
+StartChar: ModChinantecTnMrkLowRtCorner
+Encoding: 3757 42778 3741
+GlifName: M_odC_hinantecT_nM_rkL_owR_tC_orner
+Width: 779
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+684 1239 m 257
+ 684 1529 l 257
+ 659 1553 l 257
+ 633 1548 587 1533 566 1523 c 257
+ 566 1315 l 257
+ 70 1315 l 257
+ 59 1291 47 1256 40 1227 c 257
+ 65 1205 l 257
+ 666 1205 l 257
+ 684 1239 l 257
+EndSplineSet
+EndChar

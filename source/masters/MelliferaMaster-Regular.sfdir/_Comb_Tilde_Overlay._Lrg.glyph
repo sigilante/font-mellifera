@@ -1,0 +1,21 @@
+StartChar: CombTildeOverlay.Lrg
+Encoding: 226 -1 222
+GlifName: C_ombT_ildeO_verlay.L_rg
+Width: 1022
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1022 566 m 257
+ 968 589 l 257
+ 923 511 844 466 753 466 c 256
+ 659 466 440 579 309 579 c 256
+ 164 579 47 462 0 353 c 257
+ 53 333 l 257
+ 102 407 173 454 266 454 c 256
+ 374 454 590 341 712 341 c 256
+ 856 341 975 458 1022 566 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

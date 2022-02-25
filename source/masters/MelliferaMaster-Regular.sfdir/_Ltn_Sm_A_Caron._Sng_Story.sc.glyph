@@ -1,0 +1,21 @@
+StartChar: LtnSmACaron.SngStory.sc
+Encoding: 1972 -1 1956
+GlifName: L_tnS_mA_C_aron.S_ngS_tory.sc
+Width: 1146
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 563 0 basechar 0
+AnchorPoint: "L" 563 -76 basechar 0
+AnchorPoint: "O" 902 7 basechar 0
+AnchorPoint: "U" 563 1545 basechar 0
+LayerCount: 2
+Fore
+Refer: 1868 -1 N 1 0 0 1 0 0 2
+Refer: 66 780 N 1 0 0 1 1077 95 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

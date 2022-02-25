@@ -1,0 +1,19 @@
+StartChar: LftParen.Sophia
+Encoding: 1265 -1 1253
+GlifName: L_ftP_aren.S_ophia
+Width: 266
+VWidth: 0
+Flags: W
+AnchorPoint: "C" 132 222 mark 0
+LayerCount: 2
+Fore
+SplineSet
+150 -98 m 257
+ 198 -98 l 257
+ 162 6 137 113 137 222 c 256
+ 137 332 161 440 198 542 c 257
+ 150 542 l 257
+ 97 446 67 334 67 222 c 256
+ 67 110 97 1 150 -98 c 257
+EndSplineSet
+EndChar

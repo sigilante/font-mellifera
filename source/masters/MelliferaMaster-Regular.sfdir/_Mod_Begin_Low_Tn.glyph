@@ -1,0 +1,18 @@
+StartChar: ModBeginLowTn
+Encoding: 3724 763 3708
+GlifName: M_odB_eginL_owT_n
+Width: 631
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+52 -304 m 257
+ 583 -304 l 257
+ 583 -217 l 257
+ 139 -217 l 257
+ 139 350 l 257
+ 52 350 l 257
+ 52 -304 l 257
+EndSplineSet
+EndChar

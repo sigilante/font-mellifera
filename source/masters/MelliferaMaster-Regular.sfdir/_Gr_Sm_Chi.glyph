@@ -1,0 +1,37 @@
+StartChar: GrSmChi
+Encoding: 1048 967 1043
+GlifName: G_rS_mC_hi
+Width: 996
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 504 -600 basechar 0
+AnchorPoint: "U" 524 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+791 -380 m 256
+ 829 -380 872 -356 996 -258 c 257
+ 986 -213 l 257
+ 920 -245 892 -249 871 -249 c 256
+ 806 -249 694 -31 551 363 c 256
+ 362 885 298 928 249 960 c 257
+ 162 922 116 899 20 879 c 257
+ 20 839 l 257
+ 20 839 92 843 123 834 c 256
+ 204 811 286 682 443 252 c 257
+ 614 -202 686 -380 791 -380 c 256
+74 -380 m 257
+ 123 -365 209 -340 261 -334 c 257
+ 339 -156 466 99 516 222 c 257
+ 458 312 l 257
+ 353 91 214 -136 45 -346 c 257
+ 74 -380 l 257
+560 264 m 257
+ 676 500 802 713 949 927 c 257
+ 921 960 l 257
+ 872 946 792 935 741 929 c 257
+ 686 754 600 546 504 355 c 257
+ 560 264 l 257
+EndSplineSet
+Kerns2: 1116 -80 "'kern' Horizontal Kerning lookup 0 subtable" 1161 -70 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

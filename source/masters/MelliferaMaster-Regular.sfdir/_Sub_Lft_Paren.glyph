@@ -1,0 +1,18 @@
+StartChar: SubLftParen
+Encoding: 4081 8333 4057
+GlifName: S_ubL_ftP_aren
+Width: 454
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+405 -399 m 257
+ 427 -372 l 257
+ 284 -271 214 -53 214 181 c 256
+ 214 437 305 636 427 723 c 257
+ 405 750 l 257
+ 212 664 75 427 75 164 c 256
+ 75 -91 193 -316 405 -399 c 257
+EndSplineSet
+EndChar

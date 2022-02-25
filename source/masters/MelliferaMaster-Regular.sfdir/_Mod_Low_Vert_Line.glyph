@@ -1,0 +1,19 @@
+StartChar: ModLowVertLine
+Encoding: 3796 716 3780
+GlifName: M_odL_owV_ertL_ine
+Width: 420
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+270 -469 m 257
+ 270 116 l 257
+ 243 140 l 257
+ 217 134 173 120 150 110 c 257
+ 150 -478 l 257
+ 175 -500 l 257
+ 201 -494 243 -482 270 -469 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

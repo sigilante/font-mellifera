@@ -1,0 +1,27 @@
+StartChar: SubPlusSgn
+Encoding: 4085 8330 4061
+GlifName: S_ubP_lusS_gn
+Width: 588
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+545 156 m 257
+ 528 171 l 257
+ 64 171 l 257
+ 56 155 48 114 43 98 c 257
+ 60 84 l 257
+ 524 84 l 257
+ 531 97 540 140 545 156 c 257
+  PathStart: -1
+344 -68 m 257
+ 344 328 l 257
+ 327 342 l 257
+ 307 338 261 329 243 325 c 257
+ 243 -74 l 257
+ 261 -87 l 257
+ 281 -83 326 -76 344 -68 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

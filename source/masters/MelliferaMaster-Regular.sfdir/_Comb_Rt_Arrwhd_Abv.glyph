@@ -1,0 +1,28 @@
+StartChar: CombRtArrwhdAbv
+Encoding: 206 848 202
+GlifName: C_ombR_tA_rrwhdA_bv
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -518 1450 basechar 0
+AnchorPoint: "U" -518 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-208 1309 m 257
+ -226 1329 l 257
+ -762 1529 l 257
+ -781 1513 -805 1496 -829 1477 c 257
+ -816 1445 l 257
+ -233 1229 l 257
+ -223 1250 -213 1286 -208 1309 c 257
+  PathStart: -1
+-208 1309 m 257
+ -226 1329 l 257
+ -805 1113 l 257
+ -813 1094 -822 1055 -829 1034 c 257
+ -809 1014 l 257
+ -233 1229 l 257
+ -223 1250 -213 1286 -208 1309 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

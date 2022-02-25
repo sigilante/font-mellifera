@@ -1,0 +1,26 @@
+StartChar: LtnSmO.sc
+Encoding: 2922 -1 2906
+GlifName: L_tnS_mO_.sc
+Width: 1155
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 550 7 basechar 0
+AnchorPoint: "L" 556 -76 basechar 0
+AnchorPoint: "O" 635 7 basechar 0
+AnchorPoint: "R" 1172 920 basechar 0
+AnchorPoint: "U" 578 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+536 -24 m 256
+ 820 -24 1061 236 1061 535 c 256
+ 1061 803 898 1065 589 1065 c 256
+ 296 1065 64 805 64 505 c 256
+ 64 228 236 -24 536 -24 c 256
+562 88 m 256
+ 377 88 219 290 219 530 c 256
+ 219 791 348 957 562 957 c 256
+ 768 957 905 740 905 520 c 256
+ 905 237 762 88 562 88 c 256
+EndSplineSet
+EndChar

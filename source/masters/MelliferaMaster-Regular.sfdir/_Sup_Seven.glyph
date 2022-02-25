@@ -1,0 +1,25 @@
+StartChar: SupSeven
+Encoding: 4104 8311 4080
+GlifName: S_upS_even
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 308 540 basechar 0
+AnchorPoint: "U" 350 1445 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+630 1320 m 257
+ 606 1342 l 257
+ 103 1342 l 257
+ 92 1307 79 1226 73 1189 c 257
+ 115 1178 l 257
+ 155 1271 178 1255 205 1255 c 258
+ 498 1255 l 257
+ 395 1051 313 867 150 622 c 257
+ 179 602 l 257
+ 225 612 279 627 312 646 c 257
+ 361 774 500 1062 630 1320 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

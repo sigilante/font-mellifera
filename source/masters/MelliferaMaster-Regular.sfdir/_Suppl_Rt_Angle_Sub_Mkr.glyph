@@ -1,0 +1,27 @@
+StartChar: SupplRtAngleSubMkr
+Encoding: 4123 11776 4099
+GlifName: S_upplR_tA_ngleS_ubM_kr
+Width: 506
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+151 626 m 257
+ 151 1177 l 257
+ 125 1202 l 257
+ 98 1196 62 1181 40 1171 c 257
+ 40 617 l 257
+ 64 594 l 257
+ 91 601 125 613 151 626 c 257
+  PathStart: -1
+451 1238 m 257
+ 426 1260 l 257
+ 70 1260 l 257
+ 59 1236 47 1200 40 1171 c 257
+ 65 1149 l 257
+ 420 1149 l 257
+ 430 1169 443 1209 451 1238 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

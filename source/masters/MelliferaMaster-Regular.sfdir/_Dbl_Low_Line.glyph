@@ -1,0 +1,27 @@
+StartChar: DblLowLine
+Encoding: 692 8215 688
+GlifName: D_blL_owL_ine
+Width: 802
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+831 -156 m 257
+ 808 -131 l 257
+ 6 -131 l 257
+ -6 -158 -18 -193 -25 -219 c 257
+ 0 -246 l 257
+ 802 -246 l 257
+ 813 -221 825 -184 831 -156 c 257
+  PathStart: -1
+831 -376 m 257
+ 808 -351 l 257
+ 6 -351 l 257
+ -6 -378 -18 -413 -25 -439 c 257
+ 0 -466 l 257
+ 802 -466 l 257
+ 813 -441 825 -404 831 -376 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

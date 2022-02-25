@@ -1,0 +1,20 @@
+StartChar: CombMacron.LP
+Encoding: 184 -1 180
+GlifName: C_ombM_acron.L_P_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -525 1370 basechar 0
+AnchorPoint: "U" -525 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-177 1241 m 257
+ -199 1265 l 257
+ -812 1265 l 257
+ -825 1239 -847 1189 -853 1160 c 257
+ -831 1135 l 257
+ -216 1135 l 257
+ -206 1160 -183 1212 -177 1241 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

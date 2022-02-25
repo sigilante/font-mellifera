@@ -1,0 +1,21 @@
+StartChar: ModTriangularColon
+Encoding: 3916 720 3900
+GlifName: M_odT_riangularC_olon
+Width: 532
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 266 -100 basechar 0
+AnchorPoint: "U" 266 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+266 619 m 257
+ 422 930 l 257
+ 110 930 l 257
+ 266 619 l 257
+266 311 m 257
+ 110 0 l 257
+ 422 0 l 257
+ 266 311 l 257
+EndSplineSet
+EndChar

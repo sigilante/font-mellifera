@@ -1,0 +1,26 @@
+StartChar: LtnSmSdwysOpnO
+Encoding: 3226 7442 3210
+GlifName: L_tnS_mS_dwysO_pnO_
+Width: 1110
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 588 -100 basechar 0
+AnchorPoint: "U" 588 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+280 85 m 257
+ 321 124 l 257
+ 194 272 192 313 192 388 c 256
+ 192 548 338 695 565 695 c 256
+ 815 695 940 565 940 425 c 256
+ 940 288 864 216 817 194 c 257
+ 807 157 l 257
+ 844 132 938 94 971 100 c 257
+ 1018 145 1050 247 1050 335 c 256
+ 1050 622 821 845 534 845 c 256
+ 237 845 60 655 60 460 c 256
+ 60 335 76 259 280 85 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

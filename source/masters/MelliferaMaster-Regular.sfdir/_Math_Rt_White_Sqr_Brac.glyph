@@ -1,0 +1,27 @@
+StartChar: MathRtWhiteSqrBrac
+Encoding: 3711 10215 3695
+GlifName: M_athR_tW_hiteS_qrB_rac
+Width: 900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+480 -220 m 257
+ 480 1485 l 257
+ 625 1485 l 257
+ 625 -220 l 257
+ 480 -220 l 257
+345 1485 m 257
+ 345 -220 l 257
+ 84 -220 l 257
+ 76 -236 61 -276 55 -309 c 257
+ 90 -335 l 257
+ 760 -335 l 257
+ 760 1600 l 257
+ 84 1600 l 257
+ 74 1577 63 1540 57 1514 c 257
+ 90 1485 l 257
+ 345 1485 l 257
+EndSplineSet
+EndChar

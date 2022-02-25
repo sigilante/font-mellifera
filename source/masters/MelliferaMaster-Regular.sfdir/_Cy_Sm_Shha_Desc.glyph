@@ -1,0 +1,12 @@
+StartChar: CySmShhaDesc
+Encoding: 620 1319 616
+GlifName: C_yS_mS_hhaD_esc
+Width: 1170
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 577 -100 basechar 0
+AnchorPoint: "U" 577 1620 basechar 0
+LayerCount: 2
+Fore
+Refer: 2583 11368 N 1 0 0 1 0 0 2
+EndChar

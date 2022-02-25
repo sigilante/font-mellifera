@@ -1,0 +1,29 @@
+StartChar: LtnCapILonga
+Encoding: 1505 43006 1489
+GlifName: L_tnC_apI_L_onga
+Width: 610
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 295 0 basechar 0
+AnchorPoint: "L" 295 -100 basechar 0
+AnchorPoint: "O" 345 0 basechar 0
+AnchorPoint: "R" 580 1100 basechar 0
+AnchorPoint: "U" 295 1660 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70 0 m 257
+ 520 0 l 257
+ 520 43 l 257
+ 424 61 375 88 375 104 c 258
+ 375 1445 l 258
+ 375 1464 430 1488 520 1507 c 257
+ 520 1550 l 257
+ 70 1550 l 257
+ 70 1507 l 257
+ 166 1488 215 1461 215 1445 c 258
+ 215 104 l 258
+ 215 86 160 61 70 43 c 257
+ 70 0 l 257
+EndSplineSet
+EndChar

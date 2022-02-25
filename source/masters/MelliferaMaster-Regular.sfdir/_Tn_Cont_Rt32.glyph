@@ -1,0 +1,13 @@
+StartChar: TnContRt32
+Encoding: 4178 -1 4154
+GlifName: T_nC_ontR_t32
+Width: 551
+VWidth: 0
+Flags: W
+AnchorPoint: "TL" 551 399 basechar 0
+AnchorPoint: "TL_" 127 766 basechar 0
+LayerCount: 2
+Fore
+Refer: 4214 -1 N 1 0 0 1 0 0 2
+Refer: 4195 -1 N 1 0 0 1 126 0 2
+EndChar

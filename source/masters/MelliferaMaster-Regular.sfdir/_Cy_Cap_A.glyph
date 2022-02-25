@@ -1,0 +1,34 @@
+StartChar: CyCapA
+Encoding: 248 1040 244
+GlifName: C_yC_apA_
+Width: 1219
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 599 -100 basechar 0
+AnchorPoint: "U" 599 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+381 445 m 257
+ 789 445 l 257
+ 903 111 l 258
+ 918 68 879 49 776 43 c 257
+ 776 0 l 257
+ 1198 0 l 257
+ 1198 43 l 257
+ 1112 53 1080 74 1067 111 c 258
+ 647 1317 l 257
+ 609 1299 562 1269 530 1237 c 257
+ 158 111 l 258
+ 145 71 90 59 0 43 c 257
+ 0 0 l 257
+ 416 0 l 257
+ 416 43 l 257
+ 307 55 256 70 270 111 c 258
+ 381 445 l 257
+758 535 m 257
+ 411 535 l 257
+ 582 1049 l 257
+ 758 535 l 257
+EndSplineSet
+EndChar

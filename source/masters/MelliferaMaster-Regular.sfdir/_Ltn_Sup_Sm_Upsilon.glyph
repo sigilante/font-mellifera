@@ -1,0 +1,32 @@
+StartChar: LtnSupSmUpsilon
+Encoding: 3673 7607 3657
+GlifName: L_tnS_upS_mU_psilon
+Width: 705
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 350 540 basechar 0
+AnchorPoint: "O" 388 620 basechar 0
+AnchorPoint: "R" 797 1136 basechar 0
+AnchorPoint: "U" 350 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+333 602 m 256
+ 525 602 635 770 635 882 c 256
+ 635 967 614 1030 532 1091 c 256
+ 508 1109 577 1128 645 1142 c 257
+ 645 1178 l 257
+ 403 1178 l 257
+ 387 1113 l 257
+ 472 1069 517 971 517 854 c 256
+ 517 769 469 677 363 677 c 256
+ 259 677 180 778 180 882 c 256
+ 180 991 214 1054 307 1113 c 257
+ 292 1178 l 257
+ 50 1178 l 257
+ 50 1142 l 257
+ 105 1132 197 1111 171 1091 c 256
+ 91 1030 55 942 55 855 c 256
+ 55 730 141 602 333 602 c 256
+EndSplineSet
+EndChar

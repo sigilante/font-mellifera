@@ -1,0 +1,26 @@
+StartChar: CySmFita
+Encoding: 488 1139 484
+GlifName: C_yS_mF_ita
+Width: 1030
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 525 -100 basechar 0
+AnchorPoint: "U" 525 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+496 -30 m 256
+ 739 -30 950 219 950 485 c 256
+ 950 758 786 960 535 960 c 256
+ 285 960 80 709 80 444 c 256
+ 80 172 244 -30 496 -30 c 256
+524 80 m 256
+ 409 80 257 238 237 430 c 257
+ 795 430 l 257
+ 789 216 706 80 524 80 c 256
+236 520 m 257
+ 246 709 318 850 506 850 c 256
+ 628 850 763 702 790 520 c 257
+ 236 520 l 257
+EndSplineSet
+EndChar

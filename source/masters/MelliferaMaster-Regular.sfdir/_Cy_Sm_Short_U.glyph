@@ -1,0 +1,19 @@
+StartChar: CySmShortU
+Encoding: 627 1118 623
+GlifName: C_yS_mS_hortU_
+Width: 1030
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 770 -100 basechar 0
+AnchorPoint: "U" 550 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 640 1091 N 1 0 0 1 0 0 2
+Refer: 51 -1 N 1 0 0 1 1147 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

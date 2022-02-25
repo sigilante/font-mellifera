@@ -1,0 +1,25 @@
+StartChar: DigitSeven
+Encoding: 708 55 704
+GlifName: D_igitS_even
+Width: 961
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 480 -100 basechar 0
+AnchorPoint: "U" 480 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+885 1167 m 257
+ 852 1205 l 257
+ 147 1205 l 257
+ 131 1146 113 1010 104 948 c 257
+ 150 930 l 257
+ 207 1085 240 1075 279 1075 c 258
+ 733 1075 l 257
+ 586 735 461 411 229 3 c 257
+ 270 -30 l 257
+ 336 -13 385 11 432 44 c 257
+ 502 257 700 737 885 1167 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

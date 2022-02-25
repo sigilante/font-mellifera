@@ -1,0 +1,27 @@
+StartChar: LftPtngDblAngQuotMrk
+Encoding: 1267 171 1255
+GlifName: L_ftP_tngD_blA_ngQ_uotM_rk
+Width: 994
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+450 430 m 257
+ 811 17 l 257
+ 854 47 l 257
+ 623 467 l 257
+ 620 465 854 883 853 883 c 257
+ 811 913 l 257
+ 452 503 l 257
+ 450 500 450 430 450 430 c 257
+80 430 m 257
+ 441 17 l 257
+ 484 47 l 257
+ 253 467 l 257
+ 250 465 484 883 483 883 c 257
+ 441 913 l 257
+ 82 503 l 257
+ 80 500 80 430 80 430 c 257
+EndSplineSet
+EndChar

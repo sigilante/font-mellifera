@@ -1,0 +1,12 @@
+StartChar: TnStaffLft4
+Encoding: 4246 -1 4222
+GlifName: T_nS_taffL_ft4
+Width: 152
+VWidth: 0
+Flags: W
+AnchorPoint: "TL" 172 1131 basechar 0
+LayerCount: 2
+Fore
+Refer: 4212 -1 N 1 0 0 1 0 0 2
+Refer: 4178 -1 N 1 0 0 1 152 0 2
+EndChar

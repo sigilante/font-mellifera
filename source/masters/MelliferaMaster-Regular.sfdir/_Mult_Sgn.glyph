@@ -1,0 +1,26 @@
+StartChar: MultSgn
+Encoding: 3928 215 3912
+GlifName: M_ultS_gn
+Width: 840
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+746 280 m 257
+ 746 314 l 257
+ 187 873 l 257
+ 158 866 120 854 94 842 c 257
+ 95 808 l 257
+ 654 249 l 257
+ 678 255 719 269 746 280 c 257
+  PathStart: -1
+93 314 m 257
+ 93 280 l 257
+ 120 269 161 255 186 249 c 257
+ 745 808 l 257
+ 745 842 l 257
+ 719 854 681 866 652 873 c 257
+ 93 314 l 257
+EndSplineSet
+EndChar

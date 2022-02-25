@@ -1,0 +1,15 @@
+StartChar: LtnCapUOgonek
+Encoding: 1776 370 1760
+GlifName: L_tnC_apU_O_gonek
+Width: 1339
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 677 0 basechar 0
+AnchorPoint: "L" 710 -600 basechar 0
+AnchorPoint: "R" 1330 1250 basechar 0
+AnchorPoint: "U" 677 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1732 85 N 1 0 0 1 0 0 2
+Refer: 192 808 N 1 0 0 1 1224 0 2
+EndChar

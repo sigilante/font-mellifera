@@ -1,0 +1,33 @@
+StartChar: GrSmTau
+Encoding: 1178 964 1173
+GlifName: G_rS_mT_au
+Width: 881
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+881 930 m 257
+ 854 960 l 257
+ 824 935 774 930 708 930 c 256
+ 598 930 427 930 260 930 c 256
+ 175 930 94 849 30 772 c 257
+ 51 737 l 257
+ 118 779 158 795 213 795 c 258
+ 254 795 l 258
+ 360 795 581 785 687 785 c 256
+ 757 785 813 844 881 930 c 257
+  PathStart: -1
+776 127 m 257
+ 752 172 l 257
+ 645 127 590 110 540 110 c 256
+ 448 110 440 273 440 359 c 256
+ 440 490 445 659 458 873 c 257
+ 350 879 l 257
+ 331 631 300 402 300 228 c 256
+ 300 107 341 -30 452 -30 c 256
+ 537 -30 625 25 776 127 c 257
+  PathStart: -1
+EndSplineSet
+Kerns2: 1161 -41 "'kern' Horizontal Kerning lookup 0 subtable" 1164 -41 "'kern' Horizontal Kerning lookup 0 subtable" 1171 -41 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,29 @@
+StartChar: ModChinantecTnMrkDotHorizBarDep
+Encoding: 3751 61850 3735
+GlifName: M_odC_hinantecT_nM_rkD_otH_orizB_arD_ep
+Width: 731
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+10 1579 m 257
+ 10 1175 l 257
+ 711 1175 l 257
+ 711 1579 l 257
+ 10 1579 l 257
+434 1480 m 256
+ 434 1443 403 1411 366 1411 c 256
+ 328 1411 296 1443 296 1480 c 256
+ 296 1517 328 1549 366 1549 c 256
+ 403 1549 434 1517 434 1480 c 256
+  PathStart: -1
+656 1316 m 257
+ 681 1294 l 257
+ 673 1265 660 1225 650 1205 c 257
+ 65 1205 l 257
+ 40 1227 l 257
+ 47 1256 59 1292 70 1316 c 257
+ 656 1316 l 257
+EndSplineSet
+EndChar

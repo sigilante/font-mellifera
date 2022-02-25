@@ -1,0 +1,24 @@
+StartChar: CombOgonek.RetroHook
+Encoding: 198 -1 194
+GlifName: C_ombO_gonek.R_etroH_ook
+Width: 366
+VWidth: 0
+Flags: W
+AnchorPoint: "L" -64 -600 basechar 0
+AnchorPoint: "L" -84 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+297 -235 m 257
+ 278 -196 l 257
+ 237 -190 103 -253 112 -264 c 256
+ 152 -312 134 -405 56 -405 c 256
+ -10 -405 -41 -359 -41 -196 c 258
+ -41 86 l 257
+ -131 54 l 257
+ -131 -247 l 258
+ -131 -422 -60 -500 52 -500 c 256
+ 207 -500 305 -336 297 -235 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,34 @@
+StartChar: LtnCapRRotunda
+Encoding: 1681 42842 1665
+GlifName: L_tnC_apR_R_otunda
+Width: 883
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 406 -100 basechar 0
+AnchorPoint: "U" 410 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+883 18 m 257
+ 877 61 l 257
+ 799 55 764 72 723 111 c 258
+ 303 524 l 257
+ 155 458 l 257
+ 554 43 l 258
+ 588 8 613 -10 669 -10 c 256
+ 697 -10 805 0 883 18 c 257
+  PathStart: -1
+848 917 m 256
+ 848 1145 731 1286 476 1286 c 256
+ 319 1286 162 1200 0 1030 c 257
+ 3 1021 31 987 44 976 c 257
+ 180 1102 280 1170 391 1170 c 256
+ 580 1170 677 1055 677 876 c 256
+ 677 672 477 568 256 568 c 257
+ 221 555 166 527 137 507 c 257
+ 141 493 149 467 155 458 c 257
+ 180 467 229 482 266 482 c 256
+ 534 482 848 661 848 917 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

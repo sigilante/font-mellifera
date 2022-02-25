@@ -1,0 +1,19 @@
+StartChar: LtnSmJStrk.Dotless
+Encoding: 2751 -1 2735
+GlifName: L_tnS_mJ_S_trk.D_otless
+Width: 595
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 189 -600 basechar 0
+AnchorPoint: "R" 596 900 basechar 0
+AnchorPoint: "U" 189 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 2356 607 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

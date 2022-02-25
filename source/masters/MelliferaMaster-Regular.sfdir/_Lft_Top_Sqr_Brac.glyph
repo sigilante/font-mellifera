@@ -1,0 +1,18 @@
+StartChar: LftTopSqrBrac
+Encoding: 1292 9121 1277
+GlifName: L_ftT_opS_qrB_rac
+Width: 900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+210 -950 m 257
+ 360 -950 l 257
+ 360 1810 l 257
+ 700 1810 l 257
+ 700 1900 l 257
+ 210 1900 l 257
+ 210 -950 l 257
+EndSplineSet
+EndChar

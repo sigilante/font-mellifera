@@ -1,0 +1,22 @@
+StartChar: LtnSmLigIj.sc
+Encoding: 2848 -1 2832
+GlifName: L_tnS_mL_igI_j.sc
+Width: 1160
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 277 7 basechar 0
+AnchorPoint: "L" 883 -491 basechar 0
+AnchorPoint: "O" 324 7 basechar 0
+AnchorPoint: "R" 545 920 basechar 0
+AnchorPoint: "U" 883 1145 basechar 0
+LayerCount: 2
+Fore
+Refer: 2615 -1 N 1 0 0 1 0 0 2
+Refer: 2723 -1 N 1 0 0 1 573 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

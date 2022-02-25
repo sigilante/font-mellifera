@@ -1,0 +1,35 @@
+StartChar: IdenticalTo
+Encoding: 1233 8801 1228
+GlifName: I_denticalT_o
+Width: 899
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+838 590 m 257
+ 813 615 l 257
+ 92 615 l 257
+ 80 590 68 557 61 530 c 257
+ 86 505 l 257
+ 809 505 l 257
+ 817 528 831 564 838 590 c 257
+  PathStart: -1
+838 360 m 257
+ 813 385 l 257
+ 92 385 l 257
+ 80 358 68 329 61 302 c 257
+ 86 275 l 257
+ 809 275 l 257
+ 817 300 831 332 838 360 c 257
+  PathStart: -1
+838 820 m 257
+ 813 845 l 257
+ 92 845 l 257
+ 80 820 68 787 61 760 c 257
+ 86 735 l 257
+ 809 735 l 257
+ 817 758 831 794 838 820 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

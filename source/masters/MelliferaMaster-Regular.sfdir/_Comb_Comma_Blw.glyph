@@ -1,0 +1,21 @@
+StartChar: CombCommaBlw
+Encoding: 86 806 83
+GlifName: C_ombC_ommaB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -520 -600 basechar 0
+AnchorPoint: "L" -520 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-399 -288 m 257
+ -388 -233 -408 -143 -476 -110 c 257
+ -518 -103 -661 -142 -685 -164 c 257
+ -676 -207 l 257
+ -572 -215 -532 -273 -535 -332 c 256
+ -537 -376 -575 -448 -611 -470 c 257
+ -576 -507 l 257
+ -468 -457 -413 -363 -399 -288 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

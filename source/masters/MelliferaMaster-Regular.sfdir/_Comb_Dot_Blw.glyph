@@ -1,0 +1,18 @@
+StartChar: CombDotBlw
+Encoding: 122 803 119
+GlifName: C_ombD_otB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -515 -600 basechar 0
+AnchorPoint: "L" -515 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-415 -279 m 257
+ -415 -217 -443 -184 -500 -184 c 256
+ -563 -184 -615 -244 -615 -320 c 256
+ -615 -381 -590 -416 -531 -416 c 256
+ -465 -416 -415 -354 -415 -279 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

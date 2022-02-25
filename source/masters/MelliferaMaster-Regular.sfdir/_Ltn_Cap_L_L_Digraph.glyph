@@ -1,0 +1,40 @@
+StartChar: LtnCapLLDigraph
+Encoding: 1555 7930 1539
+GlifName: L_tnC_apL_L_D_igraph
+Width: 1315
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 667 0 basechar 0
+AnchorPoint: "L" 667 -100 basechar 0
+AnchorPoint: "R" 990 900 basechar 0
+AnchorPoint: "U" 637 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1284 244 m 257
+ 1241 262 l 257
+ 1184 106 1147 90 1024 90 c 258
+ 881 90 l 258
+ 735 90 695 117 695 164 c 258
+ 695 1155 l 258
+ 695 1174 750 1198 840 1217 c 257
+ 840 1260 l 257
+ 50 1260 l 257
+ 50 1217 l 257
+ 146 1198 195 1171 195 1155 c 258
+ 195 104 l 258
+ 195 86 140 61 50 43 c 257
+ 50 0 l 257
+ 1243 0 l 257
+ 1253 39 1274 129 1284 244 c 257
+  PathStart: -1
+535 1155 m 257
+ 535 104 l 258
+ 535 90 501 71 444 55 c 257
+ 385 72 355 91 355 104 c 258
+ 355 1155 l 258
+ 355 1170 388 1188 446 1204 c 257
+ 505 1187 535 1167 535 1155 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

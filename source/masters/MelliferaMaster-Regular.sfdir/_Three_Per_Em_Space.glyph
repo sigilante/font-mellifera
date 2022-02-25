@@ -1,0 +1,13 @@
+StartChar: ThreePerEmSpace
+Encoding: 4138 8196 4114
+GlifName: T_hreeP_erE_mS_pace
+Width: 525
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 262 0 basechar 0
+AnchorPoint: "L" 262 -100 basechar 0
+AnchorPoint: "O" 287 0 basechar 0
+AnchorPoint: "R" 524 900 basechar 0
+AnchorPoint: "U" 262 1435 basechar 0
+LayerCount: 2
+EndChar

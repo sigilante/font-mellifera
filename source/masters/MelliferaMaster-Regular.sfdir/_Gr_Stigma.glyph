@@ -1,0 +1,31 @@
+StartChar: GrStigma
+Encoding: 1206 986 1201
+GlifName: G_rS_tigma
+Width: 1184
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 543 -100 basechar 0
+AnchorPoint: "O" 604 0 basechar 0
+AnchorPoint: "R" 1078 1250 basechar 0
+AnchorPoint: "U" 543 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1190 1392 m 257
+ 1182 1402 1154 1417 1142 1425 c 257
+ 1048 1309 956 1265 915 1265 c 256
+ 842 1265 777 1290 692 1290 c 256
+ 379 1290 70 1041 70 586 c 256
+ 70 227 284 -20 573 -20 c 256
+ 814 -20 873 -79 873 -146 c 256
+ 873 -193 869 -263 845 -362 c 257
+ 860 -370 880 -376 898 -380 c 257
+ 988 -187 1017 -70 1017 -17 c 256
+ 1017 72 970 119 667 119 c 256
+ 351 119 221 340 221 626 c 256
+ 221 1006 428 1173 608 1173 c 256
+ 728 1173 838 1091 887 1091 c 256
+ 926 1091 1031 1139 1190 1392 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

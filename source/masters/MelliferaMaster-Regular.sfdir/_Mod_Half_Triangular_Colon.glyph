@@ -1,0 +1,15 @@
+StartChar: ModHalfTriangularColon
+Encoding: 3777 721 3761
+GlifName: M_odH_alfT_riangularC_olon
+Width: 532
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+266 619 m 257
+ 422 930 l 257
+ 110 930 l 257
+ 266 619 l 257
+EndSplineSet
+EndChar

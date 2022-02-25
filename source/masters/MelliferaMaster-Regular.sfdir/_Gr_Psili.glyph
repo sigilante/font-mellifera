@@ -1,0 +1,22 @@
+StartChar: GrPsili
+Encoding: 994 8127 989
+GlifName: G_rP_sili
+Width: 383
+VWidth: 0
+Flags: W
+AnchorPoint: "G" 383 1360 mark 0
+AnchorPoint: "U" 191 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+325 1360 m 257
+ 330 1428 309 1498 236 1529 c 257
+ 194 1534 54 1490 33 1464 c 257
+ 44 1422 l 257
+ 149 1421 189 1360 184 1289 c 256
+ 180 1228 151 1176 95 1125 c 257
+ 134 1092 l 257
+ 263 1173 318 1268 325 1360 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,25 @@
+StartChar: SubSeven
+Encoding: 4087 8327 4063
+GlifName: S_ubS_even
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 308 -290 basechar 0
+AnchorPoint: "U" 350 615 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+630 490 m 257
+ 606 512 l 257
+ 103 512 l 257
+ 92 477 79 396 73 359 c 257
+ 115 348 l 257
+ 155 441 178 425 205 425 c 258
+ 498 425 l 257
+ 395 221 313 37 150 -208 c 257
+ 179 -228 l 257
+ 225 -218 279 -203 312 -184 c 257
+ 361 -56 500 232 630 490 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

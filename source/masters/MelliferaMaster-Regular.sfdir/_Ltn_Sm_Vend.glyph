@@ -1,0 +1,33 @@
+StartChar: LtnSmVend
+Encoding: 3453 42857 3437
+GlifName: L_tnS_mV_end
+Width: 900
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 450 -600 basechar 0
+AnchorPoint: "U" 450 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+515 -480 m 257
+ 515 -437 l 257
+ 390 -418 345 -396 345 -375 c 258
+ 345 -64 l 257
+ 769 819 l 258
+ 787 856 799 868 879 887 c 257
+ 879 930 l 257
+ 556 930 l 257
+ 556 887 l 257
+ 654 872 678 858 660 819 c 258
+ 345 149 l 257
+ 345 926 l 257
+ 308 960 l 257
+ 228 917 150 899 55 880 c 257
+ 55 840 l 257
+ 168 827 195 827 195 706 c 258
+ 195 -375 l 258
+ 195 -398 143 -416 55 -437 c 257
+ 55 -480 l 257
+ 515 -480 l 257
+EndSplineSet
+EndChar

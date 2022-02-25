@@ -1,0 +1,28 @@
+StartChar: LtnCapOpnO
+Encoding: 1648 390 1632
+GlifName: L_tnC_apO_pnO_
+Width: 1098
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 508 -100 basechar 0
+AnchorPoint: "U" 539 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+451 -30 m 256
+ 778 -30 1018 258 1018 678 c 257
+ 1018 1065 764 1290 514 1290 c 256
+ 379 1290 250 1260 70 1081 c 257
+ 76 1073 92 1042 106 1036 c 257
+ 266 1149 373 1175 444 1175 c 256
+ 635 1175 863 995 863 641 c 256
+ 863 225 684 85 496 85 c 256
+ 338 85 235 203 235 299 c 256
+ 235 373 250 412 326 457 c 257
+ 303 506 l 257
+ 256 489 180 463 121 432 c 257
+ 76 381 61 330 61 274 c 256
+ 61 137 190 -30 451 -30 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

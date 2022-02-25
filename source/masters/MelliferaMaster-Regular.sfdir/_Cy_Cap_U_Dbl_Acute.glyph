@@ -1,0 +1,19 @@
+StartChar: CyCapUDblAcute
+Encoding: 370 1266 366
+GlifName: C_yC_apU_D_blA_cute
+Width: 1240
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 650 -100 basechar 0
+AnchorPoint: "U" 650 1908 basechar 0
+LayerCount: 2
+Fore
+Refer: 365 1059 N 1 0 0 1 0 0 2
+Refer: 84 779 N 1 0 0 1 1150 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

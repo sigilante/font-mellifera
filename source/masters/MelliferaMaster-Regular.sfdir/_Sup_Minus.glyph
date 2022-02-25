@@ -1,0 +1,19 @@
+StartChar: SupMinus
+Encoding: 4099 8315 4075
+GlifName: S_upM_inus
+Width: 483
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+440 957 m 257
+ 423 971 l 257
+ 64 971 l 257
+ 56 956 48 915 43 897 c 257
+ 60 883 l 257
+ 419 883 l 257
+ 426 896 435 940 440 957 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

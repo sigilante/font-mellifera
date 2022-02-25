@@ -1,0 +1,20 @@
+StartChar: Caron
+Encoding: 31 711 28
+GlifName: C_aron
+Width: 733
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 367 1410 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+421 1071 m 257
+ 683 1428 l 257
+ 667 1455 663 1463 640 1475 c 257
+ 370 1224 l 257
+ 95 1475 l 257
+ 73 1463 69 1455 50 1428 c 257
+ 314 1071 l 257
+ 421 1071 l 257
+EndSplineSet
+EndChar

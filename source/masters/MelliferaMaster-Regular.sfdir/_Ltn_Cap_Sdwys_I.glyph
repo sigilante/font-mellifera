@@ -1,0 +1,26 @@
+StartChar: LtnCapSdwysI
+Encoding: 1709 42999 1693
+GlifName: L_tnC_apS_dwysI_
+Width: 1420
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 700 327 basechar 0
+AnchorPoint: "U" 700 974 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1330 405 m 257
+ 1330 855 l 257
+ 1287 855 l 257
+ 1269 759 1242 710 1226 710 c 258
+ 175 710 l 258
+ 156 710 132 765 113 855 c 257
+ 70 855 l 257
+ 70 405 l 257
+ 113 405 l 257
+ 132 501 159 550 175 550 c 258
+ 1226 550 l 258
+ 1244 550 1269 495 1287 405 c 257
+ 1330 405 l 257
+EndSplineSet
+EndChar

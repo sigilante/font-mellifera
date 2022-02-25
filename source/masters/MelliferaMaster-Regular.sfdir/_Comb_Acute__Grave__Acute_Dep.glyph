@@ -1,0 +1,27 @@
+StartChar: CombAcute_Grave_AcuteDep
+Encoding: 46 61817 43
+GlifName: C_ombA_cute_G_rave_A_cuteD_ep
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -514 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-852 1415 m 257
+ -852 1037 l 257
+ -79 1037 l 257
+ -79 1415 l 257
+ -852 1415 l 257
+-414 1067 m 257
+ -563 1245 l 257
+ -785 1067 l 257
+ -803 1078 -807 1085 -822 1109 c 257
+ -613 1385 l 257
+ -517 1385 l 257
+ -368 1205 l 257
+ -146 1385 l 257
+ -128 1375 -124 1367 -109 1343 c 257
+ -318 1067 l 257
+ -414 1067 l 257
+EndSplineSet
+EndChar

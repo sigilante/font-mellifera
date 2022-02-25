@@ -1,0 +1,35 @@
+StartChar: LtnSmLMiddleTilde
+Encoding: 2823 619 2807
+GlifName: L_tnS_mL_M_iddleT_ilde
+Width: 682
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 341 -100 basechar 0
+AnchorPoint: "U" 341 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+116 0 m 257
+ 566 0 l 257
+ 566 43 l 257
+ 457 61 416 84 416 104 c 258
+ 416 1516 l 257
+ 380 1550 l 257
+ 298 1507 222 1489 126 1470 c 257
+ 126 1430 l 257
+ 238 1417 266 1417 266 1296 c 258
+ 266 104 l 258
+ 266 82 231 63 116 43 c 257
+ 116 0 l 257
+682 891 m 257
+ 628 914 l 257
+ 583 836 534 791 483 791 c 256
+ 419 791 340 904 239 904 c 256
+ 135 904 47 787 0 678 c 257
+ 53 658 l 257
+ 102 732 143 779 196 779 c 256
+ 274 779 350 666 442 666 c 256
+ 546 666 635 783 682 891 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

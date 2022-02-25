@@ -1,0 +1,32 @@
+StartChar: SupplDownwardsAncora
+Encoding: 10 11796 10
+GlifName: S_upplD_ownwardsA_ncora
+Width: 1105
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+940 768 m 257
+ 914 805 l 257
+ 875 801 822 771 783 753 c 257
+ 222 191 l 257
+ 246 155 l 257
+ 281 161 352 192 380 208 c 257
+ 940 768 l 257
+EndSplineSet
+Fore
+SplineSet
+217 91 m 257
+ 1082 956 l 257
+ 1052 996 l 257
+ 1012 995 977 992 951 980 c 257
+ 139 169 l 257
+ 103 345 l 257
+ 43 323 l 257
+ 43 0 l 257
+ 365 0 l 257
+ 388 60 l 257
+ 217 91 l 257
+EndSplineSet
+EndChar

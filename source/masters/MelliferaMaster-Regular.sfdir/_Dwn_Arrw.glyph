@@ -1,0 +1,22 @@
+StartChar: DwnArrw
+Encoding: 745 8595 741
+GlifName: D_wnA_rrw
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+568 -325 m 257
+ 816 251 l 257
+ 725 286 l 257
+ 561 -120 l 257
+ 561 1410 l 257
+ 440 1410 l 257
+ 440 -120 l 257
+ 277 286 l 257
+ 185 251 l 257
+ 433 -325 l 257
+ 568 -325 l 257
+EndSplineSet
+EndChar

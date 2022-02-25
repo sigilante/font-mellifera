@@ -1,0 +1,23 @@
+StartChar: LtnSmECircumHookAbv
+Encoding: 2417 7875 2401
+GlifName: L_tnS_mE_C_ircumH_ookA_bv
+Width: 946
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 500 0 basechar 0
+AnchorPoint: "L" 500 -100 basechar 0
+AnchorPoint: "O" 558 0 basechar 0
+AnchorPoint: "R" 1020 900 basechar 0
+AnchorPoint: "U" 510 1820 basechar 0
+LayerCount: 2
+Fore
+Refer: 2367 101 N 1 0 0 1 0 0 2
+Refer: 70 770 N 1 0 0 1 1024 0 2
+Refer: 138 777 N 1 0 0 1 1028 450 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

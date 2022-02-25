@@ -1,0 +1,17 @@
+StartChar: Apos
+Encoding: 19 39 16
+GlifName: A_pos
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+309 834 m 257
+ 352 1459 l 257
+ 309 1480 l 257
+ 281 1474 190 1443 160 1426 c 257
+ 213 813 l 257
+ 244 813 289 823 309 834 c 257
+EndSplineSet
+EndChar

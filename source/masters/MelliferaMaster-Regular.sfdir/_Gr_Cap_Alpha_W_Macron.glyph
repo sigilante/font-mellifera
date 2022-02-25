@@ -1,0 +1,11 @@
+StartChar: GrCapAlphaWMacron
+Encoding: 795 8121 790
+GlifName: G_rC_apA_lphaW_M_acron
+Width: 1219
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 774 913 N 1 0 0 1 0 0 2
+Refer: 180 -1 N 1 0 0 1 1115 320 2
+EndChar

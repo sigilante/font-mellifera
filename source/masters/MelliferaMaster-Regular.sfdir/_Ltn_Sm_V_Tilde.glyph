@@ -1,0 +1,21 @@
+StartChar: LtnSmVTilde
+Encoding: 3446 7805 3430
+GlifName: L_tnS_mV_T_ilde
+Width: 1010
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 499 0 basechar 0
+AnchorPoint: "L" 516 -100 basechar 0
+AnchorPoint: "O" 460 0 basechar 0
+AnchorPoint: "U" 536 1440 basechar 0
+LayerCount: 2
+Fore
+Refer: 3409 118 N 1 0 0 1 0 0 2
+Refer: 218 771 N 1 0 0 1 1051 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

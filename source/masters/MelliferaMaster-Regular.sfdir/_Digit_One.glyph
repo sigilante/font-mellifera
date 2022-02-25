@@ -1,0 +1,26 @@
+StartChar: DigitOne
+Encoding: 706 49 702
+GlifName: D_igitO_ne
+Width: 961
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 480 -100 basechar 0
+AnchorPoint: "U" 480 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+170 0 m 257
+ 840 0 l 257
+ 840 53 l 257
+ 639 78 590 117 590 143 c 258
+ 590 1210 l 257
+ 553 1245 l 257
+ 465 1196 250 1106 139 1075 c 257
+ 160 1024 l 257
+ 336 1061 406 1055 422 1038 c 256
+ 438 1020 440 993 440 940 c 258
+ 440 143 l 258
+ 440 115 379 78 170 53 c 257
+ 170 0 l 257
+EndSplineSet
+EndChar

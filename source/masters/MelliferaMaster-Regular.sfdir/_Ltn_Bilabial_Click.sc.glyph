@@ -1,0 +1,28 @@
+StartChar: LtnBilabialClick.sc
+Encoding: 1304 -1 1288
+GlifName: L_tnB_ilabialC_lick.sc
+Width: 1175
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 572 -76 basechar 0
+AnchorPoint: "U" 572 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+546 -24 m 256
+ 830 -24 1081 236 1081 535 c 256
+ 1081 803 908 1065 599 1065 c 256
+ 306 1065 64 805 64 505 c 256
+ 64 228 246 -24 546 -24 c 256
+572 957 m 256
+ 778 957 925 740 925 520 c 256
+ 925 237 772 88 572 88 c 256
+ 387 88 219 290 219 530 c 256
+ 219 791 358 957 572 957 c 256
+555 400 m 256
+ 629 400 685 467 685 555 c 256
+ 685 623 655 662 592 662 c 256
+ 520 662 460 592 460 506 c 256
+ 460 438 489 400 555 400 c 256
+EndSplineSet
+EndChar

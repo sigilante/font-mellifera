@@ -1,0 +1,27 @@
+StartChar: ModYangDepartingToneMrk
+Encoding: 3926 747 3910
+GlifName: M_odY_angD_epartingT_oneM_rk
+Width: 613
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+533 475 m 257
+ 508 502 l 257
+ 165 502 l 257
+ 151 475 144 463 136 436 c 257
+ 159 412 l 257
+ 506 412 l 257
+ 518 434 526 449 533 475 c 257
+  PathStart: -1
+190 201 m 257
+ 190 721 l 257
+ 163 745 l 257
+ 137 737 123 728 100 715 c 257
+ 100 192 l 257
+ 125 170 l 257
+ 151 178 163 185 190 201 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

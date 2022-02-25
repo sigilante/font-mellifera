@@ -1,0 +1,20 @@
+StartChar: CombMinusSgnBlw
+Encoding: 194 800 190
+GlifName: C_ombM_inusS_gnB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -515 -450 basechar 0
+AnchorPoint: "L" -515 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-285 -282 m 257
+ -310 -255 l 257
+ -716 -255 l 257
+ -730 -282 -737 -294 -745 -321 c 257
+ -722 -345 l 257
+ -312 -345 l 257
+ -300 -323 -292 -308 -285 -282 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

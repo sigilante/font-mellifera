@@ -1,0 +1,31 @@
+StartChar: LtnSmEngPalHook
+Encoding: 2482 122644 2466
+GlifName: L_tnS_mE_ngP_alH_ook
+Width: 1410
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 576 -600 basechar 0
+AnchorPoint: "U" 576 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+973 -287 m 257
+ 961 -400 1047 -500 1152 -500 c 256
+ 1239 -500 1380 -452 1380 -167 c 258
+ 1380 26 l 257
+ 1290 26 l 257
+ 1290 -196 l 258
+ 1290 -359 1249 -405 1198 -405 c 256
+ 1155 -405 1089 -341 1133 -221 c 257
+ 1126 -210 1115 -200 1110 -194 c 257
+ 1068 -210 996 -259 973 -287 c 257
+  PathStart: -1
+1353 80 m 257
+ 908 80 l 257
+ 908 0 l 257
+ 1380 0 l 257
+ 1380 48 l 257
+ 1373 59 1358 74 1353 80 c 257
+EndSplineSet
+Refer: 2458 331 N 1 0 0 1 0 0 2
+EndChar

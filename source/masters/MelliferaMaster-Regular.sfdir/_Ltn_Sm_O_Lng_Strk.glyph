@@ -1,0 +1,43 @@
+StartChar: LtnSmOLngStrk
+Encoding: 3003 42827 2987
+GlifName: L_tnS_mO_L_ngS_trk
+Width: 1084
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 552 -100 basechar 0
+AnchorPoint: "U" 552 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+977 485 m 256
+ 977 758 813 960 562 960 c 256
+ 312 960 107 709 107 444 c 256
+ 107 172 271 -30 523 -30 c 256
+ 766 -30 977 219 977 485 c 256
+  PathStart: -1
+820 505 m 257
+ 262 505 l 257
+ 269 702 340 850 533 850 c 256
+ 659 850 798 694 820 505 c 257
+  PathStart: -1
+551 80 m 256
+ 439 80 293 229 266 415 c 257
+ 822 415 l 257
+ 812 210 728 80 551 80 c 256
+  PathStart: -1
+203 415 m 257
+ 225 480 l 257
+ 203 505 l 257
+ 23 505 l 257
+ 12 484 6 458 0 437 c 257
+ 23 415 l 257
+ 203 415 l 257
+1062 415 m 257
+ 1084 480 l 257
+ 1062 505 l 257
+ 882 505 l 257
+ 871 484 865 458 859 437 c 257
+ 882 415 l 257
+ 1062 415 l 257
+EndSplineSet
+EndChar

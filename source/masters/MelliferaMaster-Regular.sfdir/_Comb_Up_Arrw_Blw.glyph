@@ -1,0 +1,24 @@
+StartChar: CombUpArrwBlw
+Encoding: 229 846 225
+GlifName: C_ombU_pA_rrwB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -517 -600 basechar 0
+AnchorPoint: "L" -517 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-470 -469 m 257
+ -470 -240 l 257
+ -324 -329 l 257
+ -298 -273 l 257
+ -515 -100 l 257
+ -736 -273 l 257
+ -710 -329 l 257
+ -560 -240 l 257
+ -560 -478 l 257
+ -535 -500 l 257
+ -509 -492 -497 -485 -470 -469 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

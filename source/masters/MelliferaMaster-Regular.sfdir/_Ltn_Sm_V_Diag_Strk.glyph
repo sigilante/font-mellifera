@@ -1,0 +1,37 @@
+StartChar: LtnSmVDiagStrk
+Encoding: 3430 42847 3414
+GlifName: L_tnS_mV_D_iagS_trk
+Width: 1010
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 516 -100 basechar 0
+AnchorPoint: "U" 536 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+989 887 m 257
+ 989 930 l 257
+ 666 930 l 257
+ 666 887 l 257
+ 764 872 785 860 770 819 c 258
+ 539 178 l 257
+ 293 819 l 258
+ 276 862 303 874 406 887 c 257
+ 406 930 l 257
+ 20 930 l 257
+ 20 887 l 257
+ 86 872 117 855 131 819 c 258
+ 461 -30 l 257
+ 496 -22 573 0 596 59 c 257
+ 879 819 l 258
+ 893 858 909 868 989 887 c 257
+  PathStart: -1
+677 1060 m 257
+ 659 1083 l 257
+ 635 1070 582 1051 570 1041 c 257
+ 140 -142 l 257
+ 168 -162 l 257
+ 199 -147 230 -127 252 -112 c 257
+ 677 1060 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,38 @@
+StartChar: LtnSmRamsHorn.GammaStyle
+Encoding: 3149 -1 3133
+GlifName: L_tnS_mR_amsH_orn.G_ammaS_tyle
+Width: 1019
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 524 -100 basechar 0
+AnchorPoint: "R" 1000 900 basechar 0
+AnchorPoint: "U" 524 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+989 887 m 257
+ 989 930 l 257
+ 655 930 l 257
+ 655 887 l 257
+ 754 872 775 853 750 819 c 258
+ 374 309 l 258
+ 331 251 308 203 308 146 c 256
+ 308 56 392 -30 510 -30 c 256
+ 689 -30 755 87 755 165 c 256
+ 755 245 744 286 678 367 c 258
+ 311 819 l 258
+ 283 853 303 874 406 887 c 257
+ 406 930 l 257
+ 20 930 l 257
+ 20 887 l 257
+ 86 872 118 849 141 819 c 258
+ 573 251 l 258
+ 607 206 615 180 615 152 c 256
+ 615 109 574 75 523 75 c 256
+ 471 75 418 107 418 169 c 256
+ 418 214 471 272 511 328 c 258
+ 869 819 l 258
+ 893 852 909 868 989 887 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

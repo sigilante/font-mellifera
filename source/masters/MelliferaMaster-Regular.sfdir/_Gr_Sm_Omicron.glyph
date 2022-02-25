@@ -1,0 +1,24 @@
+StartChar: GrSmOmicron
+Encoding: 1155 959 1150
+GlifName: G_rS_mO_micron
+Width: 1020
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 536 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+935 485 m 257
+ 935 758 774 960 530 960 c 256
+ 287 960 85 709 85 444 c 256
+ 85 172 250 -30 491 -30 c 256
+ 727 -30 935 219 935 485 c 257
+  PathStart: -1
+780 455 m 257
+ 780 227 698 80 529 80 c 256
+ 390 80 240 262 240 473 c 256
+ 240 686 317 850 501 850 c 256
+ 638 850 780 666 780 455 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

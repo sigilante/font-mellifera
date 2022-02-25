@@ -1,0 +1,25 @@
+StartChar: GrSmIota
+Encoding: 1095 953 1090
+GlifName: G_rS_mI_ota
+Width: 604
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 296 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+579 109 m 257
+ 569 154 l 257
+ 486 111 436 103 416 103 c 256
+ 388 103 368 118 371 303 c 258
+ 381 920 l 257
+ 349 960 l 257
+ 262 921 156 893 70 879 c 257
+ 70 839 l 257
+ 218 839 223 808 221 669 c 258
+ 213 203 l 258
+ 210 42 236 -30 328 -30 c 256
+ 372 -30 457 14 579 109 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

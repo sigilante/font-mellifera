@@ -1,0 +1,19 @@
+StartChar: CyCapODiaer
+Encoding: 343 1254 339
+GlifName: C_yC_apO_D_iaer
+Width: 1228
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 604 -100 basechar 0
+AnchorPoint: "U" 604 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 338 1054 N 1 0 0 1 0 0 2
+Refer: 111 -1 N 1 0 0 1 1119 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

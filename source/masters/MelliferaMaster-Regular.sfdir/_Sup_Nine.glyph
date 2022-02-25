@@ -1,0 +1,27 @@
+StartChar: SupNine
+Encoding: 4100 8313 4076
+GlifName: S_upN_ine
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 348 540 basechar 0
+AnchorPoint: "U" 348 1445 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+619 1059 m 257
+ 619 1271 494 1361 354 1361 c 256
+ 179 1361 60 1218 60 1097 c 256
+ 60 978 148 881 307 881 c 256
+ 399 881 484 938 529 1009 c 257
+ 520 1072 l 257
+ 484 1005 426 958 337 958 c 256
+ 278 958 184 986 184 1134 c 256
+ 184 1228 240 1298 326 1298 c 256
+ 393 1298 486 1234 486 1022 c 256
+ 486 832 377 689 110 630 c 257
+ 123 594 l 257
+ 459 626 619 816 619 1059 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

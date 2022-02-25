@@ -1,0 +1,24 @@
+StartChar: CombLtnSmO
+Encoding: 175 870 171
+GlifName: C_ombL_tnS_mO_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -495 1500 basechar 0
+AnchorPoint: "U" -495 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-277 1287 m 256
+ -277 1409 -361 1500 -489 1500 c 256
+ -615 1500 -719 1388 -719 1269 c 256
+ -719 1147 -635 1056 -507 1056 c 256
+ -384 1056 -277 1167 -277 1287 c 256
+  PathStart: -1
+-383 1274 m 256
+ -383 1181 -417 1121 -494 1121 c 256
+ -545 1121 -613 1196 -613 1281 c 256
+ -613 1368 -585 1434 -502 1434 c 256
+ -446 1434 -383 1359 -383 1274 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

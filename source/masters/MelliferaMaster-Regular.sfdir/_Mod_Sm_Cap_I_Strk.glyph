@@ -1,0 +1,35 @@
+StartChar: ModSmCapIStrk
+Encoding: 3830 7591 3814
+GlifName: M_odS_mC_apI_S_trk
+Width: 395
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 205 540 basechar 0
+AnchorPoint: "O" 258 620 basechar 0
+AnchorPoint: "R" 497 1136 basechar 0
+AnchorPoint: "U" 205 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+52 620 m 257
+ 353 620 l 257
+ 353 656 l 257
+ 285 667 265 683 265 692 c 258
+ 265 1106 l 258
+ 265 1116 290 1131 353 1142 c 257
+ 353 1178 l 257
+ 52 1178 l 257
+ 52 1142 l 257
+ 120 1131 140 1115 140 1106 c 258
+ 140 692 l 258
+ 140 682 115 667 52 656 c 257
+ 52 620 l 257
+57 884 m 257
+ 344 884 l 257
+ 365 930 l 257
+ 345 947 l 257
+ 58 947 l 257
+ 53 934 44 913 40 901 c 257
+ 57 884 l 257
+EndSplineSet
+EndChar

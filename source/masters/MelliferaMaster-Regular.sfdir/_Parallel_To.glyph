@@ -1,0 +1,27 @@
+StartChar: ParallelTo
+Encoding: 3959 8741 3939
+GlifName: P_arallelT_o
+Width: 1050
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+370 -448 m 257
+ 370 1648 l 257
+ 334 1670 l 257
+ 295 1660 267 1643 230 1621 c 257
+ 230 -477 l 257
+ 265 -500 l 257
+ 298 -489 346 -469 370 -448 c 257
+  PathStart: -1
+820 -448 m 257
+ 820 1648 l 257
+ 784 1670 l 257
+ 745 1660 717 1643 680 1621 c 257
+ 680 -477 l 257
+ 715 -500 l 257
+ 748 -489 796 -469 820 -448 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

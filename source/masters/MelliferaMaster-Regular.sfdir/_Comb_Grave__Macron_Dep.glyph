@@ -1,0 +1,24 @@
+StartChar: CombGrave_MacronDep
+Encoding: 140 61810 136
+GlifName: C_ombG_rave_M_acronD_ep
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -514 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-935 1567 m 257
+ -935 1125 l 257
+ -161 1125 l 257
+ -161 1567 l 257
+ -935 1567 l 257
+-213 1285 m 257
+ -191 1261 l 257
+ -197 1232 -220 1180 -230 1155 c 257
+ -715 1155 l 257
+ -905 1506 l 257
+ -888 1522 -872 1530 -849 1537 c 257
+ -617 1285 l 257
+ -213 1285 l 257
+EndSplineSet
+EndChar

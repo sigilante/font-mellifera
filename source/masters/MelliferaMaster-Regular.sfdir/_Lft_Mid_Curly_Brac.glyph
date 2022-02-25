@@ -1,0 +1,29 @@
+StartChar: LftMidCurlyBrac
+Encoding: 1261 9128 1249
+GlifName: L_ftM_idC_urlyB_rac
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+525 -360 m 258
+ 525 -950 l 257
+ 675 -950 l 257
+ 675 -350 l 258
+ 675 400 630 800 140 800 c 258
+ 50 800 l 257
+ 50 700 l 257
+ 140 700 l 258
+ 470 700 525 390 525 -360 c 258
+525 2600 m 257
+ 525 1860 l 257
+ 525 1110 470 800 140 800 c 258
+ 50 800 l 257
+ 50 700 l 257
+ 140 700 l 258
+ 630 700 675 1100 675 1850 c 258
+ 675 2600 l 257
+ 525 2600 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: CombMacronBlw.Short
+Encoding: 188 -1 184
+GlifName: C_ombM_acronB_lw.S_hort
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -275 -450 basechar 0
+AnchorPoint: "L" -275 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-17 -229 m 257
+ -39 -205 l 257
+ -492 -205 l 257
+ -505 -231 -527 -281 -533 -310 c 257
+ -511 -335 l 257
+ -56 -335 l 257
+ -46 -310 -23 -258 -17 -229 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

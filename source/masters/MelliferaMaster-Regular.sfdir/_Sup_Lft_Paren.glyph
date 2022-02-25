@@ -1,0 +1,18 @@
+StartChar: SupLftParen
+Encoding: 4098 8317 4074
+GlifName: S_upL_ftP_aren
+Width: 454
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+405 431 m 257
+ 427 458 l 257
+ 284 559 214 777 214 1011 c 256
+ 214 1267 305 1466 427 1553 c 257
+ 405 1580 l 257
+ 212 1494 75 1257 75 994 c 256
+ 75 739 193 514 405 431 c 257
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: DigitNine
+Encoding: 704 57 700
+GlifName: D_igitN_ine
+Width: 961
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 480 -100 basechar 0
+AnchorPoint: "U" 480 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+870 731 m 257
+ 870 1085 692 1235 506 1235 c 256
+ 270 1235 100 997 100 795 c 256
+ 100 596 225 445 438 445 c 256
+ 555 445 692 530 756 649 c 257
+ 743 754 l 257
+ 692 641 594 555 481 555 c 256
+ 383 555 250 610 250 856 c 256
+ 250 1014 328 1130 465 1130 c 256
+ 575 1130 710 1024 710 670 c 256
+ 710 354 567 115 172 16 c 257
+ 190 -43 l 257
+ 655 25 870 326 870 731 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

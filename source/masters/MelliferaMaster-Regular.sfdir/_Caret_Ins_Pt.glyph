@@ -1,0 +1,24 @@
+StartChar: CaretInsPt
+Encoding: 30 8257 27
+GlifName: C_aretI_nsP_t
+Width: 800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+386 166 m 257
+ 307 -3 l 257
+ 511 -408 l 257
+ 534 -425 l 257
+ 563 -414 620 -374 640 -358 c 257
+ 386 166 l 257
+135 -367 m 257
+ 744 931 l 257
+ 731 955 l 257
+ 707 944 636 929 614 909 c 257
+ 5 -399 l 257
+ 19 -425 l 257
+ 36 -418 117 -384 135 -367 c 257
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: LtnSmAeAcute.2StorySItal.LP
+Encoding: 2182 -1 2166
+GlifName: L_tnS_mA_eA_cute.2S_toryS_I_tal.L_P_
+Width: 1417
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 738 0 basechar 0
+AnchorPoint: "L" 738 -100 basechar 0
+AnchorPoint: "O" 1020 0 basechar 0
+AnchorPoint: "R" 1485 900 basechar 0
+AnchorPoint: "U" 738 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 2162 -1 N 1 0 0 1 0 0 2
+Refer: 40 -1 N 1 0 0 1 1281 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

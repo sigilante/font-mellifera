@@ -1,0 +1,21 @@
+StartChar: SmTilde
+Encoding: 4060 732 4036
+GlifName: S_mT_ilde
+Width: 822
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+752 1346 m 257
+ 698 1369 l 257
+ 653 1291 604 1246 553 1246 c 256
+ 489 1246 410 1359 309 1359 c 256
+ 205 1359 117 1242 70 1133 c 257
+ 123 1113 l 257
+ 172 1187 213 1234 266 1234 c 256
+ 344 1234 420 1121 512 1121 c 256
+ 616 1121 705 1238 752 1346 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

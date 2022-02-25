@@ -1,0 +1,15 @@
+StartChar: LtnCapAOgonek.RetroHook
+Encoding: 1342 -1 1326
+GlifName: L_tnC_apA_O_gonek.R_etroH_ook
+Width: 1219
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 1000 0 basechar 0
+AnchorPoint: "L" 636 -600 basechar 0
+AnchorPoint: "O" 960 0 basechar 0
+AnchorPoint: "U" 599 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1290 65 N 1 0 0 1 0 0 2
+Refer: 3934 -1 N 1 0 0 1 679 0 2
+EndChar

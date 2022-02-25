@@ -1,0 +1,20 @@
+StartChar: CombDblCircum
+Encoding: 91 7629 88
+GlifName: C_ombD_blC_ircum
+Width: 0
+VWidth: 0
+AnchorPoint: "U" 0 1600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+816 1612 m 257
+ 54 1981 l 257
+ -53 1981 l 257
+ -817 1612 l 257
+ -798 1587 -784 1577 -762 1567 c 257
+ -1 1825 l 257
+ 763 1567 l 257
+ 786 1577 800 1587 816 1612 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,28 @@
+StartChar: SupTwo
+Encoding: 4107 178 4083
+GlifName: S_upT_wo
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 337 550 basechar 0
+AnchorPoint: "U" 337 1410 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+585 620 m 257
+ 595 792 l 257
+ 550 799 l 257
+ 550 799 542 703 479 703 c 258
+ 206 703 l 257
+ 493 991 585 1084 585 1191 c 256
+ 585 1308 497 1361 375 1361 c 256
+ 221 1361 78 1252 78 1169 c 257
+ 96 1151 l 257
+ 139 1155 175 1165 207 1180 c 257
+ 207 1237 256 1295 327 1295 c 256
+ 423 1295 458 1248 458 1174 c 256
+ 458 1083 391 995 59 664 c 257
+ 79 620 l 257
+ 585 620 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,31 @@
+StartChar: CySmElHook.sc
+Encoding: 458 -1 454
+GlifName: C_yS_mE_lH_ook.sc
+Width: 1184
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 654 -496 basechar 0
+AnchorPoint: "U" 690 1132 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+844 966 m 257
+ 844 219 l 258
+ 844 -21 826 -189 509 -266 c 257
+ 518 -284 524 -297 536 -314 c 257
+ 987 -236 994 -15 994 263 c 258
+ 994 954 l 258
+ 994 970 1045 990 1130 1005 c 257
+ 1130 1041 l 257
+ 267 1041 l 257
+ 267 1005 l 257
+ 353 990 424 974 439 957 c 257
+ 405 471 301 142 186 142 c 256
+ 149 142 116 177 104 255 c 257
+ 64 264 l 257
+ 46 201 29 26 48 17 c 256
+ 73 3 114 -17 164 -17 c 256
+ 403 -17 506 392 544 966 c 257
+ 844 966 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,14 @@
+StartChar: RomNumEight
+Encoding: 3985 8551 3964
+GlifName: R_omN_umE_ight
+Width: 3161
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 1629 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1768 86 N 1 0 0 1 0 0 2
+Refer: 1476 73 N 1 0 0 1 1331 0 2
+Refer: 1476 73 N 1 0 0 1 1941 0 2
+Refer: 1476 73 N 1 0 0 1 2551 0 2
+EndChar

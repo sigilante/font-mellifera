@@ -1,0 +1,13 @@
+StartChar: ThinSpace
+Encoding: 4136 8201 4112
+GlifName: T_hinS_pace
+Width: 300
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 150 0 basechar 0
+AnchorPoint: "L" 150 -100 basechar 0
+AnchorPoint: "O" 170 0 basechar 0
+AnchorPoint: "R" 300 900 basechar 0
+AnchorPoint: "U" 150 1435 basechar 0
+LayerCount: 2
+EndChar

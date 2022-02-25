@@ -1,0 +1,21 @@
+StartChar: LtnSmEgAin.sc
+Encoding: 2471 -1 2455
+GlifName: L_tnS_mE_gA_in.sc
+Width: 529
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 260 -83 basechar 0
+AnchorPoint: "U" 260 1132 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+388 550 m 257
+ 415 583 l 257
+ 253 656 223 737 223 807 c 256
+ 223 893 277 977 435 977 c 257
+ 445 1012 l 257
+ 421 1027 297 1064 255 1066 c 257
+ 134 1049 75 962 75 869 c 256
+ 75 754 155 640 388 550 c 257
+EndSplineSet
+EndChar

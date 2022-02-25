@@ -1,0 +1,17 @@
+StartChar: ModMinusSgn
+Encoding: 3801 727 3785
+GlifName: M_odM_inusS_gn
+Width: 690
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 345 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 1225 45 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

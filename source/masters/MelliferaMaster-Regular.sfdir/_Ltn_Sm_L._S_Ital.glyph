@@ -1,0 +1,27 @@
+StartChar: LtnSmL.SItal
+Encoding: 2784 -1 2768
+GlifName: L_tnS_mL_.S_I_tal
+Width: 555
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 285 0 basechar 0
+AnchorPoint: "L" 285 -100 basechar 0
+AnchorPoint: "R" 556 900 basechar 0
+AnchorPoint: "U" 285 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+60 0 m 257
+ 510 0 l 257
+ 510 43 l 257
+ 401 61 360 84 360 104 c 258
+ 360 1516 l 257
+ 324 1550 l 257
+ 242 1507 166 1489 70 1470 c 257
+ 70 1430 l 257
+ 182 1417 210 1417 210 1296 c 258
+ 210 104 l 258
+ 210 82 175 63 60 43 c 257
+ 60 0 l 257
+EndSplineSet
+EndChar

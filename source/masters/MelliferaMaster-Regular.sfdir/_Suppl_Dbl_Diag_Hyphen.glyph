@@ -1,0 +1,25 @@
+StartChar: SupplDblDiagHyphen
+Encoding: 4113 11799 4089
+GlifName: S_upplD_blD_iagH_yphen
+Width: 848
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+767 806 m 257
+ 764 830 757 868 750 894 c 257
+ 715 903 l 257
+ 91 543 l 257
+ 93 515 99 481 107 454 c 257
+ 141 445 l 257
+ 767 806 l 257
+767 538 m 257
+ 764 564 758 599 750 626 c 257
+ 715 635 l 257
+ 91 274 l 257
+ 94 245 98 215 106 188 c 257
+ 141 177 l 257
+ 767 538 l 257
+EndSplineSet
+EndChar

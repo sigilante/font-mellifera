@@ -1,0 +1,27 @@
+StartChar: LtnCapOpenNine
+Encoding: 1645 42862 1629
+GlifName: L_tnC_apO_penN_ine
+Width: 1032
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 512 -100 basechar 0
+AnchorPoint: "U" 513 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70 835 m 256
+ 70 649 203 470 425 470 c 256
+ 464 470 506 475 550 487 c 257
+ 570 510 586 534 592 557 c 257
+ 578 555 564 554 551 554 c 256
+ 361 554 222 723 220 919 c 256
+ 219 1040 293 1202 456 1202 c 256
+ 644 1202 781 995 781 720 c 256
+ 781 446 591 194 290 39 c 257
+ 293 21 304 -16 313 -30 c 257
+ 693 125 941 446 941 784 c 256
+ 941 1102 779 1317 495 1317 c 256
+ 229 1317 70 1020 70 835 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

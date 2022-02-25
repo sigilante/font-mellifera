@@ -1,0 +1,24 @@
+StartChar: CombDblAcute
+Encoding: 87 779 84
+GlifName: C_ombD_blA_cute
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -500 1588 basechar 0
+AnchorPoint: "U" -500 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-372 1047 m 257
+ -112 1423 l 257
+ -134 1464 l 257
+ -163 1474 -220 1485 -253 1489 c 257
+ -429 1074 l 257
+ -405 1058 -397 1052 -372 1047 c 257
+-663 1047 m 257
+ -403 1423 l 257
+ -425 1464 l 257
+ -452 1474 -511 1485 -544 1489 c 257
+ -720 1074 l 257
+ -694 1058 -685 1052 -663 1047 c 257
+EndSplineSet
+EndChar

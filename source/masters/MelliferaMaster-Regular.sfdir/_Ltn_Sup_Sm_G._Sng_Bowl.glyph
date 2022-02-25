@@ -1,0 +1,18 @@
+StartChar: LtnSupSmG.SngBowl
+Encoding: 3629 -1 3613
+GlifName: L_tnS_upS_mG_.S_ngB_owl
+Width: 689
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 369 258 basechar 0
+AnchorPoint: "U" 378 1286 basechar 0
+LayerCount: 2
+Fore
+Refer: 3643 7586 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

@@ -1,0 +1,13 @@
+StartChar: LftStemTnLtr2
+Encoding: 1275 42773 1263
+GlifName: L_ftS_temT_nL_tr2
+Width: 743
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4212 -1 N 1 0 0 1 0 0 2
+Refer: 4178 -1 N 1 0 0 1 152 0 2
+Refer: 4190 -1 N 1 0 0 1 152 0 2
+Refer: 4215 -1 N 1 0 0 1 577 0 2
+EndChar

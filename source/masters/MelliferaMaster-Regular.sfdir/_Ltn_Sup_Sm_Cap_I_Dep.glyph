@@ -1,0 +1,31 @@
+StartChar: LtnSupSmCapIDep
+Encoding: 3609 61864 3593
+GlifName: L_tnS_upS_mC_apI_D_ep
+Width: 401
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 199 750 basechar 0
+AnchorPoint: "U" 199 1400 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+20 1208 m 257
+ 20 590 l 257
+ 381 590 l 257
+ 381 1208 l 257
+ 20 1208 l 257
+351 620 m 257
+ 50 620 l 257
+ 50 656 l 257
+ 113 667 138 682 138 692 c 258
+ 138 1106 l 258
+ 138 1115 118 1131 50 1142 c 257
+ 50 1178 l 257
+ 351 1178 l 257
+ 351 1142 l 257
+ 288 1131 263 1116 263 1106 c 258
+ 263 692 l 258
+ 263 683 283 667 351 656 c 257
+ 351 620 l 257
+EndSplineSet
+EndChar

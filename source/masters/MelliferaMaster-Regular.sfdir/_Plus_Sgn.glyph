@@ -1,0 +1,27 @@
+StartChar: PlusSgn
+Encoding: 3968 43 3948
+GlifName: P_lusS_gn
+Width: 840
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+778 593 m 257
+ 754 617 l 257
+ 92 617 l 257
+ 80 591 68 558 61 531 c 257
+ 86 507 l 257
+ 748 507 l 257
+ 758 529 772 566 778 593 c 257
+  PathStart: -1
+477 236 m 257
+ 477 897 l 257
+ 453 920 l 257
+ 424 913 387 899 362 891 c 257
+ 362 227 l 257
+ 387 205 l 257
+ 416 211 451 223 477 236 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

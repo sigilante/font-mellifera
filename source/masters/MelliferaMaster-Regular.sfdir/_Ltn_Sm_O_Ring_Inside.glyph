@@ -1,0 +1,37 @@
+StartChar: LtnSmORingInside
+Encoding: 3028 11386 3012
+GlifName: L_tnS_mO_R_ingI_nside
+Width: 1030
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 535 0 basechar 0
+AnchorPoint: "L" 535 -100 basechar 0
+AnchorPoint: "O" 575 0 basechar 0
+AnchorPoint: "R" 1047 900 basechar 0
+AnchorPoint: "U" 535 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+950 485 m 256
+ 950 758 786 960 535 960 c 256
+ 285 960 80 709 80 444 c 256
+ 80 172 244 -30 496 -30 c 256
+ 739 -30 950 219 950 485 c 256
+  PathStart: -1
+712 238 m 256
+ 712 322 643 394 557 394 c 256
+ 461 394 356 308 342 187 c 257
+ 280 259 235 362 235 473 c 256
+ 235 686 303 850 506 850 c 256
+ 643 850 795 666 795 455 c 256
+ 795 308 761 195 687 133 c 257
+ 702 164 712 200 712 238 c 256
+  PathStart: -1
+622 197 m 256
+ 622 124 573 83 522 80 c 256
+ 457 80 430 146 430 199 c 256
+ 430 271 481 318 536 318 c 256
+ 589 318 622 261 622 197 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

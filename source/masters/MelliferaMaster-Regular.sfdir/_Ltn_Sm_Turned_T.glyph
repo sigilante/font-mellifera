@@ -1,0 +1,35 @@
+StartChar: LtnSmTurnedT
+Encoding: 3321 647 3305
+GlifName: L_tnS_mT_urnedT_
+Width: 705
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 332 -600 basechar 0
+AnchorPoint: "U" 332 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+20 813 m 257
+ 49 762 l 257
+ 153 815 221 830 268 830 c 256
+ 348 830 376 783 376 623 c 258
+ 376 95 l 257
+ 324 95 l 258
+ 216 95 153 114 121 130 c 257
+ 94 118 45 66 20 29 c 257
+ 49 0 l 257
+ 376 0 l 257
+ 376 -325 l 257
+ 407 -350 l 257
+ 526 -246 l 257
+ 526 0 l 257
+ 598 0 l 257
+ 676 67 l 257
+ 655 95 l 257
+ 526 95 l 257
+ 526 709 l 258
+ 526 895 444 960 352 960 c 256
+ 282 960 151 910 20 813 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

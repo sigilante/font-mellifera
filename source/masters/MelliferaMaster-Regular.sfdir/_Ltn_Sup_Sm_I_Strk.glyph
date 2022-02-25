@@ -1,0 +1,42 @@
+StartChar: LtnSupSmIStrk
+Encoding: 3632 7588 3616
+GlifName: L_tnS_upS_mI_S_trk
+Width: 388
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 202 540 basechar 0
+AnchorPoint: "O" 238 620 basechar 0
+AnchorPoint: "R" 457 1136 basechar 0
+AnchorPoint: "U" 203 1295 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+49 620 m 257
+ 350 620 l 257
+ 350 656 l 257
+ 282 667 262 683 262 692 c 258
+ 262 864 l 257
+ 349 864 l 257
+ 366 909 l 257
+ 348 928 l 257
+ 262 928 l 257
+ 262 1196 l 257
+ 232 1196 l 257
+ 185 1176 108 1158 49 1148 c 257
+ 49 1114 l 257
+ 136 1109 137 1104 137 1012 c 258
+ 137 928 l 257
+ 51 928 l 257
+ 43 915 36 894 32 881 c 257
+ 51 864 l 257
+ 137 864 l 257
+ 137 692 l 258
+ 137 682 112 667 49 656 c 257
+ 49 620 l 257
+121 1348 m 256
+ 121 1306 143 1280 190 1280 c 256
+ 241 1280 281 1323 281 1373 c 256
+ 281 1415 257 1440 212 1440 c 256
+ 162 1440 121 1399 121 1348 c 256
+EndSplineSet
+EndChar

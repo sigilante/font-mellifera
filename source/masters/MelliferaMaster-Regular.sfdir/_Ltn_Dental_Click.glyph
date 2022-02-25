@@ -1,0 +1,21 @@
+StartChar: LtnDentalClick
+Encoding: 1842 448 1826
+GlifName: L_tnD_entalC_lick
+Width: 450
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 225 -600 basechar 0
+AnchorPoint: "U" 225 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+295 -448 m 257
+ 295 1528 l 257
+ 259 1550 l 257
+ 220 1540 192 1523 155 1501 c 257
+ 155 -477 l 257
+ 190 -500 l 257
+ 223 -489 271 -469 295 -448 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

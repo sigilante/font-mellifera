@@ -1,0 +1,23 @@
+StartChar: ModAcuteAccentDep
+Encoding: 3720 61847 3704
+GlifName: M_odA_cuteA_ccentD_ep
+Width: 402
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 100 1410 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-30 1519 m 257
+ -30 1017 l 257
+ 432 1017 l 257
+ 432 1519 l 257
+ -30 1519 l 257
+402 1427 m 257
+ 57 1047 l 257
+ 33 1051 15 1063 0 1075 c 257
+ 234 1489 l 257
+ 265 1487 349 1475 379 1466 c 257
+ 402 1427 l 257
+EndSplineSet
+EndChar

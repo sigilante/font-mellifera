@@ -1,0 +1,11 @@
+StartChar: GrCapEpsilonWTonos
+Encoding: 830 904 825
+GlifName: G_rC_apE_psilonW_T_onos
+Width: 1477
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 817 917 N 1 0 0 1 461 0 2
+Refer: 1210 900 N 1 0 0 1 0 -100 2
+EndChar

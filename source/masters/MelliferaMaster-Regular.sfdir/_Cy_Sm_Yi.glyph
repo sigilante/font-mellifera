@@ -1,0 +1,38 @@
+StartChar: CySmYi
+Encoding: 668 1111 664
+GlifName: C_yS_mY_i
+Width: 585
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 300 0 basechar 0
+AnchorPoint: "L" 300 -100 basechar 0
+AnchorPoint: "O" 350 0 basechar 0
+AnchorPoint: "R" 570 900 basechar 0
+AnchorPoint: "U" 300 1410 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+85 0 m 257
+ 515 0 l 257
+ 515 43 l 257
+ 418 61 375 88 375 104 c 258
+ 375 960 l 257
+ 341 960 l 257
+ 273 927 169 896 85 880 c 257
+ 85 840 l 257
+ 224 827 225 807 225 670 c 258
+ 225 104 l 258
+ 225 86 175 61 85 43 c 257
+ 85 0 l 257
+114 1124 m 256
+ 180 1124 230 1186 230 1261 c 256
+ 230 1323 202 1356 145 1356 c 256
+ 82 1356 30 1296 30 1220 c 256
+ 30 1159 55 1124 114 1124 c 256
+454 1124 m 256
+ 520 1124 570 1186 570 1261 c 256
+ 570 1323 542 1356 485 1356 c 256
+ 422 1356 370 1296 370 1220 c 256
+ 370 1159 395 1124 454 1124 c 256
+EndSplineSet
+EndChar

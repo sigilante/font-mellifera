@@ -1,0 +1,16 @@
+StartChar: DotAbv.LP
+Encoding: 722 -1 718
+GlifName: D_otA_bv.L_P_
+Width: 400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+184 1084 m 256
+ 250 1084 300 1146 300 1221 c 257
+ 300 1283 272 1316 215 1316 c 256
+ 152 1316 100 1256 100 1180 c 256
+ 100 1119 125 1084 184 1084 c 256
+EndSplineSet
+EndChar

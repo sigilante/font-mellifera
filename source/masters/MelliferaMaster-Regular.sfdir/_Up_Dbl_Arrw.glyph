@@ -1,0 +1,27 @@
+StartChar: UpDblArrw
+Encoding: 4272 8657 4248
+GlifName: U_pD_blA_rrw
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+842 773 m 257
+ 934 828 l 257
+ 541 1440 l 257
+ 458 1440 l 257
+ 66 828 l 257
+ 157 773 l 257
+ 269 951 l 257
+ 269 -355 l 257
+ 362 -355 l 257
+ 362 1096 l 257
+ 500 1299 l 257
+ 637 1096 l 257
+ 637 -355 l 257
+ 731 -355 l 257
+ 731 951 l 257
+ 842 773 l 257
+EndSplineSet
+EndChar

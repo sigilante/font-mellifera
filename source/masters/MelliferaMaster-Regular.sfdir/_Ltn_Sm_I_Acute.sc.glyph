@@ -1,0 +1,22 @@
+StartChar: LtnSmIAcute.sc
+Encoding: 2636 -1 2620
+GlifName: L_tnS_mI_A_cute.sc
+Width: 573
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 277 7 basechar 0
+AnchorPoint: "L" 277 -76 basechar 0
+AnchorPoint: "O" 324 7 basechar 0
+AnchorPoint: "R" 545 920 basechar 0
+AnchorPoint: "U" 277 1505 basechar 0
+LayerCount: 2
+Fore
+Refer: 2615 -1 N 1 0 0 1 0 0 2
+Refer: 39 769 N 1 0 0 1 820 95 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

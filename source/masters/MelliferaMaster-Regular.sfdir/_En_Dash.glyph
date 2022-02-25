@@ -1,0 +1,19 @@
+StartChar: EnDash
+Encoding: 752 8211 748
+GlifName: E_nD_ash
+Width: 961
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+900 546 m 257
+ 877 570 l 257
+ 92 570 l 257
+ 80 544 68 508 61 479 c 257
+ 86 455 l 257
+ 871 455 l 257
+ 882 477 894 517 900 546 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

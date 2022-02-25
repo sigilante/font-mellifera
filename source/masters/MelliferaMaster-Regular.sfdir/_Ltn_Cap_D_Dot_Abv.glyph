@@ -1,0 +1,19 @@
+StartChar: LtnCapDDotAbv
+Encoding: 1390 7690 1374
+GlifName: L_tnC_apD_D_otA_bv
+Width: 1214
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 550 -100 basechar 0
+AnchorPoint: "U" 550 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1369 68 N 1 0 0 1 0 0 2
+Refer: 118 -1 N 1 0 0 1 1065 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

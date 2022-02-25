@@ -1,0 +1,29 @@
+StartChar: GrBetaSym
+Encoding: 778 976 773
+GlifName: G_rB_etaS_ym
+Width: 975
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+806 1327 m 257
+ 796 1439 723 1553 608 1553 c 256
+ 190 1553 80 851 94 504 c 256
+ 103 252 209 -31 461 -31 c 256
+ 764 -31 895 312 880 540 c 256
+ 862 806 721 898 580 885 c 257
+ 772 1039 816 1162 806 1327 c 257
+  PathStart: -1
+678 1235 m 257
+ 694 1057 481 857 188 819 c 257
+ 194 664 l 257
+ 511 880 714 845 740 457 c 256
+ 753 290 700 83 525 83 c 256
+ 337 83 257 365 243 551 c 256
+ 217 905 338 1437 510 1437 c 256
+ 590 1437 664 1394 678 1235 c 257
+  PathStart: -1
+EndSplineSet
+Kerns2: 1088 -20 "'kern' Horizontal Kerning lookup 0 subtable" 1116 -20 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

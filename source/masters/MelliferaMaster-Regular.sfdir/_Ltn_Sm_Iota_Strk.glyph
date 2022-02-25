@@ -1,0 +1,36 @@
+StartChar: LtnSmIotaStrk
+Encoding: 2731 7548 2715
+GlifName: L_tnS_mI_otaS_trk
+Width: 578
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 292 0 basechar 0
+AnchorPoint: "L" 292 -100 basechar 0
+AnchorPoint: "O" 342 0 basechar 0
+AnchorPoint: "R" 544 900 basechar 0
+AnchorPoint: "U" 292 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+598 135 m 257
+ 582 186 l 257
+ 496 125 428 106 414 106 c 256
+ 354 106 340 123 340 303 c 258
+ 340 960 l 257
+ 305 960 l 257
+ 240 927 133 896 49 880 c 257
+ 49 840 l 257
+ 193 827 190 807 190 670 c 258
+ 190 203 l 258
+ 190 43 213 -30 313 -30 c 256
+ 365 -30 463 6 598 135 c 257
+  PathStart: -1
+498 415 m 257
+ 520 480 l 257
+ 498 505 l 257
+ 52 505 l 257
+ 42 484 36 458 30 437 c 257
+ 52 415 l 257
+ 498 415 l 257
+EndSplineSet
+EndChar

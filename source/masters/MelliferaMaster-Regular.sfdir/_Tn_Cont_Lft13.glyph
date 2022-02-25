@@ -1,0 +1,13 @@
+StartChar: TnContLft13
+Encoding: 4144 -1 4120
+GlifName: T_nC_ontL_ft13
+Width: 591
+VWidth: 0
+Flags: W
+AnchorPoint: "TL" 424 766 basechar 0
+AnchorPoint: "TL_" 0 32 basechar 0
+LayerCount: 2
+Fore
+Refer: 4186 -1 N 1 0 0 1 0 0 2
+Refer: 4215 -1 N 1 0 0 1 425 0 2
+EndChar

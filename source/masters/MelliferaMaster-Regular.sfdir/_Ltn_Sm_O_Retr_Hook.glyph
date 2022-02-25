@@ -1,0 +1,27 @@
+StartChar: LtnSmORetrHook
+Encoding: 3027 122651 3011
+GlifName: L_tnS_mO_R_etrH_ook
+Width: 1030
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 535 0 basechar 0
+AnchorPoint: "L" 535 -600 basechar 0
+AnchorPoint: "O" 575 0 basechar 0
+AnchorPoint: "R" 1044 900 basechar 0
+AnchorPoint: "U" 535 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+583 -235 m 257
+ 564 -196 l 257
+ 523 -190 389 -253 398 -264 c 256
+ 438 -312 420 -405 342 -405 c 256
+ 276 -405 245 -359 245 -196 c 258
+ 245 142 l 257
+ 155 190 l 257
+ 155 -247 l 258
+ 155 -422 226 -500 338 -500 c 256
+ 493 -500 591 -336 583 -235 c 257
+EndSplineSet
+Refer: 2905 111 N 1 0 0 1 0 0 2
+EndChar

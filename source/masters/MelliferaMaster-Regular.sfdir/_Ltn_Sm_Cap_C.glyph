@@ -1,0 +1,26 @@
+StartChar: LtnSmCapC
+Encoding: 2261 7428 2245
+GlifName: L_tnS_mC_apC_
+Width: 930
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 544 -100 basechar 0
+AnchorPoint: "U" 564 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+875 147 m 257
+ 873 154 839 194 833 196 c 257
+ 711 105 628 85 568 85 c 256
+ 409 85 230 203 230 465 c 256
+ 230 771 424 870 515 870 c 256
+ 623 870 696 843 752 797 c 257
+ 781 792 l 257
+ 807 815 873 887 860 896 c 256
+ 803 937 704 960 585 960 c 256
+ 312 960 80 747 80 432 c 256
+ 80 139 309 -30 515 -30 c 256
+ 630 -30 733 12 875 147 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

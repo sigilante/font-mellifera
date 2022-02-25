@@ -1,0 +1,24 @@
+StartChar: CombDiaerBlw
+Encoding: 118 804 115
+GlifName: C_ombD_iaerB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -515 -600 basechar 0
+AnchorPoint: "L" -515 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-615 -279 m 257
+ -615 -217 -643 -184 -700 -184 c 256
+ -763 -184 -815 -244 -815 -320 c 256
+ -815 -381 -790 -416 -731 -416 c 256
+ -665 -416 -615 -354 -615 -279 c 257
+  PathStart: -1
+-215 -279 m 257
+ -215 -217 -243 -184 -300 -184 c 256
+ -363 -184 -415 -244 -415 -320 c 256
+ -415 -381 -390 -416 -331 -416 c 256
+ -265 -416 -215 -354 -215 -279 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

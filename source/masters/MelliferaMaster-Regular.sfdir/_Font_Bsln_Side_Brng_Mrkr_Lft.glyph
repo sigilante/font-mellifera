@@ -1,0 +1,18 @@
+StartChar: FontBslnSideBrngMrkrLft
+Encoding: 763 61744 759
+GlifName: F_ontB_slnS_ideB_rngM_rkrL_ft
+Width: 340
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+340 0 m 257
+ 45 0 l 257
+ 45 -39 l 257
+ 301 -39 l 257
+ 301 -295 l 257
+ 340 -295 l 257
+ 340 0 l 257
+EndSplineSet
+EndChar

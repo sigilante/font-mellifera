@@ -1,0 +1,38 @@
+StartChar: CyCapStraightU
+Encoding: 363 1198 359
+GlifName: C_yC_apS_traightU_
+Width: 1217
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 604 -100 basechar 0
+AnchorPoint: "U" 604 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+360 0 m 257
+ 850 0 l 257
+ 850 43 l 257
+ 725 68 684 98 684 115 c 258
+ 684 637 l 257
+ 524 637 l 257
+ 524 115 l 258
+ 524 96 481 68 360 43 c 257
+ 360 0 l 257
+891 1151 m 258
+ 623 680 l 257
+ 365 1133 l 258
+ 330 1194 359 1206 472 1217 c 257
+ 472 1260 l 257
+ 26 1260 l 257
+ 26 1217 l 257
+ 114 1204 146 1195 182 1133 c 258
+ 555 489 l 257
+ 655 489 l 257
+ 1020 1151 l 258
+ 1039 1185 1085 1200 1176 1217 c 257
+ 1176 1260 l 257
+ 780 1260 l 257
+ 780 1217 l 257
+ 883 1204 911 1186 891 1151 c 258
+EndSplineSet
+EndChar

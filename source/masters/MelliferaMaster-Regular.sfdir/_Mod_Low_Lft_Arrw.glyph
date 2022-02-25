@@ -1,0 +1,22 @@
+StartChar: ModLowLftArrw
+Encoding: 3789 767 3773
+GlifName: M_odL_owL_ftA_rrw
+Width: 1135
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+205 -358 m 257
+ 1135 -358 l 257
+ 1135 -235 l 257
+ 205 -235 l 257
+ 611 -72 l 257
+ 576 19 l 257
+ 0 -230 l 257
+ 0 -363 l 257
+ 576 -612 l 257
+ 611 -521 l 257
+ 205 -358 l 257
+EndSplineSet
+EndChar

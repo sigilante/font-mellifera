@@ -1,0 +1,19 @@
+StartChar: TwoEmDash
+Encoding: 4270 11834 4246
+GlifName: T_woE_mD_ash
+Width: 3016
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+2955 546 m 257
+ 2931 570 l 257
+ 92 570 l 257
+ 80 544 68 508 61 479 c 257
+ 86 455 l 257
+ 2925 455 l 257
+ 2935 477 2949 517 2955 546 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

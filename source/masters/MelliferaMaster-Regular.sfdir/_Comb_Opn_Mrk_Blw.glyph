@@ -1,0 +1,21 @@
+StartChar: CombOpnMrkBlw
+Encoding: 199 6839 195
+GlifName: C_ombO_pnM_rkB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -515 -600 basechar 0
+AnchorPoint: "L" -515 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-337 -498 m 257
+ -333 -418 l 257
+ -339 -419 -344 -419 -349 -419 c 256
+ -435 -419 -478 -373 -478 -305 c 257
+ -478 -108 l 257
+ -560 -108 l 257
+ -560 -305 l 257
+ -560 -413 -477 -500 -364 -500 c 256
+ -355 -500 -346 -499 -337 -498 c 257
+EndSplineSet
+EndChar

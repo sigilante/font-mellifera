@@ -1,0 +1,27 @@
+StartChar: LtnSupSmI.Dotless
+Encoding: 3631 -1 3615
+GlifName: L_tnS_upS_mI_.D_otless
+Width: 388
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 202 540 basechar 0
+AnchorPoint: "O" 238 620 basechar 0
+AnchorPoint: "R" 457 1136 basechar 0
+AnchorPoint: "U" 202 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+49 620 m 257
+ 350 620 l 257
+ 350 656 l 257
+ 282 667 262 683 262 692 c 258
+ 262 1196 l 257
+ 232 1196 l 257
+ 185 1176 108 1158 49 1148 c 257
+ 49 1114 l 257
+ 138 1108 137 1102 137 1012 c 258
+ 137 692 l 258
+ 137 682 112 667 49 656 c 257
+ 49 620 l 257
+EndSplineSet
+EndChar

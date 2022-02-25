@@ -1,0 +1,33 @@
+StartChar: CySmGheUpturn.sc
+Encoding: 508 -1 504
+GlifName: C_yS_mG_heU_pturn.sc
+Width: 915
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 459 -76 basechar 0
+AnchorPoint: "U" 459 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+44 0 m 257
+ 519 0 l 257
+ 519 49 l 257
+ 371 71 338 81 338 92 c 257
+ 338 965 l 257
+ 338 969 449 988 472 992 c 257
+ 472 1041 l 257
+ 44 1041 l 257
+ 44 992 l 257
+ 133 976 178 958 178 948 c 257
+ 178 92 l 257
+ 178 81 127 64 44 49 c 257
+ 44 0 l 257
+272 953 m 257
+ 851 953 l 257
+ 858 1006 876 1217 875 1265 c 257
+ 824 1273 l 257
+ 772 1125 715 1041 681 1041 c 257
+ 241 1041 l 257
+ 272 953 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,34 @@
+StartChar: CyCapPe
+Encoding: 344 1055 340
+GlifName: C_yC_apP_e
+Width: 1300
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 640 -100 basechar 0
+AnchorPoint: "U" 640 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 257
+ 500 0 l 257
+ 500 43 l 257
+ 403 61 355 88 355 104 c 258
+ 355 1170 l 257
+ 925 1170 l 257
+ 925 104 l 258
+ 925 86 870 61 780 43 c 257
+ 780 0 l 257
+ 1230 0 l 257
+ 1230 43 l 257
+ 1133 61 1085 88 1085 104 c 258
+ 1085 1155 l 258
+ 1085 1174 1139 1198 1230 1217 c 257
+ 1230 1260 l 257
+ 50 1260 l 257
+ 50 1217 l 257
+ 146 1198 195 1171 195 1155 c 258
+ 195 104 l 258
+ 195 86 140 61 50 43 c 257
+ 50 0 l 257
+EndSplineSet
+EndChar

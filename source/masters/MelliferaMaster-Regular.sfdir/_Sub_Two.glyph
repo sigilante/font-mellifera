@@ -1,0 +1,28 @@
+StartChar: SubTwo
+Encoding: 4090 8322 4066
+GlifName: S_ubT_wo
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 337 -280 basechar 0
+AnchorPoint: "U" 337 580 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+585 -210 m 257
+ 595 -38 l 257
+ 550 -31 l 257
+ 550 -31 542 -127 479 -127 c 258
+ 206 -127 l 257
+ 493 161 585 254 585 361 c 256
+ 585 478 497 531 375 531 c 256
+ 221 531 78 422 78 339 c 257
+ 96 321 l 257
+ 139 325 175 335 207 350 c 257
+ 207 407 256 465 327 465 c 256
+ 423 465 458 418 458 344 c 256
+ 458 253 391 165 59 -166 c 257
+ 79 -210 l 257
+ 585 -210 l 257
+EndSplineSet
+EndChar

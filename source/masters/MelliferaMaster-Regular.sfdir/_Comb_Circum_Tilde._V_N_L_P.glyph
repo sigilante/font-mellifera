@@ -1,0 +1,31 @@
+StartChar: CombCircumTilde.VNLP
+Encoding: 83 -1 80
+GlifName: C_ombC_ircumT_ilde.V_N_L_P_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -513 1450 basechar 0
+AnchorPoint: "U" -513 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-197 1092 m 257
+ -459 1401 l 257
+ -566 1401 l 257
+ -830 1092 l 257
+ -811 1067 -807 1057 -785 1047 c 257
+ -514 1255 l 257
+ -240 1047 l 257
+ -217 1057 -213 1067 -197 1092 c 257
+  PathStart: -1
+-173 1706 m 257
+ -227 1729 l 257
+ -272 1651 -321 1606 -372 1606 c 256
+ -436 1606 -515 1719 -616 1719 c 256
+ -720 1719 -808 1602 -855 1493 c 257
+ -802 1473 l 257
+ -753 1547 -712 1594 -659 1594 c 256
+ -581 1594 -505 1481 -413 1481 c 256
+ -309 1481 -220 1598 -173 1706 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

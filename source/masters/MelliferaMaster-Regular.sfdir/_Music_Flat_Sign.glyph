@@ -1,0 +1,27 @@
+StartChar: MusicFlatSign
+Encoding: 3929 9837 3913
+GlifName: M_usicF_latS_ign
+Width: 800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+724 361 m 256
+ 724 483 591 583 475 583 c 256
+ 388 583 303 553 220 495 c 257
+ 220 1413 l 257
+ 116 1413 l 257
+ 116 -203 l 257
+ 220 -158 351 -75 493 43 c 256
+ 619 148 724 231 724 361 c 256
+  PathStart: -1
+504 357 m 256
+ 506 290 469 220 418 158 c 257
+ 357 81 274 10 220 -41 c 257
+ 220 367 l 257
+ 264 440 318 475 382 475 c 256
+ 453 475 502 427 504 357 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

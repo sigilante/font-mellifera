@@ -1,0 +1,18 @@
+StartChar: LftParen
+Encoding: 1264 40 1252
+GlifName: L_ftP_aren
+Width: 649
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+578 -315 m 257
+ 610 -270 l 257
+ 406 -102 291 262 291 651 c 256
+ 291 1079 436 1410 610 1555 c 257
+ 578 1600 l 257
+ 303 1457 121 1061 121 623 c 256
+ 121 199 276 -176 578 -315 c 257
+EndSplineSet
+EndChar

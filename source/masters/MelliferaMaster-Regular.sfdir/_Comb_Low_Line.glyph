@@ -1,0 +1,20 @@
+StartChar: CombLowLine
+Encoding: 166 818 162
+GlifName: C_ombL_owL_ine
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -482 -600 basechar 0
+AnchorPoint: "L" -482 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+64 -234 m 257
+ 42 -210 l 257
+ -987 -210 l 257
+ -1000 -236 -1022 -286 -1028 -315 c 257
+ -1006 -340 l 257
+ 25 -340 l 257
+ 35 -315 58 -263 64 -234 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

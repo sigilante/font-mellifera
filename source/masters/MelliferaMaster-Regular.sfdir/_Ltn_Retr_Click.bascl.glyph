@@ -1,0 +1,12 @@
+StartChar: LtnRetrClick.bascl
+Encoding: 1874 -1 1858
+GlifName: L_tnR_etrC_lick.bascl
+Width: 557
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 272 -100 basechar 0
+AnchorPoint: "U" 272 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1857 451 N 1 0 0 1 0 0 2
+EndChar

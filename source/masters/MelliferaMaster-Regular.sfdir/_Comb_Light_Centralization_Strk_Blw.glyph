@@ -1,0 +1,19 @@
+StartChar: CombLightCentralizationStrkBlw
+Encoding: 162 6841 158
+GlifName: C_ombL_ightC_entralizationS_trkB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -500 -600 basechar 0
+AnchorPoint: "L" -500 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-582 41 m 257
+ -617 69 l 257
+ -641 67 -669 57 -690 45 c 257
+ -979 -497 l 257
+ -943 -524 l 257
+ -920 -517 -879 -497 -858 -473 c 257
+ -582 41 l 257
+EndSplineSet
+EndChar

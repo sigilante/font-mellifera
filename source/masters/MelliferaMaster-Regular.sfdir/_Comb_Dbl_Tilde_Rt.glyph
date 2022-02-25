@@ -1,0 +1,17 @@
+StartChar: CombDblTildeRt
+Encoding: 109 65059 106
+GlifName: C_ombD_blT_ildeR_t
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+-770 1791 m 257
+ -770 1628 l 257
+ -677 1599 -584 1573 -503 1573 c 256
+ -270 1573 -83 1680 0 1798 c 257
+ -65 1841 l 257
+ -145 1743 -271 1698 -421 1698 c 256
+ -507 1698 -635 1750 -770 1791 c 257
+EndSplineSet
+EndChar

@@ -1,0 +1,32 @@
+StartChar: FontVertMetricsMrkrRt
+Encoding: 766 61747 762
+GlifName: F_ontV_ertM_etricsM_rkrR_t
+Width: 419
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 1550 m 257
+ 0 -480 l 257
+ 319 -480 l 257
+ 319 -450 l 257
+ 30 -450 l 257
+ 30 0 l 257
+ 319 0 l 257
+ 319 30 l 257
+ 30 30 l 257
+ 30 900 l 257
+ 319 900 l 257
+ 319 930 l 257
+ 30 930 l 257
+ 30 1230 l 257
+ 319 1230 l 257
+ 319 1260 l 257
+ 30 1260 l 257
+ 30 1520 l 257
+ 319 1520 l 257
+ 319 1550 l 257
+ 0 1550 l 257
+EndSplineSet
+EndChar

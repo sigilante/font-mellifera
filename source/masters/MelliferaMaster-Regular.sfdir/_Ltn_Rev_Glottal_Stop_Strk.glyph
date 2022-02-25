@@ -1,0 +1,35 @@
+StartChar: LtnRevGlottalStopStrk
+Encoding: 1878 674 1862
+GlifName: L_tnR_evG_lottalS_topS_trk
+Width: 890
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 435 -100 basechar 0
+AnchorPoint: "U" 435 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+200 0 m 257
+ 690 0 l 257
+ 690 43 l 257
+ 575 63 520 82 520 104 c 257
+ 520 496 l 258
+ 520 805 190 950 190 1180 c 256
+ 190 1344 286 1455 405 1455 c 256
+ 568 1455 668 1337 673 1167 c 257
+ 738 1165 823 1208 830 1230 c 257
+ 812 1423 678 1550 458 1550 c 257
+ 252 1550 40 1402 40 1155 c 256
+ 40 878 370 738 370 463 c 258
+ 370 104 l 258
+ 370 84 309 61 200 43 c 257
+ 200 0 l 257
+740 415 m 257
+ 762 480 l 257
+ 740 505 l 257
+ 150 505 l 257
+ 140 484 134 458 128 437 c 257
+ 150 415 l 257
+ 740 415 l 257
+EndSplineSet
+EndChar

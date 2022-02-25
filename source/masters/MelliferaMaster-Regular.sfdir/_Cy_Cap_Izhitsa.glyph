@@ -1,0 +1,32 @@
+StartChar: CyCapIzhitsa
+Encoding: 319 1140 315
+GlifName: C_yC_apI_zhitsa
+Width: 1444
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 648 0 basechar 0
+AnchorPoint: "L" 655 -100 basechar 0
+AnchorPoint: "O" 616 0 basechar 0
+AnchorPoint: "U" 708 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+677 214 m 257
+ 327 1153 l 258
+ 313 1191 349 1209 455 1217 c 257
+ 455 1260 l 257
+ 20 1260 l 257
+ 20 1217 l 257
+ 104 1206 149 1186 162 1151 c 258
+ 602 -30 l 257
+ 637 -23 738 0 752 59 c 256
+ 810 303 854 509 924 745 c 256
+ 1022 1077 1091 1121 1160 1121 c 256
+ 1213 1121 1252 1079 1270 944 c 257
+ 1321 943 l 257
+ 1335 949 1411 1206 1386 1226 c 256
+ 1355 1251 1248 1280 1198 1280 c 256
+ 1054 1280 961 1211 864 929 c 256
+ 824 814 751 544 677 214 c 257
+EndSplineSet
+EndChar

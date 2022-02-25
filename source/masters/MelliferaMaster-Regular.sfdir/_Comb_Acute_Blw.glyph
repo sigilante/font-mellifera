@@ -1,0 +1,18 @@
+StartChar: CombAcuteBlw
+Encoding: 44 791 41
+GlifName: C_ombA_cuteB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -500 -600 basechar 0
+AnchorPoint: "L" -500 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-705 -503 m 257
+ -236 -260 l 257
+ -245 -215 l 257
+ -265 -194 -335 -157 -363 -141 c 257
+ -750 -458 l 257
+ -732 -483 -728 -493 -705 -503 c 257
+EndSplineSet
+EndChar

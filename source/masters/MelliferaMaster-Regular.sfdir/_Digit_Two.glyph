@@ -1,0 +1,28 @@
+StartChar: DigitTwo
+Encoding: 714 50 710
+GlifName: D_igitT_wo
+Width: 961
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 480 -100 basechar 0
+AnchorPoint: "U" 480 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+821 0 m 257
+ 836 287 l 257
+ 786 299 l 257
+ 786 299 774 121 684 121 c 258
+ 266 121 l 257
+ 676 602 823 774 823 952 c 256
+ 823 1147 696 1235 535 1235 c 256
+ 330 1235 125 1053 125 915 c 257
+ 152 885 l 257
+ 213 891 235 909 280 934 c 257
+ 280 1028 358 1145 467 1145 c 256
+ 612 1145 668 1047 668 924 c 256
+ 668 772 573 625 98 74 c 257
+ 127 0 l 257
+ 821 0 l 257
+EndSplineSet
+EndChar

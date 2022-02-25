@@ -1,0 +1,26 @@
+StartChar: CombInvBridgeBlw
+Encoding: 150 826 146
+GlifName: C_ombI_nvB_ridgeB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -521 -600 basechar 0
+AnchorPoint: "L" -521 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-346 -210 m 257
+ -346 -344 l 257
+ -697 -344 l 257
+ -697 -181 l 257
+ -722 -159 l 257
+ -749 -167 -769 -190 -787 -210 c 257
+ -787 -410 l 257
+ -765 -434 l 257
+ -319 -434 l 257
+ -293 -420 -274 -402 -256 -384 c 257
+ -256 -181 l 257
+ -281 -159 l 257
+ -306 -172 -329 -193 -346 -210 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

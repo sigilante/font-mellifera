@@ -1,0 +1,20 @@
+StartChar: GrPeris.Por
+Encoding: 990 -1 985
+GlifName: G_rP_eris.P_or
+Width: 822
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 400 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+36 1133 m 257
+ 47 1116 66 1101 84 1093 c 257
+ 178 1205 269 1251 383 1251 c 256
+ 492 1251 582 1205 678 1093 c 257
+ 694 1100 714 1115 726 1133 c 257
+ 635 1287 538 1383 387 1383 c 256
+ 247 1383 126 1288 36 1133 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

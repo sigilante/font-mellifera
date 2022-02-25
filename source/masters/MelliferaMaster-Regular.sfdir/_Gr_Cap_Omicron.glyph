@@ -1,0 +1,25 @@
+StartChar: GrCapOmicron
+Encoding: 929 927 924
+GlifName: G_rC_apO_micron
+Width: 1229
+VWidth: 0
+Flags: W
+AnchorPoint: "G" 50 1260 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1139 647 m 257
+ 1139 973 963 1290 633 1290 c 256
+ 319 1290 70 975 70 612 c 256
+ 70 276 254 -30 575 -30 c 256
+ 879 -30 1139 285 1139 647 c 257
+  PathStart: -1
+983 629 m 257
+ 983 276 825 90 604 90 c 256
+ 399 90 225 342 225 641 c 256
+ 225 967 367 1175 604 1175 c 256
+ 831 1175 983 905 983 629 c 257
+  PathStart: -1
+EndSplineSet
+Kerns2: 814 -59 "'kern' Horizontal Kerning lookup 0 subtable" 884 -49 "'kern' Horizontal Kerning lookup 0 subtable" 937 -20 "'kern' Horizontal Kerning lookup 0 subtable" 944 -49 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

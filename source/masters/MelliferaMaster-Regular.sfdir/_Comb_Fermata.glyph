@@ -1,0 +1,26 @@
+StartChar: CombFermata
+Encoding: 127 850 124
+GlifName: C_ombF_ermata
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1620 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-835 1225 m 257
+ -816 1205 -800 1196 -778 1189 c 257
+ -720 1327 -610 1383 -516 1383 c 256
+ -427 1383 -302 1327 -242 1189 c 257
+ -220 1197 -205 1205 -185 1225 c 257
+ -265 1440 -374 1515 -505 1515 c 256
+ -625 1515 -755 1440 -835 1225 c 257
+  PathStart: -1
+-428 1183 m 256
+ -428 1237 -452 1266 -502 1266 c 256
+ -557 1266 -602 1214 -602 1148 c 256
+ -602 1094 -580 1064 -529 1064 c 256
+ -471 1064 -428 1118 -428 1183 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

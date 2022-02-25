@@ -1,0 +1,34 @@
+StartChar: GrSmHeta
+Encoding: 1094 881 1089
+GlifName: G_rS_mH_eta
+Width: 763
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 408 -84 basechar 0
+AnchorPoint: "U" 404 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+723 507 m 257
+ 694 535 l 257
+ 278 535 l 257
+ 253 451 l 257
+ 432 451 l 258
+ 543 451 590 435 629 396 c 257
+ 657 417 698 470 723 507 c 257
+  PathStart: -1
+351 717 m 257
+ 352 717 337 925 337 925 c 257
+ 337 925 302 960 302 960 c 257
+ 214 921 150 894 55 880 c 257
+ 55 840 l 257
+ 198 826 202 821 202 681 c 256
+ 202 678 202 224 202 220 c 256
+ 202 160 196 53 191 0 c 257
+ 230 -30 l 257
+ 278 -9 326 5 371 22 c 257
+ 360 90 351 144 352 236 c 257
+ 352 237 351 718 351 717 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

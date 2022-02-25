@@ -1,0 +1,25 @@
+StartChar: SubsetOf
+Encoding: 4092 8834 4068
+GlifName: S_ubsetO_f
+Width: 899
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+830 918 m 257
+ 805 943 l 257
+ 483 943 l 258
+ 202 943 68 772 68 568 c 256
+ 68 364 202 193 483 193 c 258
+ 801 193 l 257
+ 809 218 823 250 830 278 c 257
+ 805 303 l 257
+ 494 303 l 258
+ 297 303 194 390 194 568 c 256
+ 194 738 297 834 494 834 c 258
+ 801 834 l 257
+ 809 859 823 890 830 918 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

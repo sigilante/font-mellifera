@@ -1,0 +1,32 @@
+StartChar: LtnSupSmSchwa
+Encoding: 3658 7498 3642
+GlifName: L_tnS_upS_mS_chwa
+Width: 646
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 326 540 basechar 0
+AnchorPoint: "O" 378 620 basechar 0
+AnchorPoint: "R" 717 1136 basechar 0
+AnchorPoint: "U" 326 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+292 602 m 256
+ 375 602 440 624 492 673 c 256
+ 556 732 596 817 596 911 c 256
+ 596 1088 474 1196 329 1196 c 256
+ 243 1196 169 1176 56 1072 c 257
+ 62 1064 81 1044 93 1040 c 257
+ 189 1098 228 1105 279 1105 c 256
+ 379 1105 472 1029 472 901 c 256
+ 472 752 417 674 312 674 c 256
+ 240 674 179 721 179 796 c 256
+ 179 828 197 845 226 845 c 258
+ 548 845 l 257
+ 550 909 l 257
+ 170 909 l 257
+ 137 898 104 881 76 868 c 257
+ 61 849 50 819 50 787 c 256
+ 50 682 158 602 292 602 c 256
+EndSplineSet
+EndChar

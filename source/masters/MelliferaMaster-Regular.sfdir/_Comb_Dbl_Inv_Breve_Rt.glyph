@@ -1,0 +1,15 @@
+StartChar: CombDblInvBreveRt
+Encoding: 99 65057 96
+GlifName: C_ombD_blI_nvB_reveR_t
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+-818 1900 m 257
+ -818 1758 l 257
+ -534 1755 -234 1707 -81 1555 c 257
+ -43 1565 -27 1576 0 1600 c 257
+ -177 1815 -484 1900 -818 1900 c 257
+EndSplineSet
+EndChar

@@ -1,0 +1,33 @@
+StartChar: SupplRaisedInterpMkrDot
+Encoding: 4121 11783 4097
+GlifName: S_upplR_aisedI_nterpM_krD_ot
+Width: 821
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+466 626 m 257
+ 466 1177 l 257
+ 440 1202 l 257
+ 413 1196 377 1181 355 1171 c 257
+ 355 617 l 257
+ 379 594 l 257
+ 406 601 440 613 466 626 c 257
+  PathStart: -1
+712 947 m 256
+ 712 986 694 1008 659 1008 c 256
+ 619 1008 584 968 584 920 c 256
+ 584 881 600 860 638 860 c 256
+ 680 860 712 898 712 947 c 256
+  PathStart: -1
+766 1238 m 257
+ 741 1260 l 257
+ 85 1260 l 257
+ 74 1236 62 1200 55 1171 c 257
+ 80 1149 l 257
+ 735 1149 l 257
+ 745 1169 758 1209 766 1238 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

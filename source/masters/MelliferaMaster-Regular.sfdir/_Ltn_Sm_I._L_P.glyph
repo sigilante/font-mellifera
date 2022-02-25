@@ -1,0 +1,33 @@
+StartChar: LtnSmI.LP
+Encoding: 2628 -1 2612
+GlifName: L_tnS_mI_.L_P_
+Width: 555
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 285 -100 basechar 0
+AnchorPoint: "O" 335 0 basechar 0
+AnchorPoint: "R" 555 900 basechar 0
+AnchorPoint: "U" 285 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+390 1221 m 257
+ 390 1283 362 1316 305 1316 c 256
+ 242 1316 190 1256 190 1180 c 256
+ 190 1119 215 1084 274 1084 c 256
+ 340 1084 390 1146 390 1221 c 257
+  PathStart: -1
+70 0 m 257
+ 500 0 l 257
+ 500 43 l 257
+ 403 61 360 88 360 104 c 258
+ 360 960 l 257
+ 326 960 l 257
+ 258 927 154 896 70 880 c 257
+ 70 840 l 257
+ 211 827 210 807 210 670 c 258
+ 210 104 l 258
+ 210 86 160 61 70 43 c 257
+ 70 0 l 257
+EndSplineSet
+EndChar

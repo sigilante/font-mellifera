@@ -1,0 +1,34 @@
+StartChar: CySmA.sc
+Encoding: 393 -1 389
+GlifName: C_yS_mA_.sc
+Width: 1146
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 563 -76 basechar 0
+AnchorPoint: "U" 563 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+361 363 m 257
+ 728 363 l 257
+ 832 95 l 257
+ 844 66 807 54 714 50 c 257
+ 714 0 l 257
+ 1117 0 l 257
+ 1117 49 l 257
+ 1035 57 1006 72 995 100 c 257
+ 605 1089 l 257
+ 567 1072 519 1046 488 1018 c 257
+ 145 100 l 257
+ 132 72 82 62 -1 49 c 257
+ -1 0 l 257
+ 396 0 l 257
+ 396 49 l 257
+ 298 59 254 69 260 95 c 257
+ 361 363 l 257
+695 450 m 257
+ 395 450 l 257
+ 542 842 l 257
+ 595 705 642 587 695 450 c 257
+EndSplineSet
+EndChar

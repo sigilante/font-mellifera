@@ -1,0 +1,23 @@
+StartChar: LtnSmECircumDotBlw.sc
+Encoding: 2410 -1 2394
+GlifName: L_tnS_mE_C_ircumD_otB_lw.sc
+Width: 955
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 472 7 basechar 0
+AnchorPoint: "L" 472 -576 basechar 0
+AnchorPoint: "O" 705 7 basechar 0
+AnchorPoint: "R" 931 920 basechar 0
+AnchorPoint: "U" 472 1595 basechar 0
+LayerCount: 2
+Fore
+Refer: 2368 -1 N 1 0 0 1 0 0 2
+Refer: 119 803 N 1 0 0 1 987 24 2
+Refer: 70 770 N 1 0 0 1 986 95 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

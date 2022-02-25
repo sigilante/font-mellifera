@@ -1,0 +1,11 @@
+StartChar: RomNumTen
+Encoding: 4004 8553 3983
+GlifName: R_omN_umT_en
+Width: 1260
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 630 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1790 88 N 1 0 0 1 0 0 2
+EndChar

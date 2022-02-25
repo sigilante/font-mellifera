@@ -1,0 +1,19 @@
+StartChar: GrOxia
+Encoding: 988 8189 983
+GlifName: G_rO_xia
+Width: 461
+VWidth: 0
+Flags: W
+AnchorPoint: "G" 461 1360 mark 0
+AnchorPoint: "U" 130 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+93 1084 m 257
+ 421 1506 l 257
+ 390 1541 l 257
+ 339 1529 259 1508 216 1492 c 257
+ 40 1117 l 257
+ 63 1097 71 1089 93 1084 c 257
+EndSplineSet
+EndChar

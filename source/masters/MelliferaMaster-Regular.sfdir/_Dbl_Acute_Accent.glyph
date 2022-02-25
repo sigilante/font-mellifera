@@ -1,0 +1,23 @@
+StartChar: DblAcuteAccent
+Encoding: 687 733 683
+GlifName: D_blA_cuteA_ccent
+Width: 768
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+428 1047 m 257
+ 688 1423 l 257
+ 666 1464 l 257
+ 637 1474 580 1485 547 1489 c 257
+ 371 1074 l 257
+ 395 1058 403 1052 428 1047 c 257
+137 1047 m 257
+ 397 1423 l 257
+ 375 1464 l 257
+ 348 1474 289 1485 256 1489 c 257
+ 80 1074 l 257
+ 106 1058 115 1052 137 1047 c 257
+EndSplineSet
+EndChar

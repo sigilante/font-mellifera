@@ -1,0 +1,29 @@
+StartChar: GrDasiaVaria
+Encoding: 972 8157 967
+GlifName: G_rD_asiaV_aria
+Width: 740
+VWidth: 0
+Flags: W
+AnchorPoint: "G" 740 1360 mark 0
+AnchorPoint: "U" 400 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+51 1329 m 257
+ 60 1219 119 1145 249 1092 c 257
+ 288 1125 l 257
+ 224 1174 194 1217 190 1278 c 256
+ 186 1334 203 1417 327 1441 c 257
+ 339 1482 l 257
+ 278 1507 183 1531 137 1528 c 257
+ 68 1480 45 1402 51 1329 c 257
+  PathStart: -1
+700 1100 m 257
+ 575 1539 l 257
+ 542 1540 467 1542 439 1533 c 257
+ 410 1497 l 257
+ 639 1084 l 257
+ 663 1082 674 1088 700 1100 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

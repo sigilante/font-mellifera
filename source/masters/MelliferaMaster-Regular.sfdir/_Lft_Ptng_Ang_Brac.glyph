@@ -1,0 +1,25 @@
+StartChar: LftPtngAngBrac
+Encoding: 1266 9001 1254
+GlifName: L_ftP_tngA_ngB_rac
+Width: 1134
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1070 1585 m 257
+ 1070 1584 l 257
+ 1029 1599 l 257
+ 100 671 l 257
+ 100 645 106 596 112 573 c 257
+ 169 541 l 257
+ 1087 1459 l 257
+ 1085 1492 1077 1549 1070 1585 c 257
+112 573 m 257
+ 968 -284 l 257
+ 1027 -277 1043 -269 1088 -255 c 257
+ 1089 -207 l 257
+ 195 688 l 257
+ 112 573 l 257
+EndSplineSet
+EndChar

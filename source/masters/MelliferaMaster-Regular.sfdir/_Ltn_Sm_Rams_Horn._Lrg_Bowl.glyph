@@ -1,0 +1,30 @@
+StartChar: LtnSmRamsHorn.LrgBowl
+Encoding: 3150 -1 3134
+GlifName: L_tnS_mR_amsH_orn.L_rgB_owl
+Width: 1072
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 548 -100 basechar 0
+AnchorPoint: "R" 1184 900 basechar 0
+AnchorPoint: "U" 548 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+803 960 m 256
+ 548 960 180 658 180 288 c 256
+ 180 96 328 -30 533 -30 c 256
+ 759 -30 910 146 910 310 c 256
+ 910 627 600 960 290 960 c 256
+ 80 960 54 777 45 700 c 257
+ 107 679 l 257
+ 114 767 164 842 256 842 c 256
+ 487 842 768 539 770 265 c 256
+ 771 152 692 70 566 70 c 256
+ 465 70 330 162 330 313 c 256
+ 330 570 507 842 770 842 c 256
+ 871 842 953 761 967 679 c 257
+ 1027 699 l 257
+ 1014 812 1004 960 803 960 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,21 @@
+StartChar: ModLowTilde
+Encoding: 3794 759 3778
+GlifName: M_odL_owT_ilde
+Width: 682
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+682 -98 m 257
+ 628 -75 l 257
+ 583 -153 534 -198 483 -198 c 256
+ 419 -198 340 -85 239 -85 c 256
+ 135 -85 47 -202 0 -311 c 257
+ 53 -331 l 257
+ 102 -257 143 -210 196 -210 c 256
+ 274 -210 350 -323 442 -323 c 256
+ 546 -323 635 -206 682 -98 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

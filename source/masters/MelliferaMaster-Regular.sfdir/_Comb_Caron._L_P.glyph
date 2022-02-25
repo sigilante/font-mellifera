@@ -1,0 +1,20 @@
+StartChar: CombCaron.LP
+Encoding: 70 -1 67
+GlifName: C_ombC_aron.L_P_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -514 1370 basechar 0
+AnchorPoint: "U" -514 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-460 1071 m 257
+ -198 1378 l 257
+ -214 1405 -218 1413 -241 1425 c 257
+ -511 1214 l 257
+ -786 1425 l 257
+ -808 1413 -812 1405 -831 1378 c 257
+ -567 1071 l 257
+ -460 1071 l 257
+EndSplineSet
+EndChar

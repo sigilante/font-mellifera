@@ -1,0 +1,30 @@
+StartChar: GrPsiliPeris.Por
+Encoding: 997 -1 992
+GlifName: G_rP_siliP_eris.P_or
+Width: 383
+VWidth: 0
+Flags: W
+AnchorPoint: "G" 383 1340 mark 0
+AnchorPoint: "U" 191 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+327 1283 m 257
+ 338 1338 318 1390 250 1423 c 257
+ 208 1430 65 1401 41 1379 c 257
+ 50 1336 l 257
+ 154 1328 194 1288 191 1229 c 256
+ 189 1185 151 1133 115 1111 c 257
+ 150 1074 l 257
+ 258 1124 313 1208 327 1283 c 257
+  PathStart: -1
+-168 1433 m 257
+ -156 1415 -139 1400 -120 1393 c 257
+ -26 1505 65 1551 179 1551 c 256
+ 288 1551 378 1505 474 1393 c 257
+ 491 1399 512 1416 522 1433 c 257
+ 431 1587 334 1683 183 1683 c 256
+ 43 1683 -78 1588 -168 1433 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,25 @@
+StartChar: LtnRetrClick
+Encoding: 1873 451 1857
+GlifName: L_tnR_etrC_lick
+Width: 557
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 272 -100 basechar 0
+AnchorPoint: "U" 272 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+252 350 m 257
+ 285 360 301 371 326 389 c 257
+ 375 1525 l 257
+ 332 1550 l 257
+ 287 1531 227 1501 176 1468 c 257
+ 223 371 l 257
+ 252 350 l 257
+254 -40 m 256
+ 332 -40 391 31 391 123 c 257
+ 391 195 360 236 293 236 c 256
+ 217 236 154 162 154 72 c 256
+ 154 0 184 -40 254 -40 c 256
+EndSplineSet
+EndChar

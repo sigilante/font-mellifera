@@ -1,0 +1,11 @@
+StartChar: GrCapUpsilonWDasia
+Encoding: 954 8025 949
+GlifName: G_rC_apU_psilonW_D_asia
+Width: 1677
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 948 933 N 1 0 0 1 483 0 2
+Refer: 963 8190 N 1 0 0 1 0 -100 2
+EndChar

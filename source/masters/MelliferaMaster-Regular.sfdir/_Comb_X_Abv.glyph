@@ -1,0 +1,29 @@
+StartChar: CombXAbv
+Encoding: 236 829 232
+GlifName: C_ombX_A_bv
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -516 1370 basechar 0
+AnchorPoint: "U" -516 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-218 1112 m 257
+ -460 1291 l 257
+ -567 1291 l 257
+ -811 1112 l 257
+ -798 1091 -784 1072 -766 1057 c 257
+ -515 1185 l 257
+ -261 1057 l 257
+ -241 1073 -229 1090 -218 1112 c 257
+  PathStart: -1
+-464 1208 m 257
+ -222 1385 l 257
+ -233 1408 -248 1429 -265 1442 c 257
+ -515 1311 l 257
+ -770 1442 l 257
+ -786 1428 -804 1404 -815 1385 c 257
+ -571 1208 l 257
+ -464 1208 l 257
+EndSplineSet
+EndChar

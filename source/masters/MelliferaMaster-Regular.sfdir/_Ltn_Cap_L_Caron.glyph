@@ -1,0 +1,14 @@
+StartChar: LtnCapLCaron
+Encoding: 1548 317 1532
+GlifName: L_tnC_apL_C_aron
+Width: 975
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 496 0 basechar 0
+AnchorPoint: "L" 497 -100 basechar 0
+AnchorPoint: "U" 412 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1525 76 N 1 0 0 1 0 0 2
+Refer: 82 789 N 1 0 0 1 750 0 2
+EndChar

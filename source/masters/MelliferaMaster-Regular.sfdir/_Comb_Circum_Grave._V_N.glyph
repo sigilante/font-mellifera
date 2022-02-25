@@ -1,0 +1,27 @@
+StartChar: CombCircumGrave.VN
+Encoding: 78 -1 75
+GlifName: C_ombC_ircumG_rave.V_N_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -514 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-198 1092 m 257
+ -460 1471 l 257
+ -567 1471 l 257
+ -831 1092 l 257
+ -812 1067 -808 1057 -786 1047 c 257
+ -515 1315 l 257
+ -241 1047 l 257
+ -218 1057 -214 1067 -198 1092 c 257
+  PathStart: -1
+-717 1370 m 257
+ -843 1634 l 257
+ -877 1634 -907 1631 -941 1625 c 257
+ -966 1584 l 257
+ -762 1350 l 257
+ -744 1354 -733 1360 -717 1370 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

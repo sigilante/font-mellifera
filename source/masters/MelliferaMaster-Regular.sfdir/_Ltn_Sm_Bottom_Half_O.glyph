@@ -1,0 +1,21 @@
+StartChar: LtnSmBottomHalfO
+Encoding: 2225 7447 2209
+GlifName: L_tnS_mB_ottomH_alfO_
+Width: 1031
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 520 -100 basechar 0
+AnchorPoint: "U" 520 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+235 464 m 257
+ 80 464 l 257
+ 73 173 245 -30 497 -30 c 256
+ 740 -30 939 211 950 464 c 257
+ 900 464 850 464 800 464 c 257
+ 802 225 714 80 525 80 c 256
+ 402 80 241 256 235 464 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

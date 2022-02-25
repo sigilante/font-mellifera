@@ -1,0 +1,30 @@
+StartChar: GrCapSigma
+Encoding: 949 931 944
+GlifName: G_rC_apS_igma
+Width: 1064
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1009 345 m 257
+ 956 357 l 257
+ 907 182 892 139 808 139 c 258
+ 256 139 l 257
+ 653 674 l 257
+ 311 1159 l 257
+ 780 1159 l 258
+ 819 1159 866 1161 915 963 c 257
+ 971 975 l 257
+ 967 1276 l 257
+ 887 1260 829 1260 754 1260 c 258
+ 80 1260 l 257
+ 80 1217 l 257
+ 496 635 l 257
+ 59 43 l 257
+ 90 0 l 257
+ 983 0 l 257
+ 989 72 1003 238 1009 345 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

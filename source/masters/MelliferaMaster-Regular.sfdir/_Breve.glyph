@@ -1,0 +1,20 @@
+StartChar: Breve
+Encoding: 25 728 22
+GlifName: B_reve
+Width: 730
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 365 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+690 1360 m 257
+ 674 1384 660 1395 637 1405 c 257
+ 573 1253 457 1202 363 1202 c 256
+ 274 1202 159 1253 93 1405 c 257
+ 71 1395 56 1384 40 1360 c 257
+ 120 1145 236 1070 367 1070 c 256
+ 487 1070 610 1145 690 1360 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

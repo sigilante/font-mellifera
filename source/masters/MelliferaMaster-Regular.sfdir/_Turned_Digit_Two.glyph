@@ -1,0 +1,12 @@
+StartChar: TurnedDigitTwo
+Encoding: 4268 8586 4244
+GlifName: T_urnedD_igitT_wo
+Width: 961
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 480 -100 basechar 0
+AnchorPoint: "U" 480 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 710 50 N 1 0 0 1 0 0 2
+EndChar

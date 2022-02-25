@@ -1,0 +1,11 @@
+StartChar: RomNumOne
+Encoding: 3995 8544 3974
+GlifName: R_omN_umO_ne
+Width: 610
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 295 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1476 73 N 1 0 0 1 0 0 2
+EndChar

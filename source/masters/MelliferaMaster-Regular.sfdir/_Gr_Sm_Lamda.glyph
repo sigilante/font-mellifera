@@ -1,0 +1,33 @@
+StartChar: GrSmLamda
+Encoding: 1121 955 1116
+GlifName: G_rS_mL_amda
+Width: 1083
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 556 -100 basechar 0
+AnchorPoint: "U" 556 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1093 92 m 257
+ 1083 137 l 257
+ 1017 107 1000 100 968 100 c 256
+ 894 100 809 373 702 768 c 256
+ 517 1453 474 1510 381 1510 c 256
+ 326 1510 247 1466 113 1330 c 257
+ 137 1279 l 257
+ 202 1330 247 1350 294 1350 c 256
+ 366 1350 426 1285 572 743 c 256
+ 746 95 781 -30 887 -30 c 256
+ 932 -30 993 16 1093 92 c 257
+  PathStart: -1
+571 935 m 257
+ 566 955 538 1088 510 1113 c 257
+ 432 834 233 273 20 2 c 257
+ 50 -30 l 257
+ 97 -16 197 12 249 26 c 257
+ 359 371 460 635 571 935 c 257
+  PathStart: -1
+EndSplineSet
+Kerns2: 773 -31 "'kern' Horizontal Kerning lookup 0 subtable" 986 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1035 -20 "'kern' Horizontal Kerning lookup 0 subtable" 1043 -100 "'kern' Horizontal Kerning lookup 0 subtable" 1044 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1088 -111 "'kern' Horizontal Kerning lookup 0 subtable" 1114 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1117 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1118 -111 "'kern' Horizontal Kerning lookup 0 subtable" 1162 -20 "'kern' Horizontal Kerning lookup 0 subtable" 1163 -80 "'kern' Horizontal Kerning lookup 0 subtable" 1164 -20 "'kern' Horizontal Kerning lookup 0 subtable" 1171 -20 "'kern' Horizontal Kerning lookup 0 subtable" 1173 -80 "'kern' Horizontal Kerning lookup 0 subtable" 1174 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1208 -31 "'kern' Horizontal Kerning lookup 0 subtable" 4003 -240 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

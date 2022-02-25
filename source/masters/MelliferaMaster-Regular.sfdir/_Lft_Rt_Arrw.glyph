@@ -1,0 +1,28 @@
+StartChar: LftRtArrw
+Encoding: 1268 8596 1256
+GlifName: L_ftR_tA_rrw
+Width: 1975
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1269 256 m 257
+ 1845 505 l 257
+ 1845 638 l 257
+ 1269 887 l 257
+ 1234 796 l 257
+ 1640 633 l 257
+ 335 633 l 257
+ 741 796 l 257
+ 706 887 l 257
+ 130 638 l 257
+ 130 505 l 257
+ 706 256 l 257
+ 741 347 l 257
+ 335 510 l 257
+ 1640 510 l 257
+ 1234 347 l 257
+ 1269 256 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,38 @@
+StartChar: LtnSmIStrk.Dotless
+Encoding: 2701 -1 2685
+GlifName: L_tnS_mI_S_trk.D_otless
+Width: 555
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 285 0 basechar 0
+AnchorPoint: "L" 284 -100 basechar 0
+AnchorPoint: "O" 335 0 basechar 0
+AnchorPoint: "R" 555 900 basechar 0
+AnchorPoint: "U" 284 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70 0 m 257
+ 500 0 l 257
+ 500 43 l 257
+ 403 61 360 88 360 104 c 258
+ 360 415 l 257
+ 500 415 l 257
+ 522 480 l 257
+ 500 505 l 257
+ 360 505 l 257
+ 360 960 l 257
+ 326 960 l 257
+ 258 927 154 896 70 880 c 257
+ 70 840 l 257
+ 211 827 210 807 210 670 c 258
+ 210 505 l 257
+ 70 505 l 257
+ 59 484 53 458 47 437 c 257
+ 70 415 l 257
+ 210 415 l 257
+ 210 104 l 258
+ 210 86 160 61 70 43 c 257
+ 70 0 l 257
+EndSplineSet
+EndChar

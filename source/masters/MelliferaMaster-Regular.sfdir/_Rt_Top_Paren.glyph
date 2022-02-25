@@ -1,0 +1,18 @@
+StartChar: RtTopParen
+Encoding: 4030 9118 4006
+GlifName: R_tT_opP_aren
+Width: 900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+540 100 m 258
+ 540 -950 l 257
+ 690 -950 l 257
+ 690 150 l 258
+ 690 900 631 1494 150 1950 c 257
+ 100 1880 l 257
+ 520 1380 540 700 540 100 c 258
+EndSplineSet
+EndChar

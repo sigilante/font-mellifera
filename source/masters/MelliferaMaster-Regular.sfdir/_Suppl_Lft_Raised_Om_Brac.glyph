@@ -1,0 +1,18 @@
+StartChar: SupplLftRaisedOmBrac
+Encoding: 4115 11788 4091
+GlifName: S_upplL_ftR_aisedO_mB_rac
+Width: 670
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+626 721 m 257
+ 630 755 l 257
+ 159 1262 l 257
+ 133 1254 99 1239 74 1224 c 257
+ 70 1190 l 257
+ 541 683 l 257
+ 562 689 601 707 626 721 c 257
+EndSplineSet
+EndChar

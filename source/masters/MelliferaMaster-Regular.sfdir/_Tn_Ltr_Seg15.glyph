@@ -1,0 +1,19 @@
+StartChar: TnLtrSeg15
+Encoding: 4212 -1 4188
+GlifName: T_nL_trS_eg15
+Width: 425
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+51 18 m 258
+ 474 1484 l 258
+ 482 1512 466 1540 438 1548 c 256
+ 410 1556 382 1540 374 1512 c 258
+ -49 46 l 258
+ -57 18 -41 -10 -13 -18 c 256
+ 15 -26 43 -10 51 18 c 258
+  PathStart: -1
+EndSplineSet
+EndChar

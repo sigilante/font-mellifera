@@ -1,0 +1,17 @@
+StartChar: Bullet
+Encoding: 27 8226 24
+GlifName: B_ullet
+Width: 569
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+498 662 m 257
+ 498 793 430 885 309 885 c 256
+ 174 885 70 772 70 612 c 256
+ 70 483 133 389 260 389 c 256
+ 401 389 498 500 498 662 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

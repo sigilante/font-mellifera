@@ -1,0 +1,25 @@
+StartChar: SubZero
+Encoding: 4091 8320 4067
+GlifName: S_ubZ_ero
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 336 -290 basechar 0
+AnchorPoint: "U" 336 615 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+630 151 m 256
+ 630 360 538 531 350 531 c 256
+ 164 531 43 358 43 151 c 256
+ 43 -55 135 -228 323 -228 c 256
+ 511 -228 630 -55 630 151 c 256
+  PathStart: -1
+495 129 m 256
+ 495 -74 437 -159 350 -159 c 256
+ 256 -159 178 -43 178 177 c 256
+ 178 377 237 462 323 462 c 256
+ 407 462 495 348 495 129 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,26 @@
+StartChar: SubOne
+Encoding: 4084 8321 4060
+GlifName: S_ubO_ne
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 360 -280 basechar 0
+AnchorPoint: "U" 360 580 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+119 -210 m 257
+ 588 -210 l 257
+ 588 -168 l 257
+ 447 -153 423 -130 423 -114 c 258
+ 423 516 l 257
+ 397 537 l 257
+ 336 508 175 454 97 435 c 257
+ 112 394 l 257
+ 235 417 274 413 285 403 c 256
+ 297 392 298 376 298 344 c 258
+ 298 -114 l 258
+ 298 -131 265 -153 119 -168 c 257
+ 119 -210 l 257
+EndSplineSet
+EndChar

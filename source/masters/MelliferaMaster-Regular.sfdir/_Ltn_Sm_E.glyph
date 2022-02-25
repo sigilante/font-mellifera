@@ -1,0 +1,34 @@
+StartChar: LtnSmE
+Encoding: 2383 101 2367
+GlifName: L_tnS_mE_
+Width: 946
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 500 0 basechar 0
+AnchorPoint: "L" 500 -100 basechar 0
+AnchorPoint: "O" 558 0 basechar 0
+AnchorPoint: "R" 1020 900 basechar 0
+AnchorPoint: "U" 510 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+866 557 m 257
+ 866 727 786 960 524 960 c 256
+ 453 960 360 922 301 881 c 256
+ 162 786 80 614 80 434 c 256
+ 80 152 260 -30 465 -30 c 256
+ 602 -30 682 0 860 195 c 257
+ 854 205 840 227 823 236 c 257
+ 674 113 610 100 526 100 c 256
+ 342 100 230 287 230 497 c 256
+ 230 702 336 855 496 855 c 256
+ 670 855 702 688 702 616 c 256
+ 702 588 694 580 664 580 c 258
+ 184 580 l 257
+ 182 490 l 257
+ 756 490 l 257
+ 799 507 842 530 866 557 c 257
+  PathStart: -1
+EndSplineSet
+Kerns2: 3464 -31 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

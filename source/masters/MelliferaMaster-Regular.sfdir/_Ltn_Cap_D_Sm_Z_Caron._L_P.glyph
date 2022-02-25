@@ -1,0 +1,21 @@
+StartChar: LtnCapDSmZCaron.LP
+Encoding: 1398 -1 1382
+GlifName: L_tnC_apD_S_mZ_C_aron.L_P_
+Width: 2083
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 1666 0 basechar 0
+AnchorPoint: "L" 1666 -100 basechar 0
+AnchorPoint: "U" 1694 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1369 68 N 1 0 0 1 0 0 2
+Refer: 3513 122 N 1 0 0 1 1214 0 2
+Refer: 67 -1 N 1 0 0 1 2208 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

@@ -1,0 +1,18 @@
+StartChar: AcuteAccent.LP
+Encoding: 16 -1 13
+GlifName: A_cuteA_ccent.L_P_
+Width: 653
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 327 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+115 1047 m 257
+ 584 1290 l 257
+ 575 1335 l 257
+ 555 1356 485 1393 457 1409 c 257
+ 70 1092 l 257
+ 88 1067 92 1057 115 1047 c 257
+EndSplineSet
+EndChar

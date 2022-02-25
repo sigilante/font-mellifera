@@ -1,0 +1,17 @@
+StartChar: OneDotLeader
+Encoding: 3955 8228 3936
+GlifName: O_neD_otL_eader
+Width: 469
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+369 123 m 257
+ 369 195 336 236 270 236 c 256
+ 195 236 131 162 131 72 c 256
+ 131 0 160 -40 231 -40 c 256
+ 309 -40 369 31 369 123 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

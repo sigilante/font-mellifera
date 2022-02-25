@@ -1,0 +1,12 @@
+StartChar: HorizEllipsis
+Encoding: 1227 8230 1222
+GlifName: H_orizE_llipsis
+Width: 1370
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 767 46 N 1 0 0 1 0 0 2
+Refer: 767 46 N 1 0 0 1 450 0 2
+Refer: 767 46 N 1 0 0 1 900 0 2
+EndChar

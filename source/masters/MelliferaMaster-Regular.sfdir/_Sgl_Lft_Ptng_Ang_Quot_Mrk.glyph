@@ -1,0 +1,19 @@
+StartChar: SglLftPtngAngQuotMrk
+Encoding: 4038 8249 4014
+GlifName: S_glL_ftP_tngA_ngQ_uotM_rk
+Width: 624
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+441 17 m 257
+ 484 47 l 257
+ 253 467 l 257
+ 250 465 484 883 483 883 c 257
+ 441 913 l 257
+ 82 503 l 257
+ 80 500 80 430 80 430 c 257
+ 441 17 l 257
+EndSplineSet
+EndChar

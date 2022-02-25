@@ -1,0 +1,33 @@
+StartChar: LtnCapTRetrHook
+Encoding: 1730 430 1714
+GlifName: L_tnC_apT_R_etrH_ook
+Width: 1128
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 552 -600 basechar 0
+AnchorPoint: "U" 552 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1078 -115 m 257
+ 1059 -76 l 257
+ 1018 -70 885 -132 893 -144 c 256
+ 928 -201 865 -285 787 -285 c 256
+ 691 -285 630 -209 630 14 c 258
+ 630 1170 l 257
+ 914 1170 l 258
+ 974 1170 982 1113 1007 1000 c 257
+ 1052 1000 l 257
+ 1068 1084 1080 1167 1082 1235 c 257
+ 1052 1260 l 257
+ 42 1260 l 257
+ 28 1190 15 1092 9 1014 c 257
+ 52 995 l 257
+ 112 1151 130 1170 171 1170 c 258
+ 470 1170 l 257
+ 470 -47 l 258
+ 470 -271 551 -380 713 -380 c 256
+ 908 -380 1086 -216 1078 -115 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

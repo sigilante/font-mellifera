@@ -1,0 +1,38 @@
+StartChar: CySmStraightU
+Encoding: 631 1199 627
+GlifName: C_yS_mS_traightU_
+Width: 1065
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 553 -600 basechar 0
+AnchorPoint: "U" 553 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+628 187 m 257
+ 478 116 l 257
+ 478 -376 l 258
+ 478 -398 443 -417 328 -437 c 257
+ 328 -480 l 257
+ 778 -480 l 257
+ 778 -437 l 257
+ 669 -419 628 -396 628 -376 c 258
+ 628 187 l 257
+1044 930 m 257
+ 721 930 l 257
+ 721 887 l 257
+ 819 872 840 858 825 819 c 258
+ 580 193 l 257
+ 293 819 l 258
+ 274 861 303 874 406 887 c 257
+ 406 930 l 257
+ 20 930 l 257
+ 20 887 l 257
+ 86 872 119 856 131 819 c 257
+ 498 0 l 257
+ 608 0 l 257
+ 934 819 l 258
+ 950 858 964 868 1044 887 c 257
+ 1044 930 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: LtnCapEgAin
+Encoding: 1442 42788 1426
+GlifName: L_tnC_apE_gA_in
+Width: 560
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 280 -100 basechar 0
+AnchorPoint: "U" 280 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+275 1290 m 257
+ 146 1270 83 1165 83 1052 c 256
+ 83 913 168 775 417 666 c 257
+ 446 706 l 257
+ 273 794 241 892 241 977 c 256
+ 241 1081 299 1183 467 1183 c 257
+ 478 1225 l 257
+ 452 1243 320 1288 275 1290 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,11 @@
+StartChar: SmRomNumOne
+Encoding: 4050 8560 4026
+GlifName: S_mR_omN_umO_ne
+Width: 555
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 286 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 2608 105 N 1 0 0 1 0 0 2
+EndChar

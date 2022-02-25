@@ -1,0 +1,21 @@
+StartChar: LtnSmIOgonek.Dotless
+Encoding: 2691 -1 2675
+GlifName: L_tnS_mI_O_gonek.D_otless
+Width: 555
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 285 0 basechar 0
+AnchorPoint: "L" 285 -600 basechar 0
+AnchorPoint: "R" 555 900 basechar 0
+AnchorPoint: "U" 285 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 2352 305 N 1 0 0 1 0 0 2
+Refer: 192 808 N 1 0 0 1 799 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

@@ -1,0 +1,14 @@
+StartChar: DotTnLtr2
+Encoding: 735 42763 731
+GlifName: D_otT_nL_tr2
+Width: 651
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4209 -1 N 1 0 0 1 0 0 2
+Refer: 4180 -1 N 1 0 0 1 171 0 2
+Refer: 4210 -1 N 1 0 0 1 171 0 2
+Refer: 4178 -1 N 1 0 0 1 459 0 2
+Refer: 4213 -1 N 1 0 0 1 459 0 2
+EndChar

@@ -1,0 +1,36 @@
+StartChar: SubFour
+Encoding: 4080 8324 4056
+GlifName: S_ubF_our
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 398 -290 basechar 0
+AnchorPoint: "U" 398 615 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+612 53 m 257
+ 594 72 l 257
+ 518 72 l 257
+ 518 516 l 257
+ 492 537 l 257
+ 464 525 417 509 379 494 c 257
+ 29 15 l 257
+ 52 -5 l 257
+ 400 -5 l 257
+ 400 -131 l 258
+ 400 -145 384 -157 262 -174 c 257
+ 262 -210 l 257
+ 605 -210 l 257
+ 605 -174 l 257
+ 528 -159 518 -150 518 -138 c 258
+ 518 -5 l 257
+ 556 -5 l 257
+ 577 9 592 27 612 53 c 257
+  PathStart: -1
+400 404 m 257
+ 400 72 l 257
+ 149 72 l 257
+ 400 404 l 257
+EndSplineSet
+EndChar

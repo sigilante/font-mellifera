@@ -1,0 +1,35 @@
+StartChar: LtnSmLStrk
+Encoding: 2831 322 2815
+GlifName: L_tnS_mL_S_trk
+Width: 575
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 294 -100 basechar 0
+AnchorPoint: "U" 294 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70 0 m 257
+ 520 0 l 257
+ 520 43 l 257
+ 411 61 370 84 370 104 c 258
+ 370 782 l 257
+ 511 882 l 257
+ 529 928 532 928 540 973 c 257
+ 517 989 l 257
+ 370 886 l 257
+ 370 1516 l 257
+ 334 1550 l 257
+ 252 1507 176 1489 80 1470 c 257
+ 80 1430 l 257
+ 192 1417 220 1417 220 1296 c 258
+ 220 782 l 257
+ 82 686 l 257
+ 61 629 60 629 54 594 c 257
+ 78 577 l 257
+ 220 677 l 257
+ 220 104 l 258
+ 220 82 185 63 70 43 c 257
+ 70 0 l 257
+EndSplineSet
+EndChar

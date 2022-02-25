@@ -1,0 +1,23 @@
+StartChar: ModMiddleDblAcuteAccent
+Encoding: 3798 758 3782
+GlifName: M_odM_iddleD_blA_cuteA_ccent
+Width: 748
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+408 498 m 257
+ 668 874 l 257
+ 646 915 l 257
+ 617 925 560 936 527 940 c 257
+ 351 525 l 257
+ 375 509 383 503 408 498 c 257
+117 498 m 257
+ 377 874 l 257
+ 355 915 l 257
+ 328 925 269 936 236 940 c 257
+ 60 525 l 257
+ 86 509 95 503 117 498 c 257
+EndSplineSet
+EndChar

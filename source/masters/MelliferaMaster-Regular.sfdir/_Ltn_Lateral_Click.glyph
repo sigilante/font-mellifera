@@ -1,0 +1,29 @@
+StartChar: LtnLateralClick
+Encoding: 1850 449 1834
+GlifName: L_tnL_ateralC_lick
+Width: 790
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 395 -600 basechar 0
+AnchorPoint: "U" 395 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+630 -448 m 257
+ 630 1528 l 257
+ 594 1550 l 257
+ 555 1540 527 1523 490 1501 c 257
+ 490 -477 l 257
+ 525 -500 l 257
+ 558 -489 606 -469 630 -448 c 257
+  PathStart: -1
+300 -448 m 257
+ 300 1528 l 257
+ 264 1550 l 257
+ 225 1540 197 1523 160 1501 c 257
+ 160 -477 l 257
+ 195 -500 l 257
+ 228 -489 276 -469 300 -448 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,25 @@
+StartChar: ModSmL
+Encoding: 3859 737 3843
+GlifName: M_odS_mL_
+Width: 389
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 200 540 basechar 0
+AnchorPoint: "U" 200 1620 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+42 620 m 257
+ 357 620 l 257
+ 357 656 l 257
+ 281 667 262 680 262 692 c 258
+ 262 1530 l 257
+ 237 1550 l 257
+ 179 1524 116 1513 49 1502 c 257
+ 49 1468 l 257
+ 127 1460 137 1460 137 1388 c 258
+ 137 692 l 258
+ 137 679 123 668 42 656 c 257
+ 42 620 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: LtnSmGCircum.SngBowl.sc
+Encoding: 2560 -1 2544
+GlifName: L_tnS_mG_C_ircum.S_ngB_owl.sc
+Width: 1122
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 583 7 basechar 0
+AnchorPoint: "L" 602 -76 basechar 0
+AnchorPoint: "U" 602 1595 basechar 0
+LayerCount: 2
+Fore
+Refer: 2519 -1 N 1 0 0 1 0 0 2
+Refer: 70 770 N 1 0 0 1 1116 95 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

@@ -1,0 +1,33 @@
+StartChar: LtnSmV
+Encoding: 3425 118 3409
+GlifName: L_tnS_mV_
+Width: 1010
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 499 0 basechar 0
+AnchorPoint: "L" 516 -100 basechar 0
+AnchorPoint: "O" 460 0 basechar 0
+AnchorPoint: "U" 536 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+989 887 m 257
+ 989 930 l 257
+ 666 930 l 257
+ 666 887 l 257
+ 764 872 784 859 770 819 c 258
+ 539 178 l 257
+ 293 819 l 258
+ 276 862 303 874 406 887 c 257
+ 406 930 l 257
+ 20 930 l 257
+ 20 887 l 257
+ 86 872 117 854 131 819 c 258
+ 461 -30 l 257
+ 496 -22 574 -1 596 59 c 258
+ 879 819 l 258
+ 893 858 909 868 989 887 c 257
+  PathStart: -1
+EndSplineSet
+Kerns2: 1864 -41 "'kern' Horizontal Kerning lookup 0 subtable" 2367 -49 "'kern' Horizontal Kerning lookup 0 subtable" 2905 -41 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,22 @@
+StartChar: ModOpnShelf
+Encoding: 3803 766 3787
+GlifName: M_odO_pnS_helf
+Width: 1164
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1115 -269 m 257
+ 1090 -247 l 257
+ 170 -247 l 257
+ 170 -59 l 257
+ 144 -34 l 257
+ 117 -40 72 -55 50 -65 c 257
+ 50 -336 l 257
+ 75 -358 l 257
+ 1084 -358 l 257
+ 1094 -338 1107 -298 1115 -269 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

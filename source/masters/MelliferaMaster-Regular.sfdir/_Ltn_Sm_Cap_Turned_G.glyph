@@ -1,0 +1,13 @@
+StartChar: LtnSmCapTurnedG
+Encoding: 2303 122626 2287
+GlifName: L_tnS_mC_apT_urnedG_
+Width: 1006
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 523 -100 basechar 0
+AnchorPoint: "R" 1028 900 basechar 0
+AnchorPoint: "U" 523 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 2251 610 N -1 0 0 -1 1006 938 2
+EndChar

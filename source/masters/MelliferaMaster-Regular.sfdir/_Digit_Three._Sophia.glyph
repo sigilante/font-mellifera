@@ -1,0 +1,29 @@
+StartChar: DigitThree.Sophia
+Encoding: 713 -1 709
+GlifName: D_igitT_hree.S_ophia
+Width: 412
+VWidth: 0
+Flags: W
+AnchorPoint: "C" 206 266 mark 0
+LayerCount: 2
+Fore
+SplineSet
+378 142 m 256
+ 378 242 342 260 314 279 c 257
+ 346 300 370 330 370 402 c 256
+ 370 482 303 542 202 542 c 256
+ 110 542 57 489 45 394 c 257
+ 119 394 l 257
+ 130 454 156 486 203 486 c 256
+ 239 486 295 470 295 408 c 256
+ 295 334 270 306 196 306 c 257
+ 196 248 l 257
+ 273 248 305 220 305 137 c 256
+ 305 88 255 46 206 46 c 256
+ 137 46 117 95 112 140 c 257
+ 34 140 l 257
+ 34 67 84 -10 203 -10 c 256
+ 306 -10 378 55 378 142 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

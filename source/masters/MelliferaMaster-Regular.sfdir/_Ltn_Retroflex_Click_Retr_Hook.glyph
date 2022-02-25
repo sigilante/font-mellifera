@@ -1,0 +1,27 @@
+StartChar: LtnRetroflexClickRetrHook
+Encoding: 1875 122634 1859
+GlifName: L_tnR_etroflexC_lickR_etrH_ook
+Width: 557
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 272 -600 basechar 0
+AnchorPoint: "U" 272 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+582 -234 m 257
+ 563 -195 l 257
+ 561 -195 559 -195 557 -195 c 256
+ 510 -195 388 -253 397 -263 c 256
+ 411 -279 418 -301 418 -323 c 256
+ 418 -364 392 -404 341 -404 c 256
+ 275 -404 244 -358 244 -195 c 258
+ 244 104 l 257
+ 154 72 l 257
+ 154 -246 l 258
+ 154 -421 225 -499 337 -499 c 256
+ 492 -499 590 -335 582 -234 c 257
+  PathStart: -1
+EndSplineSet
+Refer: 1857 451 N 1 0 0 1 0 0 2
+EndChar

@@ -1,0 +1,23 @@
+StartChar: DegreeSgn
+Encoding: 695 176 691
+GlifName: D_egreeS_gn
+Width: 733
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+593 1045 m 257
+ 593 1147 508 1235 404 1235 c 256
+ 279 1235 140 1114 140 948 c 256
+ 140 845 219 759 329 759 c 256
+ 452 759 593 881 593 1045 c 257
+  PathStart: -1
+484 995 m 257
+ 484 903 419 851 355 851 c 256
+ 289 851 250 923 250 998 c 256
+ 250 1086 312 1142 378 1142 c 256
+ 443 1142 484 1073 484 995 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,25 @@
+StartChar: ModTnYinShang
+Encoding: 3914 42754 3898
+GlifName: M_odT_nY_inS_hang
+Width: 473
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+428 1223 m 257
+ 413 1237 l 257
+ 260 1237 l 258
+ 129 1237 100 1276 100 1359 c 256
+ 100 1442 129 1481 260 1481 c 258
+ 410 1481 l 257
+ 416 1494 424 1518 428 1536 c 257
+ 413 1550 l 257
+ 273 1550 l 258
+ 80 1550 25 1484 25 1359 c 256
+ 25 1234 80 1168 273 1168 c 258
+ 410 1168 l 257
+ 416 1181 424 1205 428 1223 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

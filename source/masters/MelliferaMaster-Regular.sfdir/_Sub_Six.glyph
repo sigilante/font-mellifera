@@ -1,0 +1,27 @@
+StartChar: SubSix
+Encoding: 4088 8326 4064
+GlifName: S_ubS_ix
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 356 -300 basechar 0
+AnchorPoint: "U" 362 615 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+627 37 m 257
+ 627 169 529 252 379 252 c 256
+ 327 252 231 227 158 143 c 257
+ 167 85 l 257
+ 222 158 295 175 350 175 c 256
+ 419 175 502 139 502 -1 c 256
+ 502 -65 472 -154 382 -154 c 256
+ 275 -154 199 -67 199 112 c 256
+ 199 277 319 454 565 504 c 257
+ 552 539 l 257
+ 217 499 68 300 68 74 c 256
+ 68 -107 191 -228 354 -228 c 256
+ 536 -228 627 -75 627 37 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

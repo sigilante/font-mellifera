@@ -1,0 +1,19 @@
+StartChar: LtnSmUHornHookAbv
+Encoding: 3387 7917 3371
+GlifName: L_tnS_mU_H_ornH_ookA_bv
+Width: 1255
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 545 -100 basechar 0
+AnchorPoint: "U" 545 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 3361 432 N 1 0 0 1 0 0 2
+Refer: 138 777 N 1 0 0 1 1063 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

@@ -1,0 +1,20 @@
+StartChar: CombVertLineAbv
+Encoding: 232 781 228
+GlifName: C_ombV_ertL_ineA_bv
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -525 1370 basechar 0
+AnchorPoint: "U" -525 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-470 1091 m 257
+ -470 1456 l 257
+ -497 1480 l 257
+ -523 1474 -557 1460 -580 1450 c 257
+ -580 1082 l 257
+ -555 1060 l 257
+ -529 1066 -497 1078 -470 1091 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

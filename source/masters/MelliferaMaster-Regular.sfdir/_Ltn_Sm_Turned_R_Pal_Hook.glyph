@@ -1,0 +1,25 @@
+StartChar: LtnSmTurnedRPalHook
+Encoding: 3320 122645 3304
+GlifName: L_tnS_mT_urnedR_P_alH_ook
+Width: 811
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 418 -600 basechar 0
+AnchorPoint: "U" 418 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+343 -287 m 257
+ 331 -400 422 -500 537 -500 c 256
+ 639 -500 780 -452 780 -167 c 258
+ 780 78 l 257
+ 749 64 726 56 690 44 c 257
+ 690 -196 l 258
+ 690 -359 649 -405 583 -405 c 256
+ 530 -405 459 -341 503 -221 c 257
+ 496 -210 485 -200 480 -194 c 257
+ 438 -210 366 -259 343 -287 c 257
+  PathStart: -1
+EndSplineSet
+Refer: 3298 633 N 1 0 0 1 0 0 2
+EndChar

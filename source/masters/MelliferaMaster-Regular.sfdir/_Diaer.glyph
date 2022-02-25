@@ -1,0 +1,24 @@
+StartChar: Diaer
+Encoding: 696 168 692
+GlifName: D_iaer
+Width: 801
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 400 1410 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+300 1261 m 257
+ 300 1323 272 1356 215 1356 c 256
+ 152 1356 100 1296 100 1220 c 256
+ 100 1159 125 1124 184 1124 c 256
+ 250 1124 300 1186 300 1261 c 257
+  PathStart: -1
+700 1261 m 257
+ 700 1323 672 1356 615 1356 c 256
+ 552 1356 500 1296 500 1220 c 256
+ 500 1159 525 1124 584 1124 c 256
+ 650 1124 700 1186 700 1261 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: LtnSmIOgonek.RetroHook.sc
+Encoding: 2695 -1 2679
+GlifName: L_tnS_mI_O_gonek.R_etroH_ook.sc
+Width: 573
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 277 7 basechar 0
+AnchorPoint: "L" 297 -576 basechar 0
+AnchorPoint: "O" 324 7 basechar 0
+AnchorPoint: "R" 545 920 basechar 0
+AnchorPoint: "U" 277 1145 basechar 0
+LayerCount: 2
+Fore
+Refer: 2615 -1 N 1 0 0 1 0 0 2
+Refer: 194 -1 N 1 0 0 1 361 24 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

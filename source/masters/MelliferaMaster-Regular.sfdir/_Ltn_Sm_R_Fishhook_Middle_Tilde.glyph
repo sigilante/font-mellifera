@@ -1,0 +1,38 @@
+StartChar: LtnSmRFishhookMiddleTilde
+Encoding: 3132 7539 3116
+GlifName: L_tnS_mR_F_ishhookM_iddleT_ilde
+Width: 811
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 312 -100 basechar 0
+AnchorPoint: "U" 424 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+705 923 m 256
+ 656 952 605 960 562 960 c 256
+ 430 960 180 835 180 456 c 258
+ 180 104 l 258
+ 180 82 128 63 40 43 c 257
+ 40 0 l 257
+ 499 0 l 257
+ 499 43 l 257
+ 374 61 330 84 330 104 c 258
+ 330 526 l 258
+ 330 802 430 820 498 820 c 256
+ 556 820 606 771 619 676 c 257
+ 662 676 l 257
+ 695 748 730 908 705 923 c 256
+  PathStart: -1
+627 557 m 257
+ 573 580 l 257
+ 528 502 479 457 428 457 c 256
+ 364 457 345 570 244 570 c 256
+ 140 570 52 453 5 344 c 257
+ 58 324 l 257
+ 107 398 148 445 201 445 c 256
+ 259 445 315 332 407 332 c 256
+ 491 332 580 449 627 557 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

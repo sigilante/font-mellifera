@@ -1,0 +1,29 @@
+StartChar: LtnSmCapI
+Encoding: 2270 618 2254
+GlifName: L_tnS_mC_apI_
+Width: 570
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 285 0 basechar 0
+AnchorPoint: "L" 285 -100 basechar 0
+AnchorPoint: "O" 335 0 basechar 0
+AnchorPoint: "R" 570 900 basechar 0
+AnchorPoint: "U" 285 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70 0 m 257
+ 500 0 l 257
+ 500 43 l 257
+ 403 61 360 88 360 104 c 258
+ 360 826 l 258
+ 360 844 410 869 500 887 c 257
+ 500 930 l 257
+ 70 930 l 257
+ 70 887 l 257
+ 167 869 210 842 210 826 c 258
+ 210 104 l 258
+ 210 86 160 61 70 43 c 257
+ 70 0 l 257
+EndSplineSet
+EndChar

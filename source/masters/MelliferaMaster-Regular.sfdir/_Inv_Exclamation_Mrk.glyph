@@ -1,0 +1,25 @@
+StartChar: InvExclamationMrk
+Encoding: 1244 161 1234
+GlifName: I_nvE_xclamationM_rk
+Width: 557
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+391 848 m 257
+ 391 920 362 961 293 961 c 256
+ 213 961 154 889 154 799 c 256
+ 154 725 186 684 254 684 c 256
+ 328 684 391 758 391 848 c 257
+  PathStart: -1
+371 -483 m 257
+ 322 551 l 257
+ 295 569 l 257
+ 260 559 246 551 219 530 c 257
+ 172 -543 l 257
+ 215 -565 l 257
+ 260 -549 319 -516 371 -483 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

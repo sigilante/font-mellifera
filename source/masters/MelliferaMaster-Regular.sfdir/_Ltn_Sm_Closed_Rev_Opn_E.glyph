@@ -1,0 +1,31 @@
+StartChar: LtnSmClosedRevOpnE
+Encoding: 2316 606 2300
+GlifName: L_tnS_mC_losedR_evO_pnE_
+Width: 958
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 512 -100 basechar 0
+AnchorPoint: "R" 1008 900 basechar 0
+AnchorPoint: "U" 512 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+521 85 m 256
+ 363 85 230 269 230 478 c 256
+ 230 698 333 855 498 855 c 256
+ 624 855 706 786 706 707 c 256
+ 706 625 669 539 426 522 c 257
+ 415 469 l 257
+ 634 462 718 354 716 254 c 256
+ 714 170 666 85 521 85 c 256
+  PathStart: -1
+538 960 m 256
+ 301 960 80 746 80 435 c 256
+ 80 172 249 -30 482 -30 c 256
+ 705 -30 880 128 880 271 c 256
+ 880 388 813 483 688 507 c 257
+ 788 546 846 627 846 736 c 256
+ 846 896 673 960 538 960 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

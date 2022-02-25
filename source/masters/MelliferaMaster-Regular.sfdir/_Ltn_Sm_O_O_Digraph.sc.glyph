@@ -1,0 +1,35 @@
+StartChar: LtnSmOODigraph.sc
+Encoding: 3016 -1 3000
+GlifName: L_tnS_mO_O_D_igraph.sc
+Width: 1936
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 1370 7 basechar 0
+AnchorPoint: "L" 968 -76 basechar 0
+AnchorPoint: "O" 1466 7 basechar 0
+AnchorPoint: "R" 1960 920 basechar 0
+AnchorPoint: "U" 968 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+521 -24 m 256
+ 696 -24 846 72 937 217 c 257
+ 1008 72 1136 -24 1326 -24 c 256
+ 1610 -24 1832 236 1832 535 c 256
+ 1832 803 1688 1065 1379 1065 c 256
+ 1200 1065 1052 969 962 825 c 257
+ 892 967 766 1065 574 1065 c 256
+ 281 1065 67 805 67 505 c 256
+ 67 228 220 -24 521 -24 c 256
+548 88 m 256
+ 362 88 223 290 223 530 c 256
+ 223 791 334 957 548 957 c 256
+ 753 957 872 740 872 520 c 256
+ 872 237 747 88 548 88 c 256
+1353 88 m 256
+ 1167 88 1028 290 1028 530 c 256
+ 1028 791 1138 957 1353 957 c 256
+ 1559 957 1676 740 1676 520 c 256
+ 1676 237 1553 88 1353 88 c 256
+EndSplineSet
+EndChar

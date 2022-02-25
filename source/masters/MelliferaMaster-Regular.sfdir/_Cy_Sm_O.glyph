@@ -1,0 +1,25 @@
+StartChar: CySmO
+Encoding: 588 1086 584
+GlifName: C_yS_mO_
+Width: 1030
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 516 -100 basechar 0
+AnchorPoint: "U" 516 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+950 485 m 256
+ 950 758 786 960 535 960 c 256
+ 285 960 80 709 80 444 c 256
+ 80 172 244 -30 496 -30 c 256
+ 739 -30 950 219 950 485 c 256
+  PathStart: -1
+795 455 m 256
+ 795 227 713 80 524 80 c 256
+ 401 80 235 262 235 473 c 256
+ 235 686 303 850 506 850 c 256
+ 643 850 795 666 795 455 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

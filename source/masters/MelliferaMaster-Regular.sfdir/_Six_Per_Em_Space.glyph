@@ -1,0 +1,13 @@
+StartChar: SixPerEmSpace
+Encoding: 4042 8198 4018
+GlifName: S_ixP_erE_mS_pace
+Width: 260
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 130 0 basechar 0
+AnchorPoint: "L" 130 -100 basechar 0
+AnchorPoint: "O" 150 0 basechar 0
+AnchorPoint: "R" 260 900 basechar 0
+AnchorPoint: "U" 130 1435 basechar 0
+LayerCount: 2
+EndChar

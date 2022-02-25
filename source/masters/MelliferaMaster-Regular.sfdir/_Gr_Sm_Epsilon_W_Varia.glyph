@@ -1,0 +1,11 @@
+StartChar: GrSmEpsilonWVaria
+Encoding: 1060 8050 1055
+GlifName: G_rS_mE_psilonW_V_aria
+Width: 862
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1046 949 N 1 0 0 1 0 0 2
+Refer: 1214 8175 N 1 0 0 1 165 0 2
+EndChar

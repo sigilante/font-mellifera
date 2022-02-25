@@ -1,0 +1,21 @@
+StartChar: CombGrPeris
+Encoding: 130 834 127
+GlifName: C_ombG_rP_eris
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -500 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-163 1313 m 257
+ -217 1336 l 257
+ -262 1258 -311 1233 -362 1233 c 256
+ -426 1233 -505 1326 -606 1326 c 256
+ -710 1326 -798 1229 -845 1120 c 257
+ -792 1100 l 257
+ -743 1174 -702 1201 -649 1201 c 256
+ -571 1201 -495 1108 -403 1108 c 256
+ -299 1108 -210 1205 -163 1313 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,24 @@
+StartChar: CombDiaer.Sup
+Encoding: 115 -1 112
+GlifName: C_ombD_iaer.S_up
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -360 1450 basechar 0
+AnchorPoint: "U" -360 1235 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-431 1357 m 257
+ -431 1394 -450 1414 -490 1414 c 256
+ -534 1414 -571 1378 -571 1332 c 256
+ -571 1295 -553 1274 -512 1274 c 256
+ -465 1274 -431 1312 -431 1357 c 257
+  PathStart: -1
+-151 1357 m 257
+ -151 1394 -170 1414 -210 1414 c 256
+ -254 1414 -291 1378 -291 1332 c 256
+ -291 1295 -273 1274 -232 1274 c 256
+ -186 1274 -151 1312 -151 1357 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

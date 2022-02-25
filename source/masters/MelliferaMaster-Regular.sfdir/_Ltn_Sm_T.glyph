@@ -1,0 +1,37 @@
+StartChar: LtnSmT
+Encoding: 3232 116 3216
+GlifName: L_tnS_mT_
+Width: 705
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 348 0 basechar 0
+AnchorPoint: "L" 348 -100 basechar 0
+AnchorPoint: "R" 500 900 basechar 0
+AnchorPoint: "U" 348 1320 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+676 117 m 257
+ 647 168 l 257
+ 543 115 475 100 428 100 c 256
+ 348 100 320 147 320 307 c 258
+ 320 835 l 257
+ 372 835 l 258
+ 480 835 543 816 575 800 c 257
+ 602 812 651 864 676 901 c 257
+ 647 930 l 257
+ 320 930 l 257
+ 320 1255 l 257
+ 289 1280 l 257
+ 170 1176 l 257
+ 170 930 l 257
+ 98 930 l 257
+ 20 863 l 257
+ 41 835 l 257
+ 170 835 l 257
+ 170 221 l 258
+ 170 35 252 -30 344 -30 c 256
+ 414 -30 545 20 676 117 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,19 @@
+StartChar: CombLftHalfRingAbv
+Encoding: 157 849 153
+GlifName: C_ombL_ftH_alfR_ingA_bv
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1490 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-427 1061 m 257
+ -423 1141 l 257
+ -519 1135 -568 1182 -568 1254 c 256
+ -568 1325 -516 1374 -429 1367 c 257
+ -423 1451 l 257
+ -549 1462 -650 1372 -650 1254 c 256
+ -650 1138 -554 1046 -427 1061 c 257
+EndSplineSet
+EndChar

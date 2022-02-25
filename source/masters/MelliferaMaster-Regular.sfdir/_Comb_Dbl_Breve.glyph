@@ -1,0 +1,19 @@
+StartChar: CombDblBreve
+Encoding: 88 861 85
+GlifName: C_ombD_blB_reve
+Width: 0
+VWidth: 0
+AnchorPoint: "U" 0 1930 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+818 1885 m 257
+ 791 1909 776 1920 737 1930 c 257
+ 587 1778 288 1724 -4 1727 c 256
+ -286 1730 -584 1778 -737 1930 c 257
+ -775 1920 -791 1909 -818 1885 c 257
+ -641 1670 -332 1585 3 1585 c 256
+ 319 1585 641 1670 818 1885 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

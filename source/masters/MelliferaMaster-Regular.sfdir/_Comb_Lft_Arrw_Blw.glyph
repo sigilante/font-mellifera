@@ -1,0 +1,24 @@
+StartChar: CombLftArrwBlw
+Encoding: 154 8430 150
+GlifName: C_ombL_ftA_rrwB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -532 -600 basechar 0
+AnchorPoint: "L" -532 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-248 -282 m 257
+ -273 -255 l 257
+ -694 -255 l 257
+ -615 -125 l 257
+ -671 -100 l 257
+ -824 -300 l 257
+ -671 -500 l 257
+ -615 -475 l 257
+ -694 -345 l 257
+ -275 -345 l 257
+ -263 -323 -255 -308 -248 -282 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: SubNine
+Encoding: 4083 8329 4059
+GlifName: S_ubN_ine
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 348 -290 basechar 0
+AnchorPoint: "U" 348 615 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+619 229 m 257
+ 619 441 494 531 354 531 c 256
+ 179 531 60 388 60 267 c 256
+ 60 148 148 51 307 51 c 256
+ 399 51 484 108 529 179 c 257
+ 520 242 l 257
+ 484 175 426 128 337 128 c 256
+ 278 128 184 156 184 304 c 256
+ 184 398 240 468 326 468 c 256
+ 393 468 486 404 486 192 c 256
+ 486 2 377 -141 110 -200 c 257
+ 123 -236 l 257
+ 459 -204 619 -14 619 229 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

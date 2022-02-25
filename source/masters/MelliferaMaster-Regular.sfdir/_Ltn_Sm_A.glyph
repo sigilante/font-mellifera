@@ -1,0 +1,43 @@
+StartChar: LtnSmA
+Encoding: 1880 97 1864
+GlifName: L_tnS_mA_
+Width: 940
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 446 0 basechar 0
+AnchorPoint: "L" 460 -100 basechar 0
+AnchorPoint: "O" 715 0 basechar 0
+AnchorPoint: "R" 940 900 basechar 0
+AnchorPoint: "U" 480 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+926 82 m 257
+ 911 127 l 257
+ 858 105 832 100 813 100 c 256
+ 789 100 773 122 773 178 c 258
+ 773 742 l 258
+ 773 879 690 960 544 960 c 256
+ 375 960 169 839 108 706 c 257
+ 122 667 l 257
+ 155 659 295 699 292 724 c 256
+ 284 804 369 858 455 860 c 256
+ 586 864 623 792 623 702 c 258
+ 623 164 l 258
+ 623 45 655 -30 702 -30 c 256
+ 739 -30 813 4 926 82 c 257
+  PathStart: -1
+633 488 m 257
+ 633 563 l 257
+ 318 517 235 466 170 401 c 256
+ 121 352 80 288 80 186 c 256
+ 80 31 197 -30 293 -30 c 256
+ 383 -30 516 27 641 162 c 257
+ 633 236 l 257
+ 528 143 434 100 352 100 c 256
+ 317 100 244 123 244 229 c 256
+ 244 291 268 336 302 372 c 256
+ 346 418 402 451 633 488 c 257
+EndSplineSet
+Kerns2: 3409 -31 "'kern' Horizontal Kerning lookup 0 subtable" 3441 -31 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

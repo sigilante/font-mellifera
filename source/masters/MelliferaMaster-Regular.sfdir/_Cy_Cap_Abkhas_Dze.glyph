@@ -1,0 +1,12 @@
+StartChar: CyCapAbkhasDze
+Encoding: 253 1248 249
+GlifName: C_yC_apA_bkhasD_ze
+Width: 1066
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 520 -100 basechar 0
+AnchorPoint: "U" 535 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1435 439 N 1 0 0 1 0 0 2
+EndChar

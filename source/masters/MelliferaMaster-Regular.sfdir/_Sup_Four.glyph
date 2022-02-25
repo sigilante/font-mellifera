@@ -1,0 +1,36 @@
+StartChar: SupFour
+Encoding: 4097 8308 4073
+GlifName: S_upF_our
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 398 540 basechar 0
+AnchorPoint: "U" 398 1445 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+612 883 m 257
+ 594 902 l 257
+ 518 902 l 257
+ 518 1346 l 257
+ 492 1367 l 257
+ 464 1355 417 1339 379 1324 c 257
+ 29 845 l 257
+ 52 825 l 257
+ 400 825 l 257
+ 400 699 l 258
+ 400 685 384 673 262 656 c 257
+ 262 620 l 257
+ 605 620 l 257
+ 605 656 l 257
+ 528 671 518 680 518 692 c 258
+ 518 825 l 257
+ 556 825 l 257
+ 577 839 592 857 612 883 c 257
+  PathStart: -1
+400 1234 m 257
+ 400 902 l 257
+ 149 902 l 257
+ 400 1234 l 257
+EndSplineSet
+EndChar

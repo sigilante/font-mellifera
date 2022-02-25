@@ -1,0 +1,24 @@
+StartChar: CombStrongCentralizationStrkBlw
+Encoding: 221 6842 217
+GlifName: C_ombS_trongC_entralizationS_trkB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -500 -600 basechar 0
+AnchorPoint: "L" -500 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-962 -660 m 256
+ -884 -660 -824 -589 -824 -497 c 256
+ -824 -425 -857 -384 -923 -384 c 256
+ -998 -384 -1062 -458 -1062 -548 c 256
+ -1062 -620 -1033 -660 -962 -660 c 256
+-580 45 m 257
+ -615 73 l 257
+ -639 71 -667 61 -688 49 c 257
+ -979 -497 l 257
+ -943 -524 l 257
+ -920 -517 -879 -497 -858 -473 c 257
+ -580 45 l 257
+EndSplineSet
+EndChar

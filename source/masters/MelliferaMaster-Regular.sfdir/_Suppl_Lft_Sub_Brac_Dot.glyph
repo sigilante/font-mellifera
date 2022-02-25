@@ -1,0 +1,31 @@
+StartChar: SupplLftSubBracDot
+Encoding: 4117 11780 4093
+GlifName: S_upplL_ftS_ubB_racD_ot
+Width: 488
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+438 947 m 256
+ 438 986 420 1008 385 1008 c 256
+ 345 1008 310 968 310 920 c 256
+ 310 881 326 860 364 860 c 256
+ 406 860 438 898 438 947 c 256
+  PathStart: -1
+151 626 m 257
+ 151 1042 l 257
+ 125 1067 l 257
+ 98 1061 62 1046 40 1036 c 257
+ 40 617 l 257
+ 64 594 l 257
+ 91 601 125 613 151 626 c 257
+  PathStart: -1
+40 1036 m 257
+ 124 958 l 257
+ 383 1198 l 257
+ 381 1232 l 257
+ 357 1249 324 1266 299 1276 c 257
+ 40 1036 l 257
+EndSplineSet
+EndChar

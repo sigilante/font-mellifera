@@ -1,0 +1,29 @@
+StartChar: LtnSubSmV
+Encoding: 3596 7525 3580
+GlifName: L_tnS_ubS_mV_
+Width: 707
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 366 -260 basechar 0
+AnchorPoint: "U" 366 444 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+313 -218 m 257
+ 345 -211 410 -198 429 -155 c 258
+ 619 281 l 258
+ 630 305 636 311 692 322 c 257
+ 692 358 l 257
+ 466 358 l 257
+ 466 322 l 257
+ 535 313 541 315 531 290 c 258
+ 378 -72 l 257
+ 220 281 l 258
+ 208 307 212 314 284 322 c 257
+ 284 358 l 257
+ 14 358 l 257
+ 14 322 l 257
+ 60 313 77 303 87 281 c 258
+ 313 -218 l 257
+EndSplineSet
+EndChar

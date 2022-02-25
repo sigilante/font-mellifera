@@ -1,0 +1,39 @@
+StartChar: LtnSmDblBarredL
+Encoding: 2361 11361 2345
+GlifName: L_tnS_mD_blB_arredL_
+Width: 654
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 327 -100 basechar 0
+AnchorPoint: "U" 327 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+102 0 m 257
+ 552 0 l 257
+ 552 43 l 257
+ 443 61 402 84 402 104 c 258
+ 402 1516 l 257
+ 366 1550 l 257
+ 284 1507 208 1489 112 1470 c 257
+ 112 1430 l 257
+ 224 1417 252 1413 252 1296 c 258
+ 252 104 l 258
+ 252 82 217 63 102 43 c 257
+ 102 0 l 257
+562 840 m 257
+ 584 905 l 257
+ 562 930 l 257
+ 92 930 l 257
+ 82 909 75 883 70 862 c 257
+ 92 840 l 257
+ 562 840 l 257
+562 640 m 257
+ 584 705 l 257
+ 562 730 l 257
+ 92 730 l 257
+ 82 709 75 683 70 662 c 257
+ 92 640 l 257
+ 562 640 l 257
+EndSplineSet
+EndChar

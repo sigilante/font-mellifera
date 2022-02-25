@@ -1,0 +1,31 @@
+StartChar: LtnCapJCrossedTail
+Encoding: 1524 42930 1508
+GlifName: L_tnC_apJ_C_rossedT_ail
+Width: 620
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 330 -600 basechar 0
+AnchorPoint: "U" 330 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+250 1155 m 258
+ 250 163 l 258
+ 250 -160 184 -255 56 -255 c 256
+ 3 -255 -71 -224 -71 -160 c 256
+ -71 -107 -15 -67 68 -67 c 256
+ 213 -67 306 -160 504 -390 c 257
+ 550 -344 l 257
+ 391 -124 249 18 73 18 c 256
+ -120 18 -201 -114 -201 -186 c 256
+ -201 -308 -82 -380 19 -380 c 256
+ 110 -380 184 -342 252 -270 c 256
+ 328 -190 410 -78 410 219 c 258
+ 410 1155 l 258
+ 410 1174 465 1198 555 1217 c 257
+ 555 1260 l 257
+ 55 1260 l 257
+ 55 1217 l 257
+ 215 1194 250 1171 250 1155 c 258
+EndSplineSet
+EndChar

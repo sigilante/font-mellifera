@@ -1,0 +1,37 @@
+StartChar: GrCapPhi
+Encoding: 940 934 935
+GlifName: G_rC_apP_hi
+Width: 1341
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1235 645 m 256
+ 1235 960 964 1094 681 1094 c 256
+ 321 1094 85 887 85 623 c 256
+ 85 271 395 168 667 168 c 256
+ 969 168 1235 349 1235 645 c 256
+  PathStart: -1
+435 0 m 257
+ 886 0 l 257
+ 886 43 l 257
+ 790 61 740 88 740 104 c 258
+ 740 1155 l 258
+ 740 1174 796 1198 886 1217 c 257
+ 886 1260 l 257
+ 435 1260 l 257
+ 435 1217 l 257
+ 531 1198 580 1171 580 1155 c 258
+ 580 104 l 258
+ 580 86 525 61 435 43 c 257
+ 435 0 l 257
+1075 626 m 256
+ 1075 426 960 256 689 256 c 256
+ 484 256 245 360 245 641 c 256
+ 245 816 352 1010 630 1010 c 256
+ 867 1010 1075 878 1075 626 c 256
+  PathStart: -1
+EndSplineSet
+Kerns2: 814 -100 "'kern' Horizontal Kerning lookup 0 subtable" 884 -70 "'kern' Horizontal Kerning lookup 0 subtable" 944 -80 "'kern' Horizontal Kerning lookup 0 subtable" 1116 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

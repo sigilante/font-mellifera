@@ -1,0 +1,19 @@
+StartChar: EmDash
+Encoding: 747 8212 743
+GlifName: E_mD_ash
+Width: 1569
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1508 546 m 257
+ 1484 570 l 257
+ 92 570 l 257
+ 80 544 68 508 61 479 c 257
+ 86 455 l 257
+ 1478 455 l 257
+ 1488 477 1502 517 1508 546 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

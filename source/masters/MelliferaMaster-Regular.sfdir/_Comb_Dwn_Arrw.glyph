@@ -1,0 +1,23 @@
+StartChar: CombDwnArrw
+Encoding: 124 6835 121
+GlifName: C_ombD_wnA_rrw
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -514 1460 basechar 0
+AnchorPoint: "U" -514 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-494 1460 m 257
+ -521 1455 -532 1449 -559 1429 c 257
+ -559 1200 l 257
+ -705 1289 l 257
+ -731 1233 l 257
+ -514 1060 l 257
+ -293 1233 l 257
+ -319 1289 l 257
+ -469 1200 l 257
+ -469 1438 l 257
+ -494 1460 l 257
+EndSplineSet
+EndChar

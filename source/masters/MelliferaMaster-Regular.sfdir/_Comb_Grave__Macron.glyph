@@ -1,0 +1,26 @@
+StartChar: CombGrave_Macron
+Encoding: 139 7621 135
+GlifName: C_ombG_rave_M_acron
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -514 1430 basechar 0
+AnchorPoint: "U" -514 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-935 1506 m 257
+ -745 1155 l 257
+ -712 1157 -635 1172 -609 1179 c 257
+ -587 1220 l 257
+ -879 1537 l 257
+ -902 1530 -918 1522 -935 1506 c 257
+  PathStart: -1
+-221 1261 m 257
+ -243 1285 l 257
+ -726 1285 l 257
+ -739 1259 -761 1209 -745 1155 c 257
+ -260 1155 l 257
+ -250 1180 -227 1232 -221 1261 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

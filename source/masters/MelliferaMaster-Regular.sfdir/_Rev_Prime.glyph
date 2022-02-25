@@ -1,0 +1,17 @@
+StartChar: RevPrime
+Encoding: 3981 8245 3960
+GlifName: R_evP_rime
+Width: 505
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 1377 m 257
+ 385 884 l 257
+ 413 886 436 897 455 908 c 257
+ 253 1421 l 257
+ 217 1425 118 1425 82 1419 c 257
+ 50 1377 l 257
+EndSplineSet
+EndChar

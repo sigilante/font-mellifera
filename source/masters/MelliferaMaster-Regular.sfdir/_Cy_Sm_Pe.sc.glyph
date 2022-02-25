@@ -1,0 +1,34 @@
+StartChar: CySmPe.sc
+Encoding: 595 -1 591
+GlifName: C_yS_mP_e.sc
+Width: 1222
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 602 -76 basechar 0
+AnchorPoint: "U" 602 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+45 0 m 257
+ 473 0 l 257
+ 473 49 l 257
+ 384 64 339 82 339 92 c 257
+ 339 953 l 257
+ 853 953 l 257
+ 853 92 l 257
+ 853 81 802 64 718 49 c 257
+ 718 0 l 257
+ 1147 0 l 257
+ 1147 49 l 257
+ 1057 64 1012 82 1012 92 c 257
+ 1012 948 l 257
+ 1012 959 1062 976 1147 992 c 257
+ 1147 1041 l 257
+ 45 1041 l 257
+ 45 992 l 257
+ 133 976 180 958 180 948 c 257
+ 180 92 l 257
+ 180 81 129 64 45 49 c 257
+ 45 0 l 257
+EndSplineSet
+EndChar

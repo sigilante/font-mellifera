@@ -1,0 +1,19 @@
+StartChar: CombGrave
+Encoding: 134 768 130
+GlifName: C_ombG_rave
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -433 1410 basechar 0
+AnchorPoint: "U" -433 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-319 1078 m 257
+ -559 1489 l 257
+ -592 1487 -679 1472 -705 1465 c 257
+ -727 1424 l 257
+ -375 1047 l 257
+ -352 1054 -336 1062 -319 1078 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

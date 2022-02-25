@@ -1,0 +1,27 @@
+StartChar: ModDwnTack
+Encoding: 3768 725 3752
+GlifName: M_odD_wnT_ack
+Width: 560
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+490 123 m 257
+ 465 150 l 257
+ 99 150 l 257
+ 85 123 78 111 70 84 c 257
+ 93 60 l 257
+ 463 60 l 257
+ 475 82 483 97 490 123 c 257
+  PathStart: -1
+325 -169 m 257
+ 325 116 l 257
+ 298 140 l 257
+ 272 132 258 123 235 110 c 257
+ 235 -178 l 257
+ 260 -200 l 257
+ 286 -192 298 -185 325 -169 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

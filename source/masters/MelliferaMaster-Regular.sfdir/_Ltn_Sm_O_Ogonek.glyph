@@ -1,0 +1,35 @@
+StartChar: LtnSmOOgonek
+Encoding: 3017 491 3001
+GlifName: L_tnS_mO_O_gonek
+Width: 1030
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 535 0 basechar 0
+AnchorPoint: "L" 535 -600 basechar 0
+AnchorPoint: "R" 1044 900 basechar 0
+AnchorPoint: "U" 535 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+715 -299 m 257
+ 691 -262 l 257
+ 635 -313 584 -336 551 -336 c 256
+ 500 -336 465 -313 465 -264 c 256
+ 465 -201 496 -96 683 20 c 257
+ 838 106 950 291 950 485 c 256
+ 950 758 786 960 535 960 c 256
+ 285 960 80 709 80 444 c 256
+ 80 172 244 -30 496 -30 c 256
+ 506 -30 516 -29 526 -28 c 257
+ 402 -115 336 -206 336 -299 c 256
+ 336 -418 414 -444 492 -444 c 256
+ 558 -444 658 -371 715 -299 c 257
+  PathStart: -1
+795 455 m 256
+ 795 227 713 80 524 80 c 256
+ 401 80 235 262 235 473 c 256
+ 235 686 303 850 506 850 c 256
+ 643 850 795 666 795 455 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

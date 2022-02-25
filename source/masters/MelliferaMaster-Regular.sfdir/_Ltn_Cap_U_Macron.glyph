@@ -1,0 +1,22 @@
+StartChar: LtnCapUMacron
+Encoding: 1774 362 1758
+GlifName: L_tnC_apU_M_acron
+Width: 1339
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 677 0 basechar 0
+AnchorPoint: "L" 677 -100 basechar 0
+AnchorPoint: "O" 760 0 basechar 0
+AnchorPoint: "R" 1330 1100 basechar 0
+AnchorPoint: "U" 677 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1732 85 N 1 0 0 1 0 0 2
+Refer: 180 -1 N 1 0 0 1 1202 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

@@ -1,0 +1,22 @@
+StartChar: SWArrw
+Encoding: 4035 8601 4011
+GlifName: S_W_A_rrw
+Width: 1975
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+571 89 m 257
+ 1639 1157 l 257
+ 1552 1243 l 257
+ 484 175 l 257
+ 655 577 l 257
+ 567 617 l 257
+ 336 36 l 257
+ 430 -59 l 257
+ 1012 171 l 257
+ 973 260 l 257
+ 571 89 l 257
+EndSplineSet
+EndChar

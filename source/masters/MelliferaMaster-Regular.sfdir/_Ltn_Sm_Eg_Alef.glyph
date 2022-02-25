@@ -1,0 +1,31 @@
+StartChar: LtnSmEgAlef
+Encoding: 2472 42787 2456
+GlifName: L_tnS_mE_gA_lef
+Width: 521
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 260 -100 basechar 0
+AnchorPoint: "U" 260 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+287 960 m 257
+ 246 959 107 915 83 901 c 257
+ 93 870 l 257
+ 233 875 284 810 284 740 c 256
+ 284 676 248 590 112 520 c 257
+ 148 495 l 257
+ 348 590 441 717 441 811 c 256
+ 441 885 397 948 287 960 c 257
+  PathStart: -1
+287 435 m 257
+ 246 434 107 390 83 376 c 257
+ 93 345 l 257
+ 233 350 284 285 284 215 c 256
+ 284 151 248 65 112 -5 c 257
+ 148 -30 l 257
+ 348 65 441 192 441 286 c 256
+ 441 360 397 423 287 435 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

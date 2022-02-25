@@ -1,0 +1,20 @@
+StartChar: LtnCapTCircumBlw
+Encoding: 1722 7792 1706
+GlifName: L_tnC_apT_C_ircumB_lw
+Width: 1128
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 551 0 basechar 0
+AnchorPoint: "L" 546 -600 basechar 0
+AnchorPoint: "U" 546 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1703 84 N 1 0 0 1 0 0 2
+Refer: 74 813 N 1 0 0 1 1060 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

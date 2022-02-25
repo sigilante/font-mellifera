@@ -1,0 +1,32 @@
+StartChar: LtnSupSmBarredODep
+Encoding: 3605 61868 3589
+GlifName: L_tnS_upS_mB_arredO_D_ep
+Width: 721
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 368 750 basechar 0
+AnchorPoint: "U" 368 1400 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+26 1226 m 257
+ 26 572 l 257
+ 695 572 l 257
+ 695 1226 l 257
+ 26 1226 l 257
+665 911 m 256
+ 665 751 517 602 347 602 c 256
+ 171 602 56 723 56 886 c 256
+ 56 1045 199 1196 374 1196 c 256
+ 550 1196 665 1075 665 911 c 256
+  PathStart: -1
+179 928 m 257
+ 540 928 l 257
+ 526 1036 436 1122 354 1122 c 256
+ 229 1122 184 1041 179 928 c 257
+541 864 m 257
+ 184 864 l 257
+ 202 752 294 676 367 676 c 256
+ 481 676 534 746 541 864 c 257
+EndSplineSet
+EndChar

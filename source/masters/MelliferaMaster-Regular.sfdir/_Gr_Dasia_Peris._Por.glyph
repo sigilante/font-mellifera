@@ -1,0 +1,30 @@
+StartChar: GrDasiaPeris.Por
+Encoding: 971 -1 966
+GlifName: G_rD_asiaP_eris.P_or
+Width: 383
+VWidth: 0
+Flags: W
+AnchorPoint: "G" 383 1340 mark 0
+AnchorPoint: "U" 191 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+48 1245 m 257
+ 63 1166 113 1101 228 1074 c 257
+ 264 1110 l 257
+ 222 1127 185 1177 179 1214 c 256
+ 171 1264 193 1324 314 1356 c 257
+ 321 1398 l 257
+ 259 1416 163 1430 117 1423 c 257
+ 54 1374 37 1301 48 1245 c 257
+  PathStart: -1
+-168 1433 m 257
+ -158 1417 -138 1402 -120 1393 c 257
+ -26 1505 65 1551 179 1551 c 256
+ 288 1551 378 1505 474 1393 c 257
+ 491 1399 514 1417 522 1433 c 257
+ 431 1587 334 1683 183 1683 c 256
+ 43 1683 -78 1588 -168 1433 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

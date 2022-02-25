@@ -1,0 +1,13 @@
+StartChar: Space
+Encoding: 4064 32 4040
+GlifName: S_pace
+Width: 451
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 225 0 basechar 0
+AnchorPoint: "L" 225 -100 basechar 0
+AnchorPoint: "O" 275 0 basechar 0
+AnchorPoint: "R" 451 900 basechar 0
+AnchorPoint: "U" 225 1370 basechar 0
+LayerCount: 2
+EndChar

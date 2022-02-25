@@ -1,0 +1,22 @@
+StartChar: NWArrw
+Encoding: 3934 8598 3918
+GlifName: N_W_A_rrw
+Width: 1975
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1552 -59 m 257
+ 1639 28 l 257
+ 571 1096 l 257
+ 973 925 l 257
+ 1012 1013 l 257
+ 430 1243 l 257
+ 336 1149 l 257
+ 567 568 l 257
+ 655 607 l 257
+ 484 1010 l 257
+ 1552 -59 l 257
+EndSplineSet
+EndChar

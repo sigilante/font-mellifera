@@ -1,0 +1,29 @@
+StartChar: ModCapV
+Encoding: 3748 11389 3732
+GlifName: M_odC_apV_
+Width: 932
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 458 540 basechar 0
+AnchorPoint: "U" 466 1450 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+411 582 m 257
+ 436 587 522 600 536 635 c 258
+ 801 1281 l 257
+ 811 1303 840 1310 903 1320 c 257
+ 903 1356 l 257
+ 612 1356 l 257
+ 612 1320 l 257
+ 688 1312 708 1304 698 1281 c 258
+ 476 742 l 257
+ 242 1282 l 258
+ 232 1305 244 1315 318 1320 c 257
+ 318 1356 l 257
+ 14 1356 l 257
+ 14 1320 l 257
+ 73 1314 97 1302 106 1281 c 258
+ 411 582 l 257
+EndSplineSet
+EndChar

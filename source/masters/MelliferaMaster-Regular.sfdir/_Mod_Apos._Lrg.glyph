@@ -1,0 +1,20 @@
+StartChar: ModApos.Lrg
+Encoding: 3722 -1 3706
+GlifName: M_odA_pos.L_rg
+Width: 539
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+468 1235 m 257
+ 475 1332 445 1452 340 1497 c 257
+ 281 1504 100 1441 70 1404 c 257
+ 86 1344 l 257
+ 246 1342 303 1235 296 1134 c 256
+ 291 1046 239 962 159 890 c 257
+ 215 842 l 257
+ 399 958 458 1103 468 1235 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

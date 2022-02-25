@@ -1,0 +1,39 @@
+StartChar: LtnSmF.SItal
+Encoding: 2513 -1 2497
+GlifName: L_tnS_mF_.S_I_tal
+Width: 637
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 275 0 basechar 0
+AnchorPoint: "L" 325 -100 basechar 0
+AnchorPoint: "U" 420 1620 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+817 1454 m 257
+ 817 1477 711 1550 629 1550 c 256
+ 578 1550 471 1516 399 1458 c 256
+ 293 1372 200 1276 200 961 c 258
+ 200 930 l 257
+ 123 930 l 257
+ 45 863 l 257
+ 66 835 l 257
+ 200 835 l 257
+ 200 102 l 258
+ 200 86 151 59 60 43 c 257
+ 60 0 l 257
+ 559 0 l 257
+ 559 43 l 257
+ 403 72 350 86 350 102 c 258
+ 350 835 l 257
+ 457 835 508 816 539 800 c 257
+ 563 812 612 864 637 901 c 257
+ 608 930 l 257
+ 350 930 l 257
+ 350 1016 l 258
+ 350 1346 451 1425 520 1425 c 256
+ 555 1425 627 1399 690 1343 c 257
+ 729 1362 817 1432 817 1454 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

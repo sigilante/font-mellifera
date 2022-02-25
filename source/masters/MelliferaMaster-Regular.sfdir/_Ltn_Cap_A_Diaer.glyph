@@ -1,0 +1,21 @@
+StartChar: LtnCapADiaer
+Encoding: 1331 196 1315
+GlifName: L_tnC_apA_D_iaer
+Width: 1219
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 599 0 basechar 0
+AnchorPoint: "L" 599 -100 basechar 0
+AnchorPoint: "O" 960 0 basechar 0
+AnchorPoint: "U" 599 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1290 65 N 1 0 0 1 0 0 2
+Refer: 111 -1 N 1 0 0 1 1114 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

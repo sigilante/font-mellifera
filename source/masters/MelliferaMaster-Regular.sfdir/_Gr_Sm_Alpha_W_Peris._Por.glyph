@@ -1,0 +1,11 @@
+StartChar: GrSmAlphaWPeris.Por
+Encoding: 1020 -1 1015
+GlifName: G_rS_mA_lphaW_P_eris.P_or
+Width: 1076
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1000 945 N 1 0 0 1 0 0 2
+Refer: 985 -1 N 1 0 0 1 150 25 2
+EndChar

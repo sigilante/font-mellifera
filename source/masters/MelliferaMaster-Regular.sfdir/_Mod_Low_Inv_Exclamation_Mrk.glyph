@@ -1,0 +1,25 @@
+StartChar: ModLowInvExclamationMrk
+Encoding: 3788 42783 3772
+GlifName: M_odL_owI_nvE_xclamationM_rk
+Width: 389
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+274 309 m 256
+ 274 352 253 377 205 377 c 256
+ 149 377 108 333 108 279 c 256
+ 108 235 130 210 178 210 c 256
+ 230 210 274 255 274 309 c 256
+  PathStart: -1
+269 -487 m 257
+ 233 131 l 257
+ 213 141 l 257
+ 186 138 165 129 145 116 c 257
+ 110 -526 l 257
+ 141 -539 l 257
+ 187 -527 222 -510 269 -487 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

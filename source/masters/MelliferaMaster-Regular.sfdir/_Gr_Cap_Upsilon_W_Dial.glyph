@@ -1,0 +1,11 @@
+StartChar: GrCapUpsilonWDial
+Encoding: 959 939 954
+GlifName: G_rC_apU_psilonW_D_ial
+Width: 1194
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 948 933 N 1 0 0 1 0 0 2
+Refer: 111 -1 N 1 0 0 1 1119 320 2
+EndChar

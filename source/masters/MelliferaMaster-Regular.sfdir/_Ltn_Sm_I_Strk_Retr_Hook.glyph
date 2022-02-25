@@ -1,0 +1,21 @@
+StartChar: LtnSmIStrkRetrHook
+Encoding: 2705 122650 2689
+GlifName: L_tnS_mI_S_trkR_etrH_ook
+Width: 555
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 466 -600 basechar 0
+AnchorPoint: "U" 466 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70 415 m 257
+ 500 415 l 257
+ 522 480 l 257
+ 500 505 l 257
+ 70 505 l 257
+ 61 484 53 458 47 437 c 257
+ 70 415 l 257
+EndSplineSet
+Refer: 2681 7574 N 1 0 0 1 0 0 2
+EndChar

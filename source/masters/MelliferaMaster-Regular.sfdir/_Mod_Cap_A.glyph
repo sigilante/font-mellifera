@@ -1,0 +1,36 @@
+StartChar: ModCapA
+Encoding: 3725 7468 3709
+GlifName: M_odC_apA_
+Width: 853
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 418 540 basechar 0
+AnchorPoint: "O" 738 620 basechar 0
+AnchorPoint: "R" 807 1136 basechar 0
+AnchorPoint: "U" 436 1445 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 620 m 257
+ 291 620 l 257
+ 291 656 l 257
+ 215 663 192 672 202 697 c 258
+ 275 882 l 257
+ 544 882 l 257
+ 619 697 l 258
+ 630 670 615 659 543 656 c 257
+ 543 620 l 257
+ 839 620 l 257
+ 839 656 l 257
+ 778 662 763 674 754 697 c 258
+ 463 1410 l 257
+ 438 1399 385 1380 363 1360 c 257
+ 106 697 l 258
+ 97 673 63 665 0 656 c 257
+ 0 620 l 257
+299 946 m 257
+ 407 1224 l 257
+ 519 946 l 257
+ 299 946 l 257
+EndSplineSet
+EndChar

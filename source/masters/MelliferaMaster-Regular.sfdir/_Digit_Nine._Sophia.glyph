@@ -1,0 +1,29 @@
+StartChar: DigitNine.Sophia
+Encoding: 705 -1 701
+GlifName: D_igitN_ine.S_ophia
+Width: 412
+VWidth: 0
+Flags: W
+AnchorPoint: "C" 206 266 mark 0
+LayerCount: 2
+Fore
+SplineSet
+378 279 m 256
+ 378 450 362 542 200 542 c 256
+ 64 542 34 438 34 373 c 256
+ 34 312 54 203 191 203 c 256
+ 259 203 278 236 306 271 c 257
+ 306 271 318 46 199 46 c 256
+ 154 46 125 65 120 126 c 257
+ 50 126 l 257
+ 62 36 101 -10 198 -10 c 256
+ 351 -10 378 142 378 279 c 256
+  PathStart: -1
+296 373 m 256
+ 296 301 270 260 202 260 c 256
+ 135 260 110 301 110 373 c 256
+ 110 446 135 486 202 486 c 256
+ 270 486 296 446 296 373 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

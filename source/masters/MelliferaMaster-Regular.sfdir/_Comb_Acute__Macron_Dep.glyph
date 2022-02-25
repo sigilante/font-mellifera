@@ -1,0 +1,25 @@
+StartChar: CombAcute_MacronDep
+Encoding: 48 61812 45
+GlifName: C_ombA_cute_M_acronD_ep
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -514 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-873 1459 m 257
+ -873 1017 l 257
+ -124 1017 l 257
+ -124 1459 l 257
+ -873 1459 l 257
+-176 1429 m 257
+ -154 1405 l 257
+ -160 1376 -183 1324 -193 1299 c 257
+ -561 1299 l 257
+ -786 1047 l 257
+ -810 1051 -828 1063 -843 1075 c 257
+ -659 1429 l 257
+ -656 1429 l 257
+ -176 1429 l 257
+EndSplineSet
+EndChar

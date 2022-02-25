@@ -1,0 +1,18 @@
+StartChar: ModAcuteAccent.ChinantecTn
+Encoding: 3718 -1 3702
+GlifName: M_odA_cuteA_ccent.C_hinantecT_n
+Width: 581
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+40 1191 m 257
+ 44 1157 l 257
+ 69 1143 108 1125 129 1119 c 257
+ 531 1550 l 257
+ 527 1584 l 257
+ 502 1599 468 1614 442 1622 c 257
+ 40 1191 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: CombTilde.LP
+Encoding: 223 -1 219
+GlifName: C_ombT_ilde.L_P_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1370 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-174 1306 m 257
+ -228 1329 l 257
+ -273 1251 -322 1206 -373 1206 c 256
+ -437 1206 -516 1319 -617 1319 c 256
+ -721 1319 -809 1202 -856 1093 c 257
+ -803 1073 l 257
+ -754 1147 -713 1194 -660 1194 c 256
+ -582 1194 -506 1081 -414 1081 c 256
+ -310 1081 -221 1198 -174 1306 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

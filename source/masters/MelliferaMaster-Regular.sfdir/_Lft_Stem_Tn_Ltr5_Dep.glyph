@@ -1,0 +1,28 @@
+StartChar: LftStemTnLtr5Dep
+Encoding: 1285 61904 1273
+GlifName: L_ftS_temT_nL_tr5D_ep
+Width: 743
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+70 1580 m 257
+ 70 -50 l 257
+ 658 -50 l 257
+ 658 1580 l 257
+ 70 1580 l 257
+204 1446 m 257
+ 204 32 l 257
+ 204 3 181 -20 152 -20 c 256
+ 123 -20 100 3 100 32 c 258
+ 100 1498 l 258
+ 100 1527 123 1550 152 1550 c 257
+ 153 1550 l 257
+ 156 1550 l 257
+ 576 1550 l 258
+ 605 1550 628 1527 628 1498 c 256
+ 628 1469 605 1446 576 1446 c 258
+ 204 1446 l 257
+EndSplineSet
+EndChar

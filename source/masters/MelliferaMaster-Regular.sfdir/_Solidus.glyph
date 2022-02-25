@@ -1,0 +1,18 @@
+StartChar: Solidus
+Encoding: 4062 47 4038
+GlifName: S_olidus
+Width: 961
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+211 -284 m 257
+ 909 1578 l 257
+ 872 1600 l 257
+ 834 1590 786 1574 750 1551 c 257
+ 49 -310 l 257
+ 86 -335 l 257
+ 119 -325 184 -302 211 -284 c 257
+EndSplineSet
+EndChar

@@ -1,0 +1,18 @@
+StartChar: TnLtrBar
+Encoding: 4202 -1 4178
+GlifName: T_nL_trB_ar
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+52 32 m 258
+ 52 1498 l 258
+ 52 1527 29 1550 0 1550 c 256
+ -29 1550 -52 1527 -52 1498 c 258
+ -52 32 l 258
+ -52 3 -29 -20 0 -20 c 256
+ 29 -20 52 3 52 32 c 258
+  PathStart: -1
+EndSplineSet
+EndChar

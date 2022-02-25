@@ -1,0 +1,30 @@
+StartChar: LtnSupSmClosedRevOpnE
+Encoding: 3614 67471 3598
+GlifName: L_tnS_upS_mC_losedR_evO_pnE_
+Width: 670
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 353 531 basechar 0
+AnchorPoint: "O" 378 620 basechar 0
+AnchorPoint: "R" 757 1136 basechar 0
+AnchorPoint: "U" 353 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+335 602 m 256
+ 491 602 616 699 616 785 c 256
+ 616 855 568 910 481 924 c 257
+ 551 948 592 996 592 1062 c 256
+ 592 1158 471 1196 377 1196 c 256
+ 211 1196 55 1065 55 878 c 256
+ 55 722 174 602 335 602 c 256
+368 678 m 256
+ 266 678 174 784 174 910 c 256
+ 174 1053 241 1126 347 1126 c 256
+ 427 1126 482 1087 482 1042 c 256
+ 482 989 474 948 298 939 c 257
+ 290 895 l 257
+ 444 891 489 829 489 769 c 256
+ 489 711 462 678 368 678 c 256
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: DigitOne.Sophia
+Encoding: 707 -1 703
+GlifName: D_igitO_ne.S_ophia
+Width: 412
+VWidth: 0
+Flags: W
+AnchorPoint: "C" 187 266 mark 0
+LayerCount: 2
+Fore
+SplineSet
+211 0 m 257
+ 279 0 l 257
+ 279 533 l 257
+ 206 533 l 257
+ 206 533 168 467 96 444 c 257
+ 96 382 l 257
+ 155 393 211 444 211 444 c 257
+ 211 0 l 257
+EndSplineSet
+EndChar

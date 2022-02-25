@@ -1,0 +1,28 @@
+StartChar: LtnSmEshCurlDblBar
+Encoding: 2486 122636 2470
+GlifName: L_tnS_mE_shC_urlD_blB_ar
+Width: 504
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 225 -600 basechar 0
+AnchorPoint: "U" 225 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+462 840 m 257
+ 484 905 l 257
+ 462 930 l 257
+ -8 930 l 257
+ -18 909 -25 883 -30 862 c 257
+ -8 840 l 257
+ 462 840 l 257
+462 640 m 257
+ 484 705 l 257
+ 462 730 l 257
+ -8 730 l 257
+ -18 709 -25 683 -30 662 c 257
+ -8 640 l 257
+ 462 640 l 257
+EndSplineSet
+Refer: 2469 646 N 1 0 0 1 0 0 2
+EndChar

@@ -1,0 +1,27 @@
+StartChar: CombCircumAcute.VNLP
+Encoding: 76 -1 73
+GlifName: C_ombC_ircumA_cute.V_N_L_P_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -514 1450 basechar 0
+AnchorPoint: "U" -514 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-198 1092 m 257
+ -460 1401 l 257
+ -567 1401 l 257
+ -831 1092 l 257
+ -812 1067 -808 1057 -786 1047 c 257
+ -515 1255 l 257
+ -241 1047 l 257
+ -218 1057 -214 1067 -198 1092 c 257
+  PathStart: -1
+-110 1556 m 257
+ -312 1355 l 257
+ -300 1339 -293 1326 -277 1320 c 257
+ -13 1465 l 257
+ -22 1512 l 257
+ -51 1529 -82 1547 -110 1556 c 257
+EndSplineSet
+EndChar

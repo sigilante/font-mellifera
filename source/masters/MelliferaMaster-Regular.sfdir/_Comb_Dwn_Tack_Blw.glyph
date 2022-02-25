@@ -1,0 +1,28 @@
+StartChar: CombDwnTackBlw
+Encoding: 125 798 122
+GlifName: C_ombD_wnT_ackB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -515 -600 basechar 0
+AnchorPoint: "L" -515 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-305 -177 m 257
+ -330 -150 l 257
+ -696 -150 l 257
+ -710 -177 -717 -189 -725 -216 c 257
+ -702 -240 l 257
+ -332 -240 l 257
+ -320 -218 -312 -203 -305 -177 c 257
+  PathStart: -1
+-470 -469 m 257
+ -470 -184 l 257
+ -497 -160 l 257
+ -523 -168 -537 -177 -560 -190 c 257
+ -560 -478 l 257
+ -535 -500 l 257
+ -509 -492 -497 -485 -470 -469 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

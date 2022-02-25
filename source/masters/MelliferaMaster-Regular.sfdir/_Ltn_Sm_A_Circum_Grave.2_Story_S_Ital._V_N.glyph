@@ -1,0 +1,21 @@
+StartChar: LtnSmACircumGrave.2StorySItal.VN
+Encoding: 2009 -1 1993
+GlifName: L_tnS_mA_C_ircumG_rave.2S_toryS_I_tal.V_N_
+Width: 940
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 426 0 basechar 0
+AnchorPoint: "L" 460 -100 basechar 0
+AnchorPoint: "O" 715 0 basechar 0
+AnchorPoint: "R" 940 900 basechar 0
+LayerCount: 2
+Fore
+Refer: 1865 -1 N 1 0 0 1 0 0 2
+Refer: 75 -1 N 1 0 0 1 994 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

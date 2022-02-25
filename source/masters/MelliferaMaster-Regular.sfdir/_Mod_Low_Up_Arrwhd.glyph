@@ -1,0 +1,21 @@
+StartChar: ModLowUpArrwhd
+Encoding: 3795 752 3779
+GlifName: M_odL_owU_pA_rrwhd
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+416 -515 m 257
+ 255 -186 l 257
+ 241 -192 219 -206 207 -217 c 257
+ 60 -529 l 257
+ 68 -538 l 257
+ 78 -534 107 -523 117 -514 c 257
+ 228 -274 l 257
+ 358 -530 l 257
+ 371 -539 l 257
+ 387 -533 405 -523 416 -515 c 257
+EndSplineSet
+EndChar

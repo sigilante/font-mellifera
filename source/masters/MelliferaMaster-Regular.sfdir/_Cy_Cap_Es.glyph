@@ -1,0 +1,27 @@
+StartChar: CyCapEs
+Encoding: 292 1057 288
+GlifName: C_yC_apE_s
+Width: 1098
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 614 -100 basechar 0
+AnchorPoint: "O" 640 0 basechar 0
+AnchorPoint: "U" 614 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+571 -30 m 256
+ 709 -30 848 29 1018 211 c 257
+ 1011 224 995 250 981 256 c 257
+ 834 133 715 90 643 90 c 256
+ 453 90 225 268 225 623 c 256
+ 225 1038 455 1180 592 1180 c 256
+ 713 1180 807 1135 874 1073 c 257
+ 909 1067 l 257
+ 940 1098 1014 1178 999 1190 c 256
+ 930 1245 819 1290 676 1290 c 256
+ 348 1290 70 1012 70 586 c 256
+ 70 199 324 -30 571 -30 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

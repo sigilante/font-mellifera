@@ -1,0 +1,28 @@
+StartChar: CombDblVertLineBlw
+Encoding: 111 840 108
+GlifName: C_ombD_blV_ertL_ineB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -525 -600 basechar 0
+AnchorPoint: "L" -525 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-600 -469 m 257
+ -600 -134 l 257
+ -627 -110 l 257
+ -653 -116 -687 -130 -710 -140 c 257
+ -710 -478 l 257
+ -685 -500 l 257
+ -659 -494 -627 -482 -600 -469 c 257
+  PathStart: -1
+-340 -469 m 257
+ -340 -134 l 257
+ -367 -110 l 257
+ -393 -116 -427 -130 -450 -140 c 257
+ -450 -478 l 257
+ -425 -500 l 257
+ -399 -494 -367 -482 -340 -469 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: RtSqrBrac
+Encoding: 4025 93 4004
+GlifName: R_tS_qrB_rac
+Width: 630
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+75 -335 m 257
+ 490 -335 l 257
+ 490 1600 l 257
+ 67 1600 l 257
+ 58 1578 44 1540 40 1511 c 257
+ 75 1485 l 257
+ 350 1485 l 257
+ 350 -220 l 257
+ 67 -220 l 257
+ 58 -237 46 -275 42 -306 c 257
+ 75 -335 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,28 @@
+StartChar: CombPlusSgnBlw
+Encoding: 201 799 197
+GlifName: C_ombP_lusS_gnB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -525 -600 basechar 0
+AnchorPoint: "L" -525 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-273 -277 m 257
+ -290 -262 l 257
+ -754 -262 l 257
+ -762 -278 -770 -319 -775 -335 c 257
+ -758 -349 l 257
+ -294 -349 l 257
+ -287 -336 -278 -293 -273 -277 c 257
+  PathStart: -1
+-474 -501 m 257
+ -474 -105 l 257
+ -491 -91 l 257
+ -511 -95 -557 -104 -575 -108 c 257
+ -575 -507 l 257
+ -557 -520 l 257
+ -537 -516 -492 -509 -474 -501 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

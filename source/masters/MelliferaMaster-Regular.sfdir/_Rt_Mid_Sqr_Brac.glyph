@@ -1,0 +1,16 @@
+StartChar: RtMidSqrBrac
+Encoding: 4019 9125 3998
+GlifName: R_tM_idS_qrB_rac
+Width: 900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+540 -950 m 257
+ 690 -950 l 257
+ 690 2500 l 257
+ 540 2500 l 257
+ 540 -950 l 257
+EndSplineSet
+EndChar

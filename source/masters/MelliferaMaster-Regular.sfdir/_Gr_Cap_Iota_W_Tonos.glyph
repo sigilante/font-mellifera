@@ -1,0 +1,11 @@
+StartChar: GrCapIotaWTonos
+Encoding: 884 906 879
+GlifName: G_rC_apI_otaW_T_onos
+Width: 1091
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 865 921 N 1 0 0 1 441 0 2
+Refer: 1210 900 N 1 0 0 1 0 -100 2
+EndChar

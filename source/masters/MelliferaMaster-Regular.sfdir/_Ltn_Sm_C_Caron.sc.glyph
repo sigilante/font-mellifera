@@ -1,0 +1,20 @@
+StartChar: LtnSmCCaron.sc
+Encoding: 2235 -1 2219
+GlifName: L_tnS_mC_C_aron.sc
+Width: 1032
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 549 7 basechar 0
+AnchorPoint: "L" 577 -76 basechar 0
+AnchorPoint: "U" 577 1545 basechar 0
+LayerCount: 2
+Fore
+Refer: 2211 -1 N 1 0 0 1 0 0 2
+Refer: 66 780 N 1 0 0 1 1091 95 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

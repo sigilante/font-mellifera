@@ -1,0 +1,41 @@
+StartChar: LtnSmOStrk
+Encoding: 3029 248 3013
+GlifName: L_tnS_mO_S_trk
+Width: 1030
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 535 0 basechar 0
+AnchorPoint: "L" 525 -100 basechar 0
+AnchorPoint: "O" 575 0 basechar 0
+AnchorPoint: "R" 1060 900 basechar 0
+AnchorPoint: "U" 525 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+950 485 m 256
+ 950 617 912 732 844 815 c 257
+ 946 950 l 257
+ 915 983 l 257
+ 877 973 829 936 793 913 c 257
+ 772 885 l 257
+ 707 933 627 960 535 960 c 256
+ 285 960 80 709 80 444 c 256
+ 80 312 119 196 188 112 c 257
+ 88 -20 l 257
+ 117 -53 l 257
+ 150 -43 217 -2 242 18 c 257
+ 261 43 l 257
+ 325 -4 405 -30 496 -30 c 256
+ 739 -30 950 219 950 485 c 256
+294 253 m 257
+ 257 317 233 393 233 473 c 256
+ 233 686 303 850 506 850 c 256
+ 565 850 627 816 678 761 c 257
+ 294 253 l 257
+524 80 m 256
+ 471 80 409 114 357 170 c 257
+ 739 676 l 257
+ 775 612 797 536 797 455 c 256
+ 797 227 713 80 524 80 c 256
+EndSplineSet
+EndChar

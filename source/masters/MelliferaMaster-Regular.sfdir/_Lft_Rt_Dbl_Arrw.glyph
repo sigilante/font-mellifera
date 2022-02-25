@@ -1,0 +1,35 @@
+StartChar: LftRtDblArrw
+Encoding: 1269 8660 1257
+GlifName: L_ftR_tD_blA_rrw
+Width: 1975
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1283 139 m 257
+ 1894 531 l 257
+ 1894 613 l 257
+ 1283 1006 l 257
+ 1228 915 l 257
+ 1405 803 l 257
+ 570 803 l 257
+ 747 915 l 257
+ 692 1006 l 257
+ 81 613 l 257
+ 81 531 l 257
+ 692 139 l 257
+ 747 229 l 257
+ 570 342 l 257
+ 1405 342 l 257
+ 1228 229 l 257
+ 1283 139 l 257
+1551 710 m 257
+ 1755 572 l 257
+ 1551 434 l 257
+ 424 434 l 257
+ 220 572 l 257
+ 424 710 l 257
+ 1551 710 l 257
+EndSplineSet
+EndChar

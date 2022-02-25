@@ -1,0 +1,16 @@
+StartChar: CurlyBracExt
+Encoding: 246 9130 242
+GlifName: C_urlyB_racE_xt
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+525 -950 m 257
+ 675 -950 l 257
+ 675 2500 l 257
+ 525 2500 l 257
+ 525 -950 l 257
+EndSplineSet
+EndChar

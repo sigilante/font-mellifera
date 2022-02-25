@@ -1,0 +1,20 @@
+StartChar: CombHorn
+Encoding: 143 795 139
+GlifName: C_ombH_orn
+Width: 75
+VWidth: 0
+Flags: W
+AnchorPoint: "R_" 0 900 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+75 1042 m 256
+ 75 1081 54 1116 23 1145 c 257
+ -155 1065 l 257
+ -118 1034 -97 999 -97 961 c 256
+ -97 913 -156 836 -299 780 c 257
+ -281 718 l 257
+ -6 822 75 965 75 1042 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

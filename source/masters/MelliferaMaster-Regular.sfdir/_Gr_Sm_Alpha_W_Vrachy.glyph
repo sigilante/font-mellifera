@@ -1,0 +1,11 @@
+StartChar: GrSmAlphaWVrachy
+Encoding: 1036 8112 1031
+GlifName: G_rS_mA_lphaW_V_rachy
+Width: 1076
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1000 945 N 1 0 0 1 0 0 2
+Refer: 50 774 N 1 0 0 1 1065 25 2
+EndChar

@@ -1,0 +1,21 @@
+StartChar: ModDwnArrwhd
+Encoding: 3767 709 3751
+GlifName: M_odD_wnA_rrwhd
+Width: 640
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+40 1391 m 257
+ 288 886 l 257
+ 312 897 352 922 374 942 c 257
+ 600 1419 l 257
+ 585 1436 l 257
+ 568 1429 514 1408 496 1391 c 257
+ 336 1046 l 257
+ 145 1419 l 257
+ 122 1436 l 257
+ 93 1425 60 1407 40 1391 c 257
+EndSplineSet
+EndChar

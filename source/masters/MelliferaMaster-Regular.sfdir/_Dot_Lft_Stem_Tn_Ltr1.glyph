@@ -1,0 +1,14 @@
+StartChar: DotLftStemTnLtr1
+Encoding: 723 42769 719
+GlifName: D_otL_ftS_temT_nL_tr1
+Width: 651
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4212 -1 N 1 0 0 1 0 0 2
+Refer: 4178 -1 N 1 0 0 1 152 0 2
+Refer: 4210 -1 N 1 0 0 1 152 0 2
+Refer: 4179 -1 N 1 0 0 1 440 0 2
+Refer: 4211 -1 N 1 0 0 1 440 0 2
+EndChar

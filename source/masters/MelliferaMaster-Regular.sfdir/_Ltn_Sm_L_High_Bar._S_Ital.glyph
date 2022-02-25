@@ -1,0 +1,32 @@
+StartChar: LtnSmLHighBar.SItal
+Encoding: 2814 -1 2798
+GlifName: L_tnS_mL_H_ighB_ar.S_I_tal
+Width: 654
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 327 -100 basechar 0
+AnchorPoint: "U" 327 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+102 0 m 257
+ 552 0 l 257
+ 552 43 l 257
+ 443 61 402 84 402 104 c 258
+ 402 1516 l 257
+ 366 1550 l 257
+ 284 1507 208 1489 112 1470 c 257
+ 112 1430 l 257
+ 224 1417 252 1417 252 1296 c 258
+ 252 104 l 258
+ 252 82 217 63 102 43 c 257
+ 102 0 l 257
+552 1140 m 257
+ 574 1205 l 257
+ 552 1230 l 257
+ 112 1230 l 257
+ 102 1209 96 1183 90 1162 c 257
+ 112 1140 l 257
+ 552 1140 l 257
+EndSplineSet
+EndChar

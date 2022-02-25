@@ -1,0 +1,21 @@
+StartChar: CombCommaAbvRt
+Encoding: 85 789 82
+GlifName: C_ombC_ommaA_bvR_t
+Width: 200
+VWidth: 0
+Flags: W
+AnchorPoint: "R_" 0 900 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+189 1328 m 257
+ 194 1396 173 1466 100 1497 c 257
+ 58 1502 -82 1458 -103 1432 c 257
+ -92 1390 l 257
+ 13 1389 53 1328 48 1257 c 256
+ 44 1196 15 1144 -41 1093 c 257
+ -2 1060 l 257
+ 127 1141 182 1236 189 1328 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

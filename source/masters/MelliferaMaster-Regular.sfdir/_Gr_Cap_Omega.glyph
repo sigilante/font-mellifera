@@ -1,0 +1,42 @@
+StartChar: GrCapOmega
+Encoding: 893 937 888
+GlifName: G_rC_apO_mega
+Width: 1296
+VWidth: 0
+Flags: W
+AnchorPoint: "G" 65 1260 basechar 0
+AnchorPoint: "L" 638 -100 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1170 762 m 256
+ 1170 1087 964 1290 671 1290 c 256
+ 311 1290 110 1001 110 739 c 256
+ 110 502 203 298 565 40 c 257
+ 576 110 l 257
+ 309 413 270 512 270 750 c 256
+ 270 899 365 1200 638 1200 c 256
+ 883 1200 1010 981 1010 739 c 256
+ 1010 512 934 413 701 110 c 257
+ 711 40 l 257
+ 1016 310 1170 502 1170 762 c 256
+  PathStart: -1
+1176 265 m 257
+ 1131 284 l 257
+ 1084 157 1073 110 1018 110 c 258
+ 701 110 l 257
+ 701 0 l 257
+ 1143 0 l 257
+ 1157 70 1170 187 1176 265 c 257
+  PathStart: -1
+111 0 m 257
+ 576 0 l 257
+ 576 110 l 257
+ 252 110 l 258
+ 195 110 178 167 156 280 c 257
+ 111 280 l 257
+ 92 196 82 92 80 27 c 257
+ 111 0 l 257
+EndSplineSet
+Kerns2: 814 -41 "'kern' Horizontal Kerning lookup 0 subtable" 937 -41 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

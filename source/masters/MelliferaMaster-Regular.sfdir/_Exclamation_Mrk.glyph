@@ -1,0 +1,24 @@
+StartChar: ExclamationMrk
+Encoding: 758 33 754
+GlifName: E_xclamationM_rk
+Width: 557
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+326 389 m 257
+ 375 1455 l 257
+ 332 1480 l 257
+ 287 1461 227 1431 176 1398 c 257
+ 223 371 l 257
+ 252 350 l 257
+ 285 360 301 371 326 389 c 257
+390 123 m 257
+ 390 195 357 236 291 236 c 256
+ 216 236 152 162 152 72 c 256
+ 152 0 181 -40 252 -40 c 256
+ 330 -40 390 31 390 123 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

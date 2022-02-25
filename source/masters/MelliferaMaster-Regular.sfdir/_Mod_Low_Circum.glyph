@@ -1,0 +1,20 @@
+StartChar: ModLowCircum
+Encoding: 3781 42888 3765
+GlifName: M_odL_owC_ircum
+Width: 633
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+633 -458 m 257
+ 371 -149 l 257
+ 264 -149 l 257
+ 0 -458 l 257
+ 19 -483 23 -493 45 -503 c 257
+ 316 -295 l 257
+ 590 -503 l 257
+ 613 -493 617 -483 633 -458 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

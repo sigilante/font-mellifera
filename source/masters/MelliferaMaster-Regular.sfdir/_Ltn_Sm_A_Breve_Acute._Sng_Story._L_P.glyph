@@ -1,0 +1,23 @@
+StartChar: LtnSmABreveAcute.SngStory.LP
+Encoding: 1907 -1 1891
+GlifName: L_tnS_mA_B_reveA_cute.S_ngS_tory.L_P_
+Width: 1023
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 532 0 basechar 0
+AnchorPoint: "L" 544 -100 basechar 0
+AnchorPoint: "O" 790 0 basechar 0
+AnchorPoint: "R" 1023 900 basechar 0
+AnchorPoint: "U" 544 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1866 -1 N 1 0 0 1 0 0 2
+Refer: 50 774 N 1 0 0 1 1059 0 2
+Refer: 40 -1 N 1 0 0 1 1087 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

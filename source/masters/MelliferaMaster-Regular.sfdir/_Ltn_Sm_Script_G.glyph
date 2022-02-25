@@ -1,0 +1,20 @@
+StartChar: LtnSmScriptG
+Encoding: 3219 609 3203
+GlifName: L_tnS_mS_criptG_
+Width: 985
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 520 -470 basechar 0
+AnchorPoint: "L" 520 -600 basechar 0
+AnchorPoint: "R" 1060 900 basechar 0
+AnchorPoint: "U" 540 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 2517 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

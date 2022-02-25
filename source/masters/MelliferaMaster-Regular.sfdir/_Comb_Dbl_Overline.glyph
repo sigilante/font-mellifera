@@ -1,0 +1,28 @@
+StartChar: CombDblOverline
+Encoding: 104 831 101
+GlifName: C_ombD_blO_verline
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -482 1680 basechar 0
+AnchorPoint: "U" -482 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+64 1281 m 257
+ 42 1305 l 257
+ -987 1305 l 257
+ -1000 1279 -1022 1229 -1028 1200 c 257
+ -1006 1175 l 257
+ 25 1175 l 257
+ 35 1200 58 1252 64 1281 c 257
+  PathStart: -1
+64 1551 m 257
+ 42 1575 l 257
+ -987 1575 l 257
+ -1000 1549 -1022 1499 -1028 1470 c 257
+ -1006 1445 l 257
+ 25 1445 l 257
+ 35 1470 58 1522 64 1551 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

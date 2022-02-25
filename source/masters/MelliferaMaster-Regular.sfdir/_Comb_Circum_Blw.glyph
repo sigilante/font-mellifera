@@ -1,0 +1,21 @@
+StartChar: CombCircumBlw
+Encoding: 77 813 74
+GlifName: C_ombC_ircumB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -514 -600 basechar 0
+AnchorPoint: "L" -514 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-198 -458 m 257
+ -460 -149 l 257
+ -567 -149 l 257
+ -831 -458 l 257
+ -812 -483 -808 -493 -786 -503 c 257
+ -515 -295 l 257
+ -241 -503 l 257
+ -218 -493 -214 -483 -198 -458 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,25 @@
+StartChar: ModVertLineDep
+Encoding: 3923 61846 3907
+GlifName: M_odV_ertL_ineD_ep
+Width: 420
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 210 1370 basechar 0
+AnchorPoint: "U" 210 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+120 1680 m 257
+ 120 980 l 257
+ 300 980 l 257
+ 300 1680 l 257
+ 120 1680 l 257
+270 1626 m 257
+ 270 1041 l 257
+ 243 1028 201 1016 175 1010 c 257
+ 150 1032 l 257
+ 150 1620 l 257
+ 173 1630 217 1644 243 1650 c 257
+ 270 1626 l 257
+EndSplineSet
+EndChar

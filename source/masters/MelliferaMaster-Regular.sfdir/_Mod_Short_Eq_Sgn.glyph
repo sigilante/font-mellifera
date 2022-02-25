@@ -1,0 +1,27 @@
+StartChar: ModShortEqSgn
+Encoding: 3821 42890 3805
+GlifName: M_odS_hortE_qS_gn
+Width: 677
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+617 623 m 257
+ 592 648 l 257
+ 91 648 l 257
+ 79 623 67 587 60 560 c 257
+ 85 535 l 257
+ 588 535 l 257
+ 596 558 610 597 617 623 c 257
+  PathStart: -1
+617 364 m 257
+ 592 389 l 257
+ 91 389 l 257
+ 79 362 67 328 60 301 c 257
+ 85 274 l 257
+ 588 274 l 257
+ 596 299 610 336 617 364 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,34 @@
+StartChar: LtnSmHalfH
+Encoding: 2616 11382 2600
+GlifName: L_tnS_mH_alfH_
+Width: 763
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 408 -84 basechar 0
+AnchorPoint: "U" 404 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 257
+ 499 0 l 257
+ 499 43 l 257
+ 399 62 340 82 340 104 c 258
+ 340 825 l 258
+ 340 847 405 865 499 887 c 257
+ 499 930 l 257
+ 50 930 l 257
+ 50 887 l 257
+ 140 867 190 847 190 825 c 258
+ 190 104 l 258
+ 190 81 134 62 50 43 c 257
+ 50 0 l 257
+723 507 m 257
+ 694 535 l 257
+ 278 535 l 257
+ 253 451 l 257
+ 432 451 l 258
+ 543 451 590 435 629 396 c 257
+ 657 417 698 470 723 507 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

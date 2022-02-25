@@ -1,0 +1,27 @@
+StartChar: LtnSmAOgonek.SngStory.RetroHook
+Encoding: 2130 -1 2114
+GlifName: L_tnS_mA_O_gonek.S_ngS_tory.R_etroH_ook
+Width: 1023
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 532 -600 basechar 0
+AnchorPoint: "O" 790 0 basechar 0
+AnchorPoint: "R" 1023 900 basechar 0
+AnchorPoint: "U" 544 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+871 -235 m 257
+ 852 -196 l 257
+ 811 -190 677 -253 686 -264 c 256
+ 726 -312 708 -405 630 -405 c 256
+ 564 -405 533 -359 533 -196 c 258
+ 533 76 l 257
+ 443 44 l 257
+ 443 -247 l 258
+ 443 -422 514 -500 626 -500 c 256
+ 781 -500 879 -336 871 -235 c 257
+  PathStart: -1
+EndSplineSet
+Refer: 2174 593 N 1 0 0 1 0 0 2
+EndChar

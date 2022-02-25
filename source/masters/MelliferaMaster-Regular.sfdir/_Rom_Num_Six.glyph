@@ -1,0 +1,12 @@
+StartChar: RomNumSix
+Encoding: 4002 8549 3981
+GlifName: R_omN_umS_ix
+Width: 1941
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 979 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1768 86 N 1 0 0 1 0 0 2
+Refer: 1476 73 N 1 0 0 1 1331 0 2
+EndChar

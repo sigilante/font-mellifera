@@ -1,0 +1,31 @@
+StartChar: LtnSmVHook
+Encoding: 3436 651 3420
+GlifName: L_tnS_mV_H_ook
+Width: 995
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 476 0 basechar 0
+AnchorPoint: "L" 478 -100 basechar 0
+AnchorPoint: "O" 536 0 basechar 0
+AnchorPoint: "U" 478 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+915 504 m 256
+ 915 770 805 922 690 960 c 257
+ 645 946 539 917 496 897 c 257
+ 512 856 l 257
+ 690 850 765 657 765 451 c 256
+ 765 279 698 90 504 90 c 256
+ 406 90 320 158 320 342 c 258
+ 320 921 l 257
+ 292 960 l 257
+ 204 925 137 906 41 894 c 257
+ 41 854 l 257
+ 164 842 170 838 170 711 c 258
+ 170 289 l 258
+ 170 39 305 -30 457 -30 c 256
+ 690 -30 915 225 915 504 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

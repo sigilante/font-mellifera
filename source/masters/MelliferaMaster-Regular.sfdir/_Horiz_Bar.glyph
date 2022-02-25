@@ -1,0 +1,19 @@
+StartChar: HorizBar
+Encoding: 1226 8213 1221
+GlifName: H_orizB_ar
+Width: 1949
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1888 546 m 257
+ 1864 570 l 257
+ 92 570 l 257
+ 80 544 68 508 61 479 c 257
+ 86 455 l 257
+ 1858 455 l 257
+ 1868 477 1882 517 1888 546 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

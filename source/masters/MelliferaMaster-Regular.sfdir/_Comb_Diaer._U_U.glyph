@@ -1,0 +1,12 @@
+StartChar: CombDiaer.UU
+Encoding: 117 -1 114
+GlifName: C_ombD_iaer.U_U_
+Width: 600
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 300 1410 basechar 0
+AnchorPoint: "U" -13 1050 mark 0
+LayerCount: 2
+Fore
+Refer: 109 776 N 1 0 0 1 815 0 2
+EndChar

@@ -1,0 +1,25 @@
+StartChar: SupersetOf
+Encoding: 4109 8835 4085
+GlifName: S_upersetO_f
+Width: 899
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+830 568 m 257
+ 830 772 696 943 415 943 c 258
+ 97 943 l 257
+ 89 918 75 886 68 858 c 257
+ 93 833 l 257
+ 404 833 l 258
+ 601 833 704 746 704 568 c 256
+ 704 398 601 302 404 302 c 258
+ 97 302 l 257
+ 89 277 75 246 68 218 c 257
+ 93 193 l 257
+ 415 193 l 258
+ 696 193 830 364 830 568 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

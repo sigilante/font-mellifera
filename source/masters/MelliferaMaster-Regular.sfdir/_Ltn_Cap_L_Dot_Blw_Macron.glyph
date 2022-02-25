@@ -1,0 +1,22 @@
+StartChar: LtnCapLDotBlwMacron
+Encoding: 1553 7736 1537
+GlifName: L_tnC_apL_D_otB_lwM_acron
+Width: 975
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 497 0 basechar 0
+AnchorPoint: "L" 497 -600 basechar 0
+AnchorPoint: "R" 750 900 basechar 0
+AnchorPoint: "U" 467 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1525 76 N 1 0 0 1 0 0 2
+Refer: 119 803 N 1 0 0 1 1012 0 2
+Refer: 180 -1 N 1 0 0 1 992 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

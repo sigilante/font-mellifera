@@ -1,0 +1,34 @@
+StartChar: LtnSmClosedOmega
+Encoding: 2314 631 2298
+GlifName: L_tnS_mC_losedO_mega
+Width: 1315
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 655 -100 basechar 0
+AnchorPoint: "R" 1336 900 basechar 0
+AnchorPoint: "U" 668 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1073 411 m 260
+ 1073 230 1024 90 905 90 c 260
+ 769 90 724 225 724 383 c 260
+ 724 490 735 554 751 604 c 261
+ 751 604 733 623 722 636 c 261
+ 680 619 633 600 576 579 c 261
+ 587 544 601 465 601 377 c 260
+ 601 216 517 90 431 90 c 260
+ 294 90 240 238 240 428 c 260
+ 240 678 412 870 659 870 c 260
+ 889 870 1073 706 1073 411 c 260
+  PathStart: -1
+80 393 m 260
+ 80 116 216 -31 379 -31 c 260
+ 545 -31 617 88 659 206 c 261
+ 689 84 757 -31 897 -31 c 260
+ 1052 -31 1233 129 1233 439 c 260
+ 1233 763 989 959 659 960 c 260
+ 289 961 80 679 80 393 c 260
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,30 @@
+StartChar: GrSmGamma
+Encoding: 1093 947 1088
+GlifName: G_rS_mG_amma
+Width: 974
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 504 -600 basechar 0
+AnchorPoint: "U" 524 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+420 -500 m 257
+ 464 -483 530 -459 579 -441 c 257
+ 587 -314 576 -29 571 26 c 257
+ 525 415 296 960 211 960 c 257
+ 150 925 67 894 -10 879 c 257
+ -9 839 l 257
+ -9 839 61 842 105 830 c 256
+ 230 796 427 165 439 -30 c 256
+ 441 -64 416 -297 382 -471 c 257
+ 400 -484 411 -492 420 -500 c 257
+551 -95 m 257
+ 641 239 812 621 954 929 c 257
+ 922 960 l 257
+ 872 949 804 930 749 913 c 257
+ 729 598 598 343 471 33 c 257
+ 490 -10 551 -95 551 -95 c 257
+EndSplineSet
+Kerns2: 1044 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1116 -70 "'kern' Horizontal Kerning lookup 0 subtable" 1164 -41 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,20 @@
+StartChar: LtnSmKLineBlw.sc
+Encoding: 2773 -1 2757
+GlifName: L_tnS_mK_L_ineB_lw.sc
+Width: 1113
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 258 7 basechar 0
+AnchorPoint: "L" 575 -426 basechar 0
+AnchorPoint: "U" 555 1145 basechar 0
+LayerCount: 2
+Fore
+Refer: 2740 -1 N 1 0 0 1 0 0 2
+Refer: 183 817 N 1 0 0 1 1090 24 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

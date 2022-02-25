@@ -1,0 +1,34 @@
+StartChar: LtnAlveolarClick.sc
+Encoding: 1301 -1 1285
+GlifName: L_tnA_lveolarC_lick.sc
+Width: 670
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 335 -76 basechar 0
+AnchorPoint: "U" 335 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+300 -24 m 257
+ 333 -13 381 7 405 28 c 257
+ 405 1043 l 257
+ 369 1065 l 257
+ 330 1055 302 1039 265 1016 c 257
+ 265 -1 l 257
+ 300 -24 l 257
+40 390 m 257
+ 630 390 l 257
+ 638 412 645 433 652 455 c 257
+ 630 480 l 257
+ 40 480 l 257
+ 30 459 23 433 18 412 c 257
+ 40 390 l 257
+40 630 m 257
+ 630 630 l 257
+ 638 652 645 673 652 695 c 257
+ 630 720 l 257
+ 40 720 l 257
+ 30 699 23 673 18 652 c 257
+ 40 630 l 257
+EndSplineSet
+EndChar

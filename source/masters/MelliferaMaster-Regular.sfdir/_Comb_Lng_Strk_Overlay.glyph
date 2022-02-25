@@ -1,0 +1,17 @@
+StartChar: CombLngStrkOverlay
+Encoding: 165 822 161
+GlifName: C_ombL_ngS_trkO_verlay
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+-1040 415 m 257
+ 20 415 l 257
+ 27 437 35 458 42 480 c 257
+ 20 505 l 257
+ -1040 505 l 257
+ -1051 484 -1057 458 -1063 437 c 257
+ -1040 415 l 257
+EndSplineSet
+EndChar

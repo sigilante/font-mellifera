@@ -1,0 +1,13 @@
+StartChar: NarrowNoBreakSpace
+Encoding: 3936 8239 3920
+GlifName: N_arrowN_oB_reakS_pace
+Width: 350
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 247 0 basechar 0
+AnchorPoint: "L" 247 -100 basechar 0
+AnchorPoint: "O" 272 0 basechar 0
+AnchorPoint: "R" 493 900 basechar 0
+AnchorPoint: "U" 247 1435 basechar 0
+LayerCount: 2
+EndChar

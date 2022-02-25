@@ -1,0 +1,25 @@
+StartChar: ModRhoticHook
+Encoding: 3817 734 3801
+GlifName: M_odR_hoticH_ook
+Width: 268
+VWidth: 0
+Flags: W
+AnchorPoint: "R" 500 900 basechar 0
+AnchorPoint: "R_" 0 900 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+170 938 m 257
+ 142 960 l 257
+ 64 897 -75 824 -241 766 c 257
+ -213 683 l 257
+ -137 727 -40 771 28 786 c 257
+ 18 763 11 736 11 706 c 256
+ 11 618 56 586 90 586 c 256
+ 142 586 192 612 288 685 c 257
+ 276 728 l 257
+ 215 699 183 692 157 691 c 256
+ 121 690 103 718 104 767 c 256
+ 105 804 117 865 170 938 c 257
+EndSplineSet
+EndChar

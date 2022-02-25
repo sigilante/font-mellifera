@@ -1,0 +1,20 @@
+StartChar: RtParen.Sophia
+Encoding: 4021 -1 4000
+GlifName: R_tP_aren.S_ophia
+Width: 266
+VWidth: 0
+Flags: W
+AnchorPoint: "C" 133 222 mark 0
+LayerCount: 2
+Fore
+SplineSet
+198 222 m 256
+ 198 334 169 446 115 542 c 257
+ 68 542 l 257
+ 105 440 128 332 128 222 c 256
+ 128 113 104 6 68 -98 c 257
+ 115 -98 l 257
+ 169 1 198 110 198 222 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

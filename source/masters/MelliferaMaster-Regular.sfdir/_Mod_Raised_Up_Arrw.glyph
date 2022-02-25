@@ -1,0 +1,22 @@
+StartChar: ModRaisedUpArrw
+Encoding: 3813 42779 3797
+GlifName: M_odR_aisedU_pA_rrw
+Width: 536
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+35 1258 m 257
+ 62 1200 l 257
+ 217 1292 l 257
+ 217 838 l 257
+ 242 818 l 257
+ 269 826 282 832 309 849 c 257
+ 309 1292 l 257
+ 464 1200 l 257
+ 491 1258 l 257
+ 263 1436 l 257
+ 35 1258 l 257
+EndSplineSet
+EndChar

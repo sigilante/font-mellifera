@@ -1,0 +1,29 @@
+StartChar: LtnSmIota
+Encoding: 2729 617 2713
+GlifName: L_tnS_mI_ota
+Width: 578
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 275 0 basechar 0
+AnchorPoint: "L" 296 -100 basechar 0
+AnchorPoint: "O" 340 0 basechar 0
+AnchorPoint: "R" 532 900 basechar 0
+AnchorPoint: "U" 265 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+598 135 m 257
+ 582 186 l 257
+ 496 125 428 106 414 106 c 256
+ 354 106 340 123 340 303 c 258
+ 340 960 l 257
+ 305 960 l 257
+ 240 927 133 896 49 880 c 257
+ 49 840 l 257
+ 193 827 190 807 190 670 c 258
+ 190 203 l 258
+ 190 43 213 -30 313 -30 c 256
+ 365 -30 463 6 598 135 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

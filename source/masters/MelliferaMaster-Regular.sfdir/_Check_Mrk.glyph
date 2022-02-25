@@ -1,0 +1,22 @@
+StartChar: CheckMrk
+Encoding: 38 10003 35
+GlifName: C_heckM_rk
+Width: 1772
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1495 1741 m 257
+ 647 918 509 58 509 58 c 257
+ 509 58 515 96 515 159 c 256
+ 515 300 483 565 272 786 c 257
+ 112 626 l 257
+ 343 238 404 39 436 -212 c 257
+ 527 -250 l 257
+ 527 -250 921 689 1555 1162 c 257
+ 1485 1278 1466 1406 1466 1513 c 256
+ 1466 1643 1495 1741 1495 1741 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

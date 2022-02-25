@@ -1,0 +1,24 @@
+StartChar: CombRingAbv
+Encoding: 203 778 199
+GlifName: C_ombR_ingA_bv
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1490 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-329 1284 m 257
+ -329 1368 -398 1440 -484 1440 c 256
+ -587 1440 -701 1341 -701 1204 c 256
+ -701 1120 -636 1050 -546 1050 c 256
+ -445 1050 -329 1149 -329 1284 c 257
+  PathStart: -1
+-419 1243 m 257
+ -419 1167 -472 1126 -525 1126 c 256
+ -578 1126 -611 1184 -611 1245 c 256
+ -611 1317 -560 1364 -505 1364 c 256
+ -452 1364 -419 1307 -419 1243 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

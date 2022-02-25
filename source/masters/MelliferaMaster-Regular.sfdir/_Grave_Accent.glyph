@@ -1,0 +1,19 @@
+StartChar: GraveAccent
+Encoding: 1222 96 1217
+GlifName: G_raveA_ccent
+Width: 653
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 327 1410 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+438 1078 m 257
+ 198 1489 l 257
+ 165 1486 78 1471 52 1465 c 257
+ 30 1424 l 257
+ 382 1047 l 257
+ 405 1054 426 1068 438 1078 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

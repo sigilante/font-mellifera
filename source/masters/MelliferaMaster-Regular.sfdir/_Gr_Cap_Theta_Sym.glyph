@@ -1,0 +1,27 @@
+StartChar: GrCapThetaSym
+Encoding: 952 1012 947
+GlifName: G_rC_apT_hetaS_ym
+Width: 1266
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1176 647 m 256
+ 1176 973 993 1290 653 1290 c 256
+ 334 1290 70 975 70 612 c 256
+ 70 276 266 -30 594 -30 c 256
+ 905 -30 1176 285 1176 647 c 256
+  PathStart: -1
+625 90 m 256
+ 420 90 243 319 226 599 c 257
+ 1021 599 l 257
+ 1012 265 849 90 625 90 c 256
+  PathStart: -1
+625 1176 m 256
+ 838 1176 990 955 1017 710 c 257
+ 227 710 l 257
+ 247 996 391 1176 625 1176 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

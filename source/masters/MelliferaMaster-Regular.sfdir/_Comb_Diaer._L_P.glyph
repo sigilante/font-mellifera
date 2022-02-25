@@ -1,0 +1,24 @@
+StartChar: CombDiaer.LP
+Encoding: 114 -1 111
+GlifName: C_ombD_iaer.L_P_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1370 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-615 1221 m 257
+ -615 1283 -643 1316 -700 1316 c 256
+ -763 1316 -815 1256 -815 1180 c 256
+ -815 1119 -790 1084 -731 1084 c 256
+ -665 1084 -615 1146 -615 1221 c 257
+  PathStart: -1
+-215 1221 m 257
+ -215 1283 -243 1316 -300 1316 c 256
+ -363 1316 -415 1256 -415 1180 c 256
+ -415 1119 -390 1084 -331 1084 c 256
+ -265 1084 -215 1146 -215 1221 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

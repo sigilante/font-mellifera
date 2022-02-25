@@ -1,0 +1,11 @@
+StartChar: GrCapUpsilonWMacron
+Encoding: 960 8169 955
+GlifName: G_rC_apU_psilonW_M_acron
+Width: 1194
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 948 933 N 1 0 0 1 0 0 2
+Refer: 180 -1 N 1 0 0 1 1129 320 2
+EndChar

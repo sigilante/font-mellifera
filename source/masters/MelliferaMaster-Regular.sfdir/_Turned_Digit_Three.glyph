@@ -1,0 +1,12 @@
+StartChar: TurnedDigitThree
+Encoding: 4267 8587 4243
+GlifName: T_urnedD_igitT_hree
+Width: 961
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 480 -100 basechar 0
+AnchorPoint: "U" 480 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 708 51 N 1 0 0 1 0 0 2
+EndChar

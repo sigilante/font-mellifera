@@ -1,0 +1,41 @@
+StartChar: LtnBidentalPercussive
+Encoding: 1302 685 1286
+GlifName: L_tnB_identalP_ercussive
+Width: 1074
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 548 -100 basechar 0
+AnchorPoint: "U" 548 1260 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+288 42 m 257
+ 288 273 l 257
+ 786 273 l 257
+ 786 1 l 257
+ 822 -30 l 257
+ 860 -19 889 14 914 42 c 257
+ 914 367 l 257
+ 883 401 l 257
+ 249 401 l 257
+ 213 381 186 355 160 330 c 257
+ 160 1 l 257
+ 196 -30 l 257
+ 231 -12 264 18 288 42 c 257
+  PathStart: -1
+288 781 m 257
+ 288 1012 l 257
+ 786 1012 l 257
+ 786 740 l 257
+ 822 709 l 257
+ 860 720 889 753 914 781 c 257
+ 914 1106 l 257
+ 883 1140 l 257
+ 249 1140 l 257
+ 213 1120 186 1094 160 1069 c 257
+ 160 740 l 257
+ 196 709 l 257
+ 231 727 264 757 288 781 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,36 @@
+StartChar: LtnSmOOgonek.RetroHook.sc
+Encoding: 3019 -1 3003
+GlifName: L_tnS_mO_O_gonek.R_etroH_ook.sc
+Width: 1155
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 550 7 basechar 0
+AnchorPoint: "L" 598 -576 basechar 0
+AnchorPoint: "O" 635 7 basechar 0
+AnchorPoint: "R" 1182 920 basechar 0
+AnchorPoint: "U" 578 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+536 -24 m 256
+ 820 -24 1061 236 1061 535 c 256
+ 1061 803 898 1065 589 1065 c 256
+ 296 1065 64 805 64 505 c 256
+ 64 228 236 -24 536 -24 c 256
+714 -476 m 256
+ 869 -476 967 -312 959 -211 c 257
+ 940 -172 l 257
+ 899 -166 765 -229 774 -240 c 256
+ 814 -288 796 -381 718 -381 c 256
+ 652 -381 621 -335 621 -172 c 258
+ 621 60 l 257
+ 531 28 l 257
+ 531 -223 l 258
+ 531 -398 602 -476 714 -476 c 256
+562 88 m 256
+ 377 88 219 290 219 530 c 256
+ 219 791 348 957 562 957 c 256
+ 768 957 905 740 905 520 c 256
+ 905 237 762 88 562 88 c 256
+EndSplineSet
+EndChar

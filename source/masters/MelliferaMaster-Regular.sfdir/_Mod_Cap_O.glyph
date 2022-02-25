@@ -1,0 +1,25 @@
+StartChar: ModCapO
+Encoding: 3739 7484 3723
+GlifName: M_odC_apO_
+Width: 860
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 416 540 basechar 0
+AnchorPoint: "O" 458 620 basechar 0
+AnchorPoint: "R" 937 1136 basechar 0
+AnchorPoint: "U" 416 1450 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+402 602 m 256
+ 615 602 797 791 797 1008 c 257
+ 797 1204 674 1394 443 1394 c 256
+ 223 1394 49 1205 49 987 c 256
+ 49 786 178 602 402 602 c 256
+423 683 m 256
+ 294 683 175 830 175 1005 c 256
+ 175 1194 272 1316 423 1316 c 256
+ 567 1316 669 1157 669 997 c 256
+ 669 791 565 683 423 683 c 256
+EndSplineSet
+EndChar

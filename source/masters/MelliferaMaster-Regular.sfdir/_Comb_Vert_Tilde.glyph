@@ -1,0 +1,21 @@
+StartChar: CombVertTilde
+Encoding: 234 830 230
+GlifName: C_ombV_ertT_ilde
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -516 1556 basechar 0
+AnchorPoint: "U" -516 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-634 1087 m 257
+ -614 1047 l 257
+ -517 1083 -405 1147 -405 1226 c 256
+ -405 1293 -500 1347 -500 1405 c 256
+ -500 1445 -465 1475 -399 1511 c 257
+ -417 1550 l 257
+ -514 1516 -625 1450 -625 1374 c 256
+ -625 1299 -530 1242 -530 1194 c 256
+ -530 1157 -565 1120 -634 1087 c 257
+EndSplineSet
+EndChar

@@ -1,0 +1,29 @@
+StartChar: CombDoubledCircum
+Encoding: 123 6832 120
+GlifName: C_ombD_oubledC_ircum
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -514 1500 basechar 0
+AnchorPoint: "U" -514 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-514 1047 m 257
+ -471 1092 l 257
+ -733 1471 l 257
+ -840 1471 l 257
+ -1104 1092 l 257
+ -1095 1076 -1077 1055 -1059 1047 c 257
+ -788 1315 l 257
+ -514 1047 l 257
+74 1092 m 257
+ -188 1471 l 257
+ -295 1471 l 257
+ -559 1092 l 257
+ -514 1047 l 257
+ -243 1315 l 257
+ 31 1047 l 257
+ 52 1055 69 1080 74 1092 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

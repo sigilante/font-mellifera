@@ -1,0 +1,22 @@
+StartChar: GrYpo
+Encoding: 1221 890 1216
+GlifName: G_rY_po
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -500 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-353 -408 m 257
+ -360 -377 l 257
+ -383 -384 -395 -387 -409 -386 c 256
+ -426 -385 -431 -363 -430 -263 c 258
+ -430 -139 l 257
+ -451 -113 l 257
+ -490 -134 -544 -151 -585 -162 c 257
+ -572 -193 -570 -246 -570 -356 c 256
+ -570 -451 -551 -480 -511 -480 c 256
+ -487 -480 -431 -465 -353 -408 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

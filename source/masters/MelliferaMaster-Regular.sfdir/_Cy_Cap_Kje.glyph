@@ -1,0 +1,19 @@
+StartChar: CyCapKje
+Encoding: 327 1036 323
+GlifName: C_yC_apK_je
+Width: 1220
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 640 -100 basechar 0
+AnchorPoint: "U" 640 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 317 1050 N 1 0 0 1 0 0 2
+Refer: 40 -1 N 1 0 0 1 1183 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

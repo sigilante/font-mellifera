@@ -1,0 +1,28 @@
+StartChar: LtnCapEOgonek.RetroHook
+Encoding: 1437 -1 1421
+GlifName: L_tnC_apE_O_gonek.R_etroH_ook
+Width: 1016
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 502 0 basechar 0
+AnchorPoint: "L" 560 -600 basechar 0
+AnchorPoint: "O" 750 0 basechar 0
+AnchorPoint: "R" 990 1100 basechar 0
+AnchorPoint: "U" 502 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+849 -235 m 257
+ 830 -196 l 257
+ 789 -190 655 -253 664 -264 c 256
+ 704 -312 686 -405 608 -405 c 256
+ 542 -405 511 -359 511 -196 c 258
+ 511 64 l 257
+ 421 64 l 257
+ 421 -247 l 258
+ 421 -422 492 -500 604 -500 c 256
+ 759 -500 857 -336 849 -235 c 257
+  PathStart: -1
+EndSplineSet
+Refer: 1392 69 N 1 0 0 1 0 0 2
+EndChar

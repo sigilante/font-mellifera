@@ -1,0 +1,19 @@
+StartChar: Macron
+Encoding: 3691 175 3675
+GlifName: M_acron
+Width: 1010
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+843 1281 m 257
+ 821 1305 l 257
+ 208 1305 l 257
+ 195 1279 173 1229 167 1200 c 257
+ 189 1175 l 257
+ 804 1175 l 257
+ 814 1200 837 1252 843 1281 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,19 @@
+StartChar: LtnCapSaltillo.Lrg
+Encoding: 1705 -1 1689
+GlifName: L_tnC_apS_altillo.L_rg
+Width: 542
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 271 100 basechar 0
+AnchorPoint: "U" 271 1620 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+314 504 m 257
+ 377 1554 l 257
+ 324 1580 l 257
+ 296 1574 175 1538 145 1521 c 257
+ 218 483 l 257
+ 249 483 294 493 314 504 c 257
+EndSplineSet
+EndChar

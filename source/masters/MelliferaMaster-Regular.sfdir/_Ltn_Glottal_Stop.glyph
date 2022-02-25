@@ -1,0 +1,32 @@
+StartChar: LtnGlottalStop
+Encoding: 1845 660 1829
+GlifName: L_tnG_lottalS_top
+Width: 890
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 455 -100 basechar 0
+AnchorPoint: "R" 888 900 basechar 0
+AnchorPoint: "U" 455 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+200 0 m 257
+ 690 0 l 257
+ 690 43 l 257
+ 581 61 520 84 520 104 c 258
+ 520 555 l 258
+ 520 830 850 918 850 1215 c 256
+ 850 1402 718 1550 512 1550 c 256
+ 279 1550 60 1391 60 1203 c 256
+ 60 1193 60 1180 62 1170 c 257
+ 89 1140 l 257
+ 148 1146 193 1156 236 1178 c 257
+ 230 1197 224 1217 224 1236 c 256
+ 224 1340 328 1455 434 1455 c 256
+ 583 1455 700 1334 700 1170 c 256
+ 700 940 370 805 370 496 c 258
+ 370 104 l 258
+ 370 82 315 63 200 43 c 257
+ 200 0 l 257
+EndSplineSet
+EndChar

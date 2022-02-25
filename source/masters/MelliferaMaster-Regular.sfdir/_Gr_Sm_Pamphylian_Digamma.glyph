@@ -1,0 +1,35 @@
+StartChar: GrSmPamphylianDigamma
+Encoding: 1165 887 1160
+GlifName: G_rS_mP_amphylianD_igamma
+Width: 1154
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 555 -100 basechar 0
+AnchorPoint: "U" 555 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+335 14 m 257
+ 412 127 614 426 771 610 c 257
+ 763 203 l 258
+ 760 42 786 -30 878 -30 c 256
+ 922 -30 1007 14 1129 109 c 257
+ 1119 154 l 257
+ 1036 111 986 103 966 103 c 256
+ 938 103 918 118 921 303 c 258
+ 931 920 l 257
+ 877 943 l 257
+ 707 691 490 390 352 219 c 257
+ 352 220 352 718 352 717 c 257
+ 353 717 337 925 337 925 c 257
+ 337 925 302 960 302 960 c 257
+ 214 921 150 894 55 880 c 257
+ 55 840 l 257
+ 198 826 202 821 202 681 c 258
+ 202 220 l 258
+ 202 160 196 53 191 0 c 257
+ 230 -30 l 257
+ 264 -15 297 -1 335 14 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

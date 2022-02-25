@@ -1,0 +1,26 @@
+StartChar: LtnCapIota
+Encoding: 1519 406 1503
+GlifName: L_tnC_apI_ota
+Width: 713
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 361 -100 basechar 0
+AnchorPoint: "U" 361 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+673 178 m 257
+ 655 221 l 257
+ 540 139 485 128 467 128 c 256
+ 408 128 395 174 395 415 c 258
+ 395 1290 l 257
+ 358 1290 l 257
+ 271 1246 162 1225 50 1203 c 257
+ 50 1160 l 257
+ 242 1143 235 1118 235 935 c 258
+ 235 281 l 258
+ 235 68 276 -30 360 -30 c 256
+ 429 -30 493 6 673 178 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,26 @@
+StartChar: SupOne
+Encoding: 4101 185 4077
+GlifName: S_upO_ne
+Width: 673
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 360 550 basechar 0
+AnchorPoint: "U" 360 1410 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+119 620 m 257
+ 588 620 l 257
+ 588 662 l 257
+ 447 677 423 700 423 716 c 258
+ 423 1346 l 257
+ 397 1367 l 257
+ 336 1338 175 1284 97 1265 c 257
+ 112 1224 l 257
+ 235 1247 274 1243 285 1233 c 256
+ 297 1222 298 1206 298 1174 c 258
+ 298 716 l 258
+ 298 699 265 677 119 662 c 257
+ 119 620 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,34 @@
+StartChar: LtnSmZCurl
+Encoding: 3547 657 3531
+GlifName: L_tnS_mZ_C_url
+Width: 913
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 452 -100 basechar 0
+AnchorPoint: "U" 480 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+753 383 m 256
+ 590 383 433 194 404 -206 c 257
+ 469 -214 l 257
+ 509 109 598 265 719 265 c 256
+ 770 265 806 229 806 180 c 256
+ 806 131 771 90 632 90 c 258
+ 270 90 l 257
+ 827 887 l 257
+ 805 930 l 257
+ 313 930 l 258
+ 227 930 195 930 137 946 c 257
+ 119 702 l 257
+ 168 690 l 257
+ 195 813 242 840 285 840 c 258
+ 631 840 l 257
+ 76 45 l 257
+ 102 0 l 257
+ 657 0 l 257
+ 831 2 913 117 913 229 c 256
+ 913 336 840 383 753 383 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

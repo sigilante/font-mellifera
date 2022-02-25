@@ -1,0 +1,31 @@
+StartChar: GrSmArchaicSampi
+Encoding: 1039 883 1034
+GlifName: G_rS_mA_rchaicS_ampi
+Width: 954
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 477 -100 basechar 0
+AnchorPoint: "U" 477 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+225 0 m 257
+ 715 0 l 257
+ 715 43 l 257
+ 618 61 545 88 545 114 c 258
+ 545 840 l 257
+ 767 840 l 258
+ 809 840 822 568 829 442 c 257
+ 876 442 l 257
+ 905 592 931 825 934 912 c 257
+ 907 930 l 257
+ 63 930 l 257
+ 49 878 26 592 26 452 c 257
+ 73 452 l 257
+ 106 597 167 840 209 840 c 258
+ 395 840 l 257
+ 395 114 l 258
+ 395 86 315 61 225 43 c 257
+ 225 0 l 257
+EndSplineSet
+EndChar

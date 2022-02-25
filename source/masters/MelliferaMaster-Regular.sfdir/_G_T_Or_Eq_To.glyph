@@ -1,0 +1,31 @@
+StartChar: GTOrEqTo
+Encoding: 773 8805 768
+GlifName: G_T_O_rE_qT_o
+Width: 899
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+61 954 m 257
+ 78 915 l 257
+ 643 705 l 257
+ 92 499 l 257
+ 82 476 70 427 61 401 c 257
+ 86 376 l 257
+ 807 644 l 257
+ 821 675 832 714 838 745 c 257
+ 815 769 l 257
+ 145 1019 l 257
+ 121 999 92 978 61 954 c 257
+  PathStart: -1
+838 285 m 257
+ 813 310 l 257
+ 92 310 l 257
+ 80 283 68 254 61 227 c 257
+ 86 200 l 257
+ 809 200 l 257
+ 817 225 831 257 838 285 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

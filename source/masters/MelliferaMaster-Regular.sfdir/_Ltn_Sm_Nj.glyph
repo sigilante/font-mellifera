@@ -1,0 +1,20 @@
+StartChar: LtnSmNj
+Encoding: 2917 460 2901
+GlifName: L_tnS_mN_j
+Width: 1660
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 885 0 basechar 0
+AnchorPoint: "L" 1410 -600 basechar 0
+AnchorPoint: "U" 1411 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 2860 110 N 1 0 0 1 0 0 2
+Refer: 2719 106 N 1 0 0 1 1130 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

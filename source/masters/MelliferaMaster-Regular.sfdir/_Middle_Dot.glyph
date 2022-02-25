@@ -1,0 +1,17 @@
+StartChar: MiddleDot
+Encoding: 3713 183 3697
+GlifName: M_iddleD_ot
+Width: 300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+250 721 m 257
+ 250 783 222 816 165 816 c 256
+ 102 816 50 756 50 680 c 256
+ 50 619 75 584 134 584 c 256
+ 200 584 250 646 250 721 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

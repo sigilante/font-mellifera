@@ -1,0 +1,30 @@
+StartChar: RtArrwStrk
+Encoding: 4010 8603 3989
+GlifName: R_tA_rrwS_trk
+Width: 1975
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1031 905 m 257
+ 922 960 l 257
+ 757 633 l 257
+ 130 633 l 257
+ 130 510 l 257
+ 695 510 l 257
+ 553 229 l 257
+ 662 173 l 257
+ 832 510 l 257
+ 1640 510 l 257
+ 1234 347 l 257
+ 1269 256 l 257
+ 1845 505 l 257
+ 1845 638 l 257
+ 1269 887 l 257
+ 1234 796 l 257
+ 1640 633 l 257
+ 894 633 l 257
+ 1031 905 l 257
+EndSplineSet
+EndChar

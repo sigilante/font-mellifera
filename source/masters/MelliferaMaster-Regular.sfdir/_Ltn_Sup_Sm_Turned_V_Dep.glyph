@@ -1,0 +1,34 @@
+StartChar: LtnSupSmTurnedVDep
+Encoding: 3669 61875 3653
+GlifName: L_tnS_upS_mT_urnedV_D_ep
+Width: 707
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 376 750 basechar 0
+AnchorPoint: "U" 376 1400 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-16 1226 m 257
+ -16 590 l 257
+ 722 590 l 257
+ 722 1226 l 257
+ -16 1226 l 257
+14 620 m 257
+ 14 656 l 257
+ 70 667 76 673 87 697 c 258
+ 277 1133 l 258
+ 296 1176 362 1190 393 1196 c 257
+ 619 697 l 258
+ 629 675 646 665 692 656 c 257
+ 692 620 l 257
+ 422 620 l 257
+ 422 656 l 257
+ 494 664 498 671 486 697 c 258
+ 328 1050 l 257
+ 175 688 l 258
+ 165 663 171 665 240 656 c 257
+ 240 620 l 257
+ 14 620 l 257
+EndSplineSet
+EndChar

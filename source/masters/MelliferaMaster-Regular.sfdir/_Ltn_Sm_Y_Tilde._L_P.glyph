@@ -1,0 +1,20 @@
+StartChar: LtnSmYTilde.LP
+Encoding: 3525 -1 3509
+GlifName: L_tnS_mY_T_ilde.L_P_
+Width: 1010
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 770 -100 basechar 0
+AnchorPoint: "R" 1044 900 basechar 0
+AnchorPoint: "U" 530 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 3474 121 N 1 0 0 1 0 0 2
+Refer: 219 -1 N 1 0 0 1 1045 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

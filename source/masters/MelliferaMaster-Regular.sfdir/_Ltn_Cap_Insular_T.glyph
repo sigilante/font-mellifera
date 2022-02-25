@@ -1,0 +1,31 @@
+StartChar: LtnCapInsularT
+Encoding: 1517 42886 1501
+GlifName: L_tnC_apI_nsularT_
+Width: 1098
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 525 -100 basechar 0
+AnchorPoint: "U" 531 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1018 211 m 257
+ 1010 219 995 250 981 256 c 257
+ 854 130 732 90 613 90 c 256
+ 476 90 235 183 235 538 c 256
+ 235 799 369 1097 566 1201 c 257
+ 537 1208 507 1216 478 1223 c 257
+ 259 1115 70 803 70 501 c 256
+ 70 114 324 -30 571 -30 c 256
+ 709 -30 871 42 1018 211 c 257
+  PathStart: -1
+1027 1236 m 257
+ 1002 1260 l 257
+ 51 1260 l 257
+ 40 1238 28 1198 22 1169 c 257
+ 45 1145 l 257
+ 996 1145 l 257
+ 1008 1171 1020 1207 1027 1236 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

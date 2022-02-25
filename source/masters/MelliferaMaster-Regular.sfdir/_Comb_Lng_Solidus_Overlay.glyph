@@ -1,0 +1,17 @@
+StartChar: CombLngSolidusOverlay
+Encoding: 164 824 160
+GlifName: C_ombL_ngS_olidusO_verlay
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+-76 1249 m 257
+ -113 1275 l 257
+ -147 1259 -188 1213 -219 1184 c 257
+ -952 -320 l 257
+ -917 -347 l 257
+ -887 -330 -829 -277 -808 -254 c 257
+ -76 1249 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,12 @@
+StartChar: LtnAlveolarClick.bascl
+Encoding: 1300 -1 1284
+GlifName: L_tnA_lveolarC_lick.bascl
+Width: 670
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 335 -600 basechar 0
+AnchorPoint: "U" 335 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1283 450 N 1 0 0 1 0 0 2
+EndChar

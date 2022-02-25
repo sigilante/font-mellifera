@@ -1,0 +1,20 @@
+StartChar: SwingDash
+Encoding: 4131 8275 4107
+GlifName: S_wingD_ash
+Width: 1420
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+987 437 m 256
+ 1144 437 1275 543 1360 744 c 257
+ 1302 769 l 257
+ 1247 660 1149 609 1066 609 c 256
+ 879 609 615 769 422 769 c 256
+ 265 769 142 653 60 472 c 257
+ 115 435 l 257
+ 171 546 276 587 361 587 c 256
+ 556 587 705 437 987 437 c 256
+EndSplineSet
+EndChar

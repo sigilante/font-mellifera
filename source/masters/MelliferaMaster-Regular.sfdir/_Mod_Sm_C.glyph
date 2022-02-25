@@ -1,0 +1,26 @@
+StartChar: ModSmC
+Encoding: 3827 7580 3811
+GlifName: M_odS_mC_
+Width: 626
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 372 620 basechar 0
+AnchorPoint: "L" 372 540 basechar 0
+AnchorPoint: "U" 372 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+325 602 m 256
+ 413 602 463 610 588 734 c 257
+ 555 765 l 257
+ 451 688 428 689 376 689 c 256
+ 270 689 178 771 178 905 c 256
+ 178 1050 252 1121 350 1121 c 256
+ 443 1121 494 1075 510 1047 c 257
+ 535 1040 l 257
+ 552 1062 583 1127 578 1147 c 257
+ 547 1175 475 1196 413 1196 c 256
+ 212 1196 56 1059 56 886 c 256
+ 56 708 189 602 325 602 c 256
+EndSplineSet
+EndChar

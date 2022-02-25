@@ -1,0 +1,19 @@
+StartChar: GrKoronis
+Encoding: 983 8125 978
+GlifName: G_rK_oronis
+Width: 383
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+134 1092 m 257
+ 263 1173 318 1268 325 1360 c 257
+ 330 1428 309 1498 236 1529 c 257
+ 194 1534 54 1490 33 1464 c 257
+ 44 1422 l 257
+ 149 1421 189 1360 184 1289 c 256
+ 180 1228 151 1176 95 1125 c 257
+ 134 1092 l 257
+EndSplineSet
+EndChar

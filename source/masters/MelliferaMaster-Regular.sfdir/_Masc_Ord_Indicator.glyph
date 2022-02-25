@@ -1,0 +1,28 @@
+StartChar: MascOrdIndicator
+Encoding: 3695 186 3679
+GlifName: M_ascO_rdI_ndicator
+Width: 578
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+528 983 m 257
+ 528 1128 434 1235 305 1235 c 256
+ 164 1235 49 1102 49 963 c 256
+ 49 817 139 711 272 711 c 256
+ 397 711 528 846 528 983 c 257
+  PathStart: -1
+61 586 m 257
+ 516 586 l 257
+ 516 659 l 257
+ 61 659 l 257
+ 61 586 l 257
+434 967 m 257
+ 434 854 377 768 305 768 c 256
+ 223 768 143 864 143 977 c 256
+ 143 1090 193 1176 272 1176 c 256
+ 360 1176 434 1079 434 967 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

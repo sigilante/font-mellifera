@@ -1,0 +1,19 @@
+StartChar: LtnCapSCedilla
+Encoding: 1695 350 1679
+GlifName: L_tnC_apS_C_edilla
+Width: 975
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 480 -600 basechar 0
+AnchorPoint: "U" 500 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1673 83 N 1 0 0 1 0 0 2
+Refer: 69 807 N 1 0 0 1 993 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

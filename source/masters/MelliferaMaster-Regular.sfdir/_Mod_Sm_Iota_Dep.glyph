@@ -1,0 +1,30 @@
+StartChar: ModSmIotaDep
+Encoding: 3853 61898 3837
+GlifName: M_odS_mI_otaD_ep
+Width: 404
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 210 750 basechar 0
+AnchorPoint: "U" 210 1400 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+3 1226 m 257
+ 3 572 l 257
+ 449 572 l 257
+ 449 1226 l 257
+ 3 1226 l 257
+403 739 m 257
+ 419 701 l 257
+ 324 624 255 602 219 602 c 256
+ 149 602 123 646 123 742 c 258
+ 123 1012 l 258
+ 123 1100 123 1109 33 1114 c 257
+ 33 1148 l 257
+ 92 1158 174 1176 219 1196 c 257
+ 248 1196 l 257
+ 248 812 l 258
+ 248 710 258 694 290 694 c 256
+ 300 694 343 702 403 739 c 257
+EndSplineSet
+EndChar

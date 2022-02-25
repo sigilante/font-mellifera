@@ -1,0 +1,33 @@
+StartChar: LtnSmTHook.sc
+Encoding: 3259 -1 3243
+GlifName: L_tnS_mT_H_ook.sc
+Width: 1146
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 566 -76 basechar 0
+AnchorPoint: "U" 566 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+366 0 m 257
+ 829 0 l 257
+ 829 49 l 257
+ 715 69 678 90 678 101 c 257
+ 678 953 l 257
+ 933 953 l 257
+ 979 953 989 913 1013 814 c 257
+ 1066 814 l 257
+ 1081 884 1092 955 1094 1016 c 257
+ 1061 1041 l 257
+ 337 1041 l 257
+ 170 1041 26 970 26 824 c 256
+ 26 761 63 715 112 697 c 257
+ 164 706 249 752 258 769 c 257
+ 217 785 191 815 191 851 c 256
+ 191 934 272 953 368 953 c 257
+ 517 953 l 257
+ 517 101 l 257
+ 517 89 479 69 366 49 c 257
+ 366 0 l 257
+EndSplineSet
+EndChar

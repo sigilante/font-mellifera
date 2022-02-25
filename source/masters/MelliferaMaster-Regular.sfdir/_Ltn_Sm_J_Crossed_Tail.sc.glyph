@@ -1,0 +1,31 @@
+StartChar: LtnSmJCrossedTail.sc
+Encoding: 2749 -1 2733
+GlifName: L_tnS_mJ_C_rossedT_ail.sc
+Width: 585
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 307 -496 basechar 0
+AnchorPoint: "U" 307 1132 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+470 -322 m 257
+ 522 -274 l 257
+ 373 -92 231 39 65 39 c 256
+ -116 39 -192 -70 -192 -140 c 256
+ -192 -250 -80 -314 15 -314 c 256
+ 100 -314 175 -282 238 -223 c 256
+ 310 -157 387 -50 387 195 c 258
+ 387 940 l 258
+ 387 956 433 976 518 991 c 257
+ 518 1041 l 257
+ 49 1041 l 257
+ 49 991 l 257
+ 199 972 227 953 227 940 c 258
+ 227 149 l 258
+ 227 -118 165 -197 50 -197 c 256
+ 0 -197 -60 -171 -60 -118 c 256
+ -60 -74 -17 -41 61 -41 c 256
+ 197 -41 284 -132 470 -322 c 257
+EndSplineSet
+EndChar

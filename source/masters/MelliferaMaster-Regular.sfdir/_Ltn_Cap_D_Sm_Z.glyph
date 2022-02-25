@@ -1,0 +1,20 @@
+StartChar: LtnCapDSmZ
+Encoding: 1395 498 1379
+GlifName: L_tnC_apD_S_mZ_
+Width: 2083
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 1666 0 basechar 0
+AnchorPoint: "L" 1666 -100 basechar 0
+AnchorPoint: "U" 1694 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 1369 68 N 1 0 0 1 0 0 2
+Refer: 3513 122 N 1 0 0 1 1214 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

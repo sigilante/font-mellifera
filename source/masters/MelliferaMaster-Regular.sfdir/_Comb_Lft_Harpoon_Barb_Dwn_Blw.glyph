@@ -1,0 +1,24 @@
+StartChar: CombLftHarpoonBarbDwnBlw
+Encoding: 159 8429 155
+GlifName: C_ombL_ftH_arpoonB_arbD_wnB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -532 -600 basechar 0
+AnchorPoint: "L" -532 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-241 -282 m 257
+ -266 -255 l 257
+ -820 -255 l 257
+ -695 -345 l 257
+ -268 -345 l 257
+ -256 -323 -248 -308 -241 -282 c 257
+  PathStart: -1
+-682 -300 m 257
+ -820 -255 l 257
+ -631 -500 l 257
+ -575 -475 l 257
+ -682 -300 l 257
+EndSplineSet
+EndChar

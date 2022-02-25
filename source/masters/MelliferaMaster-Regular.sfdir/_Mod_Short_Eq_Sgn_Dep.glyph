@@ -1,0 +1,30 @@
+StartChar: ModShortEqSgnDep
+Encoding: 3822 61930 3806
+GlifName: M_odS_hortE_qS_gnD_ep
+Width: 677
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+30 678 m 257
+ 30 244 l 257
+ 647 244 l 257
+ 647 678 l 257
+ 30 678 l 257
+592 648 m 257
+ 617 623 l 257
+ 610 597 596 558 588 535 c 257
+ 85 535 l 257
+ 60 560 l 257
+ 67 587 79 623 91 648 c 257
+ 592 648 l 257
+592 389 m 257
+ 617 364 l 257
+ 610 336 596 299 588 274 c 257
+ 85 274 l 257
+ 60 301 l 257
+ 67 328 79 362 91 389 c 257
+ 592 389 l 257
+EndSplineSet
+EndChar

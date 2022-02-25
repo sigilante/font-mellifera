@@ -1,0 +1,34 @@
+StartChar: LtnSmB
+Encoding: 2195 98 2179
+GlifName: L_tnS_mB_
+Width: 1040
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 479 0 basechar 0
+AnchorPoint: "L" 479 -100 basechar 0
+AnchorPoint: "R" 1068 900 basechar 0
+AnchorPoint: "U" 520 1620 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+950 492 m 257
+ 950 784 819 960 637 960 c 256
+ 561 960 423 887 290 727 c 257
+ 290 1516 l 257
+ 279 1527 266 1539 253 1550 c 257
+ 177 1509 97 1490 10 1470 c 257
+ 10 1430 l 257
+ 119 1417 140 1414 140 1296 c 258
+ 140 96 l 257
+ 284 16 418 -30 469 -30 c 256
+ 764 -30 950 260 950 492 c 257
+  PathStart: -1
+815 408 m 257
+ 815 254 729 100 567 100 c 256
+ 520 100 396 123 290 203 c 257
+ 290 610 l 257
+ 402 776 520 825 567 825 c 256
+ 696 825 815 674 815 408 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

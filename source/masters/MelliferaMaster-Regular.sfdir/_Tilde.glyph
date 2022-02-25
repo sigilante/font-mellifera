@@ -1,0 +1,21 @@
+StartChar: Tilde
+Encoding: 4139 126 4115
+GlifName: T_ilde
+Width: 999
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+950 774 m 257
+ 897 799 l 257
+ 842 690 784 639 721 639 c 256
+ 614 639 475 799 352 799 c 256
+ 225 799 106 633 49 502 c 257
+ 102 475 l 257
+ 158 586 211 637 276 637 c 256
+ 391 637 535 477 647 477 c 256
+ 774 477 895 643 950 774 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,29 @@
+StartChar: LtnSmBarredO
+Encoding: 2222 629 2206
+GlifName: L_tnS_mB_arredO_
+Width: 1030
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 525 -100 basechar 0
+AnchorPoint: "R" 1044 900 basechar 0
+AnchorPoint: "U" 525 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+950 485 m 256
+ 950 758 786 960 535 960 c 256
+ 285 960 80 709 80 444 c 256
+ 80 172 244 -30 496 -30 c 256
+ 739 -30 950 219 950 485 c 256
+  PathStart: -1
+793 505 m 257
+ 235 505 l 257
+ 242 702 313 850 506 850 c 256
+ 632 850 771 694 793 505 c 257
+  PathStart: -1
+239 415 m 257
+ 795 415 l 257
+ 785 210 701 80 524 80 c 256
+ 412 80 266 229 239 415 c 257
+EndSplineSet
+EndChar

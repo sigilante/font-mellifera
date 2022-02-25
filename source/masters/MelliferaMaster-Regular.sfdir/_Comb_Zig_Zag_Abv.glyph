@@ -1,0 +1,31 @@
+StartChar: CombZigZagAbv
+Encoding: 239 859 235
+GlifName: C_ombZ_igZ_agA_bv
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -512 1556 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-362 1329 m 257
+ -642 1329 l 257
+ -670 1230 l 257
+ -390 1230 l 257
+ -362 1329 l 257
+-515 1495 m 257
+ -526 1512 l 257
+ -545 1512 -591 1505 -610 1501 c 257
+ -684 1245 l 257
+ -670 1230 l 257
+ -651 1229 -607 1232 -588 1234 c 257
+ -515 1495 l 257
+-444 1325 m 257
+ -518 1064 l 257
+ -503 1047 l 257
+ -486 1047 -440 1055 -421 1058 c 257
+ -349 1314 l 257
+ -362 1329 l 257
+ -444 1325 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: GrSmNu
+Encoding: 1123 957 1118
+GlifName: G_rS_mN_u
+Width: 1040
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+960 929 m 257
+ 953 936 938 953 928 960 c 257
+ 875 947 816 932 755 913 c 257
+ 803 734 748 422 563 162 c 257
+ 496 452 382 728 338 831 c 256
+ 296 927 254 960 223 960 c 257
+ 165 928 94 896 10 877 c 257
+ 10 839 l 257
+ 10 839 97 842 127 828 c 256
+ 151 817 186 789 206 743 c 256
+ 259 619 373 332 453 0 c 257
+ 493 -31 l 257
+ 518 -19 564 0 585 12 c 257
+ 836 433 913 657 960 929 c 257
+  PathStart: -1
+EndSplineSet
+Kerns2: 1043 10 "'kern' Horizontal Kerning lookup 0 subtable" 1044 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1087 -49 "'kern' Horizontal Kerning lookup 0 subtable" 1116 -49 "'kern' Horizontal Kerning lookup 0 subtable" 1164 -59 "'kern' Horizontal Kerning lookup 0 subtable" 1171 -31 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

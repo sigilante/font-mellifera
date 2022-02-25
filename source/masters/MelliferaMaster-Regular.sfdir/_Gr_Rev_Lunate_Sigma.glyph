@@ -1,0 +1,25 @@
+StartChar: GrRevLunateSigma
+Encoding: 1002 891 997
+GlifName: G_rR_evL_unateS_igma
+Width: 925
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+370 -30 m 256
+ 623 -30 845 199 845 486 c 256
+ 845 783 655 960 460 960 c 256
+ 335 960 246 928 85 770 c 257
+ 124 729 l 257
+ 259 818 313 828 388 828 c 256
+ 548 828 695 682 695 455 c 256
+ 695 205 575 80 435 80 c 256
+ 319 80 252 190 216 190 c 256
+ 182 190 94 79 54 27 c 257
+ 66 16 70 10 84 -3 c 257
+ 100 17 117 28 127 28 c 256
+ 197 28 285 -30 370 -30 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

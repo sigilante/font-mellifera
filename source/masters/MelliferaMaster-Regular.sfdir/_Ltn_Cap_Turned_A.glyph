@@ -1,0 +1,34 @@
+StartChar: LtnCapTurnedA
+Encoding: 1740 11375 1724
+GlifName: L_tnC_apT_urnedA_
+Width: 1219
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 589 -100 basechar 0
+AnchorPoint: "U" 589 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+807 842 m 257
+ 399 842 l 257
+ 285 1176 l 258
+ 270 1220 309 1238 412 1244 c 257
+ 412 1287 l 257
+ -10 1287 l 257
+ -10 1244 l 257
+ 76 1234 108 1213 121 1176 c 258
+ 541 -30 l 257
+ 576 -11 627 17 658 50 c 257
+ 1030 1176 l 258
+ 1043 1216 1098 1228 1188 1244 c 257
+ 1188 1287 l 257
+ 772 1287 l 257
+ 772 1244 l 257
+ 881 1232 931 1217 918 1176 c 258
+ 807 842 l 257
+430 752 m 257
+ 777 752 l 257
+ 606 238 l 257
+ 430 752 l 257
+EndSplineSet
+EndChar

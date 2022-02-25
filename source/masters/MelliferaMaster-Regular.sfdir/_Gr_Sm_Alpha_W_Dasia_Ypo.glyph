@@ -1,0 +1,12 @@
+StartChar: GrSmAlphaWDasiaYpo
+Encoding: 1015 8065 1010
+GlifName: G_rS_mA_lphaW_D_asiaY_po
+Width: 1076
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1000 945 N 1 0 0 1 0 0 2
+Refer: 963 8190 N 1 0 0 1 359 0 2
+Refer: 1216 890 N 1 0 0 1 1000 0 2
+EndChar

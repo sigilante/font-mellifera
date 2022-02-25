@@ -1,0 +1,20 @@
+StartChar: LtnSmGMacron.sc
+Encoding: 2579 -1 2563
+GlifName: L_tnS_mG_M_acron.sc
+Width: 1122
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 583 7 basechar 0
+AnchorPoint: "L" 602 -76 basechar 0
+AnchorPoint: "U" 602 1535 basechar 0
+LayerCount: 2
+Fore
+Refer: 2519 -1 N 1 0 0 1 0 0 2
+Refer: 179 772 N 1 0 0 1 1127 95 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

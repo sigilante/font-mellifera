@@ -1,0 +1,43 @@
+StartChar: LtnSmAStrk.sc
+Encoding: 2160 -1 2144
+GlifName: L_tnS_mA_S_trk.sc
+Width: 1166
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 593 0 basechar 0
+AnchorPoint: "L" 590 -76 basechar 0
+AnchorPoint: "O" 902 7 basechar 0
+AnchorPoint: "U" 610 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+371 363 m 257
+ 738 363 l 257
+ 842 95 l 257
+ 852 66 817 55 724 50 c 257
+ 724 0 l 257
+ 1127 0 l 257
+ 1127 49 l 257
+ 1045 57 1016 72 1005 100 c 257
+ 615 1090 l 257
+ 581 1072 529 1048 498 1018 c 257
+ 155 100 l 257
+ 144 71 93 62 9 49 c 257
+ 9 0 l 257
+ 406 0 l 257
+ 406 49 l 257
+ 308 58 263 69 270 95 c 257
+ 371 363 l 257
+705 450 m 257
+ 405 450 l 257
+ 552 842 l 257
+ 605 705 652 587 705 450 c 257
+1036 1137 m 257
+ 1011 1172 l 257
+ 971 1158 926 1135 892 1112 c 257
+ 134 -94 l 257
+ 157 -129 l 257
+ 190 -120 256 -85 279 -68 c 257
+ 1036 1137 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,11 @@
+StartChar: ModGraveAccent.LP
+Encoding: 3775 -1 3759
+GlifName: M_odG_raveA_ccent.L_P_
+Width: 653
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 327 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1218 -1 N 1 0 0 1 0 0 2
+EndChar

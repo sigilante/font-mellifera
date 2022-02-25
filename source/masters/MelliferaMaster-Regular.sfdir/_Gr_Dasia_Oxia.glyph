@@ -1,0 +1,28 @@
+StartChar: GrDasiaOxia
+Encoding: 969 8158 964
+GlifName: G_rD_asiaO_xia
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "G" 660 1360 mark 0
+AnchorPoint: "U" 300 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+399 1084 m 257
+ 727 1506 l 257
+ 696 1541 l 257
+ 645 1529 565 1508 522 1492 c 257
+ 346 1117 l 257
+ 369 1097 377 1089 399 1084 c 257
+33 1329 m 257
+ 42 1219 101 1145 231 1092 c 257
+ 270 1125 l 257
+ 206 1174 176 1217 172 1278 c 256
+ 168 1334 185 1417 309 1441 c 257
+ 321 1482 l 257
+ 260 1507 165 1531 119 1528 c 257
+ 50 1480 27 1402 33 1329 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

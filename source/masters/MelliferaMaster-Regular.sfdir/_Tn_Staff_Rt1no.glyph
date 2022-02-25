@@ -1,0 +1,11 @@
+StartChar: TnStaffRt1no
+Encoding: 4251 -1 4227
+GlifName: T_nS_taffR_t1no
+Width: 192
+VWidth: 0
+Flags: W
+AnchorPoint: "TL_" -20 32 basechar 0
+LayerCount: 2
+Fore
+Refer: 4213 -1 N 1 0 0 1 0 0 2
+EndChar

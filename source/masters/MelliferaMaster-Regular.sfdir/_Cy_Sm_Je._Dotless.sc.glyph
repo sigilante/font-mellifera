@@ -1,0 +1,18 @@
+StartChar: CySmJe.Dotless.sc
+Encoding: 544 -1 540
+GlifName: C_yS_mJ_e.D_otless.sc
+Width: 587
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 300 -472 basechar 0
+AnchorPoint: "U" 304 1145 basechar 0
+LayerCount: 2
+Fore
+Refer: 541 -1 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

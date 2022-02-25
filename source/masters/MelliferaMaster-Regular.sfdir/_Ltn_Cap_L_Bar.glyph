@@ -1,0 +1,21 @@
+StartChar: LtnCapLBar
+Encoding: 1544 573 1528
+GlifName: L_tnC_apL_B_ar
+Width: 975
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 497 -100 basechar 0
+AnchorPoint: "U" 467 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+595 537 m 257
+ 620 604 l 257
+ 595 627 l 257
+ 66 627 l 257
+ 58 606 50 582 44 562 c 257
+ 66 537 l 257
+ 595 537 l 257
+EndSplineSet
+Refer: 1525 76 N 1 0 0 1 0 0 2
+EndChar

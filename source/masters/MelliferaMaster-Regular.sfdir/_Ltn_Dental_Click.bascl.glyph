@@ -1,0 +1,12 @@
+StartChar: LtnDentalClick.bascl
+Encoding: 1843 -1 1827
+GlifName: L_tnD_entalC_lick.bascl
+Width: 450
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 225 -600 basechar 0
+AnchorPoint: "U" 225 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1826 448 N 1 0 0 1 0 0 2
+EndChar

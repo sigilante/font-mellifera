@@ -1,0 +1,28 @@
+StartChar: CySmPalochka
+Encoding: 592 1231 588
+GlifName: C_yS_mP_alochka
+Width: 555
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 275 0 basechar 0
+AnchorPoint: "L" 285 -100 basechar 0
+AnchorPoint: "R" 556 1100 basechar 0
+AnchorPoint: "U" 285 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+360 104 m 258
+ 360 1416 l 258
+ 360 1438 395 1457 510 1477 c 257
+ 510 1520 l 257
+ 60 1520 l 257
+ 60 1477 l 257
+ 169 1459 210 1436 210 1416 c 258
+ 210 104 l 258
+ 210 82 175 63 60 43 c 257
+ 60 0 l 257
+ 510 0 l 257
+ 510 43 l 257
+ 401 61 360 84 360 104 c 258
+EndSplineSet
+EndChar

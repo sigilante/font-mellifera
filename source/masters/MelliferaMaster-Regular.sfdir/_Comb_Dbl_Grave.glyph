@@ -1,0 +1,24 @@
+StartChar: CombDblGrave
+Encoding: 93 783 90
+GlifName: C_ombD_blG_rave
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -540 1533 basechar 0
+AnchorPoint: "U" -540 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-920 1423 m 257
+ -660 1047 l 257
+ -635 1052 -627 1058 -603 1074 c 257
+ -779 1489 l 257
+ -812 1485 -869 1474 -898 1464 c 257
+ -920 1423 l 257
+-629 1423 m 257
+ -369 1047 l 257
+ -347 1052 -338 1058 -312 1074 c 257
+ -488 1489 l 257
+ -521 1485 -580 1474 -607 1464 c 257
+ -629 1423 l 257
+EndSplineSet
+EndChar

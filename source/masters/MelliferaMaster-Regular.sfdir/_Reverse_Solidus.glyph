@@ -1,0 +1,18 @@
+StartChar: ReverseSolidus
+Encoding: 3983 92 3962
+GlifName: R_everseS_olidus
+Width: 961
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+870 -335 m 257
+ 905 -310 l 257
+ 205 1551 l 257
+ 168 1574 131 1590 92 1600 c 257
+ 55 1578 l 257
+ 756 -284 l 257
+ 780 -302 838 -325 870 -335 c 257
+EndSplineSet
+EndChar

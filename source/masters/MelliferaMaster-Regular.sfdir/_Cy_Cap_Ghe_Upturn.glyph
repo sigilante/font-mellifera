@@ -1,0 +1,33 @@
+StartChar: CyCapGheUpturn
+Encoding: 302 1168 298
+GlifName: C_yC_apG_heU_pturn
+Width: 973
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 488 -100 basechar 0
+AnchorPoint: "U" 488 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 257
+ 551 0 l 257
+ 551 43 l 257
+ 391 70 355 86 355 104 c 258
+ 355 1177 l 258
+ 355 1195 410 1208 500 1217 c 257
+ 500 1260 l 257
+ 50 1260 l 257
+ 50 1217 l 257
+ 146 1198 195 1171 195 1155 c 258
+ 195 104 l 258
+ 195 86 140 61 50 43 c 257
+ 50 0 l 257
+733 1260 m 258
+ 267 1260 l 257
+ 295 1170 l 257
+ 912 1170 l 257
+ 920 1232 937 1480 937 1536 c 257
+ 894 1545 l 257
+ 837 1364 774 1260 733 1260 c 258
+EndSplineSet
+EndChar

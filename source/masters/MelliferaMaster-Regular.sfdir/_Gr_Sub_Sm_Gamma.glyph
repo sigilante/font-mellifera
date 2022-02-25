@@ -1,0 +1,31 @@
+StartChar: GrSubSmGamma
+Encoding: 1210 7527 1205
+GlifName: G_rS_ubS_mG_amma
+Width: 688
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 344 -600 basechar 0
+AnchorPoint: "U" 358 444 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+675 357 m 257
+ 652 376 l 257
+ 617 369 554 358 515 348 c 257
+ 501 159 410 6 321 -180 c 257
+ 334 -206 393 -257 393 -257 c 257
+ 456 -57 575 173 675 357 c 257
+  PathStart: -1
+410 -184 m 257
+ 377 49 217 376 158 376 c 257
+ 115 355 47 336 -7 327 c 257
+ -6 293 l 257
+ -6 293 43 295 73 288 c 256
+ 161 268 289 -101 297 -218 c 257
+ 299 -238 281 -378 257 -483 c 257
+ 270 -490 278 -495 284 -500 c 257
+ 315 -490 381 -473 415 -463 c 257
+ 421 -386 413 -217 410 -184 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

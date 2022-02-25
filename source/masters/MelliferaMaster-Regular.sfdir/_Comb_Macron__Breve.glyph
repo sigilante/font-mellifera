@@ -1,0 +1,23 @@
+StartChar: CombMacron_Breve
+Encoding: 191 7628 187
+GlifName: C_ombM_acron_B_reve
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1370 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-190 1260 m 257
+ -206 1284 -220 1295 -243 1305 c 257
+ -307 1183 -423 1152 -517 1152 c 256
+ -606 1152 -721 1183 -787 1305 c 257
+ -1345 1305 l 257
+ -1358 1279 -1380 1229 -1386 1200 c 257
+ -1364 1175 l 257
+ -796 1175 l 257
+ -720 1052 -621 1020 -513 1020 c 256
+ -393 1020 -270 1075 -190 1260 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

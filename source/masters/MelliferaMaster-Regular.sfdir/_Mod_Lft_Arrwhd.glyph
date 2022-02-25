@@ -1,0 +1,27 @@
+StartChar: ModLftArrwhd
+Encoding: 3778 706 3762
+GlifName: M_odL_ftA_rrwhd
+Width: 741
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+681 1400 m 257
+ 661 1420 l 257
+ 84 1204 l 257
+ 75 1182 65 1146 60 1124 c 257
+ 80 1105 l 257
+ 658 1320 l 257
+ 664 1340 676 1377 681 1400 c 257
+  PathStart: -1
+681 958 m 257
+ 668 987 l 257
+ 84 1204 l 257
+ 75 1182 65 1146 60 1124 c 257
+ 80 1105 l 257
+ 614 905 l 257
+ 647 925 658 936 681 958 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

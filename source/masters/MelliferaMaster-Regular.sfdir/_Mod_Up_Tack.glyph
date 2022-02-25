@@ -1,0 +1,27 @@
+StartChar: ModUpTack
+Encoding: 3920 724 3904
+GlifName: M_odU_pT_ack
+Width: 560
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+490 -117 m 257
+ 465 -90 l 257
+ 99 -90 l 257
+ 85 -117 78 -129 70 -156 c 257
+ 93 -180 l 257
+ 463 -180 l 257
+ 475 -158 483 -143 490 -117 c 257
+  PathStart: -1
+325 -129 m 257
+ 325 146 l 257
+ 298 170 l 257
+ 272 162 258 153 235 140 c 257
+ 235 -138 l 257
+ 260 -160 l 257
+ 286 -152 298 -145 325 -129 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,31 @@
+StartChar: LtnSupSmRevE
+Encoding: 3654 67726 3638
+GlifName: L_tnS_upS_mR_evE_
+Width: 662
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 337 540 basechar 0
+AnchorPoint: "O" 378 620 basechar 0
+AnchorPoint: "R" 727 1136 basechar 0
+AnchorPoint: "U" 337 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+323 602 m 256
+ 406 602 496 654 539 709 c 256
+ 592 777 606 835 606 920 c 256
+ 606 1051 524 1196 351 1196 c 256
+ 168 1196 56 1058 56 954 c 257
+ 73 938 105 919 135 909 c 257
+ 535 909 l 257
+ 533 973 l 257
+ 207 973 l 258
+ 186 973 181 978 181 995 c 256
+ 181 1038 209 1123 314 1123 c 256
+ 410 1123 483 994 483 877 c 256
+ 483 775 423 690 301 690 c 256
+ 256 690 174 699 96 769 c 257
+ 80 761 67 747 60 737 c 257
+ 135 623 228 602 323 602 c 256
+EndSplineSet
+EndChar

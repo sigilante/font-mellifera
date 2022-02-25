@@ -1,0 +1,33 @@
+StartChar: LtnSmSchwa
+Encoding: 3214 601 3198
+GlifName: L_tnS_mS_chwa
+Width: 930
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 460 0 basechar 0
+AnchorPoint: "L" 460 -100 basechar 0
+AnchorPoint: "O" 490 0 basechar 0
+AnchorPoint: "U" 460 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+850 485 m 257
+ 850 782 664 960 469 960 c 256
+ 346 960 240 926 78 754 c 257
+ 86 743 100 719 117 711 c 257
+ 254 809 324 825 397 825 c 256
+ 565 825 700 685 700 456 c 256
+ 700 208 614 74 444 74 c 256
+ 342 74 230 168 230 293 c 256
+ 230 346 256 380 297 380 c 258
+ 782 380 l 257
+ 784 470 l 257
+ 240 470 l 257
+ 193 452 145 428 106 408 c 257
+ 84 377 70 332 70 279 c 256
+ 70 104 225 -30 416 -30 c 256
+ 535 -30 627 8 702 90 c 256
+ 793 188 850 328 850 485 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

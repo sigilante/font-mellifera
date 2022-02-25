@@ -1,0 +1,26 @@
+StartChar: CombUpTackAbv
+Encoding: 230 7669 226
+GlifName: C_ombU_pT_ackA_bv
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1550 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-332 1157 m 257
+ -320 1179 -312 1194 -305 1220 c 257
+ -330 1247 l 257
+ -696 1247 l 257
+ -710 1220 -717 1208 -725 1181 c 257
+ -702 1157 l 257
+ -332 1157 l 257
+-535 1177 m 257
+ -509 1185 -497 1192 -470 1208 c 257
+ -470 1483 l 257
+ -497 1507 l 257
+ -523 1499 -537 1490 -560 1477 c 257
+ -560 1199 l 257
+ -535 1177 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,24 @@
+StartChar: GrThetaSym.sc
+Encoding: 1214 -1 1209
+GlifName: G_rT_hetaS_ym.sc
+Width: 1151
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+535 -24 m 256
+ 820 -24 1062 236 1062 535 c 256
+ 1062 803 898 1065 589 1065 c 256
+ 296 1065 63 805 63 505 c 256
+ 63 228 236 -24 535 -24 c 256
+563 88 m 256
+ 385 88 232 274 219 500 c 257
+ 905 500 l 257
+ 899 230 758 88 563 88 c 256
+221 588 m 257
+ 238 818 363 957 563 957 c 256
+ 746 957 875 784 901 588 c 257
+ 221 588 l 257
+EndSplineSet
+EndChar

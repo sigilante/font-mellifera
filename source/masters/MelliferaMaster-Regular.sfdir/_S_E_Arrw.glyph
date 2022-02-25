@@ -1,0 +1,22 @@
+StartChar: SEArrw
+Encoding: 4034 8600 4010
+GlifName: S_E_A_rrw
+Width: 1975
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1545 -59 m 257
+ 1639 36 l 257
+ 1408 617 l 257
+ 1320 577 l 257
+ 1491 175 l 257
+ 423 1243 l 257
+ 336 1157 l 257
+ 1404 89 l 257
+ 1002 260 l 257
+ 963 171 l 257
+ 1545 -59 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,37 @@
+StartChar: LtnCapU
+Encoding: 1748 85 1732
+GlifName: L_tnC_apU_
+Width: 1339
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 677 0 basechar 0
+AnchorPoint: "L" 677 -100 basechar 0
+AnchorPoint: "O" 760 0 basechar 0
+AnchorPoint: "R" 1330 1100 basechar 0
+AnchorPoint: "U" 677 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1275 1217 m 257
+ 1275 1260 l 257
+ 855 1260 l 257
+ 855 1217 l 257
+ 951 1198 1000 1171 1000 1155 c 258
+ 1000 483 l 258
+ 1000 285 895 85 705 85 c 256
+ 477 85 355 238 355 494 c 258
+ 355 1155 l 258
+ 355 1174 410 1198 500 1217 c 257
+ 500 1260 l 257
+ 50 1260 l 257
+ 50 1217 l 257
+ 146 1198 195 1171 195 1155 c 258
+ 195 444 l 258
+ 195 119 391 -30 666 -30 c 256
+ 954 -30 1130 174 1130 524 c 258
+ 1130 1155 l 258
+ 1130 1174 1185 1198 1275 1217 c 257
+  PathStart: -1
+EndSplineSet
+Kerns2: 1290 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

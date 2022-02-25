@@ -1,0 +1,18 @@
+StartChar: RtBtmParen
+Encoding: 4012 9120 3991
+GlifName: R_tB_tmP_aren
+Width: 900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+540 2500 m 257
+ 540 1350 l 257
+ 540 750 520 70 100 -430 c 257
+ 150 -500 l 257
+ 631 -44 690 550 690 1300 c 258
+ 690 2500 l 257
+ 540 2500 l 257
+EndSplineSet
+EndChar

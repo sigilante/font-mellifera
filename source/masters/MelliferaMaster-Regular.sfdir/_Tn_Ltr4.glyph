@@ -1,0 +1,13 @@
+StartChar: TnLtr4
+Encoding: 4198 742 4174
+GlifName: T_nL_tr4
+Width: 743
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4214 -1 N 1 0 0 1 0 0 2
+Refer: 4202 -1 N 1 0 0 1 126 0 2
+Refer: 4178 -1 N 1 0 0 1 551 0 2
+Refer: 4213 -1 N 1 0 0 1 551 0 2
+EndChar

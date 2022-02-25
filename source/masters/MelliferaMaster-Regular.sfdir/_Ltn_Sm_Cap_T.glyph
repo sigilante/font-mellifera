@@ -1,0 +1,31 @@
+StartChar: LtnSmCapT
+Encoding: 2299 7451 2283
+GlifName: L_tnS_mC_apT_
+Width: 934
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 476 -100 basechar 0
+AnchorPoint: "U" 476 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+268 0 m 257
+ 674 0 l 257
+ 674 43 l 257
+ 572 61 546 91 546 104 c 258
+ 546 840 l 257
+ 774 840 l 258
+ 824 840 835 797 852 722 c 257
+ 889 722 l 257
+ 902 784 912 861 914 911 c 257
+ 889 930 l 257
+ 48 930 l 257
+ 36 878 25 790 20 732 c 257
+ 56 718 l 257
+ 106 833 121 840 155 840 c 258
+ 396 840 l 257
+ 396 104 l 258
+ 396 90 370 61 268 43 c 257
+ 268 0 l 257
+EndSplineSet
+EndChar

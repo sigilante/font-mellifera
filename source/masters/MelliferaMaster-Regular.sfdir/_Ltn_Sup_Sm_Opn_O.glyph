@@ -1,0 +1,28 @@
+StartChar: LtnSupSmOpnO
+Encoding: 3649 7507 3633
+GlifName: L_tnS_upS_mO_pnO_
+Width: 647
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 304 540 basechar 0
+AnchorPoint: "R" 719 1136 basechar 0
+AnchorPoint: "U" 312 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+279 602 m 256
+ 453 602 590 739 590 911 c 256
+ 590 1093 466 1196 325 1196 c 256
+ 239 1196 165 1175 52 1071 c 257
+ 56 1064 76 1043 89 1039 c 257
+ 185 1097 222 1105 275 1105 c 256
+ 376 1105 467 1018 467 893 c 256
+ 467 761 408 675 308 675 c 256
+ 237 675 177 729 177 777 c 256
+ 177 811 187 826 213 847 c 257
+ 196 884 l 257
+ 160 878 112 865 77 855 c 257
+ 58 838 46 807 46 781 c 256
+ 46 676 146 602 279 602 c 256
+EndSplineSet
+EndChar

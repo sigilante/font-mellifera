@@ -1,0 +1,19 @@
+StartChar: CharTieBlw
+Encoding: 37 8255 34
+GlifName: C_harT_ieB_lw
+Width: 650
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+650 -190 m 257
+ 634 -166 620 -155 597 -145 c 257
+ 533 -297 417 -348 323 -348 c 256
+ 234 -348 119 -297 53 -145 c 257
+ 31 -155 16 -166 0 -190 c 257
+ 80 -405 196 -480 327 -480 c 256
+ 447 -480 570 -405 650 -190 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

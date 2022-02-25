@@ -1,0 +1,28 @@
+StartChar: LtnSmRFishhook
+Encoding: 3131 638 3115
+GlifName: L_tnS_mR_F_ishhook
+Width: 746
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 312 -100 basechar 0
+AnchorPoint: "U" 424 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+705 923 m 257
+ 656 951 605 960 562 960 c 256
+ 430 960 180 835 180 456 c 258
+ 180 104 l 258
+ 180 82 128 63 40 43 c 257
+ 40 0 l 257
+ 499 0 l 257
+ 499 43 l 257
+ 374 61 330 84 330 104 c 258
+ 330 526 l 258
+ 330 802 430 820 498 820 c 256
+ 556 820 606 771 619 676 c 257
+ 662 676 l 257
+ 695 748 730 908 705 923 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

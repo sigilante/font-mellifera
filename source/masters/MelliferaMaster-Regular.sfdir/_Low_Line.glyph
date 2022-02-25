@@ -1,0 +1,19 @@
+StartChar: LowLine
+Encoding: 1296 95 1280
+GlifName: L_owL_ine
+Width: 802
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+831 -156 m 257
+ 808 -131 l 257
+ 6 -131 l 257
+ -6 -158 -18 -193 -25 -219 c 257
+ 0 -246 l 257
+ 802 -246 l 257
+ 813 -221 825 -184 831 -156 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,32 @@
+StartChar: LtnCapD
+Encoding: 1385 68 1369
+GlifName: L_tnC_apD_
+Width: 1214
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 550 -100 basechar 0
+AnchorPoint: "U" 550 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 257
+ 82 0 l 258
+ 274 0 345 0 500 0 c 258
+ 559 0 l 258
+ 795 0 1123 176 1123 676 c 256
+ 1123 1063 889 1290 518 1290 c 256
+ 360 1290 158 1263 41 1230 c 257
+ 50 1168 l 257
+ 94 1175 143 1182 195 1189 c 257
+ 195 104 l 258
+ 195 86 140 61 50 43 c 257
+ 50 0 l 257
+537 84 m 256
+ 451 84 355 93 355 154 c 258
+ 355 1203 l 257
+ 387 1205 420 1206 453 1206 c 256
+ 774 1206 953 991 953 637 c 256
+ 953 262 721 84 537 84 c 256
+EndSplineSet
+Kerns2: 1290 -59 "'kern' Horizontal Kerning lookup 0 subtable" 1768 41 "'kern' Horizontal Kerning lookup 0 subtable" 1779 -20 "'kern' Horizontal Kerning lookup 0 subtable" 1794 -59 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

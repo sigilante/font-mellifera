@@ -1,0 +1,18 @@
+StartChar: SubRtParen
+Encoding: 4086 8334 4062
+GlifName: S_ubR_tP_aren
+Width: 454
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 -399 m 257
+ 242 -313 381 -75 381 188 c 257
+ 381 442 261 668 50 750 c 257
+ 29 723 l 257
+ 172 624 242 403 242 171 c 256
+ 242 -86 149 -285 29 -372 c 257
+ 50 -399 l 257
+EndSplineSet
+EndChar

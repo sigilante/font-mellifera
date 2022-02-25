@@ -1,0 +1,25 @@
+StartChar: ModShelf
+Encoding: 3820 765 3804
+GlifName: M_odS_helf
+Width: 1164
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+995 -65 m 257
+ 995 -247 l 257
+ 170 -247 l 257
+ 170 -59 l 257
+ 144 -34 l 257
+ 117 -40 72 -55 50 -65 c 257
+ 50 -336 l 257
+ 75 -358 l 257
+ 1015 -358 l 257
+ 1070 -348 1086 -339 1115 -326 c 257
+ 1115 -301 1114 -300 1115 -59 c 257
+ 1089 -34 l 257
+ 1062 -40 1017 -55 995 -65 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

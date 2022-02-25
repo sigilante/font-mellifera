@@ -1,0 +1,27 @@
+StartChar: RtPtngDblAngQuotMrk
+Encoding: 4023 187 4002
+GlifName: R_tP_tngD_blA_ngQ_uotM_rk
+Width: 994
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+544 430 m 257
+ 542 503 l 257
+ 183 913 l 257
+ 141 883 l 257
+ 371 467 l 257
+ 140 47 l 257
+ 183 17 l 257
+ 544 430 l 257
+914 430 m 257
+ 912 503 l 257
+ 553 913 l 257
+ 511 883 l 257
+ 741 467 l 257
+ 510 47 l 257
+ 553 17 l 257
+ 914 430 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: CombBreveGrave.VN
+Encoding: 59 -1 56
+GlifName: C_ombB_reveG_rave.V_N_
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1750 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-190 1360 m 257
+ -206 1384 -220 1395 -243 1405 c 257
+ -307 1253 -423 1202 -517 1202 c 256
+ -606 1202 -721 1253 -787 1405 c 257
+ -809 1395 -824 1384 -840 1360 c 257
+ -760 1145 -644 1070 -513 1070 c 256
+ -393 1070 -270 1145 -190 1360 c 257
+  PathStart: -1
+-407 1318 m 257
+ -597 1669 l 257
+ -630 1667 -707 1652 -733 1645 c 257
+ -755 1604 l 257
+ -463 1287 l 257
+ -440 1294 -424 1302 -407 1318 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

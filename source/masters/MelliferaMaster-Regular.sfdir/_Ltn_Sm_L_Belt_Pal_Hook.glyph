@@ -1,0 +1,25 @@
+StartChar: LtnSmLBeltPalHook
+Encoding: 2793 122643 2777
+GlifName: L_tnS_mL_B_eltP_alH_ook
+Width: 739
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 379 -600 basechar 0
+AnchorPoint: "U" 379 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+167 -287 m 257
+ 155 -400 246 -500 361 -500 c 256
+ 463 -500 604 -452 604 -167 c 258
+ 604 37 l 257
+ 573 23 550 15 514 3 c 257
+ 514 -196 l 258
+ 514 -359 473 -405 407 -405 c 256
+ 354 -405 283 -341 327 -221 c 257
+ 320 -210 309 -200 304 -194 c 257
+ 262 -210 190 -259 167 -287 c 257
+  PathStart: -1
+EndSplineSet
+Refer: 2775 620 N 1 0 0 1 0 0 2
+EndChar

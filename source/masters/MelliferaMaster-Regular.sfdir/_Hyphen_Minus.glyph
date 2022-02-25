@@ -1,0 +1,21 @@
+StartChar: HyphenMinus
+Encoding: 1230 45 1225
+GlifName: H_yphenM_inus
+Width: 690
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 345 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+629 546 m 257
+ 604 570 l 257
+ 92 570 l 257
+ 80 544 68 508 61 479 c 257
+ 86 455 l 257
+ 598 455 l 257
+ 608 477 621 517 629 546 c 257
+  PathStart: -1
+EndSplineSet
+Guideline: "" "" 348 513 0 0 0
+EndChar

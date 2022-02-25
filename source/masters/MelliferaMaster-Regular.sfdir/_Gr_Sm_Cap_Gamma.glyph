@@ -1,0 +1,34 @@
+StartChar: GrSmCapGamma
+Encoding: 1042 7462 1037
+GlifName: G_rS_mC_apG_amma
+Width: 849
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 270 -100 basechar 0
+AnchorPoint: "U" 472 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+55 0 m 257
+ 520 0 l 257
+ 520 43 l 257
+ 387 63 345 90 345 104 c 258
+ 345 868 l 258
+ 345 881 383 884 458 898 c 257
+ 458 930 l 257
+ 55 930 l 257
+ 55 887 l 257
+ 135 873 195 853 195 841 c 258
+ 195 104 l 258
+ 195 90 130 56 55 43 c 257
+ 55 0 l 257
+293 840 m 257
+ 674 840 l 258
+ 717 840 725 792 732 666 c 257
+ 772 666 l 257
+ 788 722 811 861 814 911 c 257
+ 788 930 l 257
+ 318 930 l 257
+ 293 840 l 257
+EndSplineSet
+EndChar

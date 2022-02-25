@@ -1,0 +1,34 @@
+StartChar: ModSmCapU
+Encoding: 3837 7608 3821
+GlifName: M_odS_mC_apU_
+Width: 792
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 410 540 basechar 0
+AnchorPoint: "O" 448 620 basechar 0
+AnchorPoint: "R" 907 1136 basechar 0
+AnchorPoint: "U" 410 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+399 607 m 256
+ 570 607 682 697 682 852 c 258
+ 682 1106 l 258
+ 682 1114 719 1134 771 1142 c 257
+ 771 1178 l 257
+ 491 1178 l 257
+ 491 1142 l 257
+ 547 1134 580 1113 580 1106 c 258
+ 580 834 l 258
+ 580 749 520 677 422 677 c 256
+ 300 677 234 736 234 849 c 258
+ 234 1106 l 258
+ 234 1114 270 1134 322 1142 c 257
+ 322 1178 l 257
+ 21 1178 l 257
+ 21 1142 l 257
+ 77 1134 109 1113 109 1106 c 258
+ 109 817 l 258
+ 109 673 238 607 399 607 c 256
+EndSplineSet
+EndChar

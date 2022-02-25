@@ -1,0 +1,27 @@
+StartChar: DigitSix
+Encoding: 710 54 706
+GlifName: D_igitS_ix
+Width: 961
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 480 -100 basechar 0
+AnchorPoint: "U" 480 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+881 412 m 257
+ 881 631 756 770 541 770 c 256
+ 467 770 330 729 225 588 c 257
+ 238 492 l 257
+ 317 614 422 660 500 660 c 256
+ 598 660 731 598 731 348 c 256
+ 731 225 688 75 545 75 c 256
+ 379 75 270 221 270 537 c 256
+ 270 811 442 1106 807 1190 c 257
+ 788 1249 l 257
+ 324 1182 110 850 110 473 c 256
+ 110 172 287 -30 506 -30 c 256
+ 752 -30 881 225 881 412 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

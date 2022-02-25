@@ -1,0 +1,29 @@
+StartChar: LtnInvGlottalStop
+Encoding: 1847 662 1831
+GlifName: L_tnI_nvG_lottalS_top
+Width: 930
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 455 -100 basechar 0
+AnchorPoint: "U" 455 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+432 -30 m 256
+ 638 -30 850 118 850 365 c 256
+ 850 642 520 782 520 1057 c 258
+ 520 1416 l 258
+ 520 1436 581 1459 690 1477 c 257
+ 690 1520 l 257
+ 200 1520 l 257
+ 200 1477 l 257
+ 315 1457 370 1438 370 1416 c 258
+ 370 1024 l 258
+ 370 715 700 570 700 340 c 256
+ 700 176 604 65 485 65 c 256
+ 322 65 222 183 217 353 c 257
+ 152 355 67 312 60 290 c 257
+ 78 97 212 -30 432 -30 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

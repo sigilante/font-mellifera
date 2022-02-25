@@ -1,0 +1,19 @@
+StartChar: ModCntrdRtHalfRing
+Encoding: 3762 722 3746
+GlifName: M_odC_ntrdR_tH_alfR_ing
+Width: 540
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+96 681 m 257
+ 90 584 l 257
+ 252 600 362 496 362 341 c 256
+ 362 193 248 84 96 100 c 257
+ 90 0 l 257
+ 322 -20 460 152 460 341 c 256
+ 460 535 318 701 96 681 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

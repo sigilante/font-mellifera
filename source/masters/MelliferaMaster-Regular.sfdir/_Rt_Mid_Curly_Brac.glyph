@@ -1,0 +1,29 @@
+StartChar: RtMidCurlyBrac
+Encoding: 4017 9132 3996
+GlifName: R_tM_idC_urlyB_rac
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+675 -950 m 257
+ 675 -360 l 257
+ 675 390 730 700 1060 700 c 258
+ 1150 700 l 257
+ 1150 800 l 257
+ 1060 800 l 258
+ 570 800 525 400 525 -350 c 258
+ 525 -950 l 257
+ 675 -950 l 257
+675 1860 m 258
+ 675 2600 l 257
+ 525 2600 l 257
+ 525 1850 l 258
+ 525 1100 570 700 1060 700 c 258
+ 1150 700 l 257
+ 1150 800 l 257
+ 1060 800 l 258
+ 730 800 675 1110 675 1860 c 258
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: CombInvBreve
+Encoding: 145 785 141
+GlifName: C_ombI_nvB_reve
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1370 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-840 1105 m 257
+ -824 1081 -810 1070 -787 1060 c 257
+ -723 1212 -607 1263 -513 1263 c 256
+ -424 1263 -309 1212 -243 1060 c 257
+ -221 1070 -206 1081 -190 1105 c 257
+ -270 1320 -386 1395 -517 1395 c 256
+ -637 1395 -760 1320 -840 1105 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

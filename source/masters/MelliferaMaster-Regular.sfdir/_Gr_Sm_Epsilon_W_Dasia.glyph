@@ -1,0 +1,11 @@
+StartChar: GrSmEpsilonWDasia
+Encoding: 1052 7953 1047
+GlifName: G_rS_mE_psilonW_D_asia
+Width: 862
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1046 949 N 1 0 0 1 0 0 2
+Refer: 963 8190 N 1 0 0 1 294 0 2
+EndChar

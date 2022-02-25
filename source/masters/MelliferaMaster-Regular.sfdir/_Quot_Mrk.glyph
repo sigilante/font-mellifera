@@ -1,0 +1,23 @@
+StartChar: QuotMrk
+Encoding: 3976 34 3955
+GlifName: Q_uotM_rk
+Width: 870
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+668 834 m 257
+ 711 1459 l 257
+ 668 1480 l 257
+ 639 1474 547 1443 518 1426 c 257
+ 571 813 l 257
+ 602 813 647 823 668 834 c 257
+309 834 m 257
+ 352 1459 l 257
+ 309 1480 l 257
+ 281 1474 190 1443 160 1426 c 257
+ 213 813 l 257
+ 244 813 289 823 309 834 c 257
+EndSplineSet
+EndChar

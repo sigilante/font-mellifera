@@ -1,0 +1,23 @@
+StartChar: CyCapO
+Encoding: 342 1054 338
+GlifName: C_yC_apO_
+Width: 1228
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 604 -100 basechar 0
+AnchorPoint: "U" 604 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+575 -30 m 256
+ 879 -30 1138 285 1138 647 c 256
+ 1138 973 963 1290 633 1290 c 256
+ 319 1290 70 975 70 612 c 256
+ 70 276 254 -30 575 -30 c 256
+604 90 m 256
+ 399 90 225 342 225 641 c 256
+ 225 967 367 1175 604 1175 c 256
+ 831 1175 983 905 983 629 c 256
+ 983 276 825 90 604 90 c 256
+EndSplineSet
+EndChar

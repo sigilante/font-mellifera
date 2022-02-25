@@ -1,0 +1,12 @@
+StartChar: LtnCapHDesc
+Encoding: 1481 11367 1465
+GlifName: L_tnC_apH_D_esc
+Width: 1371
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 661 -100 basechar 0
+AnchorPoint: "U" 661 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 281 1186 N 1 0 0 1 0 0 2
+EndChar

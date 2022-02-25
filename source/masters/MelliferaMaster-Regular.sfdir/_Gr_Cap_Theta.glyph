@@ -1,0 +1,39 @@
+StartChar: GrCapTheta
+Encoding: 951 920 946
+GlifName: G_rC_apT_heta
+Width: 1266
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 616 -100 basechar 0
+AnchorPoint: "U" 616 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1176 647 m 256
+ 1176 973 993 1290 653 1290 c 256
+ 334 1290 70 975 70 612 c 256
+ 70 276 266 -30 594 -30 c 256
+ 905 -30 1176 285 1176 647 c 256
+  PathStart: -1
+1021 629 m 256
+ 1021 276 856 90 625 90 c 256
+ 410 90 225 342 225 641 c 256
+ 225 967 373 1175 625 1175 c 256
+ 862 1175 1021 905 1021 629 c 256
+  PathStart: -1
+879 469 m 257
+ 907 829 l 257
+ 864 829 l 257
+ 846 733 801 715 784 715 c 258
+ 471 715 l 258
+ 453 715 430 739 412 829 c 257
+ 369 829 l 257
+ 338 469 l 257
+ 381 469 l 257
+ 399 565 436 585 453 585 c 258
+ 764 585 l 258
+ 782 585 817 559 836 469 c 257
+ 879 469 l 257
+EndSplineSet
+Kerns2: 884 -49 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

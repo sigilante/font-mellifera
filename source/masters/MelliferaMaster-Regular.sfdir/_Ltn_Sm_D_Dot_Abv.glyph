@@ -1,0 +1,15 @@
+StartChar: LtnSmDDotAbv
+Encoding: 2340 7691 2324
+GlifName: L_tnS_mD_D_otA_bv
+Width: 1065
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 820 0 basechar 0
+AnchorPoint: "L" 525 -100 basechar 0
+AnchorPoint: "R" 1065 900 basechar 0
+AnchorPoint: "U" 335 1410 basechar 0
+LayerCount: 2
+Fore
+Refer: 2306 100 N 1 0 0 1 0 0 2
+Refer: 117 775 N 1 0 0 1 850 0 2
+EndChar

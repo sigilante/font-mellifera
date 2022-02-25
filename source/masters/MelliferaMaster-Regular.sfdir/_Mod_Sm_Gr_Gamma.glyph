@@ -1,0 +1,31 @@
+StartChar: ModSmGrGamma
+Encoding: 3845 7518 3829
+GlifName: M_odS_mG_rG_amma
+Width: 688
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 344 258 basechar 0
+AnchorPoint: "U" 358 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+675 1177 m 257
+ 652 1196 l 257
+ 617 1189 554 1178 515 1168 c 257
+ 501 979 410 826 321 640 c 257
+ 334 614 393 563 393 563 c 257
+ 456 763 575 993 675 1177 c 257
+  PathStart: -1
+410 636 m 257
+ 377 869 217 1196 158 1196 c 257
+ 115 1175 47 1156 -7 1147 c 257
+ -6 1113 l 257
+ -6 1113 43 1115 73 1108 c 256
+ 161 1088 289 719 297 602 c 256
+ 299 582 281 442 257 337 c 257
+ 270 330 278 325 284 320 c 257
+ 315 330 381 347 415 357 c 257
+ 421 434 413 603 410 636 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

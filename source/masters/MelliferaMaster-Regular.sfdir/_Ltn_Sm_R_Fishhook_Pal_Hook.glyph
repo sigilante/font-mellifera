@@ -1,0 +1,25 @@
+StartChar: LtnSmRFishhookPalHook
+Encoding: 3134 122646 3118
+GlifName: L_tnS_mR_F_ishhookP_alH_ook
+Width: 746
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 312 -600 basechar 0
+AnchorPoint: "U" 424 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+62 -287 m 257
+ 50 -400 141 -500 256 -500 c 256
+ 358 -500 499 -452 499 -167 c 258
+ 499 38 l 257
+ 468 24 445 16 409 4 c 257
+ 409 -196 l 258
+ 409 -359 368 -405 302 -405 c 256
+ 249 -405 178 -341 222 -221 c 257
+ 215 -210 204 -200 199 -194 c 257
+ 157 -210 85 -259 62 -287 c 257
+  PathStart: -1
+EndSplineSet
+Refer: 3115 638 N 1 0 0 1 0 0 2
+EndChar

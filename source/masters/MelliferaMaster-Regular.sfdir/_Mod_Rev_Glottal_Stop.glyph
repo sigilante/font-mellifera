@@ -1,0 +1,26 @@
+StartChar: ModRevGlottalStop
+Encoding: 3816 705 3800
+GlifName: M_odR_evG_lottalS_top
+Width: 623
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 318 750 basechar 0
+AnchorPoint: "U" 318 1620 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+374 810 m 257
+ 374 918 l 258
+ 374 1103 143 1190 143 1328 c 256
+ 143 1426 210 1482 283 1482 c 256
+ 388 1482 458 1422 461 1320 c 257
+ 507 1319 586 1345 591 1358 c 257
+ 578 1474 485 1550 321 1550 c 256
+ 166 1550 18 1461 18 1313 c 256
+ 18 1147 249 1063 249 898 c 258
+ 249 801 l 257
+ 272 779 l 257
+ 298 785 349 797 374 810 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

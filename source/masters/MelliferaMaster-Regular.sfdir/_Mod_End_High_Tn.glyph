@@ -1,0 +1,18 @@
+StartChar: ModEndHighTn
+Encoding: 3769 762 3753
+GlifName: M_odE_ndH_ighT_n
+Width: 631
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+582 1240 m 257
+ 51 1240 l 257
+ 51 1153 l 257
+ 495 1153 l 257
+ 495 586 l 257
+ 582 586 l 257
+ 582 1240 l 257
+EndSplineSet
+EndChar

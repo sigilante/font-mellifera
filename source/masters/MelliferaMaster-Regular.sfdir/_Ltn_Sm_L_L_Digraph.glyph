@@ -1,0 +1,46 @@
+StartChar: LtnSmLLDigraph
+Encoding: 2816 7931 2800
+GlifName: L_tnS_mL_L_D_igraph
+Width: 1110
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 562 0 basechar 0
+AnchorPoint: "L" 562 -100 basechar 0
+AnchorPoint: "R" 1100 900 basechar 0
+AnchorPoint: "U" 562 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+60 0 m 257
+ 510 0 l 257
+ 510 43 l 257
+ 401 61 360 84 360 104 c 258
+ 360 1516 l 257
+ 324 1550 l 257
+ 242 1507 166 1489 70 1470 c 257
+ 70 1430 l 257
+ 182 1417 210 1417 210 1296 c 258
+ 210 104 l 258
+ 210 82 175 63 60 43 c 257
+ 60 0 l 257
+1070 1140 m 257
+ 1092 1205 l 257
+ 1070 1230 l 257
+ 55 1230 l 257
+ 45 1209 39 1183 33 1162 c 257
+ 55 1140 l 257
+ 1070 1140 l 257
+615 0 m 257
+ 1065 0 l 257
+ 1065 43 l 257
+ 956 61 915 84 915 104 c 258
+ 915 1516 l 257
+ 879 1550 l 257
+ 797 1507 721 1489 625 1470 c 257
+ 625 1430 l 257
+ 737 1417 765 1417 765 1296 c 258
+ 765 104 l 258
+ 765 82 730 63 615 43 c 257
+ 615 0 l 257
+EndSplineSet
+EndChar

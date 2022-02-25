@@ -1,0 +1,19 @@
+StartChar: VertLine
+Encoding: 4293 124 4253
+GlifName: V_ertL_ine
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+320 -448 m 257
+ 320 1648 l 257
+ 284 1670 l 257
+ 245 1660 217 1643 180 1621 c 257
+ 180 -477 l 257
+ 215 -500 l 257
+ 248 -489 296 -469 320 -448 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,36 @@
+StartChar: LtnSmDotlessJStrk
+Encoding: 2372 607 2356
+GlifName: L_tnS_mD_otlessJ_S_trk
+Width: 595
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 189 -600 basechar 0
+AnchorPoint: "R" 596 900 basechar 0
+AnchorPoint: "U" 189 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+400 95 m 257
+ 400 100 l 257
+ 400 960 l 257
+ 400 960 362 960 362 960 c 257
+ 273 921 201 897 109 880 c 257
+ 109 840 l 257
+ 244 827 250 804 250 688 c 258
+ 250 95 l 257
+ 207 95 158 101 118 130 c 257
+ 94 118 45 66 20 29 c 257
+ 49 0 l 257
+ 249 0 l 257
+ 242 -287 162 -365 89 -365 c 256
+ 39 -365 -6 -357 -49 -320 c 257
+ -88 -338 -176 -408 -176 -431 c 256
+ -176 -453 -92 -500 -10 -500 c 256
+ 41 -500 139 -457 210 -400 c 256
+ 304 -324 380 -232 396 0 c 257
+ 477 0 l 257
+ 555 67 l 257
+ 534 95 l 257
+ 400 95 l 257
+EndSplineSet
+EndChar

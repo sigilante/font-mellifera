@@ -1,0 +1,27 @@
+StartChar: ModPlusSgn
+Encoding: 3804 726 3788
+GlifName: M_odP_lusS_gn
+Width: 602
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+562 541 m 257
+ 545 556 l 257
+ 61 556 l 257
+ 53 540 45 499 40 483 c 257
+ 57 469 l 257
+ 541 469 l 257
+ 548 482 557 525 562 541 c 257
+  PathStart: -1
+351 297 m 257
+ 351 733 l 257
+ 334 747 l 257
+ 314 743 268 734 250 730 c 257
+ 250 291 l 257
+ 268 278 l 257
+ 288 282 333 289 351 297 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

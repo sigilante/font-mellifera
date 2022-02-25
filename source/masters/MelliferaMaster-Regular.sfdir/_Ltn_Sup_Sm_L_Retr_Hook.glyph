@@ -1,0 +1,26 @@
+StartChar: LtnSupSmLRetrHook
+Encoding: 3636 7593 3620
+GlifName: L_tnS_upS_mL_R_etrH_ook
+Width: 389
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 288 258 basechar 0
+AnchorPoint: "U" 256 1620 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+282 320 m 256
+ 421 320 537 414 532 484 c 257
+ 516 511 l 257
+ 480 513 385 474 390 466 c 256
+ 415 426 381 387 334 387 c 256
+ 267 387 255 439 255 530 c 258
+ 255 1531 l 257
+ 233 1550 l 257
+ 184 1530 111 1512 41 1502 c 257
+ 41 1468 l 257
+ 134 1462 130 1452 130 1365 c 258
+ 130 484 l 258
+ 130 397 169 320 282 320 c 256
+EndSplineSet
+EndChar

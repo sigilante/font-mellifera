@@ -1,0 +1,30 @@
+StartChar: LtnStretchedC
+Encoding: 3575 663 3559
+GlifName: L_tnS_tretchedC_
+Width: 885
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 512 -600 basechar 0
+AnchorPoint: "U" 512 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+870 -280 m 257
+ 831 -239 l 257
+ 683 -366 632 -368 557 -368 c 256
+ 438 -368 312 -277 260 -66 c 256
+ 241 11 230 131 230 235 c 256
+ 230 349 241 479 260 563 c 256
+ 303 749 401 850 500 850 c 256
+ 637 850 709 774 731 727 c 257
+ 768 717 l 257
+ 793 754 831 848 825 881 c 257
+ 780 928 678 960 590 960 c 256
+ 386 960 203 821 132 600 c 256
+ 99 497 80 345 80 204 c 256
+ 80 86 93 -46 115 -134 c 256
+ 179 -386 338 -500 485 -500 c 256
+ 610 -500 696 -484 870 -280 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

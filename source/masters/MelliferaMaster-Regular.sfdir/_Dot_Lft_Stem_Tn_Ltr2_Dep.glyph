@@ -1,0 +1,29 @@
+StartChar: DotLftStemTnLtr2Dep
+Encoding: 726 61917 722
+GlifName: D_otL_ftS_temT_nL_tr2D_ep
+Width: 651
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+70 1580 m 257
+ 70 -50 l 257
+ 546 -50 l 257
+ 546 1580 l 257
+ 70 1580 l 257
+204 1498 m 258
+ 204 32 l 257
+ 204 3 181 -20 152 -20 c 256
+ 123 -20 100 3 100 32 c 258
+ 100 1498 l 258
+ 100 1527 123 1550 152 1550 c 256
+ 181 1550 204 1527 204 1498 c 258
+440 335 m 256
+ 398 335 364 369 364 411 c 256
+ 364 453 398 487 440 487 c 256
+ 482 487 516 453 516 411 c 256
+ 516 369 482 335 440 335 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

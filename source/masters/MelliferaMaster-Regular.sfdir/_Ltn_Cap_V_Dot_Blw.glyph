@@ -1,0 +1,21 @@
+StartChar: LtnCapVDotBlw
+Encoding: 1787 7806 1771
+GlifName: L_tnC_apV_D_otB_lw
+Width: 1331
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 648 0 basechar 0
+AnchorPoint: "L" 655 -600 basechar 0
+AnchorPoint: "O" 616 0 basechar 0
+AnchorPoint: "U" 665 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1768 86 N 1 0 0 1 0 0 2
+Refer: 119 803 N 1 0 0 1 1170 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

@@ -1,0 +1,35 @@
+StartChar: LtnSmVCurl
+Encoding: 3428 11380 3412
+GlifName: L_tnS_mV_C_url
+Width: 1010
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 497 0 basechar 0
+AnchorPoint: "L" 524 -100 basechar 0
+AnchorPoint: "O" 474 1 basechar 0
+AnchorPoint: "U" 544 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+537 173 m 257
+ 334 646 l 257
+ 322 674 290 758 290 797 c 256
+ 290 849 320 888 369 888 c 256
+ 414 888 453 817 453 743 c 256
+ 453 647 351 494 73 494 c 257
+ 85 429 l 257
+ 398 429 591 643 591 777 c 256
+ 591 897 525 960 407 960 c 256
+ 261 960 151 862 151 752 c 256
+ 151 715 161 670 173 639 c 258
+ 461 -30 l 257
+ 496 -20 574 0 596 59 c 258
+ 879 819 l 258
+ 893 858 909 868 989 887 c 257
+ 989 930 l 257
+ 666 930 l 257
+ 666 887 l 257
+ 764 872 785 860 770 819 c 258
+ 537 173 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,29 @@
+StartChar: ModTnYinPingDep
+Encoding: 3909 61919 3893
+GlifName: M_odT_nY_inP_ingD_ep
+Width: 498
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+5 221 m 257
+ 5 -221 l 257
+ 468 -221 l 257
+ 468 221 l 257
+ 5 221 l 257
+420 -191 m 257
+ 283 -191 l 257
+ 90 -191 35 -125 35 0 c 256
+ 35 125 90 191 283 191 c 258
+ 423 191 l 257
+ 438 177 l 257
+ 434 159 426 135 420 122 c 257
+ 270 122 l 258
+ 139 122 110 83 110 0 c 256
+ 110 -83 139 -122 270 -122 c 258
+ 423 -122 l 257
+ 438 -136 l 257
+ 434 -154 426 -178 420 -191 c 257
+EndSplineSet
+EndChar

@@ -1,0 +1,45 @@
+StartChar: LtnCapR
+Encoding: 1665 82 1649
+GlifName: L_tnC_apR_
+Width: 1149
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 275 0 basechar 0
+AnchorPoint: "L" 520 -100 basechar 0
+AnchorPoint: "U" 520 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+927 987 m 257
+ 927 1159 778 1290 469 1290 c 256
+ 293 1290 166 1261 41 1230 c 257
+ 50 1168 l 257
+ 187 1189 315 1206 432 1206 c 256
+ 670 1206 772 1102 772 956 c 256
+ 772 780 654 684 444 684 c 256
+ 410 684 384 686 337 694 c 257
+ 343 614 l 257
+ 384 604 424 600 461 600 c 256
+ 719 600 927 731 927 987 c 257
+  PathStart: -1
+1139 37 m 257
+ 1128 80 l 257
+ 1038 72 988 81 948 139 c 258
+ 613 678 l 257
+ 509 612 l 257
+ 817 41 l 258
+ 835 11 877 -14 915 -14 c 256
+ 967 -14 1051 8 1139 37 c 257
+  PathStart: -1
+50 0 m 257
+ 500 0 l 257
+ 500 43 l 257
+ 403 61 355 88 355 104 c 258
+ 355 1221 l 257
+ 195 1221 l 257
+ 195 104 l 258
+ 195 86 140 61 50 43 c 257
+ 50 0 l 257
+EndSplineSet
+Kerns2: 1703 -41 "'kern' Horizontal Kerning lookup 0 subtable" 1768 -80 "'kern' Horizontal Kerning lookup 0 subtable" 1779 -59 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

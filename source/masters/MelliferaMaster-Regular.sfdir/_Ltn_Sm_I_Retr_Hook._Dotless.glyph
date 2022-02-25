@@ -1,0 +1,36 @@
+StartChar: LtnSmIRetrHook.Dotless
+Encoding: 2698 -1 2682
+GlifName: L_tnS_mI_R_etrH_ook.D_otless
+Width: 555
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 466 -600 basechar 0
+AnchorPoint: "U" 294 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70 0 m 257
+ 500 0 l 257
+ 500 43 l 257
+ 403 61 360 88 360 104 c 258
+ 360 960 l 257
+ 326 960 l 257
+ 258 927 154 896 70 880 c 257
+ 70 840 l 257
+ 211 827 210 807 210 670 c 258
+ 210 104 l 258
+ 210 86 160 61 70 43 c 257
+ 70 0 l 257
+838 -235 m 257
+ 819 -196 l 257
+ 778 -190 644 -253 653 -264 c 256
+ 693 -312 675 -405 597 -405 c 256
+ 531 -405 500 -359 500 -196 c 258
+ 500 43 l 257
+ 410 11 l 257
+ 410 -247 l 258
+ 410 -422 481 -500 593 -500 c 256
+ 748 -500 846 -336 838 -235 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

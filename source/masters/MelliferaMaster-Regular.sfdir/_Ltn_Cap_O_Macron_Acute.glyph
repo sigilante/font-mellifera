@@ -1,0 +1,23 @@
+StartChar: LtnCapOMacronAcute
+Encoding: 1629 7762 1613
+GlifName: L_tnC_apO_M_acronA_cute
+Width: 1229
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 587 0 basechar 0
+AnchorPoint: "L" 617 -100 basechar 0
+AnchorPoint: "O" 678 0 basechar 0
+AnchorPoint: "R" 1258 1100 basechar 0
+AnchorPoint: "U" 617 2010 basechar 0
+LayerCount: 2
+Fore
+Refer: 1579 79 N 1 0 0 1 0 0 2
+Refer: 180 -1 N 1 0 0 1 1142 320 2
+Refer: 40 -1 N 1 0 0 1 1160 640 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

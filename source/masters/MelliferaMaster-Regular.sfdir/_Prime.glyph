@@ -1,0 +1,17 @@
+StartChar: Prime
+Encoding: 3971 8242 3950
+GlifName: P_rime
+Width: 495
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+130 884 m 257
+ 465 1377 l 257
+ 433 1419 l 257
+ 397 1425 298 1425 262 1421 c 257
+ 60 908 l 257
+ 79 897 102 886 130 884 c 257
+EndSplineSet
+EndChar

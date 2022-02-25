@@ -1,0 +1,21 @@
+StartChar: TildeOperator
+Encoding: 4140 8764 4116
+GlifName: T_ildeO_perator
+Width: 840
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+780 668 m 257
+ 723 691 l 257
+ 676 613 624 566 571 566 c 256
+ 503 566 418 681 311 681 c 256
+ 202 681 109 564 60 455 c 257
+ 115 435 l 257
+ 167 509 210 558 266 558 c 256
+ 348 558 430 443 527 443 c 256
+ 637 443 731 560 780 668 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

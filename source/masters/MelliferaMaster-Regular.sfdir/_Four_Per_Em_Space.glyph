@@ -1,0 +1,13 @@
+StartChar: FourPerEmSpace
+Encoding: 767 8197 763
+GlifName: F_ourP_erE_mS_pace
+Width: 400
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 200 0 basechar 0
+AnchorPoint: "L" 200 -100 basechar 0
+AnchorPoint: "O" 225 0 basechar 0
+AnchorPoint: "R" 400 900 basechar 0
+AnchorPoint: "U" 200 1435 basechar 0
+LayerCount: 2
+EndChar

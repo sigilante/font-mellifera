@@ -1,0 +1,37 @@
+StartChar: LtnCapVDiagStrk
+Encoding: 1786 42846 1770
+GlifName: L_tnC_apV_D_iagS_trk
+Width: 1331
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 674 -100 basechar 0
+AnchorPoint: "U" 671 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1290 1217 m 257
+ 1290 1260 l 257
+ 874 1260 l 257
+ 874 1217 l 257
+ 983 1204 1030 1190 1016 1151 c 258
+ 680 203 l 257
+ 327 1153 l 258
+ 313 1191 349 1209 455 1217 c 257
+ 455 1260 l 257
+ 20 1260 l 257
+ 20 1217 l 257
+ 104 1206 149 1186 162 1151 c 258
+ 602 -30 l 257
+ 637 -22 731 0 752 59 c 258
+ 1135 1151 l 258
+ 1148 1188 1200 1200 1290 1217 c 257
+  PathStart: -1
+869 1397 m 257
+ 851 1420 l 257
+ 827 1407 774 1388 762 1378 c 257
+ 211 -137 l 257
+ 239 -157 l 257
+ 270 -142 301 -122 323 -107 c 257
+ 869 1397 l 257
+EndSplineSet
+EndChar

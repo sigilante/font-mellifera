@@ -1,0 +1,19 @@
+StartChar: CySmADiaer
+Encoding: 396 1235 392
+GlifName: C_yS_mA_D_iaer
+Width: 950
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 513 -100 basechar 0
+AnchorPoint: "U" 513 1440 basechar 0
+LayerCount: 2
+Fore
+Refer: 388 1072 N 1 0 0 1 0 0 2
+Refer: 109 776 N 1 0 0 1 1028 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

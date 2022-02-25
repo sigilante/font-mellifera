@@ -1,0 +1,27 @@
+StartChar: SupEqSgn
+Encoding: 4095 8316 4071
+GlifName: S_upE_qS_gn
+Width: 629
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+587 1076 m 257
+ 569 1091 l 257
+ 64 1091 l 257
+ 56 1076 48 1034 43 1018 c 257
+ 60 1003 l 257
+ 566 1003 l 257
+ 572 1017 582 1060 587 1076 c 257
+  PathStart: -1
+587 896 m 257
+ 569 911 l 257
+ 64 911 l 257
+ 56 895 48 855 43 839 c 257
+ 60 822 l 257
+ 566 822 l 257
+ 572 837 582 880 587 896 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

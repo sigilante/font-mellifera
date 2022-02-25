@@ -1,0 +1,35 @@
+StartChar: LtnSmInsularG
+Encoding: 2720 7545 2704
+GlifName: L_tnS_mI_nsularG_
+Width: 986
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 470 -600 basechar 0
+AnchorPoint: "R" 988 900 basechar 0
+AnchorPoint: "U" 470 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+868 906 m 257
+ 845 930 l 257
+ 100 930 l 257
+ 88 904 76 868 69 839 c 257
+ 94 815 l 257
+ 839 815 l 257
+ 850 837 862 877 868 906 c 257
+829 815 m 257
+ 828 830 786 856 694 856 c 256
+ 557 856 281 717 281 466 c 256
+ 281 165 811 140 811 -90 c 256
+ 811 -260 700 -397 512 -397 c 256
+ 313 -397 187 -277 187 -118 c 256
+ 187 -41 279 87 577 184 c 257
+ 525 247 l 257
+ 191 132 30 5 30 -166 c 256
+ 30 -387 253 -500 467 -500 c 256
+ 741 -500 956 -282 956 -60 c 256
+ 956 235 426 287 426 529 c 256
+ 426 691 631 815 829 815 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

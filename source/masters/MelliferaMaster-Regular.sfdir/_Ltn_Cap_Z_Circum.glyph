@@ -1,0 +1,19 @@
+StartChar: LtnCapZCircum
+Encoding: 1831 7824 1815
+GlifName: L_tnC_apZ_C_ircum
+Width: 1071
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 535 -100 basechar 0
+AnchorPoint: "U" 555 1770 basechar 0
+LayerCount: 2
+Fore
+Refer: 1811 90 N 1 0 0 1 0 0 2
+Refer: 71 -1 N 1 0 0 1 1069 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

@@ -1,0 +1,31 @@
+StartChar: CyCapAbkhasDze.RevSigmaStyle
+Encoding: 254 -1 250
+GlifName: C_yC_apA_bkhasD_ze.R_evS_igmaS_tyle
+Width: 1064
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 536 -100 basechar 0
+AnchorPoint: "U" 556 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+118 357 m 257
+ 65 345 l 257
+ 71 238 84 72 91 0 c 257
+ 995 0 l 257
+ 995 61 l 257
+ 570 637 l 257
+ 982 1215 l 257
+ 956 1260 l 257
+ 310 1260 l 258
+ 235 1260 177 1260 97 1276 c 257
+ 93 975 l 257
+ 149 963 l 257
+ 193 1142 235 1160 284 1160 c 258
+ 753 1160 l 257
+ 411 674 l 257
+ 808 140 l 257
+ 266 140 l 258
+ 182 140 167 182 118 357 c 257
+EndSplineSet
+EndChar

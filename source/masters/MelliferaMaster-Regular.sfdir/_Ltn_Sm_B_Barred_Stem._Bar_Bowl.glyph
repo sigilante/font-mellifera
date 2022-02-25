@@ -1,0 +1,39 @@
+StartChar: LtnSmBBarredStem.BarBowl
+Encoding: 2198 -1 2182
+GlifName: L_tnS_mB_B_arredS_tem.B_arB_owl
+Width: 1040
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 479 -100 basechar 0
+AnchorPoint: "U" 520 1620 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1038 415 m 257
+ 1060 480 l 257
+ 1038 505 l 257
+ 32 505 l 257
+ 22 484 16 458 10 437 c 257
+ 32 415 l 257
+ 1038 415 l 257
+950 492 m 257
+ 950 784 819 960 637 960 c 256
+ 561 960 423 887 290 727 c 257
+ 290 1516 l 257
+ 281 1524 263 1540 253 1550 c 257
+ 177 1509 98 1491 10 1470 c 257
+ 10 1430 l 257
+ 123 1419 140 1412 140 1296 c 258
+ 140 96 l 257
+ 284 16 418 -30 469 -30 c 256
+ 764 -30 950 260 950 492 c 257
+  PathStart: -1
+815 408 m 257
+ 815 254 729 100 567 100 c 256
+ 520 100 396 123 290 203 c 257
+ 290 610 l 257
+ 402 776 520 825 567 825 c 256
+ 696 825 815 674 815 408 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

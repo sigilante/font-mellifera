@@ -1,0 +1,19 @@
+StartChar: LtnSmTCedilla.sc
+Encoding: 3240 -1 3224
+GlifName: L_tnS_mT_C_edilla.sc
+Width: 1060
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 518 -593 basechar 0
+AnchorPoint: "U" 513 1145 basechar 0
+LayerCount: 2
+Fore
+Refer: 3217 -1 N 1 0 0 1 0 0 2
+Refer: 69 807 N 1 0 0 1 1031 7 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

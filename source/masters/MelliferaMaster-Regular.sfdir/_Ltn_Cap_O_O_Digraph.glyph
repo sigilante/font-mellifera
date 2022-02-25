@@ -1,0 +1,38 @@
+StartChar: LtnCapOODigraph
+Encoding: 1632 42830 1616
+GlifName: L_tnC_apO_O_D_igraph
+Width: 2060
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 1457 0 basechar 0
+AnchorPoint: "L" 1030 -100 basechar 0
+AnchorPoint: "O" 1532 0 basechar 0
+AnchorPoint: "R" 2100 1100 basechar 0
+AnchorPoint: "U" 1030 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1970 647 m 256
+ 1970 973 1816 1290 1486 1290 c 256
+ 1290 1290 1128 1168 1033 988 c 257
+ 959 1163 821 1290 613 1290 c 256
+ 299 1290 70 975 70 612 c 256
+ 70 276 234 -30 555 -30 c 256
+ 745 -30 910 93 1006 273 c 257
+ 1081 95 1222 -30 1428 -30 c 256
+ 1732 -30 1970 285 1970 647 c 256
+  PathStart: -1
+943 629 m 256
+ 943 276 805 90 584 90 c 256
+ 379 90 225 342 225 641 c 256
+ 225 967 347 1175 584 1175 c 256
+ 811 1175 943 905 943 629 c 256
+  PathStart: -1
+1815 629 m 256
+ 1815 276 1678 90 1457 90 c 256
+ 1252 90 1098 342 1098 641 c 256
+ 1098 967 1220 1175 1457 1175 c 256
+ 1684 1175 1815 905 1815 629 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

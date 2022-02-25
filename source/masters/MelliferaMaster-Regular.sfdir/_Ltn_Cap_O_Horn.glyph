@@ -1,0 +1,13 @@
+StartChar: LtnCapOHorn
+Encoding: 1620 416 1604
+GlifName: L_tnC_apO_H_orn
+Width: 1229
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 615 -100 basechar 0
+AnchorPoint: "U" 615 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1579 79 N 1 0 0 1 -2 0 2
+Refer: 139 795 N 1 0 0 1 1150 350 2
+EndChar

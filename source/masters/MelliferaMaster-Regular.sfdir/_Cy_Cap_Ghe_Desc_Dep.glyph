@@ -1,0 +1,37 @@
+StartChar: CyCapGheDescDep
+Encoding: 297 62240 293
+GlifName: C_yC_apG_heD_escD_ep
+Width: 973
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 491 -600 basechar 0
+AnchorPoint: "U" 550 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+20 1290 m 257
+ 20 -410 l 257
+ 958 -410 l 257
+ 958 1290 l 257
+ 20 1290 l 257
+355 90 m 257
+ 559 90 l 257
+ 590 65 l 257
+ 582 -62 539 -261 504 -380 c 257
+ 456 -380 l 257
+ 459 -175 433 0 382 0 c 258
+ 50 0 l 257
+ 50 43 l 257
+ 140 61 195 86 195 104 c 258
+ 195 1155 l 258
+ 195 1171 146 1198 50 1217 c 257
+ 50 1260 l 257
+ 897 1260 l 257
+ 928 1235 l 257
+ 924 1167 890 976 870 900 c 257
+ 822 900 l 257
+ 814 1070 801 1170 750 1170 c 258
+ 355 1170 l 257
+ 355 90 l 257
+EndSplineSet
+EndChar

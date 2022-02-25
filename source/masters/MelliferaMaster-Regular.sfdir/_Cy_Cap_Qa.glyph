@@ -1,0 +1,18 @@
+StartChar: CyCapQa
+Encoding: 347 1306 343
+GlifName: C_yC_apQ_a
+Width: 1229
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 604 -260 basechar 0
+AnchorPoint: "U" 604 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1646 81 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

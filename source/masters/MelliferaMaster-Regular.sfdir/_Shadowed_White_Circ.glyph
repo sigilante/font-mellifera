@@ -1,0 +1,24 @@
+StartChar: ShadowedWhiteCirc
+Encoding: 4041 10061 4017
+GlifName: S_hadowedW_hiteC_irc
+Width: 1625
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+903 1277 m 258
+ 728 1277 l 257
+ 368 1277 80 987 80 631 c 256
+ 80 274 368 -15 728 -15 c 258
+ 902 -15 l 258
+ 1257 -15 1545 274 1545 631 c 256
+ 1545 987 1259 1277 903 1277 c 258
+1289 631 m 256
+ 1289 316 1044 67 728 67 c 256
+ 411 67 170 316 170 631 c 256
+ 170 948 411 1193 728 1193 c 256
+ 1044 1193 1289 948 1289 631 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

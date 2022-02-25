@@ -1,0 +1,25 @@
+StartChar: LtnSmLTrnd
+Encoding: 2833 42881 2817
+GlifName: L_tnS_mL_T_rnd
+Width: 555
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 285 -600 basechar 0
+AnchorPoint: "U" 285 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+510 930 m 257
+ 60 930 l 257
+ 60 887 l 257
+ 169 869 210 846 210 826 c 258
+ 210 -466 l 257
+ 246 -500 l 257
+ 328 -457 404 -439 500 -420 c 257
+ 500 -380 l 257
+ 388 -367 360 -367 360 -246 c 258
+ 360 826 l 258
+ 360 848 395 867 510 887 c 257
+ 510 930 l 257
+EndSplineSet
+EndChar

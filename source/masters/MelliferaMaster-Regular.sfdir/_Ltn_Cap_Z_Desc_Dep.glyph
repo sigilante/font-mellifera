@@ -1,0 +1,35 @@
+StartChar: LtnCapZDescDep
+Encoding: 1833 62053 1817
+GlifName: L_tnC_apZ_D_escD_ep
+Width: 1074
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 535 -600 basechar 0
+AnchorPoint: "U" 555 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+29 1306 m 257
+ 29 -410 l 257
+ 1044 -410 l 257
+ 1044 1306 l 257
+ 29 1306 l 257
+276 100 m 257
+ 964 100 l 257
+ 990 80 l 257
+ 1044 -14 1007 -187 837 -380 c 257
+ 789 -358 l 257
+ 863 -225 876 -75 798 0 c 257
+ 88 0 l 257
+ 59 45 l 257
+ 770 1160 l 257
+ 311 1160 l 258
+ 268 1160 207 1102 178 963 c 257
+ 121 975 l 257
+ 150 1276 l 257
+ 223 1260 262 1260 340 1260 c 258
+ 956 1260 l 257
+ 981 1217 l 257
+ 276 100 l 257
+EndSplineSet
+EndChar

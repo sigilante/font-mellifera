@@ -1,0 +1,13 @@
+StartChar: LtnSmUHorn
+Encoding: 3377 432 3361
+GlifName: L_tnS_mU_H_orn
+Width: 1255
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 545 -100 basechar 0
+AnchorPoint: "U" 545 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 3316 117 N 1 0 0 1 0 0 2
+Refer: 139 795 N 1 0 0 1 1185 0 2
+EndChar

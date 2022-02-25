@@ -1,0 +1,27 @@
+StartChar: SupPlusSgn
+Encoding: 4102 8314 4078
+GlifName: S_upP_lusS_gn
+Width: 602
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+552 986 m 257
+ 535 1001 l 257
+ 71 1001 l 257
+ 63 985 55 944 50 928 c 257
+ 67 914 l 257
+ 531 914 l 257
+ 538 927 547 970 552 986 c 257
+  PathStart: -1
+351 762 m 257
+ 351 1158 l 257
+ 334 1172 l 257
+ 314 1168 268 1159 250 1155 c 257
+ 250 756 l 257
+ 268 743 l 257
+ 288 747 333 754 351 762 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

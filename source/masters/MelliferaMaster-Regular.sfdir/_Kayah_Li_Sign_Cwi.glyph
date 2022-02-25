@@ -1,0 +1,19 @@
+StartChar: KayahLiSignCwi
+Encoding: 1248 43310 1236
+GlifName: K_ayahL_iS_ignC_wi
+Width: 1130
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+49 400 m 257
+ 57 381 77 355 93 338 c 257
+ 275 458 520 459 574 459 c 256
+ 621 459 878 459 1053 344 c 257
+ 1074 361 1089 376 1100 400 c 257
+ 967 540 770 590 572 590 c 256
+ 390 590 212 536 49 400 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

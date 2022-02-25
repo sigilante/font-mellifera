@@ -1,0 +1,18 @@
+StartChar: CombDotAbv
+Encoding: 120 775 117
+GlifName: C_ombD_otA_bv
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -515 1410 basechar 0
+AnchorPoint: "U" -515 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-415 1261 m 257
+ -415 1323 -443 1356 -500 1356 c 256
+ -563 1356 -615 1296 -615 1220 c 256
+ -615 1159 -590 1124 -531 1124 c 256
+ -465 1124 -415 1186 -415 1261 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

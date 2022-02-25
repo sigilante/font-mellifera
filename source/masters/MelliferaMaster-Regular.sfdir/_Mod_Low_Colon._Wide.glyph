@@ -1,0 +1,23 @@
+StartChar: ModLowColon.Wide
+Encoding: 3784 -1 3768
+GlifName: M_odL_owC_olon.W_ide
+Width: 428
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+338 123 m 257
+ 338 195 305 236 239 236 c 256
+ 164 236 100 162 100 72 c 256
+ 100 0 129 -40 200 -40 c 256
+ 278 -40 338 31 338 123 c 257
+  PathStart: -1
+338 848 m 257
+ 338 920 305 961 239 961 c 256
+ 164 961 100 887 100 797 c 256
+ 100 725 129 685 200 685 c 256
+ 278 685 338 756 338 848 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

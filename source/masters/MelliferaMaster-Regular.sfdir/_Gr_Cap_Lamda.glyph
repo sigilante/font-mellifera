@@ -1,0 +1,28 @@
+StartChar: GrCapLamda
+Encoding: 889 923 884
+GlifName: G_rC_apL_amda
+Width: 1219
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 43 m 257
+ 0 0 l 257
+ 416 0 l 257
+ 416 43 l 257
+ 307 55 258 70 270 111 c 258
+ 582 1049 l 257
+ 903 111 l 257
+ 920 68 879 49 776 43 c 257
+ 776 0 l 257
+ 1198 0 l 257
+ 1198 43 l 257
+ 1112 53 1079 74 1067 111 c 258
+ 647 1317 l 257
+ 612 1298 561 1270 530 1237 c 257
+ 158 111 l 257
+ 143 72 90 59 0 43 c 257
+EndSplineSet
+Kerns2: 935 -59 "'kern' Horizontal Kerning lookup 0 subtable" 945 -121 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

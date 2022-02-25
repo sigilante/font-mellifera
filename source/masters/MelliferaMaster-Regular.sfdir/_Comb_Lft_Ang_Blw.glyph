@@ -1,0 +1,28 @@
+StartChar: CombLftAngBlw
+Encoding: 153 841 149
+GlifName: C_ombL_ftA_ngB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -532 -600 basechar 0
+AnchorPoint: "L" -532 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-362 -197 m 257
+ -387 -170 l 257
+ -676 -170 l 257
+ -690 -197 -697 -209 -705 -236 c 257
+ -682 -260 l 257
+ -389 -260 l 257
+ -377 -238 -369 -223 -362 -197 c 257
+  PathStart: -1
+-360 -459 m 257
+ -360 -194 l 257
+ -387 -170 l 257
+ -413 -178 -427 -187 -450 -200 c 257
+ -450 -468 l 257
+ -425 -490 l 257
+ -399 -482 -387 -475 -360 -459 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

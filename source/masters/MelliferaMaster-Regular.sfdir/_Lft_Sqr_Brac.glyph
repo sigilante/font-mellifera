@@ -1,0 +1,23 @@
+StartChar: LftSqrBrac
+Encoding: 1271 91 1259
+GlifName: L_ftS_qrB_rac
+Width: 630
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+590 -249 m 257
+ 555 -220 l 257
+ 280 -220 l 257
+ 280 1485 l 257
+ 561 1485 l 257
+ 569 1501 582 1541 588 1574 c 257
+ 555 1600 l 257
+ 140 1600 l 257
+ 140 -335 l 257
+ 561 -335 l 257
+ 571 -312 584 -275 590 -249 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

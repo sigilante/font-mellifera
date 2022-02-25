@@ -1,0 +1,29 @@
+StartChar: LtnSmSquatRevEsh
+Encoding: 3231 645 3215
+GlifName: L_tnS_mS_quatR_evE_sh
+Width: 680
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 584 -600 basechar 0
+AnchorPoint: "U" 392 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+546 -176 m 257
+ 543 102 601 354 601 670 c 256
+ 601 904 494 960 378 960 c 256
+ 285 960 149 904 65 803 c 257
+ 40 788 75 678 108 606 c 257
+ 151 606 l 257
+ 164 701 206 840 306 840 c 256
+ 375 840 440 795 439 621 c 256
+ 438 354 382 64 382 -219 c 257
+ 382 -390 436 -500 598 -500 c 256
+ 793 -500 961 -326 953 -225 c 257
+ 934 -186 l 257
+ 893 -180 760 -242 768 -254 c 256
+ 803 -311 750 -385 672 -385 c 256
+ 598 -385 546 -343 546 -176 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

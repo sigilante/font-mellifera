@@ -1,0 +1,15 @@
+StartChar: TriangularBullet
+Encoding: 4261 8227 4237
+GlifName: T_riangularB_ullet
+Width: 523
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+443 630 m 257
+ 120 820 l 257
+ 120 440 l 257
+ 443 630 l 257
+EndSplineSet
+EndChar

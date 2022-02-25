@@ -1,0 +1,18 @@
+StartChar: LtnSmTHook.RtHook
+Encoding: 3257 -1 3241
+GlifName: L_tnS_mT_H_ook.R_tH_ook
+Width: 705
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 396 -100 basechar 0
+AnchorPoint: "U" 416 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 3240 429 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

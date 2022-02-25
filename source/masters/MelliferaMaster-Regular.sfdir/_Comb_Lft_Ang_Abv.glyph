@@ -1,0 +1,27 @@
+StartChar: CombLftAngAbv
+Encoding: 152 794 148
+GlifName: C_ombL_ftA_ngA_bv
+Width: 701
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+601 1421 m 257
+ 579 1445 l 257
+ 126 1445 l 257
+ 103 1419 82 1386 70 1360 c 257
+ 92 1335 l 257
+ 562 1335 l 257
+ 572 1360 595 1392 601 1421 c 257
+  PathStart: -1
+601 1111 m 257
+ 601 1421 l 257
+ 574 1445 l 257
+ 548 1439 514 1425 491 1415 c 257
+ 491 1082 l 257
+ 516 1060 l 257
+ 542 1068 574 1088 601 1111 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,19 @@
+StartChar: LtnSmWDotAbv.sc
+Encoding: 3470 -1 3454
+GlifName: L_tnS_mW_D_otA_bv.sc
+Width: 1637
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 809 -76 basechar 0
+AnchorPoint: "U" 809 1505 basechar 0
+LayerCount: 2
+Fore
+Refer: 3442 -1 N 1 0 0 1 0 0 2
+Refer: 117 775 N 1 0 0 1 1324 95 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

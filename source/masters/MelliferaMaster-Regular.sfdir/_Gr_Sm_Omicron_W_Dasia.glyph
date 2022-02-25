@@ -1,0 +1,11 @@
+StartChar: GrSmOmicronWDasia
+Encoding: 1156 8001 1151
+GlifName: G_rS_mO_micronW_D_asia
+Width: 1020
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1150 959 N 1 0 0 1 0 0 2
+Refer: 963 8190 N 1 0 0 1 334 0 2
+EndChar

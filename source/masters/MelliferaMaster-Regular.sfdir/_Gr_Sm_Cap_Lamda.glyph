@@ -1,0 +1,29 @@
+StartChar: GrSmCapLamda
+Encoding: 1043 7463 1038
+GlifName: G_rS_mC_apL_amda
+Width: 1008
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 496 -100 basechar 0
+AnchorPoint: "U" 496 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 257
+ 347 0 l 257
+ 347 43 l 257
+ 256 52 227 81 237 111 c 257
+ 485 774 l 257
+ 732 111 l 257
+ 746 79 714 47 628 43 c 257
+ 628 0 l 257
+ 1008 0 l 257
+ 1008 43 l 257
+ 936 50 904 84 894 111 c 257
+ 544 972 l 257
+ 514 959 463 936 437 913 c 257
+ 128 111 l 257
+ 115 82 75 55 0 43 c 257
+ 0 0 l 257
+EndSplineSet
+EndChar

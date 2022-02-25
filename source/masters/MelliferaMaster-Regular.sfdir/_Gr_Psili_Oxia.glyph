@@ -1,0 +1,28 @@
+StartChar: GrPsiliOxia
+Encoding: 995 8142 990
+GlifName: G_rP_siliO_xia
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "G" 660 1360 mark 0
+AnchorPoint: "U" 310 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+399 1084 m 257
+ 727 1506 l 257
+ 696 1541 l 257
+ 645 1529 565 1508 522 1492 c 257
+ 346 1117 l 257
+ 369 1097 377 1089 399 1084 c 257
+325 1360 m 257
+ 330 1428 309 1498 236 1529 c 257
+ 194 1534 54 1490 33 1464 c 257
+ 44 1422 l 257
+ 149 1421 189 1360 184 1289 c 256
+ 180 1228 151 1176 95 1125 c 257
+ 134 1092 l 257
+ 263 1173 318 1268 325 1360 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

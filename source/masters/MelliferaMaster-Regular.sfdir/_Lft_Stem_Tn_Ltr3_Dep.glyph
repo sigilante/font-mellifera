@@ -1,0 +1,28 @@
+StartChar: LftStemTnLtr3Dep
+Encoding: 1279 61906 1267
+GlifName: L_ftS_temT_nL_tr3D_ep
+Width: 743
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+70 1580 m 257
+ 70 -50 l 257
+ 658 -50 l 257
+ 658 1580 l 257
+ 70 1580 l 257
+204 714 m 257
+ 204 32 l 257
+ 204 3 181 -20 152 -20 c 256
+ 123 -20 100 3 100 32 c 258
+ 100 1498 l 258
+ 100 1527 123 1550 152 1550 c 256
+ 181 1550 204 1527 204 1498 c 258
+ 204 818 l 257
+ 576 818 l 258
+ 605 818 628 795 628 766 c 256
+ 628 737 605 714 576 714 c 258
+ 204 714 l 257
+EndSplineSet
+EndChar

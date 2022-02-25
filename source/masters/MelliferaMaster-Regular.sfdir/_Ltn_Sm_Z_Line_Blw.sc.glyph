@@ -1,0 +1,19 @@
+StartChar: LtnSmZLineBlw.sc
+Encoding: 3563 -1 3547
+GlifName: L_tnS_mZ_L_ineB_lw.sc
+Width: 1007
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 503 -426 basechar 0
+AnchorPoint: "U" 522 1145 basechar 0
+LayerCount: 2
+Fore
+Refer: 3515 -1 N 1 0 0 1 0 0 2
+Refer: 183 817 N 1 0 0 1 1018 24 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

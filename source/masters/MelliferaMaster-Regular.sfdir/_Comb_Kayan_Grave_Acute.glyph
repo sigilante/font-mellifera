@@ -1,0 +1,41 @@
+StartChar: CombKayanGraveAcute
+Encoding: 1 -1 1
+GlifName: C_ombK_ayanG_raveA_cute
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -514 1410 basechar 0
+AnchorPoint: "U" -514 1050 mark 0
+LayerCount: 2
+Back
+SplineSet
+-319 1078 m 257
+ -559 1489 l 257
+ -592 1487 -679 1472 -705 1465 c 257
+ -727 1424 l 257
+ -375 1047 l 257
+ -352 1054 -336 1062 -319 1078 c 257
+  PathStart: -1
+-586 1047 m 257
+ -241 1427 l 257
+ -264 1466 l 257
+ -294 1475 -378 1487 -409 1489 c 257
+ -643 1075 l 257
+ -628 1063 -610 1051 -586 1047 c 257
+EndSplineSet
+Fore
+SplineSet
+-599 1078 m 257
+ -839 1489 l 257
+ -872 1487 -959 1472 -985 1465 c 257
+ -1007 1424 l 257
+ -655 1047 l 257
+ -632 1054 -616 1062 -599 1078 c 257
+  PathStart: -1
+-366 1047 m 257
+ -21 1427 l 257
+ -44 1466 l 257
+ -74 1475 -158 1487 -189 1489 c 257
+ -423 1075 l 257
+ -408 1063 -390 1051 -366 1047 c 257
+EndSplineSet
+EndChar

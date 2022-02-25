@@ -1,0 +1,27 @@
+StartChar: LtnSmJ.Dotless
+Encoding: 2736 -1 2720
+GlifName: L_tnS_mJ_.D_otless
+Width: 530
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 280 -600 basechar 0
+AnchorPoint: "U" 281 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+335 99 m 257
+ 335 960 l 257
+ 298 960 l 257
+ 214 925 156 900 45 880 c 257
+ 45 840 l 257
+ 184 825 185 807 185 670 c 258
+ 185 43 l 258
+ 185 -280 102 -365 25 -365 c 256
+ -25 -365 -70 -357 -113 -320 c 257
+ -152 -338 -240 -408 -240 -431 c 256
+ -240 -453 -156 -500 -74 -500 c 256
+ -23 -500 74 -457 145 -400 c 256
+ 252 -314 335 -208 335 99 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

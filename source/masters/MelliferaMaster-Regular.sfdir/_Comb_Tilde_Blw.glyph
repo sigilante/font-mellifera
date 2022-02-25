@@ -1,0 +1,22 @@
+StartChar: CombTildeBlw
+Encoding: 224 816 220
+GlifName: C_ombT_ildeB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -515 -600 basechar 0
+AnchorPoint: "L" -515 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-174 -194 m 257
+ -228 -171 l 257
+ -273 -249 -322 -294 -373 -294 c 256
+ -437 -294 -516 -181 -617 -181 c 256
+ -721 -181 -809 -298 -856 -407 c 257
+ -803 -427 l 257
+ -754 -353 -713 -306 -660 -306 c 256
+ -582 -306 -506 -419 -414 -419 c 256
+ -310 -419 -221 -302 -174 -194 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

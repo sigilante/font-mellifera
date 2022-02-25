@@ -1,0 +1,22 @@
+StartChar: CombBreve.CyShortMrkAlt.UCHt
+Encoding: 55 -1 52
+GlifName: C_ombB_reve.C_yS_hortM_rkA_lt.U_C_H_t
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -597 1805 basechar 0
+AnchorPoint: "U" -597 1370 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-597 1364 m 256
+ -457 1364 -359 1403 -292 1449 c 257
+ -287 1482 -319 1625 -345 1660 c 257
+ -392 1649 l 257
+ -403 1545 -471 1444 -597 1444 c 256
+ -723 1444 -791 1545 -802 1649 c 257
+ -849 1660 l 257
+ -875 1625 -907 1482 -902 1449 c 257
+ -834 1403 -737 1364 -597 1364 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

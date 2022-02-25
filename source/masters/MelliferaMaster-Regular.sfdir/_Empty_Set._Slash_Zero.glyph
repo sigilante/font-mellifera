@@ -1,0 +1,30 @@
+StartChar: EmptySet.SlashZero
+Encoding: 751 -1 747
+GlifName: E_mptyS_et.S_lashZ_ero
+Width: 961
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+885 602 m 256
+ 885 950 754 1235 500 1235 c 256
+ 248 1235 76 946 76 602 c 256
+ 76 258 207 -30 461 -30 c 256
+ 715 -30 885 258 885 602 c 256
+  PathStart: -1
+721 565 m 256
+ 721 227 639 85 500 85 c 256
+ 352 85 240 279 240 645 c 256
+ 240 979 324 1120 461 1120 c 256
+ 596 1120 721 930 721 565 c 256
+  PathStart: -1
+242 -72 m 257
+ 818 1291 l 257
+ 794 1309 l 257
+ 764 1306 727 1295 703 1278 c 257
+ 124 -84 l 257
+ 148 -104 l 257
+ 174 -101 222 -86 242 -72 c 257
+EndSplineSet
+EndChar

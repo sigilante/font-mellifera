@@ -1,0 +1,22 @@
+StartChar: LtnSmOOgonekMacron.sc
+Encoding: 3026 -1 3010
+GlifName: L_tnS_mO_O_gonekM_acron.sc
+Width: 1155
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 550 7 basechar 0
+AnchorPoint: "L" 585 -593 basechar 0
+AnchorPoint: "R" 1172 920 basechar 0
+AnchorPoint: "U" 578 1535 basechar 0
+LayerCount: 2
+Fore
+Refer: 2906 -1 N 1 0 0 1 0 0 2
+Refer: 179 772 N 1 0 0 1 1103 95 2
+Refer: 192 808 N 1 0 0 1 1099 7 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

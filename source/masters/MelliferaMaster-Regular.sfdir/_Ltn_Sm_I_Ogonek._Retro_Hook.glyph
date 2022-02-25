@@ -1,0 +1,16 @@
+StartChar: LtnSmIOgonek.RetroHook
+Encoding: 2693 -1 2677
+GlifName: L_tnS_mI_O_gonek.R_etroH_ook
+Width: 555
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 285 0 basechar 0
+AnchorPoint: "L" 296 -600 basechar 0
+AnchorPoint: "O" 335 0 basechar 0
+AnchorPoint: "R" 555 900 basechar 0
+AnchorPoint: "U" 285 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 2608 105 N 1 0 0 1 0 0 2
+Refer: 3934 -1 N 1 0 0 1 370 0 2
+EndChar

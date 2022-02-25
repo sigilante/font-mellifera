@@ -1,0 +1,24 @@
+StartChar: DigitZero.Sophia
+Encoding: 717 -1 713
+GlifName: D_igitZ_ero.S_ophia
+Width: 412
+VWidth: 0
+Flags: W
+AnchorPoint: "C" 206 266 mark 0
+LayerCount: 2
+Fore
+SplineSet
+375 277 m 256
+ 375 402 358 542 206 542 c 256
+ 54 542 37 402 37 277 c 256
+ 37 151 54 -10 206 -10 c 256
+ 358 -10 375 151 375 277 c 256
+  PathStart: -1
+304 277 m 256
+ 304 162 293 51 206 51 c 256
+ 119 51 108 162 108 277 c 256
+ 108 391 119 481 206 481 c 256
+ 293 481 304 391 304 277 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

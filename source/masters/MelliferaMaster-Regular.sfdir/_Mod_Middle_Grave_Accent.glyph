@@ -1,0 +1,19 @@
+StartChar: ModMiddleGraveAccent
+Encoding: 3800 756 3784
+GlifName: M_odM_iddleG_raveA_ccent
+Width: 567
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 283 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+488 529 m 257
+ 248 940 l 257
+ 215 938 128 923 102 916 c 257
+ 80 875 l 257
+ 432 498 l 257
+ 455 505 471 513 488 529 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

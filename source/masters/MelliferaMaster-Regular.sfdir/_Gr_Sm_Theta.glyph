@@ -1,0 +1,30 @@
+StartChar: GrSmTheta
+Encoding: 1179 952 1174
+GlifName: G_rS_mT_heta
+Width: 1023
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 504 -100 basechar 0
+AnchorPoint: "U" 504 1620 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+932 711 m 256
+ 929 1121 794 1450 521 1450 c 256
+ 275 1450 88 1099 90 690 c 257
+ 90 280 229 -30 491 -30 c 256
+ 753 -30 934 301 932 711 c 256
+  PathStart: -1
+526 90 m 256
+ 356 90 266 353 252 670 c 257
+ 406 683 599 683 772 672 c 257
+ 781 293 719 90 526 90 c 256
+  PathStart: -1
+500 1330 m 256
+ 656 1330 743 1084 766 779 c 257
+ 605 769 435 764 250 780 c 257
+ 252 1144 319 1330 500 1330 c 256
+  PathStart: -1
+EndSplineSet
+Kerns2: 1116 -31 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

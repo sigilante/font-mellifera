@@ -1,0 +1,31 @@
+StartChar: LtnSmDezhDigraphPalHook
+Encoding: 2366 122642 2350
+GlifName: L_tnS_mD_ezhD_igraphP_alH_ook
+Width: 2149
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 485 -100 basechar 0
+AnchorPoint: "U" 885 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+2092 80 m 257
+ 1647 80 l 257
+ 1647 0 l 257
+ 2119 0 l 257
+ 2119 48 l 257
+ 2112 59 2097 74 2092 80 c 257
+1712 -287 m 257
+ 1700 -400 1786 -500 1891 -500 c 256
+ 1978 -500 2119 -452 2119 -167 c 258
+ 2119 26 l 257
+ 2029 26 l 257
+ 2029 -196 l 258
+ 2029 -359 1988 -405 1937 -405 c 256
+ 1894 -405 1828 -341 1872 -221 c 257
+ 1865 -210 1854 -200 1849 -194 c 257
+ 1807 -210 1735 -259 1712 -287 c 257
+  PathStart: -1
+EndSplineSet
+Refer: 2349 676 N 1 0 0 1 0 0 2
+EndChar

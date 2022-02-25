@@ -1,0 +1,38 @@
+StartChar: LtnSmTurnedAlpha
+Encoding: 3301 594 3285
+GlifName: L_tnS_mT_urnedA_lpha
+Width: 1051
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 512 -6 basechar 0
+AnchorPoint: "L" 533 -100 basechar 0
+AnchorPoint: "O" 604 0 basechar 0
+AnchorPoint: "R" 1095 900 basechar 0
+AnchorPoint: "U" 533 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+330 925 m 257
+ 321 936 308 949 295 960 c 257
+ 221 923 129 898 55 880 c 257
+ 55 880 55 840 55 840 c 257
+ 174 835 195 815 195 713 c 258
+ 195 207 l 258
+ 195 96 166 0 166 0 c 257
+ 194 -30 l 257
+ 247 28 296 71 345 93 c 257
+ 345 686 l 258
+ 345 744 335 874 330 925 c 257
+971 486 m 256
+ 971 814 812 960 665 960 c 256
+ 545 960 414 861 270 650 c 257
+ 276 640 290 601 307 593 c 257
+ 426 739 511 830 593 830 c 256
+ 704 830 821 711 821 455 c 256
+ 821 205 711 100 586 100 c 256
+ 510 100 397 156 338 222 c 257
+ 318 220 280 171 280 153 c 257
+ 385 49 498 -30 571 -30 c 256
+ 774 -30 971 256 971 486 c 256
+EndSplineSet
+EndChar

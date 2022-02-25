@@ -1,0 +1,13 @@
+StartChar: PuncSpace
+Encoding: 3972 8200 3951
+GlifName: P_uncS_pace
+Width: 469
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 234 0 basechar 0
+AnchorPoint: "L" 234 -100 basechar 0
+AnchorPoint: "O" 259 0 basechar 0
+AnchorPoint: "R" 468 900 basechar 0
+AnchorPoint: "U" 234 1435 basechar 0
+LayerCount: 2
+EndChar

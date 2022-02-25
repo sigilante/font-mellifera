@@ -1,0 +1,26 @@
+StartChar: CombBridgeBlw
+Encoding: 67 810 64
+GlifName: C_ombB_ridgeB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -522 -600 basechar 0
+AnchorPoint: "L" -522 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-698 -404 m 257
+ -698 -270 l 257
+ -347 -270 l 257
+ -347 -433 l 257
+ -322 -455 l 257
+ -295 -447 -275 -424 -257 -404 c 257
+ -257 -204 l 257
+ -279 -180 l 257
+ -725 -180 l 257
+ -751 -194 -770 -212 -788 -230 c 257
+ -788 -433 l 257
+ -763 -455 l 257
+ -738 -442 -715 -421 -698 -404 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

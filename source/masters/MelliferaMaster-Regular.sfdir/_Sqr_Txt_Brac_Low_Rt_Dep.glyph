@@ -1,0 +1,23 @@
+StartChar: SqrTxtBracLowRtDep
+Encoding: 4075 61749 4051
+GlifName: S_qrT_xtB_racL_owR_tD_ep
+Width: 800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+170 1072 m 257
+ 170 -252 l 257
+ 630 -252 l 257
+ 630 1072 l 257
+ 170 1072 l 257
+600 -222 m 257
+ 200 -222 l 257
+ 200 -135 l 257
+ 513 -135 l 257
+ 513 1042 l 257
+ 600 1042 l 257
+ 600 -222 l 257
+EndSplineSet
+EndChar

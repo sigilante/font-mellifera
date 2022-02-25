@@ -1,0 +1,13 @@
+StartChar: EmQuad
+Encoding: 748 8193 744
+GlifName: E_mQ_uad
+Width: 1569
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 784 0 basechar 0
+AnchorPoint: "L" 784 -100 basechar 0
+AnchorPoint: "O" 834 0 basechar 0
+AnchorPoint: "R" 1569 900 basechar 0
+AnchorPoint: "U" 784 1435 basechar 0
+LayerCount: 2
+EndChar

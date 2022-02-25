@@ -1,0 +1,29 @@
+StartChar: CombXBlw
+Encoding: 237 851 233
+GlifName: C_ombX_B_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -515 -600 basechar 0
+AnchorPoint: "L" -515 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-209 -459 m 257
+ -451 -280 l 257
+ -558 -280 l 257
+ -802 -459 l 257
+ -789 -480 -775 -499 -757 -514 c 257
+ -506 -386 l 257
+ -252 -514 l 257
+ -232 -498 -220 -481 -209 -459 c 257
+  PathStart: -1
+-455 -363 m 257
+ -213 -186 l 257
+ -224 -163 -239 -142 -256 -129 c 257
+ -506 -260 l 257
+ -761 -129 l 257
+ -777 -143 -795 -167 -806 -186 c 257
+ -562 -363 l 257
+ -455 -363 l 257
+EndSplineSet
+EndChar

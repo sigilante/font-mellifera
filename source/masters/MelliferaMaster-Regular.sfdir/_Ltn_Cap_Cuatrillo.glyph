@@ -1,0 +1,35 @@
+StartChar: LtnCapCuatrillo
+Encoding: 1383 42796 1367
+GlifName: L_tnC_apC_uatrillo
+Width: 992
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 476 -100 basechar 0
+AnchorPoint: "U" 584 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+802 428 m 257
+ 890 428 l 257
+ 920 449 930 464 952 491 c 257
+ 927 522 l 257
+ 802 522 l 257
+ 802 1283 l 257
+ 759 1317 l 257
+ 718 1299 669 1276 613 1252 c 257
+ 60 462 l 257
+ 95 428 l 257
+ 646 428 l 257
+ 646 401 l 258
+ 646 175 527 85 444 85 c 256
+ 391 85 326 103 245 168 c 257
+ 205 151 106 85 106 64 c 256
+ 106 22 218 -30 328 -30 c 256
+ 408 -30 516 5 585 53 c 256
+ 688 125 802 219 802 428 c 257
+646 1116 m 257
+ 646 522 l 257
+ 230 522 l 257
+ 646 1116 l 257
+EndSplineSet
+EndChar

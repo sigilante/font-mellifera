@@ -1,0 +1,11 @@
+StartChar: GrCapOmicronWTonos
+Encoding: 937 908 932
+GlifName: G_rC_apO_micronW_T_onos
+Width: 1490
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 924 927 N 1 0 0 1 261 0 2
+Refer: 1210 900 N 1 0 0 1 0 -100 2
+EndChar

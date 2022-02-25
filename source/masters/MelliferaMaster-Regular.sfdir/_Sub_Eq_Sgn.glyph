@@ -1,0 +1,27 @@
+StartChar: SubEqSgn
+Encoding: 4078 8332 4054
+GlifName: S_ubE_qS_gn
+Width: 629
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+587 246 m 257
+ 569 261 l 257
+ 64 261 l 257
+ 56 246 48 204 43 188 c 257
+ 60 173 l 257
+ 566 173 l 257
+ 572 187 582 230 587 246 c 257
+  PathStart: -1
+587 66 m 257
+ 569 81 l 257
+ 64 81 l 257
+ 56 65 48 25 43 9 c 257
+ 60 -8 l 257
+ 566 -8 l 257
+ 572 7 582 50 587 66 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

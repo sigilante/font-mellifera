@@ -1,0 +1,19 @@
+StartChar: Caret
+Encoding: 29 8248 26
+GlifName: C_aret
+Width: 529
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+407 -264 m 257
+ 529 -264 l 257
+ 325 29 l 257
+ 204 29 l 257
+ 0 -264 l 257
+ 122 -264 l 257
+ 264 -57 l 257
+ 407 -264 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,17 @@
+StartChar: CombShortStrkOverlay
+Encoding: 217 821 213
+GlifName: C_ombS_hortS_trkO_verlay
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+-810 415 m 257
+ -220 415 l 257
+ -213 437 -205 458 -198 480 c 257
+ -220 505 l 257
+ -810 505 l 257
+ -821 484 -827 458 -833 437 c 257
+ -810 415 l 257
+EndSplineSet
+EndChar

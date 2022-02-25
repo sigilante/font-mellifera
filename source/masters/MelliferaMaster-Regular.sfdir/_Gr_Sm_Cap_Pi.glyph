@@ -1,0 +1,36 @@
+StartChar: GrSmCapPi
+Encoding: 1045 7464 1040
+GlifName: G_rS_mC_apP_i
+Width: 1155
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 576 -100 basechar 0
+AnchorPoint: "U" 576 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+55 0 m 257
+ 485 0 l 257
+ 485 43 l 257
+ 405 56 345 92 345 104 c 258
+ 345 786 l 258
+ 345 809 390 840 494 840 c 257
+ 647 840 l 258
+ 757 840 810 809 810 786 c 258
+ 810 104 l 258
+ 810 90 745 56 670 43 c 257
+ 670 0 l 257
+ 1100 0 l 257
+ 1100 43 l 257
+ 1019 56 960 92 960 104 c 258
+ 960 825 l 258
+ 960 839 1024 873 1100 887 c 257
+ 1100 930 l 257
+ 55 930 l 257
+ 55 887 l 257
+ 135 873 195 837 195 825 c 258
+ 195 104 l 258
+ 195 90 130 56 55 43 c 257
+ 55 0 l 257
+EndSplineSet
+EndChar

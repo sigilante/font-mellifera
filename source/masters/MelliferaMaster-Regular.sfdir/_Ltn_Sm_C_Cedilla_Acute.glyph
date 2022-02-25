@@ -1,0 +1,21 @@
+StartChar: LtnSmCCedillaAcute
+Encoding: 2238 7689 2222
+GlifName: L_tnS_mC_C_edillaA_cute
+Width: 895
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 490 -600 basechar 0
+AnchorPoint: "R" 948 900 basechar 0
+AnchorPoint: "U" 490 1410 basechar 0
+LayerCount: 2
+Fore
+Refer: 2210 99 N 1 0 0 1 0 0 2
+Refer: 39 769 N 1 0 0 1 1033 0 2
+Refer: 69 807 N 1 0 0 1 1003 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

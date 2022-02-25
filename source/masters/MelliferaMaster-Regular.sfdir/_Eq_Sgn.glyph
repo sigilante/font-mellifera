@@ -1,0 +1,27 @@
+StartChar: EqSgn
+Encoding: 755 61 751
+GlifName: E_qS_gn
+Width: 899
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+838 740 m 257
+ 813 765 l 257
+ 92 765 l 257
+ 80 740 68 707 61 680 c 257
+ 86 655 l 257
+ 809 655 l 257
+ 817 678 831 714 838 740 c 257
+  PathStart: -1
+838 440 m 257
+ 813 465 l 257
+ 92 465 l 257
+ 80 438 68 409 61 382 c 257
+ 86 355 l 257
+ 809 355 l 257
+ 817 380 831 412 838 440 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

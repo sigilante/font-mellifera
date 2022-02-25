@@ -1,0 +1,26 @@
+StartChar: LtnCapD.Sophia
+Encoding: 1386 -1 1370
+GlifName: L_tnC_apD_.S_ophia
+Width: 531
+VWidth: 0
+Flags: W
+AnchorPoint: "C" 273 266 mark 0
+LayerCount: 2
+Fore
+SplineSet
+486 266 m 256
+ 486 402 426 533 225 533 c 258
+ 59 533 l 257
+ 59 316 59 220 59 0 c 257
+ 225 0 l 258
+ 426 0 486 138 486 266 c 256
+  PathStart: -1
+414 266 m 256
+ 414 138 342 64 226 64 c 258
+ 134 64 l 257
+ 134 333 134 185 134 468 c 257
+ 226 468 l 258
+ 342 468 414 398 414 266 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

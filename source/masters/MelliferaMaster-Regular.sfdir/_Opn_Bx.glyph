@@ -1,0 +1,25 @@
+StartChar: OpnBx
+Encoding: 3956 9251 3937
+GlifName: O_pnB_x
+Width: 531
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+441 -31 m 257
+ 441 -165 l 257
+ 90 -165 l 257
+ 90 -2 l 257
+ 65 20 l 257
+ 38 12 18 -11 0 -31 c 257
+ 0 -231 l 257
+ 22 -255 l 257
+ 468 -255 l 257
+ 494 -241 513 -223 531 -205 c 257
+ 531 -2 l 257
+ 506 20 l 257
+ 481 7 458 -14 441 -31 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,13 @@
+StartChar: RomNumThree
+Encoding: 4006 8546 3985
+GlifName: R_omN_umT_hree
+Width: 1830
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 902 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1476 73 N 1 0 0 1 0 0 2
+Refer: 1476 73 N 1 0 0 1 610 0 2
+Refer: 1476 73 N 1 0 0 1 1220 0 2
+EndChar

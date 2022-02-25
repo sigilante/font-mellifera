@@ -1,0 +1,28 @@
+StartChar: ModCapI
+Encoding: 3733 7477 3717
+GlifName: M_odC_apI_
+Width: 427
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 207 540 basechar 0
+AnchorPoint: "O" 258 620 basechar 0
+AnchorPoint: "R" 497 1136 basechar 0
+AnchorPoint: "U" 207 1450 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+49 620 m 257
+ 365 620 l 257
+ 365 656 l 257
+ 298 667 272 683 272 692 c 258
+ 272 1303 l 258
+ 272 1314 302 1329 365 1340 c 257
+ 365 1376 l 257
+ 49 1376 l 257
+ 49 1340 l 257
+ 116 1329 140 1313 140 1303 c 258
+ 140 692 l 258
+ 140 682 112 667 49 656 c 257
+ 49 620 l 257
+EndSplineSet
+EndChar

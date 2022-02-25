@@ -1,0 +1,14 @@
+StartChar: LtnSmAeMacron.LP
+Encoding: 2188 -1 2172
+GlifName: L_tnS_mA_eM_acron.L_P_
+Width: 1417
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 738 -100 basechar 0
+AnchorPoint: "R" 1417 900 basechar 0
+AnchorPoint: "U" 738 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 2161 230 N 1 0 0 1 0 0 2
+Refer: 180 -1 N 1 0 0 1 1263 0 2
+EndChar

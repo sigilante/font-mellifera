@@ -1,0 +1,11 @@
+StartChar: RomNumFiveHundred
+Encoding: 3991 8558 3970
+GlifName: R_omN_umF_iveH_undred
+Width: 1214
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 550 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1369 68 N 1 0 0 1 0 0 2
+EndChar

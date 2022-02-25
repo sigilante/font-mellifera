@@ -1,0 +1,19 @@
+StartChar: ModVertLine.ChinantecTn
+Encoding: 3922 -1 3906
+GlifName: M_odV_ertL_ine.C_hinantecT_n
+Width: 296
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+201 1073 m 257
+ 201 1659 l 257
+ 176 1683 l 257
+ 150 1678 106 1663 85 1653 c 257
+ 85 1064 l 257
+ 108 1042 l 257
+ 134 1048 176 1060 201 1073 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

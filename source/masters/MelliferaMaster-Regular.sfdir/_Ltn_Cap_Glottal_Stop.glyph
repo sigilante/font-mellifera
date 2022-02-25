@@ -1,0 +1,31 @@
+StartChar: LtnCapGlottalStop
+Encoding: 1474 577 1458
+GlifName: L_tnC_apG_lottalS_top
+Width: 950
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 475 -100 basechar 0
+AnchorPoint: "U" 475 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+230 0 m 257
+ 720 0 l 257
+ 720 43 l 257
+ 611 61 555 84 555 104 c 258
+ 555 455 l 258
+ 555 690 890 688 890 985 c 256
+ 890 1172 758 1290 522 1290 c 256
+ 259 1290 40 1131 40 943 c 256
+ 40 923 45 900 47 890 c 257
+ 74 860 l 257
+ 133 866 188 876 231 898 c 257
+ 218 922 214 946 214 976 c 256
+ 214 1080 308 1190 444 1190 c 256
+ 623 1190 730 1104 730 940 c 256
+ 730 740 395 685 395 396 c 258
+ 395 104 l 258
+ 395 82 345 63 230 43 c 257
+ 230 0 l 257
+EndSplineSet
+EndChar

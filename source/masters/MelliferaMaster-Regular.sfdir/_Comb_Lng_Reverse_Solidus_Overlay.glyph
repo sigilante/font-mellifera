@@ -1,0 +1,17 @@
+StartChar: CombLngReverseSolidusOverlay
+Encoding: 163 8421 159
+GlifName: C_ombL_ngR_everseS_olidusO_verlay
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+-860 1294 m 257
+ -903 1281 l 257
+ -912 1244 -901 1183 -897 1141 c 257
+ -169 -365 l 257
+ -126 -354 l 257
+ -121 -320 -126 -242 -132 -211 c 257
+ -860 1294 l 257
+EndSplineSet
+EndChar

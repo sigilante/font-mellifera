@@ -1,0 +1,19 @@
+StartChar: LtnCapEzhCaron
+Encoding: 1453 494 1437
+GlifName: L_tnC_apE_zhC_aron
+Width: 1066
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 520 -100 basechar 0
+AnchorPoint: "U" 535 1690 basechar 0
+LayerCount: 2
+Fore
+Refer: 1435 439 N 1 0 0 1 0 0 2
+Refer: 67 -1 N 1 0 0 1 1049 320 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

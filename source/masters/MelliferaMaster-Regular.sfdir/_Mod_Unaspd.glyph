@@ -1,0 +1,27 @@
+StartChar: ModUnaspd
+Encoding: 3918 749 3902
+GlifName: M_odU_naspd
+Width: 840
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+770 1156 m 257
+ 748 1180 l 257
+ 91 1180 l 257
+ 78 1154 56 1104 50 1075 c 257
+ 72 1050 l 257
+ 731 1050 l 257
+ 741 1075 764 1127 770 1156 c 257
+  PathStart: -1
+770 886 m 257
+ 748 910 l 257
+ 91 910 l 257
+ 78 884 56 834 50 805 c 257
+ 72 780 l 257
+ 731 780 l 257
+ 741 805 764 857 770 886 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

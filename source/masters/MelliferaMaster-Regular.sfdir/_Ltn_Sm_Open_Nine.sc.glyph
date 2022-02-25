@@ -1,0 +1,27 @@
+StartChar: LtnSmOpenNine.sc
+Encoding: 3051 -1 3035
+GlifName: L_tnS_mO_penN_ine.sc
+Width: 970
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 481 -76 basechar 0
+AnchorPoint: "U" 482 1145 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+63 687 m 256
+ 63 532 188 383 397 383 c 256
+ 434 383 474 387 514 397 c 257
+ 534 417 551 441 559 470 c 257
+ 539 467 522 466 512 466 c 256
+ 341 466 215 600 213 755 c 256
+ 213 851 279 979 425 979 c 256
+ 595 979 718 813 718 593 c 256
+ 718 373 543 169 264 43 c 257
+ 268 25 280 -12 290 -25 c 257
+ 647 103 879 367 879 646 c 256
+ 879 909 727 1087 461 1087 c 256
+ 212 1087 63 840 63 687 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

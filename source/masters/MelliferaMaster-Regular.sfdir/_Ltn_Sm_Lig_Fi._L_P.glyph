@@ -1,0 +1,15 @@
+StartChar: LtnSmLigFi.LP
+Encoding: 2844 -1 2828
+GlifName: L_tnS_mL_igF_i.L_P_
+Width: 1192
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 922 -100 basechar 0
+AnchorPoint: "O" 972 0 basechar 0
+AnchorPoint: "R" 1192 900 basechar 0
+AnchorPoint: "U" 922 1050 basechar 0
+LayerCount: 2
+Fore
+Refer: 2496 102 N 1 0 0 1 0 0 2
+Refer: 2612 -1 N 1 0 0 1 637 0 2
+EndChar

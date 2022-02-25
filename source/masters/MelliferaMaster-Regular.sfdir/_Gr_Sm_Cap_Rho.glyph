@@ -1,0 +1,34 @@
+StartChar: GrSmCapRho
+Encoding: 1047 7465 1042
+GlifName: G_rS_mC_apR_ho
+Width: 996
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 476 -100 basechar 0
+AnchorPoint: "U" 476 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+855 700 m 256
+ 855 869 707 960 468 960 c 256
+ 333 960 158 941 50 915 c 257
+ 59 859 l 257
+ 166 876 304 877 420 877 c 256
+ 578 877 701 824 701 668 c 256
+ 701 530 599 457 496 457 c 256
+ 457 457 418 463 372 481 c 257
+ 391 413 l 257
+ 429 398 470 389 521 389 c 256
+ 651 389 855 495 855 700 c 256
+  PathStart: -1
+55 0 m 257
+ 494 0 l 257
+ 494 43 l 257
+ 379 60 345 92 345 104 c 258
+ 345 893 l 257
+ 195 893 l 257
+ 195 104 l 258
+ 195 90 130 56 55 43 c 257
+ 55 0 l 257
+EndSplineSet
+EndChar

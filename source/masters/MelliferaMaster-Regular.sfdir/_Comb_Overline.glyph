@@ -1,0 +1,20 @@
+StartChar: CombOverline
+Encoding: 200 773 196
+GlifName: C_ombO_verline
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -482 1410 basechar 0
+AnchorPoint: "U" -482 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+64 1281 m 257
+ 42 1305 l 257
+ -987 1305 l 257
+ -1000 1279 -1022 1229 -1028 1200 c 257
+ -1006 1175 l 257
+ 25 1175 l 257
+ 35 1200 58 1252 64 1281 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

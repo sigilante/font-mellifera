@@ -1,0 +1,33 @@
+StartChar: LtnSmVHook.StraightLft
+Encoding: 3437 -1 3421
+GlifName: L_tnS_mV_H_ook.S_traightL_ft
+Width: 1010
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 499 0 basechar 0
+AnchorPoint: "L" 516 -100 basechar 0
+AnchorPoint: "O" 460 0 basechar 0
+AnchorPoint: "U" 560 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+844 716 m 256
+ 844 628 662 317 550 154 c 257
+ 293 819 l 258
+ 276 862 303 874 406 887 c 257
+ 406 930 l 257
+ 20 930 l 257
+ 20 887 l 257
+ 86 872 117 855 131 819 c 258
+ 461 -30 l 257
+ 502 -20 544 -6 576 22 c 257
+ 762 304 974 650 974 805 c 256
+ 974 913 900 960 807 960 c 256
+ 787 960 767 957 746 952 c 257
+ 703 924 633 876 601 842 c 257
+ 628 808 l 257
+ 671 824 707 831 736 831 c 256
+ 812 831 844 783 844 716 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

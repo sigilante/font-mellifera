@@ -1,0 +1,12 @@
+StartChar: ModRtHalfRing
+Encoding: 3819 702 3803
+GlifName: M_odR_tH_alfR_ing
+Width: 540
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 250 540 basechar 0
+AnchorPoint: "U" 250 1620 basechar 0
+LayerCount: 2
+Fore
+Refer: 3746 722 N 1 0 0 1 -10 700 2
+EndChar

@@ -1,0 +1,18 @@
+StartChar: LftTopParen
+Encoding: 1291 9115 1276
+GlifName: L_ftT_opP_aren
+Width: 900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+360 -950 m 257
+ 360 100 l 257
+ 360 700 380 1380 800 1880 c 257
+ 750 1950 l 257
+ 269 1494 210 900 210 150 c 258
+ 210 -950 l 257
+ 360 -950 l 257
+EndSplineSet
+EndChar

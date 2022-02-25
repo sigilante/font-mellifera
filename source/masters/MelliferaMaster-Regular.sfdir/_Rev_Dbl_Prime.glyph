@@ -1,0 +1,11 @@
+StartChar: RevDblPrime
+Encoding: 3980 8246 3959
+GlifName: R_evD_blP_rime
+Width: 805
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3960 8245 N 1 0 0 1 0 0 2
+Refer: 3960 8245 N 1 0 0 1 300 0 2
+EndChar

@@ -1,0 +1,36 @@
+StartChar: LtnCapEzhDep.RevSigmaStyle
+Encoding: 1454 61975 1438
+GlifName: L_tnC_apE_zhD_ep.R_evS_igmaS_tyle
+Width: 1064
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 536 -100 basechar 0
+AnchorPoint: "U" 556 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+118 357 m 257
+ 167 182 182 140 266 140 c 258
+ 808 140 l 257
+ 411 674 l 257
+ 753 1160 l 257
+ 284 1160 l 258
+ 235 1160 193 1142 149 963 c 257
+ 93 975 l 257
+ 97 1276 l 257
+ 177 1260 235 1260 310 1260 c 258
+ 956 1260 l 257
+ 982 1215 l 257
+ 570 637 l 257
+ 995 61 l 257
+ 995 0 l 257
+ 91 0 l 257
+ 84 72 71 238 65 345 c 257
+ 118 357 l 257
+1025 -30 m 257
+ 1025 1306 l 257
+ 35 1306 l 257
+ 35 -30 l 257
+ 1025 -30 l 257
+EndSplineSet
+EndChar

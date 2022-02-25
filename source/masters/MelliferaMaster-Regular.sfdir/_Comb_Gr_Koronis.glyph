@@ -1,0 +1,20 @@
+StartChar: CombGrKoronis
+Encoding: 129 835 126
+GlifName: C_ombG_rK_oronis
+Width: 0
+VWidth: 0
+AnchorPoint: "U" -519 1050 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-385 1360 m 257
+ -380 1428 -401 1498 -474 1529 c 257
+ -516 1534 -656 1490 -677 1464 c 257
+ -666 1422 l 257
+ -561 1421 -521 1360 -526 1289 c 256
+ -530 1228 -559 1176 -615 1125 c 257
+ -576 1092 l 257
+ -447 1173 -392 1268 -385 1360 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

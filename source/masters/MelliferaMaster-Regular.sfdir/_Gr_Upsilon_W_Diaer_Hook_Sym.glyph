@@ -1,0 +1,11 @@
+StartChar: GrUpsilonWDiaerHookSym
+Encoding: 1217 980 1212
+GlifName: G_rU_psilonW_D_iaerH_ookS_ym
+Width: 1277
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1213 978 N 1 0 0 1 0 0 2
+Refer: 111 -1 N 1 0 0 1 1119 320 2
+EndChar

@@ -1,0 +1,20 @@
+StartChar: CombCaronBlw
+Encoding: 71 812 68
+GlifName: C_ombC_aronB_lw
+Width: 0
+VWidth: 0
+AnchorPoint: "L" -514 -600 basechar 0
+AnchorPoint: "L" -514 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-460 -480 m 257
+ -198 -173 l 257
+ -214 -146 -218 -138 -241 -126 c 257
+ -511 -337 l 257
+ -786 -126 l 257
+ -808 -138 -812 -146 -831 -173 c 257
+ -567 -480 l 257
+ -460 -480 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: LtnCapABreveHookAbv
+Encoding: 1315 7858 1299
+GlifName: L_tnC_apA_B_reveH_ookA_bv
+Width: 1219
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 599 0 basechar 0
+AnchorPoint: "L" 599 -100 basechar 0
+AnchorPoint: "O" 960 0 basechar 0
+AnchorPoint: "U" 599 2010 basechar 0
+LayerCount: 2
+Fore
+Refer: 1290 65 N 1 0 0 1 0 0 2
+Refer: 50 774 N 1 0 0 1 1114 320 2
+Refer: 138 777 N 1 0 0 1 1117 640 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

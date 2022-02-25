@@ -1,0 +1,23 @@
+StartChar: CircumAccent
+Encoding: 39 94 36
+GlifName: C_ircumA_ccent
+Width: 1008
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 504 1690 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+907 635 m 257
+ 555 1550 l 257
+ 518 1532 455 1493 422 1462 c 257
+ 100 592 l 257
+ 123 565 l 257
+ 150 578 203 608 231 635 c 257
+ 481 1315 l 257
+ 764 592 l 257
+ 801 565 l 257
+ 846 586 874 604 907 635 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

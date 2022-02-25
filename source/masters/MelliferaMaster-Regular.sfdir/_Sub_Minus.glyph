@@ -1,0 +1,19 @@
+StartChar: SubMinus
+Encoding: 4082 8331 4058
+GlifName: S_ubM_inus
+Width: 483
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+440 127 m 257
+ 423 141 l 257
+ 64 141 l 257
+ 56 126 48 85 43 67 c 257
+ 60 53 l 257
+ 419 53 l 257
+ 426 66 435 110 440 127 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

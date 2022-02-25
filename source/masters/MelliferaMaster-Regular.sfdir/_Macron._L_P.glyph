@@ -1,0 +1,18 @@
+StartChar: Macron.LP
+Encoding: 3692 -1 3676
+GlifName: M_acron.L_P_
+Width: 1010
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+804 1135 m 257
+ 814 1160 837 1212 843 1241 c 257
+ 821 1265 l 257
+ 208 1265 l 257
+ 195 1239 173 1189 167 1160 c 257
+ 189 1135 l 257
+ 804 1135 l 257
+EndSplineSet
+EndChar

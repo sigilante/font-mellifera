@@ -1,0 +1,19 @@
+StartChar: CombRtDotAbv
+Encoding: 210 856 206
+GlifName: C_ombR_tD_otA_bv
+Width: 200
+VWidth: 0
+Flags: W
+AnchorPoint: "R_" 0 900 basechar 0
+AnchorPoint: "U" 102 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+200 1261 m 256
+ 200 1323 172 1356 115 1356 c 256
+ 52 1356 0 1296 0 1220 c 256
+ 0 1159 25 1124 84 1124 c 256
+ 150 1124 200 1186 200 1261 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

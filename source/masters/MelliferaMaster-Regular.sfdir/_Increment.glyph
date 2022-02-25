@@ -1,0 +1,25 @@
+StartChar: Increment
+Encoding: 1234 8710 1229
+GlifName: I_ncrement
+Width: 1174
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1073 0 m 257
+ 1094 51 l 257
+ 1094 51 752 924 612 1317 c 257
+ 578 1298 526 1270 496 1237 c 257
+ 375 889 59 51 59 51 c 257
+ 74 0 l 257
+ 1073 0 l 257
+881 166 m 257
+ 899 115 901 115 770 115 c 258
+ 332 115 l 258
+ 205 115 205 115 223 166 c 257
+ 223 166 426 711 547 1049 c 257
+ 657 748 881 166 881 166 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

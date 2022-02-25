@@ -1,0 +1,26 @@
+StartChar: SqrRoot
+Encoding: 4066 8730 4042
+GlifName: S_qrR_oot
+Width: 1209
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1238 1427 m 257
+ 1213 1452 l 257
+ 997 1452 l 257
+ 649 188 l 257
+ 296 930 l 257
+ 52 929 l 257
+ 40 902 28 868 21 841 c 257
+ 46 814 l 257
+ 183 814 l 257
+ 581 -30 l 257
+ 616 -22 693 0 716 59 c 257
+ 1060 1337 l 257
+ 1209 1337 l 257
+ 1217 1362 1231 1399 1238 1427 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

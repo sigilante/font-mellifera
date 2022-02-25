@@ -1,0 +1,16 @@
+StartChar: TnLtrDot3
+Encoding: 4205 -1 4181
+GlifName: T_nL_trD_ot3
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+0 690 m 256
+ 42 690 76 724 76 766 c 256
+ 76 808 42 842 0 842 c 256
+ -42 842 -76 808 -76 766 c 256
+ -76 724 -42 690 0 690 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

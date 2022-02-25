@@ -1,0 +1,13 @@
+StartChar: SmRomNumTwelve
+Encoding: 4057 8571 4033
+GlifName: S_mR_omN_umT_welve
+Width: 2140
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 1079 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 3464 120 N 1 0 0 1 0 0 2
+Refer: 2608 105 N 1 0 0 1 1030 0 2
+Refer: 2608 105 N 1 0 0 1 1585 0 2
+EndChar

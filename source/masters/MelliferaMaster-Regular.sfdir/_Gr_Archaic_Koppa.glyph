@@ -1,0 +1,36 @@
+StartChar: GrArchaicKoppa
+Encoding: 777 984 772
+GlifName: G_rA_rchaicK_oppa
+Width: 1100
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 542 -100 basechar 0
+AnchorPoint: "O" 603 0 basechar 0
+AnchorPoint: "R" 1077 1250 basechar 0
+AnchorPoint: "U" 542 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+317 0 m 257
+ 767 0 l 257
+ 767 43 l 257
+ 671 61 622 88 622 104 c 258
+ 622 355 l 258
+ 622 433 462 434 462 355 c 258
+ 462 104 l 258
+ 462 86 407 61 317 43 c 257
+ 317 0 l 257
+1010 825 m 256
+ 1010 1098 804 1290 560 1290 c 256
+ 297 1290 70 1049 70 784 c 256
+ 70 512 280 320 521 320 c 256
+ 777 320 1010 559 1010 825 c 256
+  PathStart: -1
+855 795 m 256
+ 855 567 728 430 549 430 c 256
+ 370 430 225 602 225 813 c 256
+ 225 1026 337 1180 541 1180 c 256
+ 718 1180 855 1006 855 795 c 256
+  PathStart: -1
+EndSplineSet
+EndChar

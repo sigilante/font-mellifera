@@ -1,0 +1,28 @@
+StartChar: LtnCapOMiddleTilde
+Encoding: 1631 415 1615
+GlifName: L_tnC_apO_M_iddleT_ilde
+Width: 1229
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 604 -100 basechar 0
+AnchorPoint: "U" 604 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1138 647 m 256
+ 1138 973 963 1290 633 1290 c 256
+ 319 1290 70 975 70 612 c 256
+ 70 276 254 -30 575 -30 c 256
+ 879 -30 1138 285 1138 647 c 256
+  PathStart: -1
+225 615 m 257
+ 982 615 l 257
+ 978 271 822 90 604 90 c 256
+ 405 90 235 327 225 615 c 257
+979 705 m 257
+ 227 705 l 257
+ 244 994 383 1175 604 1175 c 256
+ 810 1175 954 952 979 705 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

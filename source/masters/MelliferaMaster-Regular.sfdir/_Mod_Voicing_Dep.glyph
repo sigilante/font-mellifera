@@ -1,0 +1,24 @@
+StartChar: ModVoicingDep
+Encoding: 3925 61928 3909
+GlifName: M_odV_oicingD_ep
+Width: 633
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-30 -96 m 257
+ -30 -510 l 257
+ 663 -510 l 257
+ 663 -96 l 257
+ -30 -96 l 257
+633 -173 m 257
+ 371 -480 l 257
+ 264 -480 l 257
+ 0 -173 l 257
+ 19 -146 23 -138 45 -126 c 257
+ 320 -337 l 257
+ 590 -126 l 257
+ 613 -138 617 -146 633 -173 c 257
+EndSplineSet
+EndChar

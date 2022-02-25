@@ -1,0 +1,20 @@
+StartChar: SglLow9QuotMrk
+Encoding: 4039 8218 4015
+GlifName: S_glL_ow9Q_uotM_rk
+Width: 469
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+377 61 m 257
+ 377 137 352 178 309 219 c 257
+ 262 221 111 160 88 129 c 257
+ 104 84 l 257
+ 180 80 215 29 215 -31 c 256
+ 215 -84 188 -178 131 -238 c 257
+ 176 -272 l 257
+ 303 -190 377 -43 377 61 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

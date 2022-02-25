@@ -1,0 +1,20 @@
+StartChar: LtnSmTopHalfO
+Encoding: 3285 7446 3269
+GlifName: L_tnS_mT_opH_alfO_
+Width: 1031
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 535 -100 basechar 0
+AnchorPoint: "U" 535 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+795 464 m 257
+ 950 465 l 257
+ 959 744 793 960 535 960 c 256
+ 291 960 90 721 80 464 c 257
+ 235 464 l 257
+ 233 679 300 850 506 850 c 256
+ 641 850 791 671 795 464 c 257
+EndSplineSet
+EndChar

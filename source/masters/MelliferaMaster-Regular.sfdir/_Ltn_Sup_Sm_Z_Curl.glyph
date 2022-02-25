@@ -1,0 +1,33 @@
+StartChar: LtnSupSmZCurl
+Encoding: 3677 7613 3661
+GlifName: L_tnS_upS_mZ_C_url
+Width: 639
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 328 540 basechar 0
+AnchorPoint: "U" 340 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+333 492 m 257
+ 360 680 421 772 503 772 c 256
+ 535 772 554 749 554 728 c 256
+ 554 705 531 684 442 684 c 258
+ 207 684 l 257
+ 583 1147 l 257
+ 564 1178 l 257
+ 219 1178 l 258
+ 159 1178 136 1178 96 1188 c 257
+ 83 1031 l 257
+ 126 1023 l 257
+ 144 1097 169 1114 199 1114 c 258
+ 424 1114 l 257
+ 49 654 l 257
+ 71 620 l 257
+ 460 620 l 258
+ 582 620 639 690 639 757 c 256
+ 639 822 588 851 527 851 c 256
+ 410 851 298 737 278 496 c 257
+ 333 492 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: Ogonek
+Encoding: 3952 731 3933
+GlifName: O_gonek
+Width: 530
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 289 -600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+479 -299 m 257
+ 455 -262 l 257
+ 399 -313 348 -336 315 -336 c 256
+ 264 -336 229 -313 229 -264 c 256
+ 229 -201 261 -94 453 24 c 257
+ 408 43 l 257
+ 208 -65 100 -180 100 -299 c 256
+ 100 -418 178 -444 256 -444 c 256
+ 322 -444 422 -371 479 -299 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

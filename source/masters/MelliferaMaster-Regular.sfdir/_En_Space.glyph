@@ -1,0 +1,13 @@
+StartChar: EnSpace
+Encoding: 754 8194 750
+GlifName: E_nS_pace
+Width: 961
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 480 0 basechar 0
+AnchorPoint: "L" 480 -100 basechar 0
+AnchorPoint: "O" 530 0 basechar 0
+AnchorPoint: "R" 960 900 basechar 0
+AnchorPoint: "U" 480 1435 basechar 0
+LayerCount: 2
+EndChar

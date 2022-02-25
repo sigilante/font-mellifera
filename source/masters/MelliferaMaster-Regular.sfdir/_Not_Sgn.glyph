@@ -1,0 +1,22 @@
+StartChar: NotSgn
+Encoding: 3946 172 3928
+GlifName: N_otS_gn
+Width: 961
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+891 233 m 257
+ 891 596 l 257
+ 862 618 l 257
+ 862 618 879 618 92 618 c 257
+ 80 592 68 557 61 530 c 257
+ 86 506 l 257
+ 780 506 l 257
+ 780 207 l 257
+ 805 182 l 257
+ 838 193 864 213 891 233 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,18 @@
+StartChar: SupRtParen
+Encoding: 4103 8318 4079
+GlifName: S_upR_tP_aren
+Width: 454
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 431 m 257
+ 242 517 381 755 381 1018 c 257
+ 381 1272 261 1498 50 1580 c 257
+ 29 1553 l 257
+ 172 1454 242 1233 242 1001 c 256
+ 242 744 149 545 29 458 c 257
+ 50 431 l 257
+EndSplineSet
+EndChar

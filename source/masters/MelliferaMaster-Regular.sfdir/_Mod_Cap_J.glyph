@@ -1,0 +1,27 @@
+StartChar: ModCapJ
+Encoding: 3734 7478 3718
+GlifName: M_odC_apJ_
+Width: 437
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 213 258 basechar 0
+AnchorPoint: "U" 216 1450 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-17 392 m 256
+ 22 392 102 409 152 444 c 256
+ 225 495 297 560 297 743 c 258
+ 297 1303 l 258
+ 297 1314 325 1329 388 1340 c 257
+ 388 1376 l 257
+ 37 1376 l 257
+ 37 1340 l 257
+ 149 1326 165 1313 165 1303 c 258
+ 165 710 l 258
+ 165 520 108 476 59 476 c 256
+ 23 476 0 482 -52 511 c 257
+ -78 503 -134 453 -134 440 c 256
+ -134 426 -74 392 -17 392 c 256
+EndSplineSet
+EndChar

@@ -1,0 +1,35 @@
+StartChar: LtnSmZSwashTailDep
+Encoding: 3574 62039 3558
+GlifName: L_tnS_mZ_S_washT_ailD_ep
+Width: 905
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 481 -600 basechar 0
+AnchorPoint: "U" 481 1050 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+46 976 m 257
+ 46 -430 l 257
+ 903 -430 l 257
+ 903 976 l 257
+ 46 976 l 257
+827 887 m 257
+ 263 80 l 257
+ 503 5 527 -305 671 -305 c 256
+ 719 -305 722 -251 687 -194 c 256
+ 679 -182 812 -120 853 -126 c 257
+ 872 -165 l 257
+ 880 -266 792 -400 637 -400 c 256
+ 407 -400 403 0 102 0 c 257
+ 76 45 l 257
+ 631 840 l 257
+ 285 840 l 258
+ 242 840 195 813 168 690 c 257
+ 119 702 l 257
+ 137 946 l 257
+ 195 930 227 930 313 930 c 258
+ 805 930 l 257
+ 827 887 l 257
+EndSplineSet
+EndChar

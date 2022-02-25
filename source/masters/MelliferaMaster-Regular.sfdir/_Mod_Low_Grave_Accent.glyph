@@ -1,0 +1,19 @@
+StartChar: ModLowGraveAccent
+Encoding: 3787 718 3771
+GlifName: M_odL_owG_raveA_ccent
+Width: 514
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 257 -600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+514 -368 m 257
+ 127 -51 l 257
+ 98 -67 28 -104 8 -125 c 257
+ 0 -170 l 257
+ 469 -413 l 257
+ 491 -403 495 -393 514 -368 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

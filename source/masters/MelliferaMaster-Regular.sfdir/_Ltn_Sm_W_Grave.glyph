@@ -1,0 +1,19 @@
+StartChar: LtnSmWGrave
+Encoding: 3473 7809 3457
+GlifName: L_tnS_mW_G_rave
+Width: 1446
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 730 -100 basechar 0
+AnchorPoint: "U" 750 1410 basechar 0
+LayerCount: 2
+Fore
+Refer: 3441 119 N 1 0 0 1 0 0 2
+Refer: 130 768 N 1 0 0 1 1183 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

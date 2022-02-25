@@ -1,0 +1,26 @@
+StartChar: CyCapFita
+Encoding: 294 1138 290
+GlifName: C_yC_apF_ita
+Width: 1228
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 604 -100 basechar 0
+AnchorPoint: "U" 604 1370 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+575 -30 m 256
+ 879 -30 1138 285 1138 647 c 256
+ 1138 973 963 1290 633 1290 c 256
+ 319 1290 70 975 70 612 c 256
+ 70 276 254 -30 575 -30 c 256
+604 90 m 256
+ 405 90 235 327 225 615 c 257
+ 982 615 l 257
+ 978 271 822 90 604 90 c 256
+227 705 m 257
+ 244 994 383 1175 604 1175 c 256
+ 810 1175 954 952 979 705 c 257
+ 227 705 l 257
+EndSplineSet
+EndChar

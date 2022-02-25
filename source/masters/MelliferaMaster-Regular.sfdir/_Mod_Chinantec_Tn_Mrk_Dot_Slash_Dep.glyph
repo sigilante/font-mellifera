@@ -1,0 +1,29 @@
+StartChar: ModChinantecTnMrkDotSlashDep
+Encoding: 3753 61849 3737
+GlifName: M_odC_hinantecT_nM_rkD_otS_lashD_ep
+Width: 581
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+10 1652 m 257
+ 10 1089 l 257
+ 561 1089 l 257
+ 561 1652 l 257
+ 10 1652 l 257
+206 1536 m 256
+ 206 1499 174 1467 137 1467 c 256
+ 99 1467 68 1499 68 1536 c 256
+ 68 1573 99 1605 137 1605 c 256
+ 174 1605 206 1573 206 1536 c 256
+  PathStart: -1
+44 1157 m 257
+ 40 1191 l 257
+ 442 1622 l 257
+ 468 1614 502 1599 527 1584 c 257
+ 531 1550 l 257
+ 129 1119 l 257
+ 108 1125 69 1143 44 1157 c 257
+EndSplineSet
+EndChar

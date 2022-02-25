@@ -1,0 +1,13 @@
+StartChar: RomNumTwelve
+Encoding: 4007 8555 3986
+GlifName: R_omN_umT_welve
+Width: 2480
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 1267 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1790 88 N 1 0 0 1 0 0 2
+Refer: 1476 73 N 1 0 0 1 1260 0 2
+Refer: 1476 73 N 1 0 0 1 1870 0 2
+EndChar

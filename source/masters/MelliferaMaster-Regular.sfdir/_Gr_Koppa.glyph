@@ -1,0 +1,25 @@
+StartChar: GrKoppa
+Encoding: 982 990 977
+GlifName: G_rK_oppa
+Width: 1073
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+795 580 m 257
+ 596 361 436 189 239 37 c 257
+ 263 0 l 257
+ 331 0 419 0 468 0 c 257
+ 539 94 719 343 1033 678 c 257
+ 1008 719 l 257
+ 858 719 485 719 286 719 c 257
+ 466 909 626 1066 824 1223 c 257
+ 803 1260 l 257
+ 744 1260 644 1260 597 1260 c 257
+ 501 1112 349 911 40 622 c 257
+ 69 580 l 257
+ 69 580 674 580 795 580 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

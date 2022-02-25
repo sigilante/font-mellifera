@@ -1,0 +1,22 @@
+StartChar: LtnSmODiaer.LP
+Encoding: 2968 -1 2952
+GlifName: L_tnS_mO_D_iaer.L_P_
+Width: 1030
+VWidth: 0
+Flags: W
+AnchorPoint: "H" 535 0 basechar 0
+AnchorPoint: "L" 535 -100 basechar 0
+AnchorPoint: "O" 575 0 basechar 0
+AnchorPoint: "R" 1044 900 basechar 0
+AnchorPoint: "U" 535 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 2905 111 N 1 0 0 1 0 0 2
+Refer: 111 -1 N 1 0 0 1 1050 0 2
+PickledDataWithLists: "(dp0
+Vpublic.markColor
+p1
+V0.04,0.57,0.04,1
+p2
+s."
+EndChar

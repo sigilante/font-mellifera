@@ -1,0 +1,32 @@
+StartChar: ModSmVHook.StraightLftHighHook
+Encoding: 3891 -1 3875
+GlifName: M_odS_mV_H_ook.S_traightL_ftH_ighH_ook
+Width: 769
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 336 560 basechar 0
+AnchorPoint: "U" 340 1264 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+319 602 m 257
+ 347 608 391 616 413 633 c 257
+ 567 882 l 258
+ 662 1036 705 1125 705 1199 c 256
+ 705 1264 644 1292 579 1292 c 256
+ 565 1292 551 1290 536 1287 c 257
+ 506 1270 452 1242 430 1221 c 257
+ 439 1191 l 257
+ 469 1200 494 1205 514 1205 c 256
+ 567 1205 590 1176 590 1136 c 256
+ 590 1091 561 1035 474 886 c 258
+ 389 736 l 257
+ 225 1101 l 258
+ 213 1127 232 1134 304 1142 c 257
+ 304 1178 l 257
+ 14 1178 l 257
+ 14 1142 l 257
+ 60 1133 82 1123 92 1101 c 258
+ 319 602 l 257
+EndSplineSet
+EndChar

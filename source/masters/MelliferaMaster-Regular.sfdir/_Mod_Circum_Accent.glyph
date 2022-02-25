@@ -1,0 +1,20 @@
+StartChar: ModCircumAccent
+Encoding: 3759 710 3743
+GlifName: M_odC_ircumA_ccent
+Width: 733
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+682 1092 m 257
+ 420 1471 l 257
+ 313 1471 l 257
+ 49 1092 l 257
+ 68 1067 72 1057 94 1047 c 257
+ 365 1315 l 257
+ 639 1047 l 257
+ 662 1057 666 1067 682 1092 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

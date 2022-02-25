@@ -1,0 +1,29 @@
+StartChar: ModSmCapL
+Encoding: 3833 7595 3817
+GlifName: M_odS_mC_apL_
+Width: 621
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 307 540 basechar 0
+AnchorPoint: "U" 296 1286 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+38 620 m 257
+ 570 620 l 257
+ 576 637 591 700 598 752 c 257
+ 564 761 l 257
+ 527 691 508 683 427 683 c 258
+ 363 683 l 258
+ 267 683 250 695 250 716 c 258
+ 250 1115 l 258
+ 250 1123 280 1134 339 1142 c 257
+ 339 1178 l 257
+ 38 1178 l 257
+ 38 1142 l 257
+ 101 1134 127 1122 127 1115 c 258
+ 127 683 l 258
+ 127 675 97 664 38 656 c 257
+ 38 620 l 257
+EndSplineSet
+EndChar

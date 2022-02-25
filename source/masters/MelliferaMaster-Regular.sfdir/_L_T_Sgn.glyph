@@ -1,0 +1,27 @@
+StartChar: LTSgn
+Encoding: 1251 60 1239
+GlifName: L_T_S_gn
+Width: 899
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+838 874 m 257
+ 813 899 l 257
+ 92 629 l 257
+ 80 602 68 557 61 530 c 257
+ 86 506 l 257
+ 809 774 l 257
+ 817 799 831 846 838 874 c 257
+  PathStart: -1
+838 322 m 257
+ 821 358 l 257
+ 92 629 l 257
+ 80 602 68 557 61 530 c 257
+ 86 506 l 257
+ 754 256 l 257
+ 795 281 809 295 838 322 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

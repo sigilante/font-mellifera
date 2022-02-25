@@ -1,0 +1,27 @@
+StartChar: ModYinDepartingTnMrk
+Encoding: 3927 746 3911
+GlifName: M_odY_inD_epartingT_nM_rk
+Width: 833
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+533 258 m 257
+ 508 285 l 257
+ 129 285 l 257
+ 115 258 108 246 100 219 c 257
+ 123 195 l 257
+ 506 195 l 257
+ 518 217 526 232 533 258 c 257
+  PathStart: -1
+190 228 m 257
+ 190 721 l 257
+ 163 745 l 257
+ 137 737 123 728 100 715 c 257
+ 100 219 l 257
+ 125 197 l 257
+ 151 205 163 212 190 228 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

@@ -1,0 +1,31 @@
+StartChar: ModSmTrndI
+Encoding: 3881 7502 3865
+GlifName: M_odS_mT_rndI_
+Width: 395
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 191 540 basechar 0
+AnchorPoint: "R" 457 1136 basechar 0
+AnchorPoint: "U" 191 1494 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+126 840 m 257
+ 157 840 l 257
+ 204 860 280 878 339 888 c 257
+ 339 922 l 257
+ 250 928 251 934 251 1024 c 258
+ 251 1344 l 258
+ 251 1354 276 1369 339 1380 c 257
+ 339 1416 l 257
+ 38 1416 l 257
+ 38 1380 l 257
+ 106 1369 126 1353 126 1344 c 258
+ 126 840 l 257
+185 595 m 256
+ 235 595 276 636 276 687 c 256
+ 276 729 254 755 207 755 c 256
+ 156 755 116 712 116 662 c 256
+ 116 620 140 595 185 595 c 256
+EndSplineSet
+EndChar

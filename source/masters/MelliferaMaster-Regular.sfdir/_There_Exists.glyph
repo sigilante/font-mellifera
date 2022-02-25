@@ -1,0 +1,24 @@
+StartChar: ThereExists
+Encoding: 4134 8707 4110
+GlifName: T_hereE_xists
+Width: 1150
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1000 1360 m 257
+ 150 1360 l 257
+ 150 1220 l 257
+ 840 1220 l 257
+ 840 750 l 257
+ 170 750 l 257
+ 170 610 l 257
+ 840 610 l 257
+ 840 140 l 257
+ 150 140 l 257
+ 150 0 l 257
+ 1000 0 l 257
+ 1000 1360 l 257
+EndSplineSet
+EndChar

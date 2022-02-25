@@ -1,0 +1,25 @@
+StartChar: LtnSmOpenSix
+Encoding: 3052 7933 3036
+GlifName: L_tnS_mO_penS_ix
+Width: 991
+VWidth: 0
+Flags: W
+AnchorPoint: "L" 450 -100 basechar 0
+AnchorPoint: "U" 450 1620 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+911 502 m 257
+ 911 721 796 954 531 960 c 257
+ 511 937 495 913 489 890 c 257
+ 664 856 761 618 761 408 c 256
+ 761 237 688 75 545 75 c 256
+ 377 75 240 342 240 677 c 256
+ 240 951 344 1334 707 1491 c 257
+ 704 1509 697 1536 688 1550 c 257
+ 216 1367 80 951 80 613 c 256
+ 80 235 242 -30 506 -30 c 256
+ 752 -30 911 267 911 502 c 257
+  PathStart: -1
+EndSplineSet
+EndChar

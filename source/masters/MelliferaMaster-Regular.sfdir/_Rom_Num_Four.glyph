@@ -1,0 +1,12 @@
+StartChar: RomNumFour
+Encoding: 3993 8547 3972
+GlifName: R_omN_umF_our
+Width: 1941
+VWidth: 0
+Flags: W
+AnchorPoint: "U" 979 1370 basechar 0
+LayerCount: 2
+Fore
+Refer: 1476 73 N 1 0 0 1 0 0 2
+Refer: 1768 86 N 1 0 0 1 610 0 2
+EndChar

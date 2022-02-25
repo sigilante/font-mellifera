@@ -1,0 +1,21 @@
+StartChar: .notdef
+Encoding: 11 -1 11
+GlifName: _notdef
+Width: 1400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 1800 m 257
+ 100 0 l 257
+ 1300 0 l 257
+ 1300 1800 l 257
+ 100 1800 l 257
+150 50 m 257
+ 150 1750 l 257
+ 1250 1750 l 257
+ 1250 50 l 257
+ 150 50 l 257
+EndSplineSet
+EndChar
