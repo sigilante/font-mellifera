@@ -5,7 +5,6 @@ FamilyName: Gentium Plus Master
 Weight: Regular
 Copyright: Copyright (c) 2003-2022 SIL International
 Version: 6.150
-StyleMapFamilyName: Gentium Plus
 ItalicAngle: 0
 UnderlinePosition: -250
 UnderlineWidth: 100
@@ -24,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1645818945
-ModificationTime: 1645828440
+ModificationTime: 1645836248
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
