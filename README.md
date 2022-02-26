@@ -2,6 +2,10 @@
 
 This Deseret alphabet font is derived from [Gentium Plus](https://github.com/silnrsi/font-gentium/), Victor Gaultney's excellent cosmopolitan typeface family.
 
+v0.1 (~2022.2.26)
+
+![image](https://user-images.githubusercontent.com/57601680/155855283-08b2bb7f-d982-4eb1-91c1-3a70d509f7db.png)
+
 ---
 
 For copyright and licensing information - including any Reserved Font Names - see [OFL.txt](OFL.txt).
