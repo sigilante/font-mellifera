@@ -230,7 +230,13 @@ The original Deseret alphabet specification from 1855 included two ligatures:
 
 By 1859, these were replaced with two variant forms.  ([Discussion](https://en.wikipedia.org/wiki/Deseret_alphabet#Encodings))
 
+v0.0 (~2021.12.26):
+
 ![](https://user-images.githubusercontent.com/57601680/147884127-f2036533-cbc2-4561-a467-8f0e3d84b48d.png)
+
+v.0.1 (~2022.2.26):
+
+
 
 ---
 
