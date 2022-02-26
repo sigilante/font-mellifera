@@ -136,7 +136,7 @@ _The following entries are given as DESERET Sound (majuscule source/miniscule so
 
 Deseret clearly conceives of a vertical line as sufficient to distinguish one letter from another, e.g. 𐐂 Long A/𐐒 Bee.  This leaves us with some visually heavy majuscules (in particular 𐐒 Bee) but leaves pleasant room to work with ascenders and descenders in the miniscules.
 
-- 𐐀 Long I (from U+03d1 Greek Theta Symbol/from ASCII o plus U+0255 Latin Small Letter C with Curl)
+- 𐐀 Long I (from U+03d1 Greek Theta Symbol/from U+029a Latin Small Letter Closed Open E plus U+044d Cyrillic Small Letter E)
 - 𐐞 Zee (from U+03d1 Greek Theta Symbol/from U+0255 Latin Small Letter C with Curl)
 - 𐐁 Long E (from U+0190 Latin Capital Letter Open E/from U+025b Latin Small Letter Open E)
 - 𐐚 Vee (from U+a7ab Latin Capital Letter Reversed Open E/from U+025c Latin Small Letter Reversed Open E)
@@ -159,20 +159,20 @@ These are primarily architected around the letter O structurally.
 Although e.g. 𐐈 Short A is always vertical at the right-hand side in previous fonts, in handwriting it assumes a form much like a checkmark, motivating the tilted version here (and making for a less cluttered 𐐉 Short Ah).
 
 - 𐐆 Short I (from ASCII I/from ASCII I)
-- 𐐇 Short E (from ASCII C plus ASCII I/from ASCII l plus U+a7ab Latin Capital Letter Reversed Open E) (minuscule may be too dense)
+- 𐐇 Short E (from U+042d Cyrillic Capital Letter E plus ASCII I/from ASCII l plus U+2202 Partial Differential)
 - 𐐈 Short A (from ASCII v plus ASCII V/from U+2c71 Latin Small Letter V with Right Hook)
 - 𐐉 Short Ah (from ASCII w plus ASCII W/from U+2c73 Latin Small Letter W with Hook)
-- 𐐊 Short O (from ASCII C plus ASCII I/ditto) (what's a better way to differentiate these?)
+- 𐐊 Short O (from ASCII I plus U+042d Cyrillic Capital Letter E/from ASCII i plus U+025b Latin Small Letter Open E)
 - 𐐑 Pee (from U+0413 Cyrillic Capital Letter Ghe/from U+1d26 Greek Letter Small Capital Gamma)
-- 𐐛 Eth (from ASCII L/from U+???? Latin Small L SC)
+- 𐐛 Eth (from U+00a3 Pound Sign/from U+???? Latin Small L SC)
 
 Miniscules with a vertical component (such as 𐐆 Short I) use a small-capital block letter I as their basis, but could also use a dotless i.
 
 #### Series IV:
 
-- 𐐋 Short Oo (from ASCII 9 plus ASCII I/from ASCII q plus U+03c1 Greek Small Letter Rho)
+- 𐐋 Short Oo (from ASCII 9 plus ASCII I/from ASCII q)
 - 𐐓 Tee (from U+042d Cyrillic Capital Letter E plus ASCII I/from U+027f Latin Small Letter Reverse R with Fishhook)
-- 𐐙 Ef (from ASCII P plus U+03c1 Greek Small Letter Rho/from U+03c1 Greek Small Letter Rho)
+- 𐐙 Ef (from ASCII P plus U+03c1 Greek Small Letter Rho/from ASCII q plus U+03c1 Greek Small Letter Rho)
 - 𐐢 El (from ASCII I plus ASCII C/from ASCII l plus ASCII c)
 
 The obvious thing for these is to base them on modifications of phi and psi.  I added ascenders on the majuscules.
