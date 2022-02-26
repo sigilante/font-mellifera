@@ -134,21 +134,21 @@ _The following entries are given as DESERET Sound (majuscule source/miniscule so
 
 #### Series I:
 
-Deseret clearly conceives of a vertical line as sufficient to distinguish one letter from another, e.g. 𐐂 Long A/𐐒 Bee.  This leaves us with some visually heavy majuscules (in particular 𐐒 Bee) but leaves pleasant room to work with ascenders and descenders in the miniscules.
+Deseret clearly conceives of a vertical line as sufficient to distinguish one letter from another, e.g. 𐐂 Long A/𐐒 Bee.  This leaves us pleasant room to work with ascenders and descenders in the miniscules.
 
 - 𐐀 Long I (from U+03d1 Greek Theta Symbol/from U+029a Latin Small Letter Closed Open E plus U+044d Cyrillic Small Letter E)
-- 𐐞 Zee (from U+03d1 Greek Theta Symbol/from U+0255 Latin Small Letter C with Curl)
+- 𐐞 Zee (from U+0431 Cyrillic Small Letter Be plus U+0190 Latin Capital Letter Open E/from U+0255 Latin Small Letter C with Curl)
 - 𐐁 Long E (from U+0190 Latin Capital Letter Open E/from U+025b Latin Small Letter Open E)
 - 𐐚 Vee (from U+a7ab Latin Capital Letter Reversed Open E/from U+025c Latin Small Letter Reversed Open E)
 - 𐐂 Long A (from U+0190 Latin Capital Letter Open E/from U+029a Latin Small Letter Closed Open E)
 - 𐐍 Ow (ditto plus U+1db9 Modifier Letter Small V with Hook)
 - 𐐒 Bee (from U+0190 Latin Capital Letter Open E plus U+042f Cyrillic Capital Letter Ya/from U+029a Latin Small Letter Closed Open E plus ASCII l)
 - 𐐔 Dee (from ASCII C plus U+042f Cyrillic Capital Letter Ya plus U+1db9 Modifier Letter Small V with Hook/from U+???? Latin Small A Single Story)
-- 𐐟 Esh (from ASCII D/from ASCII l plus U+???? Latin Small D SC)
+- 𐐟 Esh (from ASCII I plus U+042d Cyrillic Capital Letter E/from ASCII l plus U+???? Latin Small D SC)
 
 #### Series II:
 
-These are primarily architected around the letter O structurally.
+These are primarily architected around the structure of the letter 𐐄.
 
 - 𐐄 Long O (from ASCII O/from ASCII o)
 - 𐐃 Long Ah (ditto plus U+1db9 Modifier Letter Small V with Hook)
@@ -170,16 +170,16 @@ Miniscules with a vertical component (such as 𐐆 Short I) use a small-capital 
 
 #### Series IV:
 
-- 𐐋 Short Oo (from ASCII 9 plus ASCII I/from ASCII q)
+- 𐐋 Short Oo (from ASCII I plus U+a76e Latin Capital Letter Con/from ASCII q)
 - 𐐓 Tee (from U+042d Cyrillic Capital Letter E plus ASCII I/from U+027f Latin Small Letter Reverse R with Fishhook)
 - 𐐙 Ef (from ASCII P plus U+03c1 Greek Small Letter Rho/from ASCII q plus U+03c1 Greek Small Letter Rho)
-- 𐐢 El (from ASCII I plus ASCII C/from ASCII l plus ASCII c)
+- 𐐢 El (from ASCII I plus ASCII C/from U+026d Latin Small Letter L With Retroflex Hook)
 
 The obvious thing for these is to base them on modifications of phi and psi.  I added ascenders on the majuscules.
 
-- 𐐌 Ay (from I plus phi/from phi)
-- 𐐐 H (from I plus Psi/from phi)
-- 𐐡 Er (from I plus Psi/from phi)
+- 𐐌 Ay (from U+a7b2 Latin Capital Letter J With Crossed Tail/from U+???? Latin Small Letter Dotless J With Crossed Tail)
+- 𐐐 H (from ASCII I plus U+03c6 Greek Small Letter Phi/from U+03c6 Greek Small Letter Phi)
+- 𐐡 Er (from ASCII I plus U+0cad Latin Small Letter T With Curl/from ASCII l plus U+026c Latin Small Letter L With Belt)
 
 #### Series V:
 
@@ -191,7 +191,7 @@ The obvious thing for these is to base them on modifications of phi and psi.  I 
 
 These are perhaps the most whimsical letterforms and present the most challenge aside from the 𐐌 Ay/𐐐 H/𐐡 Er and 𐐝 Es.  I was conservative on 𐐏 Yee and 𐐜 Thee (particularly as this latter is very commonly used as a standalone "the" in English) but opted for a whimsical connected descender on the miniscule 𐐖 Jee.
 
-- 𐐏 Yee (from ASCII V plus U+a76c Latin Capital Letter Is/from ASCII v plus U+a76c Latin Capital Letter Is)
+- 𐐏 Yee (from ASCII V plus U+03d1 Greek Theta Symbol/from U+03b3 Greek Small Letter Gamma plus U+0255 Latin Small Letter T With Curl)
 - 𐐜 Thee (from U+0194 Latin Capital Letter Gamma/from U+0263 Latin Small Letter Gamma) (alt. from U+f26e Latin Capital Ram's Horns)
 - 𐐖 Jee (from ASCII c plus Xi/from ASCII c plus ASCII y)
 
@@ -205,14 +205,12 @@ These are perhaps the most whimsical letterforms and present the most challenge 
 - 𐐝 Es (from U+0286 Latin Small Letter Esh Plus Curl plus U+1d9d Modifer Letter Small C with Curl/ASCII S/from U+???? Latin Small Ou SC)
 - 𐐠 Zhee (from ASCII S/from ASCII s)
 
-𐐝 Es in particular is an uncharacteristically ornate character, which I embraced in the majuscule and subdued in the minuscule.
+𐐝 Es in particular is an uncharacteristically ornate character.  In this version, I opted for tall forms of the minuscule to avoid clutter.
 
 #### Series IX:
 
-- 𐐤 En (from ASCII N/from U+a747 Latin Small Broken L)
-- 𐐥 Eng (from ASCII N/from U+???? Latin Small N SC)
-
-While miniscule 𐐤 En and 𐐥 Eng are distinguishable by a difference in ascender and rightward serif, the majuscules are likely too similar in the current proposal, and I welcome suggestions.
+- 𐐤 En (from U+a746 Latin Capital Letter Broken L plus ASCII I/from U+a747 Latin Small Broken L)
+- 𐐥 Eng (from U+0418 Cyrillic Capital Letter I/from U+020c Cyrillic Small Letter I)
 
 
 ### Miniscules
