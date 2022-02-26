@@ -4,6 +4,8 @@ GlifName: L_tnS_mL_F_ishhook
 Width: 746
 VWidth: 0
 Flags: W
+HStem: -1 44<60 155.077 414.639 510> 820 140<407.609 645.868> 1430 40<70 158.959>
+VStem: 210 150<69.0107 104 1296 1411.61> 619 43<676 731.709>
 AnchorPoint: "H" 285 0 basechar 0
 AnchorPoint: "L" 285 -100 basechar 0
 AnchorPoint: "U" 285 1690 basechar 0
@@ -20,4 +22,5 @@ SplineSet
  330 526 l 257
 EndSplineSet
 Refer: 2767 108 N 1 0 0 1 0 0 2
+Validated: 37
 EndChar

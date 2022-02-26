@@ -3,11 +3,12 @@ Encoding: 3801 727 3785
 GlifName: M_odM_inusS_gn
 Width: 690
 VWidth: 0
-Flags: HW
+Flags: W
 AnchorPoint: "U" 345 1050 basechar 0
 LayerCount: 2
 Fore
 Refer: 1225 45 N 1 0 0 1 0 0 2
+Validated: 1
 PickledDataWithLists: "(dp0
 Vpublic.markColor
 p1

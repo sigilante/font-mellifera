@@ -2,7 +2,9 @@ StartChar: DesCapLongI
 Encoding: 4322 66560 4277
 Width: 1042
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -30 125<366.276 687.537> 630 75<453.891 631> 1180 110<297.746 631.046>
+VStem: 80 160<211.93 448.034> 853 155<329.249 858.496>
 AnchorPoint: "L" 521 -100 basechar 0
 AnchorPoint: "U" 521 1370 basechar 0
 LayerCount: 2
@@ -26,4 +28,5 @@ SplineSet
  405.904414331 669.423203185 316 634 315.6171875 634.3828125 c 0
 467 683 m 1048
 EndSplineSet
+Validated: 524329
 EndChar

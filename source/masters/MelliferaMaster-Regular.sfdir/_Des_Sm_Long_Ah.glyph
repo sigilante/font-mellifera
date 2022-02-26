@@ -2,7 +2,9 @@ StartChar: DesSmLongAh
 Encoding: 4365 66603 4309
 Width: 1030
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -30 110<412.561 670.028> 365 82<587.92 783.687> 883 77<582 707> 883 34<691 707>
+VStem: 80 155<288.187 651.295> 408 118<534.732 816.408> 815 135<483 736>
 AnchorPoint: "U" 535 1050 basechar 0
 AnchorPoint: "R" 1044 900 basechar 0
 AnchorPoint: "O" 575 0 basechar 0
@@ -11,13 +13,13 @@ AnchorPoint: "H" 535 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-707 883 m 1280
+707 883 m 1280xee
 815 736 m 0
  815 588 l 258
  815 483 754 447 695 447 c 256
  572 447 526 555 526 654 c 256
- 526 787 582 882 707 883 c 257
- 721 917 l 257
+ 526 787 582 882 707 883 c 257xee
+ 721 917 l 257xde
  691 929 597 951 565 959 c 257
  485 936 408 845 408 685 c 256
  408 518 565 365 728 365 c 256
@@ -35,4 +37,5 @@ SplineSet
  235 686 303 850 506 850 c 256
  643 850 795 666 795 455 c 256
 EndSplineSet
+Validated: 524293
 EndChar

@@ -29,5 +29,6 @@ SplineSet
  359 371 460 635 571 935 c 257
   PathStart: -1
 EndSplineSet
+Validated: 5
 Kerns2: 773 -31 "'kern' Horizontal Kerning lookup 0 subtable" 986 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1035 -20 "'kern' Horizontal Kerning lookup 0 subtable" 1043 -100 "'kern' Horizontal Kerning lookup 0 subtable" 1044 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1088 -111 "'kern' Horizontal Kerning lookup 0 subtable" 1114 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1117 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1118 -111 "'kern' Horizontal Kerning lookup 0 subtable" 1162 -20 "'kern' Horizontal Kerning lookup 0 subtable" 1163 -80 "'kern' Horizontal Kerning lookup 0 subtable" 1164 -20 "'kern' Horizontal Kerning lookup 0 subtable" 1171 -20 "'kern' Horizontal Kerning lookup 0 subtable" 1173 -80 "'kern' Horizontal Kerning lookup 0 subtable" 1174 -31 "'kern' Horizontal Kerning lookup 0 subtable" 1208 -31 "'kern' Horizontal Kerning lookup 0 subtable" 4003 -240 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar

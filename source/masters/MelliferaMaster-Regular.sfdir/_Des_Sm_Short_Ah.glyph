@@ -2,7 +2,8 @@ StartChar: DesSmShortAh
 Encoding: 4371 66609 4314
 Width: 1595
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 887 43<20 85.945 302.371 406> 1261 155<1455.1 1656.48>
 AnchorPoint: "U" 748 1050 basechar 0
 AnchorPoint: "L" 728 -100 basechar 0
 LayerCount: 2
@@ -36,4 +37,5 @@ SplineSet
  391 -30 l 261
  426 -22 503 -2 524 59 c 262
 EndSplineSet
+Validated: 524325
 EndChar

@@ -2,7 +2,9 @@ StartChar: DesSmWu
 Encoding: 4376 66614 4316
 Width: 1435
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -30 120<369.704 575.596 862.356 1082.21>
+VStem: 90 160<239.063 652.96> 663 123<209.6 607.071> 1185 160<237.089 683.952>
 AnchorPoint: "U" 748 1050 basechar 0
 AnchorPoint: "L" 718 -100 basechar 0
 LayerCount: 2
@@ -28,4 +30,5 @@ SplineSet
  751 84 829 -30 979 -30 c 256
  1144 -30 1345 159 1345 469 c 256
 EndSplineSet
+Validated: 41
 EndChar

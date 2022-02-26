@@ -10,4 +10,6 @@ AnchorPoint: "O" 60 0 basechar 0
 AnchorPoint: "R" 100 900 basechar 0
 AnchorPoint: "U" 50 1435 basechar 0
 LayerCount: 2
+Fore
+Validated: 1
 EndChar

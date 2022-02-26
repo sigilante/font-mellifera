@@ -2,7 +2,9 @@ StartChar: DesCapThee
 Encoding: 4350 66588 4299
 Width: 1230
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -30 107<543.962 684.128> 1217 43<20 97.3289 330.638 411 855 935.113 1115.99 1193>
+VStem: 408 120<88.9517 319.073> 694 138<85.0075 299.263>
 AnchorPoint: "U" 628 1370 basechar 0
 AnchorPoint: "L" 606 -100 basechar 0
 LayerCount: 2
@@ -32,4 +34,5 @@ SplineSet
  1048 1113 l 258
  1098 1195 1106 1202 1193 1217 c 257
 EndSplineSet
+Validated: 37
 EndChar

@@ -2,7 +2,9 @@ StartChar: DesCapLongOo
 Encoding: 4327 66565 4282
 Width: 1229
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 50 43<380 830> 1167 43<380 830>
+VStem: 72 155<395.595 872.598> 525 160<121.485 154 1105 1138.01> 985 155<399.762 881.468>
 AnchorPoint: "U" 617 1370 basechar 0
 AnchorPoint: "R" 1258 1100 basechar 0
 AnchorPoint: "O" 678 0 basechar 0
@@ -35,4 +37,5 @@ SplineSet
  833 1175 985 905 985 629 c 260
  985 276 827 90 606 90 c 260
 EndSplineSet
+Validated: 5
 EndChar

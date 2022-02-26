@@ -11,7 +11,8 @@ AnchorPoint: "R" 1023 900 basechar 0
 AnchorPoint: "U" 544 1050 basechar 0
 LayerCount: 2
 Fore
-Refer: 2174 593 N 1 0 0 1 0 0 2
+Refer: 2174 593 S 1 0 0 1 0 0 2
+Validated: 5
 PickledDataWithLists: "(dp0
 Vpublic.markColor
 p1

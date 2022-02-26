@@ -2,7 +2,9 @@ StartChar: DesSmTee
 Encoding: 4381 66619 4319
 Width: 680
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -480 43<271 376.099 649.816 730> 840 120<222.824 404.715>
+VStem: 440 150<-409.122 -376 666 806.435>
 AnchorPoint: "U" 364 1050 basechar 0
 AnchorPoint: "L" 500 -600 basechar 0
 LayerCount: 2
@@ -23,4 +25,5 @@ SplineSet
  590 945 450 960 378 960 c 260
  285 960 149 904 65 803 c 261
 EndSplineSet
+Validated: 41
 EndChar

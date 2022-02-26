@@ -26,5 +26,6 @@ SplineSet
  220 658 290 795 442 795 c 256
  500 795 709 789 806 789 c 256
 EndSplineSet
+Validated: 5
 Kerns2: 1088 41 "'kern' Horizontal Kerning lookup 0 subtable" 1118 41 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar

@@ -40,5 +40,6 @@ SplineSet
  275 272 273 337 273 459 c 257
   PathStart: -1
 EndSplineSet
+Validated: 37
 Kerns2: 1043 -41 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar

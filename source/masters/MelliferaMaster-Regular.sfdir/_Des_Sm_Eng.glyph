@@ -2,7 +2,9 @@ StartChar: DesSmEng
 Encoding: 4399 66637 4330
 Width: 1249
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 43<710 791.069 1058.66 1140> 923 43<55 136.335 403.931 485 710 772.797 1080.16 1140>
+VStem: 850 150<70.478 104 826 880.046>
 AnchorPoint: "U" 597 1050 basechar 0
 AnchorPoint: "L" 597 -100 basechar 0
 AnchorPoint: "H" 257 7 basechar 0
@@ -40,4 +42,5 @@ SplineSet
  710 0 l 257
 1193 966 m 1281
 EndSplineSet
+Validated: 37
 EndChar

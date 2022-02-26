@@ -4,8 +4,11 @@ GlifName: S_mR_omN_umF_ifty
 Width: 555
 VWidth: 0
 Flags: W
+HStem: -1 44<60 155.077 414.639 510> 1430 40<70 158.959>
+VStem: 210 150<69.0107 104 1296 1411.61>
 AnchorPoint: "U" 285 1620 basechar 0
 LayerCount: 2
 Fore
 Refer: 2767 108 N 1 0 0 1 0 0 2
+Validated: 9
 EndChar

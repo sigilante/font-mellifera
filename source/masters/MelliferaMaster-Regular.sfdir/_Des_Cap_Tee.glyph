@@ -2,7 +2,9 @@ StartChar: DesCapTee
 Encoding: 4341 66579 4291
 Width: 1277
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 43<706 788.534 1073.74 1156> 1191 99<295.876 632.129>
+VStem: 114 43<941 1008.95> 851 160<71.4855 104 642 930.645>
 AnchorPoint: "U" 533 1370 basechar 0
 AnchorPoint: "H" 931 0 basechar 0
 AnchorPoint: "L" 931 -100 basechar 0
@@ -26,4 +28,5 @@ SplineSet
  1060 61 1010.97070312 88.001953125 1011 104 c 258
  1012 642 l 258
 EndSplineSet
+Validated: 524329
 EndChar

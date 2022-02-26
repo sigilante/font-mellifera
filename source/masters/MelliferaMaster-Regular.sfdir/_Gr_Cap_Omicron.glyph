@@ -21,5 +21,6 @@ SplineSet
  831 1175 983 905 983 629 c 257
   PathStart: -1
 EndSplineSet
+Validated: 9
 Kerns2: 814 -59 "'kern' Horizontal Kerning lookup 0 subtable" 884 -49 "'kern' Horizontal Kerning lookup 0 subtable" 937 -20 "'kern' Horizontal Kerning lookup 0 subtable" 944 -49 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar

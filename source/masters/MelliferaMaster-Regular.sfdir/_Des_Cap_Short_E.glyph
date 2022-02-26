@@ -2,7 +2,9 @@ StartChar: DesCapShortE
 Encoding: 4329 66567 4284
 Width: 1084
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 43<544 626.542 911.742 994> 231 99<269.876 598.681> 1217 43<544 623.248 914.407 994>
+VStem: 88 43<-19 48.9537> 689 160<71.4848 104 1155 1188.01>
 AnchorPoint: "U" 769 1370 basechar 0
 AnchorPoint: "R" 1054 1100 basechar 0
 AnchorPoint: "O" 819 0 basechar 0
@@ -34,4 +36,5 @@ SplineSet
  689 86 634 61 544 43 c 257
  544 0 l 257
 EndSplineSet
+Validated: 524325
 EndChar

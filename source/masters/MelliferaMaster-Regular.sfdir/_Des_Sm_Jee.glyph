@@ -2,7 +2,9 @@ StartChar: DesSmJee
 Encoding: 4384 66622 4334
 Width: 895
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -30 130<393.684 651.38> 850 110<385.165 658.07>
+VStem: 80 150<278.924 656.748>
 AnchorPoint: "L" 490 -100 basechar 0
 AnchorPoint: "R" 948 900 basechar 0
 AnchorPoint: "U" 490 1050 basechar 0
@@ -31,4 +33,5 @@ SplineSet
  80 147 270 -30 465 -30 c 256
  590 -30 666 -14 840 190 c 257
 EndSplineSet
+Validated: 524325
 EndChar

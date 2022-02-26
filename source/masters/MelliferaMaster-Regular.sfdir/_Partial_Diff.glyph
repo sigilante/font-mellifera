@@ -3,7 +3,9 @@ Encoding: 3960 8706 3940
 GlifName: P_artialD_iff
 Width: 1024
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -30 110<400.472 624.16> 850 111<353.094 612.949> 1323 124<265.785 582.474>
+VStem: 80 153<284.045 651.382> 785 159<370.25 678.053 789 1053.06>
 LayerCount: 2
 Fore
 SplineSet
@@ -25,4 +27,5 @@ SplineSet
  233 686 317 850 475 850 c 256
  591 850 742 735 785 586 c 257
 EndSplineSet
+Validated: 9
 EndChar

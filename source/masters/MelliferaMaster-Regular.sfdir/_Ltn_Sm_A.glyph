@@ -39,5 +39,6 @@ SplineSet
  244 291 268 336 302 372 c 256
  346 418 402 451 633 488 c 257
 EndSplineSet
+Validated: 37
 Kerns2: 3409 -31 "'kern' Horizontal Kerning lookup 0 subtable" 3441 -31 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar

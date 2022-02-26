@@ -2,7 +2,9 @@ StartChar: DesSmKay
 Encoding: 4385 66623 4321
 Width: 1315
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -31 121<324.276 519.301 795.172 1000.28> 870 90<470.55 848.07>
+VStem: 80 160<189.13 613.631> 601 123<209.774 577.327> 1073 160<201.123 635.391>
 AnchorPoint: "U" 668 1050 basechar 0
 AnchorPoint: "R" 1336 900 basechar 0
 AnchorPoint: "L" 655 -100 basechar 0
@@ -28,4 +30,5 @@ SplineSet
  1233 763 989 959 659 960 c 260
  289 961 80 679 80 393 c 260
 EndSplineSet
+Validated: 41
 EndChar

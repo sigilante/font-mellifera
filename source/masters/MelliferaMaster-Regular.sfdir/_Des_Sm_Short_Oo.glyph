@@ -2,7 +2,9 @@ StartChar: DesSmShortOo
 Encoding: 4373 66611 4338
 Width: 1055
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -480 43<575 676.969 953.599 1034> -30 130<379.67 576.939> 850 110<386.835 672.616>
+VStem: 80 150<275.03 640.339> 745 150<-408.013 717>
 AnchorPoint: "U" 557 1050 basechar 0
 AnchorPoint: "R" 1080 900 basechar 0
 AnchorPoint: "L" 407 -100 basechar 0
@@ -31,4 +33,5 @@ SplineSet
  592 100 688 207 782 297 c 257
  799 289 813 270 819 260 c 257
 EndSplineSet
+Validated: 524293
 EndChar

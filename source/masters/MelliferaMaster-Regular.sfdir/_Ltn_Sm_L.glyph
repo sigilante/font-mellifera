@@ -3,7 +3,9 @@ Encoding: 2783 108 2767
 GlifName: L_tnS_mL_
 Width: 555
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -1 44<60 155.077 414.639 510> 1430 40<70 158.959>
+VStem: 210 150<69.0107 104 1296 1411.61>
 AnchorPoint: "H" 285 0 basechar 0
 AnchorPoint: "L" 285 -100 basechar 0
 AnchorPoint: "R" 535 900 basechar 0
@@ -24,4 +26,5 @@ SplineSet
  210 82 175 63 60 43 c 261
  60 -1 l 261
 EndSplineSet
+Validated: 9
 EndChar

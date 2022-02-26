@@ -33,5 +33,6 @@ SplineSet
  1130 1174 1185 1198 1275 1217 c 257
   PathStart: -1
 EndSplineSet
+Validated: 9
 Kerns2: 1290 -100 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar

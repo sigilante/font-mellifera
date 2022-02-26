@@ -2,7 +2,8 @@ StartChar: DesCapEn
 Encoding: 4358 66596 4302
 Width: 784
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 43<263 342.593 630.742 713> 1217 43<50 129.248 420.407 500>
 AnchorPoint: "O" 538 0 basechar 0
 AnchorPoint: "H" 488 0 basechar 0
 AnchorPoint: "U" 593 1370 basechar 0
@@ -28,4 +29,5 @@ SplineSet
  713 43 l 257
  617 61 568 89 568 105 c 258
 EndSplineSet
+Validated: 9
 EndChar
