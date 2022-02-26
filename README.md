@@ -230,17 +230,9 @@ The original Deseret alphabet specification from 1855 included two ligatures:
 
 By 1859, these were replaced with two variant forms.  ([Discussion](https://en.wikipedia.org/wiki/Deseret_alphabet#Encodings))
 
-I have currently included the 1859 variants at the Unicode code points for each ligature.  The options include:
-
-1. Revert to 1855 ligatures throughout.  (The Unicode solution)
-2. Retain the 1859 ligatures and deviate in keeping with most Deseret practice.  (My current solution)
-3. Adopt 1855 letterforms but keep 1859 ligatures as variant glyphs in a private-use area.  (Seems the most Gentium solution)
-
 ![](https://user-images.githubusercontent.com/57601680/147884127-f2036533-cbc2-4561-a467-8f0e3d84b48d.png)
 
 ---
-
-I want the letterforms to look great first, then I'll fix kerning and maybe add a few `fi`-style ligatures.  Once all design questions for the regular typeface have been resolved satisfactorily, I intend to work on the italic and bold variants in the same vein.
 
 - [Deseret Alphabet page](http://deseretalphabet.org/)
 - [_Deseret Alphabet Classics_](http://www.deseretalphabet.info/classics/)
