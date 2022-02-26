@@ -202,7 +202,7 @@ These are perhaps the most whimsical letterforms and present the most challenge 
 
 #### Series VIII:
 
-- 𐐝 Es (from U+0222 Latin Capital Letter Ou plus ASCII C/ASCII S/from U+???? Latin Small Ou SC)
+- 𐐝 Es (from U+0286 Latin Small Letter Esh Plus Curl plus U+1d9d Modifer Letter Small C with Curl/ASCII S/from U+???? Latin Small Ou SC)
 - 𐐠 Zhee (from ASCII S/from ASCII s)
 
 𐐝 Es in particular is an uncharacteristically ornate character, which I embraced in the majuscule and subdued in the minuscule.
