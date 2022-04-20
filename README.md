@@ -2,7 +2,7 @@
 
 This Deseret alphabet font is derived from [Gentium Plus](https://github.com/silnrsi/font-gentium/), Victor Gaultney's excellent cosmopolitan typeface family.
 
-v0.1 (~2022.2.26)
+v0.1 (~2022.2.26) ([OTF file](./MelliferaDeseretMaster.otf))
 
 ![image](https://user-images.githubusercontent.com/57601680/155855283-08b2bb7f-d982-4eb1-91c1-3a70d509f7db.png)
 
@@ -230,17 +230,15 @@ The original Deseret alphabet specification from 1855 included two ligatures:
 
 By 1859, these were replaced with two variant forms.  ([Discussion](https://en.wikipedia.org/wiki/Deseret_alphabet#Encodings))
 
-I have currently included the 1859 variants at the Unicode code points for each ligature.  The options include:
-
-1. Revert to 1855 ligatures throughout.  (The Unicode solution)
-2. Retain the 1859 ligatures and deviate in keeping with most Deseret practice.  (My current solution)
-3. Adopt 1855 letterforms but keep 1859 ligatures as variant glyphs in a private-use area.  (Seems the most Gentium solution)
+v0.0 (~2021.12.26):
 
 ![](https://user-images.githubusercontent.com/57601680/147884127-f2036533-cbc2-4561-a467-8f0e3d84b48d.png)
 
----
+v.0.1 (~2022.2.26):
 
-I want the letterforms to look great first, then I'll fix kerning and maybe add a few `fi`-style ligatures.  Once all design questions for the regular typeface have been resolved satisfactorily, I intend to work on the italic and bold variants in the same vein.
+![image](https://user-images.githubusercontent.com/57601680/155855632-2585f9e4-6860-475e-bb31-2f4e36865fd6.png)
+
+---
 
 - [Deseret Alphabet page](http://deseretalphabet.org/)
 - [_Deseret Alphabet Classics_](http://www.deseretalphabet.info/classics/)
