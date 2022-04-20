@@ -1,12 +1,12 @@
 StartChar: DesCapEf
 Encoding: 4347 66585 4296
-Width: 1071
+Width: 1135
 VWidth: 0
 Flags: W
 HStem: 0 43<50 132.542 427.819 530> 535 75<503.068 769.116> 1195 95<456.085 770.564>
 VStem: 195 160<73.5 104 737.122 999.715> 917 155<754.132 1062.06>
 AnchorPoint: "U" 601 1370 basechar 0
-AnchorPoint: "L" 511 -100 basechar 0
+AnchorPoint: "L" 279 -100 basechar 0
 LayerCount: 2
 Fore
 SplineSet

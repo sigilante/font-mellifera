@@ -6,9 +6,7 @@ Flags: W
 HStem: 0 88<338.972 777.121> 0 49<44 146.339> 917 49<44 144.375 373.875 472>
 VStem: 178 160<98.5752 141 873 895.689> 832 50<178.777 212.168>
 AnchorPoint: "U" 439 1070 basechar 0
-AnchorPoint: "R" 705 754 basechar 0
 AnchorPoint: "L" 467 -76 basechar 0
-AnchorPoint: "H" 467 7 basechar 0
 LayerCount: 2
 Fore
 SplineSet

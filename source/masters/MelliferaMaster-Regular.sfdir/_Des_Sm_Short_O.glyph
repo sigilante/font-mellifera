@@ -4,9 +4,8 @@ Width: 1004
 VWidth: 0
 Flags: W
 HStem: 0 43<70 151.069 418.665 500> 666 125<435.277 741.014> 840 40<70 152.9>
-VStem: 210 150<70.478 104 670 710.898 767 914.07>
+VStem: 210 150<70.478 104 670 710.898 767 910>
 AnchorPoint: "U" 285 1050 basechar 0
-AnchorPoint: "R" 1004 900 basechar 0
 AnchorPoint: "L" 285 -100 basechar 0
 LayerCount: 2
 Fore

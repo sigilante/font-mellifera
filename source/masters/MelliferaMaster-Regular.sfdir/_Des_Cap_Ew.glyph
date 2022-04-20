@@ -8,7 +8,6 @@ VStem: 72 155<395.595 872.598> 525 160<121.485 154 1105 1138.01> 985 155<399.762
 AnchorPoint: "H" 587 0 basechar 0
 AnchorPoint: "L" 617 -100 basechar 0
 AnchorPoint: "O" 678 0 basechar 0
-AnchorPoint: "R" 1258 1100 basechar 0
 AnchorPoint: "U" 617 1370 basechar 0
 LayerCount: 2
 Fore

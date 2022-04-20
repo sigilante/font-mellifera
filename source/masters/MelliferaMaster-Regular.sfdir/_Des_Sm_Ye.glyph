@@ -2,7 +2,7 @@ StartChar: DesSmYe
 Encoding: 4377 66615 4356
 Width: 1352
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 710.5 111<216.749 386.395>
 VStem: 57.5 130<407.985 650.938> 532 197<-457.322 -174.793> 899 205<840.524 925.969> 1177.5 110<406.147 643.57>
 AnchorPoint: "U" 674 1050 basechar 0
@@ -39,4 +39,5 @@ SplineSet
  879 598 748 343 621 33 c 257
  640 -10 701 -95 701 -95 c 257
 EndSplineSet
+Validated: 37
 EndChar

@@ -7,7 +7,6 @@ HStem: -30 120<479.072 762.449> 1180 110<459.036 783.059>
 VStem: 70 155<381.519 858.496>
 AnchorPoint: "U" 614 1370 basechar 0
 AnchorPoint: "L" 614 -100 basechar 0
-AnchorPoint: "H" 584 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
